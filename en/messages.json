@@ -82,10 +82,10 @@
         "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias."
     },
     "popupOnboardingPanel2Headline": {
-        "message": "Don't see the icon?"
+        "message": "Don’t see the icon?"
     },
     "popupOnboardingPanel2Body": {
-        "message": "Right-click (Windows) or Control-click (macOS) on form fields to access the context menu and generate an alias from there."
+        "message": "Right-click on form fields to access the context menu and generate an alias from there."
     },
     "popupOnboardingPanel3Headline": {
         "message": "Getting too many emails?"
@@ -118,7 +118,7 @@
         }
     },
     "pageFillRelayAddressLimit": {
-        "message": "You've reached the alias limit."
+        "message": "You’ve reached the alias limit."
     },
     "close": {
         "message": "Close"
