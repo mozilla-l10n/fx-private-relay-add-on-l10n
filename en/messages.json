@@ -1,0 +1,138 @@
+{
+    "extensionDescription": {
+        "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox. Use it to protect your online accounts from hackers and unwanted messages.",
+        "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "firstRunP": {
+        "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
+        "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "firstRunCollectDataLabel": {
+        "message": "Allow Mozilla to collect information about how you use this extension.",
+        "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+    },
+    "disableDataCollection": {
+        "message": "Disable data collection",
+        "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+    },
+    "firstRunPrefP": {
+        "message": "Collecting interaction data when you do things like click the Relay icon in your toolbar or create a new alias helps us learn what is working well and where we can improve. You can always turn this off in the Settings panel.",
+        "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+    },
+    "firstRunSignInButton": {
+        "message": "Sign Up / In"
+    },
+    "popupSettingsTitle": {
+        "message": "Settings"
+    },
+    "popupSettingsReturn": {
+        "message": "Return to main panel"
+    },
+    "popupSettingsShowIcon": {
+        "message": "Show Relay icon in email fields on websites",
+        "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupSettingsCollectData": {
+        "message": "Allow Mozilla to collect interaction data",
+        "description": "The label on the toggle that ENABLES sending interaction data to Mozilla."
+    },
+    "popupSettingsLeaveFeedback": {
+        "message": "Leave Feedback"
+    },
+    "popupSettingsPrivacy": {
+        "message": "Privacy"
+    },
+    "popupSettingsTermsOfService": {
+        "message": "Terms of Service"
+    },
+    "popupSignUpPanelWelcome": {
+        "message": "Welcome"
+    },
+    "popupSignUpPanelIntro": {
+        "message": "Get started by signing in to Relay with your Firefox account.",
+        "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+    },
+    "popupSignUpPanelContinue": {
+        "message": "Continue"
+    },
+    "popupRemainingAliases": {
+        "message": "You have $REMAINING$/$MAX$ remaining aliases",
+        "description": "Tells the user how many more aliases they can make.",
+        "placeholders": {
+            "remaining": {
+                "content": "$1"
+            },
+            "max": {
+                "content": "$2"
+            }
+        }
+    },
+    "popupUnlimitedAliases": {
+        "message": "You have created $COUNT$ aliases",
+        "description": "Tells the premium user how many aliases they have created.",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupOnboardingShowPrevious": {
+        "message": "Show previous panel"
+    },
+    "popupOnboardingShowNext": {
+        "message": "Go to next panel"
+    },
+    "ManageAllAliases": {
+        "message": "Manage All Aliases"
+    },
+    "popupOnboardingPanel1Body": {
+        "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias.",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupOnboardingPanel2Headline": {
+        "message": "Don’t see the icon?"
+    },
+    "popupOnboardingPanel2Body": {
+        "message": "Right-click on form fields to access the context menu and generate an alias from there."
+    },
+    "popupOnboardingPanel3Headline": {
+        "message": "Getting too many emails?"
+    },
+    "popupOnboardingPanel3Body": {
+        "message": "Manage your Relay aliases and easily toggle Forwarding to Blocking.",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupOnboardingMaxAliasesPanelHeadline": {
+        "message": "High five!"
+    },
+    "popupOnboardingMaxAliasesPanelBody": {
+        "message": "You’re a Firefox Relay power user!",
+        "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "pageInputIconSignUpText": {
+        "message": "Visit the Firefox Relay website to sign in or create an account.",
+        "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "pageInputIconSignUpButton": {
+        "message": "Go to Firefox Relay",
+        "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "pageInputIconGenerateNewAlias": {
+        "message": "Generate New Alias"
+    },
+    "pageInputIconMaxAliasesError": {
+        "message": "You have already created $MAX$ aliases",
+        "description": "Tells the user they have already created the max number of aliases.",
+        "placeholders": {
+            "max": {
+                "content": "$1"
+            }
+        }
+    },
+    "pageFillRelayAddressLimit": {
+        "message": "You’ve reached the alias limit."
+    },
+    "close": {
+        "message": "Close"
+    }
+}
