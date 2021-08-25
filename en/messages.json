@@ -56,7 +56,7 @@
         "message": "Continue"
     },
     "popupRemainingAliases": {
-        "message": "You have $REMAINING$/$MAX$ remaining aliases",
+        "message": "Remaining aliases: $REMAINING$/$MAX$",
         "description": "Tells the user how many more aliases they can make.",
         "placeholders": {
             "remaining": {
@@ -68,7 +68,7 @@
         }
     },
     "popupUnlimitedAliases": {
-        "message": "You have created $COUNT$ aliases",
+        "message": "Aliases created: $COUNT$",
         "description": "Tells the premium user how many aliases they have created.",
         "placeholders": {
             "count": {
@@ -121,13 +121,8 @@
         "message": "Generate New Alias"
     },
     "pageInputIconMaxAliasesError": {
-        "message": "You have already created $MAX$ aliases",
-        "description": "Tells the user they have already created the max number of aliases.",
-        "placeholders": {
-            "max": {
-                "content": "$1"
-            }
-        }
+        "message": "You have already created the maximum number of aliases",
+        "description": "Tells the user they have already created the max number of aliases."
     },
     "pageFillRelayAddressLimit": {
         "message": "You’ve reached the alias limit."
