@@ -5,7 +5,7 @@
     },
     "firstRunP": {
         "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
-        "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\"."
+        "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
     },
     "firstRunCollectDataLabel": {
         "message": "Allow Mozilla to collect information about how you use this extension.",
@@ -34,7 +34,7 @@
     },
     "popupSettingsCollectData": {
         "message": "Allow Mozilla to collect interaction data",
-        "description": "The label on the toggle that ENABLES sending interaction data to Mozilla."
+        "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
     },
     "popupSettingsLeaveFeedback": {
         "message": "Leave Feedback"
@@ -108,6 +108,33 @@
     "popupOnboardingMaxAliasesPanelBody": {
         "message": "You’re a Firefox Relay power user!",
         "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupRegisterDomainHeadline": {
+        "message": "Get a custom domain for Relay email aliases",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupRegisterDomainButton": {
+        "message": "Register email domain"
+    },
+    "popupAliasesUsed": {
+        "message": "Email aliases used"
+    },
+    "popupEmailsBlocked": {
+        "message": "Emails blocked"
+    },
+    "popupEmailsForwarded": {
+        "message": "Emails forwarded"
+    },
+    "popupUpgradeToPremiumBanner": {
+        "message": "Upgrade to Relay Premium for more protection!",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
+    },
+    "popupEducationalComponent1Headline": {
+        "message": "A worldwide protection tool"
+    },
+    "popupEducationalComponent1Body": {
+        "message": "Relay can help you protect your email no matter where you are.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "pageInputIconSignUpText": {
         "message": "Visit the Firefox Relay website to sign in or create an account.",
