@@ -102,6 +102,10 @@
     "message": "Hantera dina Relay-alias och växla enkelt vidarebefordran till blockering.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline": {
+    "message": "Skaffa en anpassad domän för Relay e-postalias",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrera e-postdomän"
   },
@@ -113,6 +117,21 @@
   },
   "popupEmailsForwarded": {
     "message": "E-postmeddelanden vidarebefordrade"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Uppgradera till Relay Premium för mer skydd!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Ett världsomspännande skyddsverktyg"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay kan hjälpa dig att skydda din e-post oavsett var du befinner dig.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Besök Firefox Relay-webbplatsen för att logga in eller skapa ett konto.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "Gå till Firefox Relay",
