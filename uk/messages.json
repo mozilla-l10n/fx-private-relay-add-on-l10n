@@ -14,5 +14,82 @@
   "disableDataCollection": {
     "message": "Вимкнути збір даних",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Збір даних про взаємодію, коли ви робите такі дії, як-от натискання піктограми Relay на панелі інструментів або створення нової альтернативної назви е-пошти, допомагає нам дізнатися, що працює добре і що ми можемо вдосконалити. Ви завжди можете вимкнути це на панелі налаштувань.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Реєстрація / Вхід"
+  },
+  "popupSettingsTitle": {
+    "message": "Налаштування"
+  },
+  "popupSettingsReturn": {
+    "message": "Повернутися на головну панель"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Показувати піктограму Relay у полях е-пошти на вебсайтах",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Дозволити Mozilla збирати дані про взаємодію",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Залишити відгук"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Приватність"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Умови надання послуги"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Вітаємо"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Почніть, увійшовши до Relay за допомогою свого облікового запису Firefox.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Продовжити"
+  },
+  "popupRemainingAliases": {
+    "message": "Залишилось альтернативних адрес: $REMAINING$/$MAX$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      },
+      "max": {
+        "content": "$2"
+      }
+    }
+  },
+  "popupUnlimitedAliases": {
+    "message": "Створено альтернативних адрес: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Показати попередню панель"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Перейти до наступної панелі"
+  },
+  "ManageAllAliases": {
+    "message": "Керуйте всіма альтернативними адресами"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Коли на вебсайті з’являється піктограма Firefox Relay, виберіть її, щоб створити нову альтернативну е-пошту.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Не бачите піктограму?"
   }
 }
