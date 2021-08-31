@@ -1,0 +1,30 @@
+{
+  "firstRunSignInButton": {
+    "message": "Εγγραφή/Σύνδεση"
+  },
+  "popupSettingsTitle": {
+    "message": "Ρυθμίσεις"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Απόρρητο"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Όροι υπηρεσίας"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Καλώς ορίσατε"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Συνέχεια"
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Μετάβαση στο Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Δημιουργία νέου ψευδωνύμου"
+  },
+  "close": {
+    "message": "Κλείσιμο"
+  }
+}
