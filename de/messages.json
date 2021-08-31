@@ -15,8 +15,29 @@
     "message": "Datensammlung deaktivieren",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP": {
+    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Registrieren / Anmelden"
+  },
   "popupSettingsTitle": {
     "message": "Einstellungen"
+  },
+  "popupSettingsReturn": {
+    "message": "Zurück zur Hauptansicht"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Relay-Symbol in E-Mail-Adressfeldern auf Websites anzeigen",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Mozilla erlauben, Interaktionsdaten zu erheben",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Feedback senden"
   },
   "popupSettingsPrivacy": {
     "message": "Datenschutz"
@@ -26,6 +47,105 @@
   },
   "popupSignUpPanelWelcome": {
     "message": "Willkommen"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Melden Sie sich zunächst mit Ihrem Firefox Account bei Relay an.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Weiter"
+  },
+  "popupRemainingAliases": {
+    "message": "Verbleibende Alias-Adressen: $REMAINING$/$MAX$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      },
+      "max": {
+        "content": "$2"
+      }
+    }
+  },
+  "popupUnlimitedAliases": {
+    "message": "Erstellte Alias-Adressen: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Vorherige Ansicht anzeigen"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Zur nächsten Ansicht gehen"
+  },
+  "ManageAllAliases": {
+    "message": "Alle Alias-E-Mail-Adressen verwalten"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Wenn das Firefox-Relay-Symbol auf einer Website angezeigt wird, wählen Sie es aus, um eine neue Alias-Adresse zu generieren.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Sie sehen das Symbol nicht?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Klicken Sie mit der rechten Maustaste auf Formularfelder, um auf das Kontextmenü zuzugreifen und von dort aus eine Alias-Adresse zu erzeugen."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Erhalten Sie zu viele E-Mails?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Verwalten Sie Ihre Relay-Alias-Adressen und ändern Sie die Einstellung für die Weiterleitung auf „Blockieren“.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Perfekt!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Sie sind ein Firefox-Relay-Power-User!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Holen Sie sich eine benutzerdefinierte Domain für Relay-Alias-E-Mail-Adressen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "E-Mail-Domain registrieren"
+  },
+  "popupAliasesUsed": {
+    "message": "Verwendete Alias-E-Mail-Adressen"
+  },
+  "popupEmailsBlocked": {
+    "message": "Blockierte E-Mails"
+  },
+  "popupEmailsForwarded": {
+    "message": "Weitergeleitete E-Mails"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Holen Sie sich Relay Premium, was noch mehr Schutz bietet!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Ein Werkzeug für weltweiten Schutz"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay kann Ihnen dabei helfen, Ihre E-Mail-Adresse zu schützen, egal wo Sie sich befinden.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Besuchen Sie die Firefox-Relay-Website, um sich anzumelden oder ein Konto zu erstellen.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Firefox Relay besuchen",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Neue Alias-Adresse erzeugen"
   },
   "close": {
     "message": "Schließen"
