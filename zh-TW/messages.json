@@ -2,5 +2,54 @@
   "extensionDescription": {
     "message": "Firefox Relay 讓您可輕鬆建立別名信箱，使用該地址收信後再轉寄回您實際的信箱。可使用別名信箱來保護帳號，不受駭客與垃圾信件的騷擾。",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "註冊 / 登入"
+  },
+  "popupSettingsTitle": {
+    "message": "設定"
+  },
+  "popupSettingsReturn": {
+    "message": "回到主面板"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "留下意見回饋"
+  },
+  "popupSettingsPrivacy": {
+    "message": "隱私權"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "服務條款"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "歡迎！"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "繼續"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "顯示上一個面板"
+  },
+  "popupOnboardingShowNext": {
+    "message": "前往下一個面板"
+  },
+  "ManageAllAliases": {
+    "message": "管理所有別名"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "找不到圖示嗎？"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "收到太多郵件了？"
+  },
+  "pageInputIconSignUpButton": {
+    "message": "前往 Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "產生新別名"
+  },
+  "close": {
+    "message": "關閉"
   }
 }
