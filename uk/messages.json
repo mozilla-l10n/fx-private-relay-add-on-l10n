@@ -128,5 +128,33 @@
   "popupUpgradeToPremiumBanner": {
     "message": "Передплатіть Relay Premium для додаткового захисту!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Інструмент захисту по всьому світу"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay може допомогти вам захистити вашу е-пошту, де б ви не були.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Перейдіть на вебсайт Firefox Relay, щоб увійти або створити обліковий запис.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Перейти до Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Створити нову альтернативну адресу"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Ви вже створили максимальну кількість альтернативних адрес",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Ви досягли обмеження кількості альтернативних адрес."
+  },
+  "close": {
+    "message": "Закрити"
   }
 }
