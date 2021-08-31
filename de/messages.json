@@ -3,6 +3,18 @@
     "message": "Mit Firefox Relay können Sie Alias-E-Mail-Adressen erstellen, die an Ihren echten Posteingang weitergeleitet werden. So können Sie Ihre Online-Konten vor Hackern und unerwünschten Nachrichten schützen.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "firstRunP": {
+    "message": "Sie haben das Firefox-Relay-Add-on erfolgreich installiert. Melden Sie sich zunächst mit Ihrem Firefox Account bei Relay an.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla erlauben, Informationen darüber zu sammeln, wie Sie diese Erweiterung verwenden.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "disableDataCollection": {
+    "message": "Datensammlung deaktivieren",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
   "popupSettingsTitle": {
     "message": "Einstellungen"
   },
