@@ -62,6 +62,7 @@
             "remaining": {
                 "content": "$1"
             }
+        }
     },
     "popupGetUnlimitedAliases": {
         "message": "Get unlimited aliases"
