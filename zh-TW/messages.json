@@ -28,6 +28,14 @@
   "popupSettingsReturn": {
     "message": "回到主面板"
   },
+  "popupSettingsShowIcon": {
+    "message": "在網站中的電子郵件欄位顯示 Relay 圖示",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "允許 Mozilla 收集互動資料",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsLeaveFeedback": {
     "message": "留下意見回饋"
   },
@@ -39,6 +47,10 @@
   },
   "popupSignUpPanelWelcome": {
     "message": "歡迎！"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "首先使用您的 Firefox 帳號登入 Relay。",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
     "message": "繼續"
@@ -80,12 +92,22 @@
   "popupOnboardingPanel2Headline": {
     "message": "找不到圖示嗎？"
   },
+  "popupOnboardingPanel2Body": {
+    "message": "對表單欄位按右鍵，從選單中直接建立別名。"
+  },
   "popupOnboardingPanel3Headline": {
     "message": "收到太多郵件了？"
   },
   "popupOnboardingPanel3Body": {
     "message": "管理您的 Relay 別名並輕鬆將轉寄中狀態改為封鎖。",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Gimme Five!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "您是 Firefox Relay 大師！",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "用自訂網域名稱建立 Relay 郵件別名",
@@ -103,8 +125,20 @@
   "popupEmailsForwarded": {
     "message": "封信已轉寄"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "升級到 Relay Premium 版，獲得更多保護！",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEducationalComponent1Headline": {
     "message": "全球性的保護工具"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "不論身在何方，Relay 都可幫助保護您的電子郵件信箱。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "到 Firefox Relay 網站登入或註冊帳號。",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "前往 Firefox Relay",
