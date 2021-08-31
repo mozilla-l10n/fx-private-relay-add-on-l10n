@@ -1,9 +1,20 @@
 {
+  "disableDataCollection": {
+    "message": "Απενεργοποίηση συλλογή δεδομένων",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
   "firstRunSignInButton": {
     "message": "Εγγραφή/Σύνδεση"
   },
   "popupSettingsTitle": {
     "message": "Ρυθμίσεις"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Εμφάνιση εικονιδίου του Relay σε πεδία email",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Υποβολή σχολίων"
   },
   "popupSettingsPrivacy": {
     "message": "Απόρρητο"
@@ -16,6 +27,30 @@
   },
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
+  },
+  "popupRemainingAliases": {
+    "message": "Υπολειπόμενα ψευδώνυμα: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Δεν βλέπετε το εικονίδιο;"
+  },
+  "popupRegisterDomainButton": {
+    "message": "Εγγραφή τομέα email"
+  },
+  "popupEmailsBlocked": {
+    "message": "Αποκλεισμένα email"
+  },
+  "popupEmailsForwarded": {
+    "message": "Προωθημένα email"
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Ένα παγκόσμιο εργαλείο προστασίας"
   },
   "pageInputIconSignUpButton": {
     "message": "Μετάβαση στο Firefox Relay",
