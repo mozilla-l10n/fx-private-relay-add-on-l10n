@@ -56,7 +56,7 @@
         "message": "Continue"
     },
     "popupRemainingAliases": {
-        "message": "$REMAINING$ aliases remaining.",
+        "message": "Remaining aliases: $REMAINING$",
         "description": "Tells the user how many more aliases they can make.",
         "placeholders": {
             "remaining": {
