@@ -147,6 +147,13 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Neue Alias-Adresse erzeugen"
   },
+  "pageInputIconMaxAliasesError": {
+    "message": "Sie haben bereits die maximale Anzahl von Alias-Adressen erstellt",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Sie haben die Grenze für Alias-Adressen erreicht."
+  },
   "close": {
     "message": "Schließen"
   }
