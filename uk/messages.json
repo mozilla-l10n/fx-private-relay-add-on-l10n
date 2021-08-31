@@ -91,5 +91,42 @@
   },
   "popupOnboardingPanel2Headline": {
     "message": "Не бачите піктограму?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Клацніть правою кнопкою миші на полі форми, щоб отримати доступ до контекстного меню та створити з нього альтернативну адресу."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Отримуєте забагато листів?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Керуйте альтернативними адресами Relay та легко змінюйте пересилання на блокування.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Чудово!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Ви — активний користувач Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Отримайте власний домен для альтернативних адрес е-пошти Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Зареєструвати домен е-пошти"
+  },
+  "popupAliasesUsed": {
+    "message": "Використовувані альтернативні адреси е-пошти"
+  },
+  "popupEmailsBlocked": {
+    "message": "Заблоковані електронні листи"
+  },
+  "popupEmailsForwarded": {
+    "message": "Переслані електронні листи"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Передплатіть Relay Premium для додаткового захисту!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
