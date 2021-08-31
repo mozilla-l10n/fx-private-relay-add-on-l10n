@@ -56,16 +56,15 @@
         "message": "Continue"
     },
     "popupRemainingAliases": {
-        "message": "Remaining aliases: $REMAINING$/$MAX$",
+        "message": "$REMAINING$ aliases remaining.",
         "description": "Tells the user how many more aliases they can make.",
         "placeholders": {
             "remaining": {
                 "content": "$1"
-            },
-            "max": {
-                "content": "$2"
             }
-        }
+    },
+    "popupGetUnlimitedAliases": {
+        "message": "Get unlimited aliases"
     },
     "popupUnlimitedAliases": {
         "message": "Aliases created: $COUNT$",
