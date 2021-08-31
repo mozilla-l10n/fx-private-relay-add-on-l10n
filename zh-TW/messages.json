@@ -3,6 +3,22 @@
     "message": "Firefox Relay 讓您可輕鬆建立別名信箱，使用該地址收信後再轉寄回您實際的信箱。可使用別名信箱來保護帳號，不受駭客與垃圾信件的騷擾。",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "firstRunP": {
+    "message": "您已成功安裝 Firefox Relay 附加元件，使用 Firefox 帳號登入 Relay 即可開始使用。",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "允許 Mozilla 收集您對此附加元件的使用情況。",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "disableDataCollection": {
+    "message": "停用資料收集",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "收集例如當您點擊工具列中的 Relay 圖示，或是建立新別名時的互動資料，可幫助我們了解哪些功能做得好，又有哪些地方可以改善。您可以隨時到設定面板中關閉。",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "註冊 / 登入"
   },
@@ -27,6 +43,27 @@
   "popupSignUpPanelContinue": {
     "message": "繼續"
   },
+  "popupRemainingAliases": {
+    "message": "剩餘別名數量: $REMAINING$ / $MAX$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      },
+      "max": {
+        "content": "$2"
+      }
+    }
+  },
+  "popupUnlimitedAliases": {
+    "message": "已建立的別名數量: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "popupOnboardingShowPrevious": {
     "message": "顯示上一個面板"
   },
@@ -36,11 +73,38 @@
   "ManageAllAliases": {
     "message": "管理所有別名"
   },
+  "popupOnboardingPanel1Body": {
+    "message": "當網站上出現 Firefox Relay 圖示時，選擇它即可產生新別名。",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
     "message": "找不到圖示嗎？"
   },
   "popupOnboardingPanel3Headline": {
     "message": "收到太多郵件了？"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "管理您的 Relay 別名並輕鬆將轉寄中狀態改為封鎖。",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "用自訂網域名稱建立 Relay 郵件別名",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "註冊郵件網域"
+  },
+  "popupAliasesUsed": {
+    "message": "已用的郵件別名"
+  },
+  "popupEmailsBlocked": {
+    "message": "封信已封鎖"
+  },
+  "popupEmailsForwarded": {
+    "message": "封信已轉寄"
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "全球性的保護工具"
   },
   "pageInputIconSignUpButton": {
     "message": "前往 Firefox Relay",
@@ -48,6 +112,13 @@
   },
   "pageInputIconGenerateNewAlias": {
     "message": "產生新別名"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "您可建立的別名數量已滿",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "您已達到別名數量限制。"
   },
   "close": {
     "message": "關閉"
