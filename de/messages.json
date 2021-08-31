@@ -1,0 +1,21 @@
+{
+  "extensionDescription": {
+    "message": "Mit Firefox Relay können Sie Alias-E-Mail-Adressen erstellen, die an Ihren echten Posteingang weitergeleitet werden. So können Sie Ihre Online-Konten vor Hackern und unerwünschten Nachrichten schützen.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupSettingsTitle": {
+    "message": "Einstellungen"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Datenschutz"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Nutzungsbedingungen"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Willkommen"
+  },
+  "close": {
+    "message": "Schließen"
+  }
+}
