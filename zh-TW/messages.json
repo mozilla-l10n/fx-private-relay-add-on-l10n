@@ -61,11 +61,11 @@
     "placeholders": {
       "remaining": {
         "content": "$1"
-      },
-      "max": {
-        "content": "$2"
       }
     }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "取得無限量別名"
   },
   "popupUnlimitedAliases": {
     "message": "已建立的別名數量: $COUNT$",
