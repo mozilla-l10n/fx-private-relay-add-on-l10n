@@ -1,0 +1,84 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale. In questo modo puoi proteggere i tuoi account da hacker e messaggi indesiderati.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Il componente aggiuntivo di Firefox Relay è stato installato correttamente. Accedi a Relay con il tuo account Firefox per iniziare.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Consenti a Mozilla di raccogliere informazioni sul tuo utilizzo di questa estensione.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "disableDataCollection": {
+    "message": "Disattiva raccolta dati",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Registrati / Accedi"
+  },
+  "popupSettingsTitle": {
+    "message": "Impostazioni"
+  },
+  "popupSettingsReturn": {
+    "message": "Ritorna al pannello principale"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Mostra l’icona Relay nei campi email sui siti web",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Consenti a Mozilla di raccogliere dati di interazione",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Invia un commento"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privacy"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Termini di servizio"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Accedi a Relay con il tuo account Firefox per iniziare.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Continua"
+  },
+  "popupRemainingAliases": {
+    "message": "Alias restanti: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Ottieni alias illimitati"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Alias creati: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Mostra pannello precedente"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Vai al pannello successivo"
+  },
+  "ManageAllAliases": {
+    "message": "Gestisci tutti gli alias"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Non vedi l’icona?"
+  }
+}
