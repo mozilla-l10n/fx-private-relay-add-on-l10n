@@ -61,11 +61,11 @@
     "placeholders": {
       "remaining": {
         "content": "$1"
-      },
-      "max": {
-        "content": "$2"
       }
     }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Unbegrenzt viele Alias-Adressen erhalten"
   },
   "popupUnlimitedAliases": {
     "message": "Erstellte Alias-Adressen: $COUNT$",
