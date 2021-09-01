@@ -8,7 +8,7 @@
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Дозвольте Mozilla збирати дані про користування цим розширенням.",
+    "message": "Дозвольте Mozilla збирати дані про користування цим розширення.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "disableDataCollection": {
@@ -56,16 +56,16 @@
     "message": "Продовжити"
   },
   "popupRemainingAliases": {
-    "message": "Залишилось альтернативних адрес: $REMAINING$/$MAX$",
+    "message": "Залишилось альтернативних адрес: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
         "content": "$1"
-      },
-      "max": {
-        "content": "$2"
       }
     }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Отримати необмежену кількість альтернативних адрес"
   },
   "popupUnlimitedAliases": {
     "message": "Створено альтернативних адрес: $COUNT$",
@@ -130,7 +130,7 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Інструмент захисту по всьому світу"
+    "message": "Всесвітній інструмент захисту"
   },
   "popupEducationalComponent1Body": {
     "message": "Relay може допомогти вам захистити вашу е-пошту, де б ви не були.",
