@@ -85,11 +85,22 @@
   "ManageAllAliases": {
     "message": "Gestisci tutti gli alias"
   },
+  "popupOnboardingPanel1Body": {
+    "message": "Quando l’icona di Firefox Relay viene visualizzata in un sito web, selezionala per generare un nuovo alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
     "message": "Non vedi l’icona?"
   },
+  "popupOnboardingPanel2Body": {
+    "message": "Fai clic con il tasto destro sui campi del modulo per accedere al menu contestuale e generare un alias."
+  },
   "popupOnboardingPanel3Headline": {
     "message": "Ricevi troppe email?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Gestisci i tuoi alias in Relay e scegli facilmente tra inoltro e blocco.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Batti il cinque!"
@@ -97,6 +108,10 @@
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Sei un utente esperto di Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Ottieni un dominio personalizzato per gli alias email di Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
     "message": "Registra dominio email"
@@ -114,6 +129,9 @@
     "message": "Passa a Relay Premium per una maggiore protezione!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupEducationalComponent1Headline": {
+    "message": "Uno strumento di protezione a livello globale"
+  },
   "popupEducationalComponent1Body": {
     "message": "Relay può aiutarti a proteggere la tua email ovunque ti trovi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -125,6 +143,9 @@
   "pageInputIconSignUpButton": {
     "message": "Vai a Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Genera nuovo alias"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Hai già creato il numero massimo di alias",
