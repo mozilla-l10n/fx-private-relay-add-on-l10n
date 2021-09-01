@@ -37,7 +37,7 @@
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "Lämna återkoppling"
+    "message": "Ge återkoppling"
   },
   "popupSettingsPrivacy": {
     "message": "Integritet"
@@ -56,16 +56,16 @@
     "message": "Fortsätt"
   },
   "popupRemainingAliases": {
-    "message": "Återstående alias: $REMAINING$/$MAX$",
+    "message": "Återstående alias: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
         "content": "$1"
-      },
-      "max": {
-        "content": "$2"
       }
     }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Få obegränsat med alias"
   },
   "popupUnlimitedAliases": {
     "message": "Skapade alias: $COUNT$",
