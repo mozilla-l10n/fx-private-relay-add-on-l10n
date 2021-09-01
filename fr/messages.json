@@ -16,6 +16,10 @@
   "popupSettingsReturn": {
     "message": "Retour au panneau principal"
   },
+  "popupSettingsShowIcon": {
+    "message": "Afficher l’icône Relay dans les champs d’adresse électronique sur les sites web",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsCollectData": {
     "message": "Autoriser Mozilla à collecter des données d’interaction",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -65,5 +69,26 @@
   },
   "popupOnboardingPanel2Headline": {
     "message": "Vous ne voyez pas l’icône ?"
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Obtenez un domaine personnalisé pour les alias de messagerie Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupAliasesUsed": {
+    "message": "Alias utilisés"
+  },
+  "popupEmailsBlocked": {
+    "message": "Messages bloqués"
+  },
+  "popupEmailsForwarded": {
+    "message": "Messages transférés"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Passez à Relay Premium pour plus de protection !",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay peut vous aider à protéger votre messagerie, où que vous soyez.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   }
 }
