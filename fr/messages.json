@@ -1,10 +1,20 @@
 {
+  "firstRunCollectDataLabel": {
+    "message": "Autoriser Mozilla à collecter des informations sur la façon dont vous utilisez cette extension.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "disableDataCollection": {
     "message": "Désactiver la collecte de données",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunSignInButton": {
+    "message": "Inscription / Connexion"
+  },
   "popupSettingsTitle": {
     "message": "Paramètres"
+  },
+  "popupSettingsReturn": {
+    "message": "Retour au panneau principal"
   },
   "popupSettingsLeaveFeedback": {
     "message": "Donner mon avis"
@@ -33,6 +43,9 @@
         "content": "$1"
       }
     }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Obtenir un nombre illimité d’alias"
   },
   "popupUnlimitedAliases": {
     "message": "Alias créés : $COUNT$",
