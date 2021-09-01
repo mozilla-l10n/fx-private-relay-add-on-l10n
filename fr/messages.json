@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Firefox Relay facilite la création d’alias de messagerie qui transfèrent les messages vers votre véritable boîte de réception. Utilisez-le pour protéger vos comptes en ligne contre les pirates et les messages indésirables.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Autoriser Mozilla à collecter des informations sur la façon dont vous utilisez cette extension.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -90,5 +94,22 @@
   "popupEducationalComponent1Body": {
     "message": "Relay peut vous aider à protéger votre messagerie, où que vous soyez.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Aller sur Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Générer un nouvel alias"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Vous avez déjà créé le nombre maximum d’alias",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Vous avez atteint la limite d’alias."
+  },
+  "close": {
+    "message": "Fermer"
   }
 }
