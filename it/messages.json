@@ -80,5 +80,53 @@
   },
   "popupOnboardingPanel2Headline": {
     "message": "Non vedi l’icona?"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Ricevi troppe email?"
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Batti il cinque!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Sei un utente esperto di Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Registra dominio email"
+  },
+  "popupAliasesUsed": {
+    "message": "Alias utilizzati"
+  },
+  "popupEmailsBlocked": {
+    "message": "Messaggi bloccati"
+  },
+  "popupEmailsForwarded": {
+    "message": "Messaggi inoltrati"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Passa a Relay Premium per una maggiore protezione!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay può aiutarti a proteggere la tua email ovunque ti trovi.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Visita il sito web di Firefox Relay per accedere o creare un account.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Vai a Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Hai già creato il numero massimo di alias",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Hai raggiunto il numero massimo di alias."
+  },
+  "close": {
+    "message": "Chiudi"
   }
 }
