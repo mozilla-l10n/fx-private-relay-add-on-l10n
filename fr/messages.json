@@ -16,6 +16,10 @@
   "popupSettingsReturn": {
     "message": "Retour au panneau principal"
   },
+  "popupSettingsCollectData": {
+    "message": "Autoriser Mozilla à collecter des données d’interaction",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsLeaveFeedback": {
     "message": "Donner mon avis"
   },
@@ -58,5 +62,8 @@
   },
   "ManageAllAliases": {
     "message": "Gérer tous les alias"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Vous ne voyez pas l’icône ?"
   }
 }
