@@ -55,5 +55,8 @@
         "content": "$1"
       }
     }
+  },
+  "ManageAllAliases": {
+    "message": "Gérer tous les alias"
   }
 }
