@@ -85,8 +85,22 @@
   "ManageAllAliases": {
     "message": "Gérer tous les alias"
   },
+  "popupOnboardingPanel1Body": {
+    "message": "Lorsque l’icône Firefox Relay apparaît sur un site web, cliquez dessus pour générer un nouvel alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
     "message": "Vous ne voyez pas l’icône ?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Effectuez un clic droit sur les champs de formulaire pour accéder au menu contextuel et générer un alias à partir de là."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Bien joué !"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Vous maîtrisez Firefox Relay sur le bout des doigts !",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Obtenez un domaine personnalisé pour les alias de messagerie Relay",
@@ -114,6 +128,10 @@
   "popupEducationalComponent1Body": {
     "message": "Relay peut vous aider à protéger votre messagerie, où que vous soyez.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Visitez le site web Firefox Relay pour vous connecter ou créer un compte.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "Aller sur Firefox Relay",
