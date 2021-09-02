@@ -32,11 +32,20 @@
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
   },
-  "popupRemainingAliases": {
+  "popupRemainingAliases-2": {
     "message": "Υπολειπόμενα ψευδώνυμα: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases": {
+    "message": "Ψευδώνυμα χρήστη: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
         "content": "$1"
       }
     }
@@ -75,6 +84,10 @@
   },
   "pageFillRelayAddressLimit": {
     "message": "Έχετε φτάσει το όριο ψευδωνύμων."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Προσθήκη ονόματος λογαριασμού",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
   },
   "close": {
     "message": "Κλείσιμο"
