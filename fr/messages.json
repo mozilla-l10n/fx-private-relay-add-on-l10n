@@ -99,6 +99,9 @@
   "popupOnboardingPanel2Body": {
     "message": "Effectuez un clic droit sur les champs de formulaire pour accéder au menu contextuel et générer un alias à partir de là."
   },
+  "popupOnboardingPanel3Headline": {
+    "message": "Vous recevez trop de messages ?"
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Bien joué !"
   },
