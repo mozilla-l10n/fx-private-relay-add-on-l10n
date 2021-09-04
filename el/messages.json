@@ -77,6 +77,12 @@
       }
     }
   },
+  "popupOnboardingShowPrevious": {
+    "message": "Εμφάνιση προηγούμενου πίνακα"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Μετάβαση στον επόμενο πίνακα"
+  },
   "ManageAllAliases": {
     "message": "Διαχείριση όλων των ψευδωνύμων"
   },
@@ -97,6 +103,10 @@
   },
   "popupEducationalComponent1Headline": {
     "message": "Ένα παγκόσμιο εργαλείο προστασίας"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Το Relay μπορεί να προστατέψει το email σας όπου κι αν βρίσκεστε.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "Μετάβαση στο Firefox Relay",
