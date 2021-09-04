@@ -1,13 +1,36 @@
 {
+  "extensionDescription": {
+    "message": "Το Firefox Relay διευκολύνει τη δημιουργία ψευδωνύμων email που κάνουν προώθηση στα πραγματικά σας εισερχόμενα. Προστατέψτε τους λογαριασμούς σας από hackers και ανεπιθύμητα μηνύματα.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Έχετε εγκαταστήσει επιτυχώς το πρόσθετο Firefox Relay. Για να ξεκινήσετε, συνδεθείτε στο Relay με τον λογαριασμό Firefox σας.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Να επιτρέπεται στη Mozilla η συλλογή πληροφοριών για τη χρήση της επέκτασης.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Ενεργοποίηση συλλογής δεδομένων",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
   "disableDataCollection": {
     "message": "Απενεργοποίηση συλλογή δεδομένων",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Τα δεδομένα αλληλεπίδρασης συλλέγονται όταν κάνετε διάφορες ενέργειες, όπως κλικ στο εικονίδιο του Relay ή δημιουργία νέου ψευδωνύμου. Μας βοηθούν να δούμε τι λειτουργεί σωστά και τι μπορούμε να βελτιώσουμε. Μπορείτε πάντα να απενεργοποιήσετε τη συλλογή από τον πίνακα ρυθμίσεων.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
     "message": "Εγγραφή/Σύνδεση"
   },
   "popupSettingsTitle": {
     "message": "Ρυθμίσεις"
+  },
+  "popupSettingsReturn": {
+    "message": "Επιστροφή στον κύριο πίνακα"
   },
   "popupSettingsShowIcon": {
     "message": "Εμφάνιση εικονιδίου του Relay σε πεδία email",
@@ -28,6 +51,10 @@
   },
   "popupSignUpPanelWelcome": {
     "message": "Καλώς ορίσατε"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Ξεκινήστε με σύνδεση στο Relay μέσω του λογαριασμού Firefox σας.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
