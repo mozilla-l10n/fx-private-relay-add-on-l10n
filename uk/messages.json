@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Firefox Relay полегшує створення альтернативних назв е-пошти, з яких листи пересилаються до вашої справжньої теки вхідних. Користуйтеся ним для захисту своїх мережних облікових записів від хакерів та небажаних повідомлень.",
+    "message": "Firefox Relay полегшує створення псевдоадрес е-пошти, з яких листи пересилаються до вашої справжньої теки вхідних. Користуйтеся ним для захисту своїх мережних облікових записів від хакерів та небажаних повідомлень.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "firstRunP": {
@@ -20,7 +20,7 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
-    "message": "Збір даних про взаємодію, коли ви робите такі дії, як-от натискання піктограми Relay на панелі інструментів або створення нової альтернативної назви е-пошти, допомагає нам дізнатися, що працює добре і що ми можемо вдосконалити. Ви завжди можете вимкнути це на панелі налаштувань.",
+    "message": "Збір даних про взаємодію, коли ви робите такі дії, як-от натискання піктограми Relay на панелі інструментів або створення нової псевдоадреси е-пошти, допомагає нам дізнатися, що працює добре і що ми можемо вдосконалити. Ви завжди можете вимкнути це на панелі налаштувань.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -60,7 +60,7 @@
     "message": "Продовжити"
   },
   "popupRemainingAliases-2": {
-    "message": "Залишилось альтернативних адрес: $REMAINING$",
+    "message": "Залишилось псевдоадрес: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
@@ -69,10 +69,10 @@
     }
   },
   "popupGetUnlimitedAliases": {
-    "message": "Отримати необмежену кількість альтернативних адрес"
+    "message": "Отримати необмежену кількість псевдоадрес"
   },
   "popupUnlimitedAliases": {
-    "message": "Створено альтернативних адрес: $COUNT$",
+    "message": "Створено псевдоадрес: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
     "placeholders": {
       "count": {
@@ -87,23 +87,23 @@
     "message": "Перейти до наступної панелі"
   },
   "ManageAllAliases": {
-    "message": "Керуйте всіма альтернативними адресами"
+    "message": "Керуйте всіма псевдоадресами"
   },
   "popupOnboardingPanel1Body": {
-    "message": "Коли на вебсайті з’являється піктограма Firefox Relay, виберіть її, щоб створити нову альтернативну е-пошту.",
+    "message": "Коли на вебсайті з’являється піктограма Firefox Relay, виберіть її, щоб створити нову псевдоадресу.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupOnboardingPanel2Headline": {
     "message": "Не бачите піктограму?"
   },
   "popupOnboardingPanel2Body": {
-    "message": "Клацніть правою кнопкою миші на полі форми, щоб отримати доступ до контекстного меню та створити з нього альтернативну адресу."
+    "message": "Клацніть правою кнопкою миші на полі форми, щоб отримати доступ до контекстного меню та створити з нього псевдоадресу."
   },
   "popupOnboardingPanel3Headline": {
     "message": "Отримуєте забагато листів?"
   },
   "popupOnboardingPanel3Body": {
-    "message": "Керуйте альтернативними адресами Relay та легко змінюйте пересилання на блокування.",
+    "message": "Керуйте псевдоадресами Relay та легко змінюйте пересилання на блокування.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
@@ -114,14 +114,14 @@
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
-    "message": "Отримайте власний домен для альтернативних адрес е-пошти Relay",
+    "message": "Отримайте власний домен для псевдоадрес е-пошти Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
     "message": "Зареєструвати домен е-пошти"
   },
   "popupAliasesUsed": {
-    "message": "Використовувані альтернативні адреси е-пошти"
+    "message": "Використовувані псевдоадреси е-пошти"
   },
   "popupEmailsBlocked": {
     "message": "Заблоковані електронні листи"
@@ -149,14 +149,14 @@
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
-    "message": "Створити нову альтернативну адресу"
+    "message": "Створити нову псевдоадресу"
   },
   "pageInputIconMaxAliasesError": {
-    "message": "Ви вже створили максимальну кількість альтернативних адрес",
+    "message": "Ви вже створили максимальну кількість псевдоадрес",
     "description": "Tells the user they have already created the max number of aliases."
   },
   "pageFillRelayAddressLimit": {
-    "message": "Ви досягли обмеження кількості альтернативних адрес."
+    "message": "Ви досягли обмеження кількості псевдоадрес."
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Додати назву облікового запису",
