@@ -1,0 +1,44 @@
+{
+  "allowDataCollection": {
+    "message": "Permitir coleta de dados",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Desativar coleta de dados",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "popupSettingsTitle": {
+    "message": "Configurações"
+  },
+  "popupSettingsReturn": {
+    "message": "Retornar ao painel principal"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privacidade"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Termos do serviço"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Boas-vindas"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Comece entrando no Relay com sua conta Firefox.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Avançar"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Exibir painel anterior"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ir para o próximo painel"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "O ícone não aparece?"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Recebendo emails demais?"
+  }
+}
