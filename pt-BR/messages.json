@@ -40,5 +40,24 @@
   },
   "popupOnboardingPanel3Headline": {
     "message": "Recebendo emails demais?"
+  },
+  "popupRegisterDomainButton": {
+    "message": "Registrar domínio de emails"
+  },
+  "popupEmailsBlocked": {
+    "message": "Emails bloqueados"
+  },
+  "popupEmailsForwarded": {
+    "message": "Emails encaminhados"
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Uma ferramenta de proteção mundial"
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Adicionar nome de conta",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Fechar"
   }
 }
