@@ -106,6 +106,13 @@
     "message": "Hantera dina Relay-alias och växla enkelt vidarebefordran till blockering.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Hög femma!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Du är en Firefox Relay power-användare!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainHeadline": {
     "message": "Skaffa en anpassad domän för Relay e-postalias",
     "description": "DO NOT TRANSLATE \"Relay\"."
