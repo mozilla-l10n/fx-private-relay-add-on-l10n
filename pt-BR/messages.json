@@ -63,6 +63,13 @@
   "popupOnboardingPanel3Headline": {
     "message": "Recebendo emails demais?"
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Perfeito!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Você é um usuário avançado do Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrar domínio de emails"
   },
@@ -72,8 +79,24 @@
   "popupEmailsForwarded": {
     "message": "Emails encaminhados"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Mude para o Relay Premium para ter mais proteção!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEducationalComponent1Headline": {
     "message": "Uma ferramenta de proteção mundial"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "O Relay pode ajudar a proteger seu email, não importa onde você esteja.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Visite o site do Firefox Relay para entrar ou criar uma conta.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ir para o Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Adicionar nome de conta",
