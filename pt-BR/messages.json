@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "O Firefox Relay facilita criar endereços de redirecionamento de email, que encaminham mensagens para sua caixa de entrada real. Use para proteger suas contas online de hackers e mensagens indesejadas.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Você instalou com sucesso a extensão Firefox Relay. Para começar, entre no Relay com sua conta Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -51,11 +55,35 @@
   "popupSignUpPanelContinue": {
     "message": "Avançar"
   },
+  "popupRemainingAliases-2": {
+    "message": "Endereços de redirecionamento restantes: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Tenha endereços de redirecionamento ilimitados"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Endereços de redirecionamento criados: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "popupOnboardingShowPrevious": {
     "message": "Exibir painel anterior"
   },
   "popupOnboardingShowNext": {
     "message": "Ir para o próximo painel"
+  },
+  "ManageAllAliases": {
+    "message": "Gerenciar endereços de redirecionamento"
   },
   "popupOnboardingPanel2Headline": {
     "message": "O ícone não aparece?"
@@ -70,8 +98,15 @@
     "message": "Você é um usuário avançado do Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupRegisterDomainHeadline": {
+    "message": "Tenha um domínio personalizado de endereços de redirecionamento de email no Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrar domínio de emails"
+  },
+  "popupAliasesUsed": {
+    "message": "Endereços de redirecionamento de email usados"
   },
   "popupEmailsBlocked": {
     "message": "Emails bloqueados"
@@ -97,6 +132,16 @@
   "pageInputIconSignUpButton": {
     "message": "Ir para o Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Gerar novo endereço de redirecionamento"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Você já criou o número máximo de endereços de redirecionamento",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Você atingiu o limite de endereços de redirecionamento."
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Adicionar nome de conta",
