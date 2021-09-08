@@ -1,4 +1,12 @@
 {
+  "firstRunP": {
+    "message": "Você instalou com sucesso a extensão Firefox Relay. Para começar, entre no Relay com sua conta Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Permitir que a Mozilla colete informações sobre como você usa esta extensão.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "Permitir coleta de dados",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -7,11 +15,25 @@
     "message": "Desativar coleta de dados",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunSignInButton": {
+    "message": "Inscrever / Entrar"
+  },
   "popupSettingsTitle": {
     "message": "Configurações"
   },
   "popupSettingsReturn": {
     "message": "Retornar ao painel principal"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Mostrar ícone do Relay em campos de email em sites",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Permitir que a Mozilla colete dados de interação",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Dê sua opinião"
   },
   "popupSettingsPrivacy": {
     "message": "Privacidade"
