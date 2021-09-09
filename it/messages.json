@@ -11,6 +11,10 @@
     "message": "Consenti a Mozilla di raccogliere informazioni sul tuo utilizzo di questa estensione.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
+  "allowDataCollection": {
+    "message": "Consenti raccolta dati",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
   "disableDataCollection": {
     "message": "Disattiva raccolta dati",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
@@ -55,7 +59,7 @@
   "popupSignUpPanelContinue": {
     "message": "Continua"
   },
-  "popupRemainingAliases": {
+  "popupRemainingAliases-2": {
     "message": "Alias restanti: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
@@ -153,6 +157,10 @@
   },
   "pageFillRelayAddressLimit": {
     "message": "Hai raggiunto il numero massimo di alias."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Aggiungi nome account",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
   },
   "close": {
     "message": "Chiudi"
