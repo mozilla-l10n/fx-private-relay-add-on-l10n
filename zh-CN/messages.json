@@ -64,8 +64,15 @@
   "popupEmailsForwarded": {
     "message": "封邮件已转发"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "升级为 Relay Premium 版，获得更多保护！",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "pageInputIconGenerateNewAlias": {
     "message": "生成新马甲"
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "您已达到马甲数量限制。"
   },
   "close": {
     "message": "关闭"
