@@ -82,8 +82,16 @@
   "pageInputIconGenerateNewAlias": {
     "message": "生成新马甲"
   },
+  "pageInputIconMaxAliasesError": {
+    "message": "您可创建的马甲数量已满",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
   "pageFillRelayAddressLimit": {
     "message": "您已达到马甲数量限制。"
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "添加标签",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
   },
   "close": {
     "message": "关闭"
