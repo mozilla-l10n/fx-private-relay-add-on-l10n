@@ -90,7 +90,7 @@
     "message": "管理所有马甲"
   },
   "popupOnboardingPanel1Body": {
-    "message": "当网站上出现 Firefox Relay 图标时，选择它即可生成新马甲。",
+    "message": "当网站上出现 Firefox Relay 图标时，点击即可生成新马甲。",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupOnboardingPanel2Headline": {
@@ -105,6 +105,9 @@
   "popupOnboardingPanel3Body": {
     "message": "管理您的 Relay 马甲，轻松将“转发”切换为“屏蔽”状态。",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "击爪！"
   },
   "popupRegisterDomainHeadline": {
     "message": "用自定义子域名创建 Relay 马甲邮箱",
