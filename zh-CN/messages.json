@@ -109,6 +109,10 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "击爪！"
   },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "您是 Firefox Relay 高手！",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainHeadline": {
     "message": "用自定义子域名创建 Relay 马甲邮箱",
     "description": "DO NOT TRANSLATE \"Relay\"."
