@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Firefox Relay 可以轻松创建马甲邮箱，用它收邮件并转发至您的真实邮箱。可用马甲邮箱来保护您的账户，不受黑客和垃圾邮件的侵扰。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "您已成功安装 Firefox Relay 扩展。请登录您的 Firefox 账户开始使用 Relay。",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -15,6 +19,10 @@
     "message": "禁用数据收集",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP": {
+    "message": "收集诸如您点击工具栏中的 Relay 图标，或是创建新马甲时的交互数据，有助于我们了解哪些方面做得不错，以及哪些方面可以改进。您可以随时到“设置”面板中关闭。",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "注册 / 登录"
   },
@@ -23,6 +31,10 @@
   },
   "popupSettingsReturn": {
     "message": "返回主面板"
+  },
+  "popupSettingsShowIcon": {
+    "message": "在网站的电子邮件栏中显示 Relay 图标",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
     "message": "允许 Mozilla 收集交互数据",
@@ -38,13 +50,35 @@
     "message": "服务条款"
   },
   "popupSignUpPanelWelcome": {
-    "message": "欢迎"
+    "message": "欢迎！"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "首先使用您的 Firefox 账户登录 Relay。",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
     "message": "继续"
   },
+  "popupRemainingAliases-2": {
+    "message": "剩余马甲数量：$REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
     "message": "获取无限量马甲"
+  },
+  "popupUnlimitedAliases": {
+    "message": "已创建的马甲数量：$COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   },
   "popupOnboardingShowPrevious": {
     "message": "显示上一个面板"
@@ -55,11 +89,29 @@
   "ManageAllAliases": {
     "message": "管理所有马甲"
   },
+  "popupOnboardingPanel1Body": {
+    "message": "当网站上出现 Firefox Relay 图标时，选择它即可生成新马甲。",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
-    "message": "未看到图标？"
+    "message": "找不到图标？"
   },
   "popupOnboardingPanel3Headline": {
     "message": "收到太多邮件？"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "管理您的 Relay 马甲，轻松将“转发”切换为“屏蔽”状态。",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "用自定义子域名创建 Relay 马甲邮箱",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "注册邮箱子域名"
+  },
+  "popupAliasesUsed": {
+    "message": "已用的邮箱马甲"
   },
   "popupEmailsBlocked": {
     "message": "封邮件已拦截"
@@ -70,6 +122,13 @@
   "popupUpgradeToPremiumBanner": {
     "message": "升级为 Relay Premium 版，获得更多保护！",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "全球性的保护工具"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "无论身在何处，Relay 都能帮助保护您的电子邮件。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "pageInputIconSignUpText": {
     "message": "访问 Firefox Relay 网站登录或创建账户。",
