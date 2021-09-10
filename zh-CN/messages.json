@@ -96,6 +96,9 @@
   "popupOnboardingPanel2Headline": {
     "message": "找不到图标？"
   },
+  "popupOnboardingPanel2Body": {
+    "message": "鼠标右键表单栏，选择“生成新马甲”。"
+  },
   "popupOnboardingPanel3Headline": {
     "message": "收到太多邮件？"
   },
