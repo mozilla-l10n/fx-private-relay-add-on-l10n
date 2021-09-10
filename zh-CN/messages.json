@@ -58,6 +58,9 @@
   "popupOnboardingPanel2Headline": {
     "message": "未看到图标？"
   },
+  "popupOnboardingPanel3Headline": {
+    "message": "收到太多邮件？"
+  },
   "popupEmailsBlocked": {
     "message": "封邮件已拦截"
   },
@@ -67,6 +70,14 @@
   "popupUpgradeToPremiumBanner": {
     "message": "升级为 Relay Premium 版，获得更多保护！",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "访问 Firefox Relay 网站登录或创建账户。",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "前往 Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
     "message": "生成新马甲"
