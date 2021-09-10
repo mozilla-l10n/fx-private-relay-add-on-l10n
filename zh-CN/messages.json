@@ -1,0 +1,56 @@
+{
+  "allowDataCollection": {
+    "message": "允许数据收集",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "禁用数据收集",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "注册 / 登录"
+  },
+  "popupSettingsTitle": {
+    "message": "设置"
+  },
+  "popupSettingsReturn": {
+    "message": "返回主面板"
+  },
+  "popupSettingsCollectData": {
+    "message": "允许 Mozilla 收集交互数据",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "留下反馈"
+  },
+  "popupSettingsPrivacy": {
+    "message": "隐私"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "服务条款"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "欢迎"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "继续"
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "获取无限量马甲"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "显示上一个面板"
+  },
+  "popupOnboardingShowNext": {
+    "message": "转至下一个面板"
+  },
+  "ManageAllAliases": {
+    "message": "管理所有马甲"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "未看到图标？"
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "生成新马甲"
+  }
+}
