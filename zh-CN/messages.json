@@ -110,7 +110,7 @@
     "message": "击爪！"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "您是 Firefox Relay 高手！",
+    "message": "您是 Firefox Relay 大师！",
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
