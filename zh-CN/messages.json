@@ -107,7 +107,7 @@
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "击爪！"
+    "message": "击爪 🖐️！"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "您是 Firefox Relay 大师！",
