@@ -102,6 +102,10 @@
   "popupOnboardingPanel3Headline": {
     "message": "Vous recevez trop de messages ?"
   },
+  "popupOnboardingPanel3Body": {
+    "message": "Gérez vos alias Relay et basculez facilement entre les modes « Transfert » et « Bloqué ».",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Bien joué !"
   },
