@@ -1,0 +1,23 @@
+{
+  "popupSettingsTitle": {
+    "message": "Instellingen"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Feedback achterlaten"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privacy"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Servicevoorwaarden"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Welkom"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Doorgaan"
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Onbeperkte aliassen verkrijgen"
+  }
+}
