@@ -86,8 +86,15 @@
   "ManageAllAliases": {
     "message": "Διαχείριση όλων των ψευδωνύμων"
   },
+  "popupOnboardingPanel1Body": {
+    "message": "Όταν εμφανιστεί το εικονίδιο του Firefox Relay σε έναν ιστότοπο, επιλέξτε το για δημιουργία νέου ψευδωνύμου.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
     "message": "Δεν βλέπετε το εικονίδιο;"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Κάντε δεξί κλικ στα πεδία φορμών για να ανοίξετε το μενού επιλογών και να δημιουργήσετε ένα ψευδώνυμο από εκεί."
   },
   "popupOnboardingPanel3Headline": {
     "message": "Λαμβάνετε πάρα πολλά email;"
@@ -95,11 +102,18 @@
   "popupRegisterDomainButton": {
     "message": "Εγγραφή τομέα email"
   },
+  "popupAliasesUsed": {
+    "message": "Ψευδώνυμα email σε χρήση"
+  },
   "popupEmailsBlocked": {
     "message": "Αποκλεισμένα email"
   },
   "popupEmailsForwarded": {
     "message": "Προωθημένα email"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Αναβαθμίστε στο Relay Premium για περισσότερη προστασία!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
     "message": "Ένα παγκόσμιο εργαλείο προστασίας"
@@ -107,6 +121,10 @@
   "popupEducationalComponent1Body": {
     "message": "Το Relay μπορεί να προστατέψει το email σας όπου κι αν βρίσκεστε.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Επισκεφθείτε τον ιστότοπο του Firefox Relay για σύνδεση ή δημιουργία λογαριασμού.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "Μετάβαση στο Firefox Relay",
