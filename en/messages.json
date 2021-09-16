@@ -140,6 +140,13 @@
         "message": "Relay can help you protect your email no matter where you are.",
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
+    "popupEducationalComponent2Body": {
+        "message": "You can set your Relay alias to forward only critical emails such as password resets and receipts.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupEducationalComponent3Body": {
+        "message": "We now support forwarding email attachments of up to 5MB."
+    },
     "pageInputIconSignUpText": {
         "message": "Visit the Firefox Relay website to sign in or create an account.",
         "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
