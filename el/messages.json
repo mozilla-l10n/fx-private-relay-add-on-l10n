@@ -68,6 +68,9 @@
       }
     }
   },
+  "popupGetUnlimitedAliases": {
+    "message": "Απόκτηση απεριόριστων ψευδωνύμων"
+  },
   "popupUnlimitedAliases": {
     "message": "Ψευδώνυμα χρήστη: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
@@ -98,6 +101,17 @@
   },
   "popupOnboardingPanel3Headline": {
     "message": "Λαμβάνετε πάρα πολλά email;"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Διαχειριστείτε τα ψευδώνυμα Relay σας και εναλλάξτε εύκολα από προώθηση σε φραγή.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Τέλεια!"
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Απόκτηση προσαρμοσμένου τομέα για ψευδώνυμα email Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
     "message": "Εγγραφή τομέα email"
