@@ -109,6 +109,10 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Τέλεια!"
   },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Αξιοποιείτε το Firefox Relay στο έπακρό του!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainHeadline": {
     "message": "Απόκτηση προσαρμοσμένου τομέα για ψευδώνυμα email Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
