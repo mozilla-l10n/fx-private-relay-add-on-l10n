@@ -92,5 +92,8 @@
   "popupOnboardingPanel1Body": {
     "message": "Cuando aparezca el icono de Firefox Relay en un sitio web, selecciónalo para generar un nuevo alias.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "¿No ves el ícono?"
   }
 }
