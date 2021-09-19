@@ -1,0 +1,96 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay facilita la creación de alias de correo electrónico que se reenvían a tu bandeja de entrada real. Úsalo para proteger tus cuentas en línea de piratas informáticos y mensajes no deseados.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta de Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Permitir que Mozilla recopile información sobre cómo usas esta extensión.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Autorizar la recopilación de datos",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Desactivar la recopilación de datos",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Recopilar datos de interacción cuando haces cosas como hacer clic en el icono Relay de tu barra de herramientas o crear un nuevo alias nos ayuda a saber qué funciona bien y dónde podemos mejorar. Siempre puedes desactivar esto en el panel de Ajustes.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Registrarse / Iniciar sesión"
+  },
+  "popupSettingsTitle": {
+    "message": "Ajustes"
+  },
+  "popupSettingsReturn": {
+    "message": "Volver al panel principal"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Mostrar el icono de Relay en los campos de correo electrónico de los sitios web",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Permitir que Mozilla recopile datos de interacción",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Enviar comentario"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privacidad"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Términos del servicio"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Te damos la bienvenida"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Inicia sesión en Relay con tu cuenta de Firefox para comenzar.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Continuar"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Alias restantes: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Obtener alias ilimitados"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Alias creados: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Mostrar panel anterior"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ir al panel siguiente"
+  },
+  "ManageAllAliases": {
+    "message": "Administrar todos los alias"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Cuando aparezca el icono de Firefox Relay en un sitio web, selecciónalo para generar un nuevo alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  }
+}
