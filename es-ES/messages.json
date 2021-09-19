@@ -95,5 +95,18 @@
   },
   "popupOnboardingPanel2Headline": {
     "message": "¿No ves el ícono?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Haz clic con el botón derecho en los campos del formulario para acceder al menú contextual y generar un alias desde ahí."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "¿Recibes demasiados correos electrónicos?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Administra tus alias de Relay y cambia fácilmente entre Reenvío y Bloqueo.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "¡Choca esos cinco!"
   }
 }
