@@ -1,0 +1,89 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay uľahčuje vytváranie e-mailových aliasov, ktoré sú preposielané do vašej skutočnej e-mailovej schránky. Použite ho na ochranu svojich online účtov pred hackermi a nechcenými správami.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Úspešne ste nainštalovali doplnok Firefox Relay. Ak chcete začať, prihláste sa do služby Relay pomocou svojho účtu Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Umožniť spoločnosti Mozilla zhromažďovať informácie o tom, ako používate toto rozšírenie.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Povoliť zber údajov",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Zakázať zber údajov",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Zhromažďovanie údajov o interakciách, napríklad keď kliknete na ikonu služby Relay na paneli s nástrojmi alebo vytvoríte nový alias, nám pomôže zistiť, čo funguje dobre a kde sa môžeme zlepšiť. Toto správanie môžete vypnúť na paneli Nastavenia.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Zaregistrujte sa / Prihláste sa"
+  },
+  "popupSettingsTitle": {
+    "message": "Nastavenia"
+  },
+  "popupSettingsReturn": {
+    "message": "Vrátiť sa na hlavný panel"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Zobraziť ikonu služby Relay v poliach pre e-mailové adresy na webových stránkach",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Umožniť spoločnosti Mozilla zhromažďovať údaje o interakciách",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Poskytnúť spätnú väzbu"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Súkromie"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Podmienky služby"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Vitajte"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Začnite prihlásením sa do služby Relay pomocou svojho účtu Firefox.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Pokračovať"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Zostávajúce aliasy: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Získajte neobmedzené množstvo aliasov"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Vytvorené aliasy: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Zobraziť predchádzajúci panel"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Prejsť na nasledujúci panel"
+  }
+}
