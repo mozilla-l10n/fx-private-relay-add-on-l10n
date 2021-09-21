@@ -85,5 +85,84 @@
   },
   "popupOnboardingShowNext": {
     "message": "Prejsť na nasledujúci panel"
+  },
+  "ManageAllAliases": {
+    "message": "Spravovať všetky aliasy"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Keď sa na webe zobrazí ikona Firefox Relay, vyberte ju a vygenerujte nový alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Nevidíte ikonu?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Kliknutím pravým tlačidlom myši na polia formulára sa dostanete do kontextovej ponuky a vygenerujete odtiaľ alias."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Dostávate príliš veľa e-mailov?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Spravujte svoje aliasy služby Relay a jednoducho prepínajte možnosť presmerovania či blokovania nových správ.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Perfektné!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Ste skúseným používateľom služby Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Získajte vlastnú doménu pre e-mailové aliasy služby Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Registrovať e-mailovú doménu"
+  },
+  "popupAliasesUsed": {
+    "message": "Použité e-mailové aliasy"
+  },
+  "popupEmailsBlocked": {
+    "message": "Zablokované e-maily"
+  },
+  "popupEmailsForwarded": {
+    "message": "Presmerované e-maily"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Inovujte na Relay Premium pre ešte väčšiu ochranu!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Celosvetový nástroj ochrany"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay vám môže pomôcť chrániť váš e-mail bez ohľadu na to, kde sa nachádzate.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Navštívte webovú stránku Firefox Relay a prihláste sa alebo si vytvorte účet.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Prejsť na Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Vytvoriť nový alias"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Už ste vytvorili maximálny počet aliasov",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Dosiahli ste limit počtu aliasov."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Pridať názov účtu",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Zavrieť"
   }
 }
