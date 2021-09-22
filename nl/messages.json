@@ -140,8 +140,27 @@
     "message": "Relay kan u helpen uw e-mail te beschermen, waar u ook bent.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "pageInputIconSignUpText": {
+    "message": "Bezoek de Firefox Relay-website om u aan te melden of een account aan te maken.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Naar Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconGenerateNewAlias": {
     "message": "Nieuw alias aanmaken"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "U hebt het maximale aantal aliassen al aangemaakt",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "U hebt de aliaslimiet bereikt."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Accountnaam toevoegen",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
   },
   "close": {
     "message": "Sluiten"
