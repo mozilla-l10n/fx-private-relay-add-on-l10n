@@ -1,4 +1,16 @@
 {
+  "extensionDescription": {
+    "message": "Firefox Relay maakt het gemakkelijk om e-mailaliassen te maken, die naar uw echte inbox worden doorgestuurd. Gebruik het om uw online accounts te beschermen tegen hackers en ongewenste berichten.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "U hebt de Firefox Relay-add-on met succes geïnstalleerd. Meld u aan bij Relay met uw Firefox-account om aan de slag te gaan.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla toestaan gegevens te verzamelen over hoe u deze extensie gebruikt.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "Gegevensverzameling toestaan",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -7,8 +19,26 @@
     "message": "Gegevensverzameling uitschakelen",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP": {
+    "message": "Door interactiegegevens te verzamelen wanneer u bijvoorbeeld op het Relay-pictogram in uw werkbalk klikt of een nieuwe alias maakt, kunnen we leren wat goed werkt en waar we kunnen verbeteren. U kunt dit altijd uitschakelen in het paneel Instellingen.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Inschrijven / Aanmelden"
+  },
   "popupSettingsTitle": {
     "message": "Instellingen"
+  },
+  "popupSettingsReturn": {
+    "message": "Terug naar hoofdpaneel"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Relay-pictogram tonen in e-mailvelden op websites",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Mozilla toestaan interactiegegevens te verzamelen",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
     "message": "Feedback achterlaten"
@@ -22,20 +52,93 @@
   "popupSignUpPanelWelcome": {
     "message": "Welkom"
   },
+  "popupSignUpPanelIntro": {
+    "message": "Ga aan de slag door u aan te melden bij Relay met uw Firefox-account.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
   "popupSignUpPanelContinue": {
     "message": "Doorgaan"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Resterende aliassen: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
   },
   "popupGetUnlimitedAliases": {
     "message": "Onbeperkte aliassen verkrijgen"
   },
+  "popupUnlimitedAliases": {
+    "message": "Aangemaakte aliassen: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Vorig paneel tonen"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Naar het volgende paneel"
+  },
   "ManageAllAliases": {
     "message": "Al uw aliassen beheren"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Selecteer het Fireox Relay-pictogram op een website om een nieuwe alias aan te maken.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Ziet u het pictogram niet?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Klik met de rechtermuisknop op formuliervelden om het contextmenu te openen en van daaruit een alias te genereren."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Ontvangt u te veel e-mailberichten?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Beheer uw Relay-aliassen en schakel eenvoudig Doorsturen om naar Blokkeren.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Gefeliciteerd!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "U bent een intensieve gebruiker van Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Een aangepast domein verkrijgen voor Relay-e-mailaliassen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "E-maildomein registreren"
+  },
+  "popupAliasesUsed": {
+    "message": "Gebruikte e-mailaliassen"
   },
   "popupEmailsBlocked": {
     "message": "E-mailberichten geblokkeerd"
   },
   "popupEmailsForwarded": {
     "message": "E-mailberichten doorgestuurd"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Upgrade naar Relay Premium voor meer bescherming!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Een wereldwijd beschermingshulpmiddel"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay kan u helpen uw e-mail te beschermen, waar u ook bent.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
     "message": "Nieuw alias aanmaken"
