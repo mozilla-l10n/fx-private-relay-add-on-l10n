@@ -99,6 +99,24 @@
   "popupOnboardingPanel2Body": {
     "message": "Clicca dextre sur le campos del formulario pro acceder le menu contextual e generar un alias de illac."
   },
+  "popupOnboardingPanel3Headline": {
+    "message": "Recipe tu troppo de e-mails?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Gere tu aliases de Relay e facilemente passa a inultrar pro blocar.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Perfecto!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Tu es un usator de potentia de Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Obtene un dominio personal pro le aliases de e-mail de Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "close": {
     "message": "Clauder"
   }
