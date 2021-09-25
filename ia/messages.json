@@ -1,0 +1,62 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay rende facile crear aliases de e-mail que inultra le messages a tu cassa de entrata real. Usa lo pro proteger tu contos in linea contra piratas informatic e messages indesirate.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "allowDataCollection": {
+    "message": "Permitter collection de datos",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Disactivar le collection de datos",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Inscriber se/acceder"
+  },
+  "popupSettingsTitle": {
+    "message": "Parametros"
+  },
+  "popupSettingsReturn": {
+    "message": "Retornar a quadro principal"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Lassar commentario"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Confidentialitate"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Terminos de servicio"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Benvenite"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Continuar"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Aliases restante: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Obtene aliases illimitate"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Aliases create: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Monstrar le quadro previe"
+  }
+}
