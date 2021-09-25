@@ -158,6 +158,10 @@
   "pageFillRelayAddressLimit": {
     "message": "Tu ha attingite le limite de alias."
   },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Adder nomine de conto",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
   "close": {
     "message": "Clauder"
   }
