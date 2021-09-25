@@ -117,6 +117,47 @@
     "message": "Obtene un dominio personal pro le aliases de e-mail de Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainButton": {
+    "message": "Registrar tu dominio e-mail"
+  },
+  "popupAliasesUsed": {
+    "message": "Un instrumento de protection universal"
+  },
+  "popupEmailsBlocked": {
+    "message": "E-mails blocate"
+  },
+  "popupEmailsForwarded": {
+    "message": "E-mails inultrate"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Promove a Relay Premium pro major protection!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Un instrumento de protection universal"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay pote adjutar a proteger tu e-mail non importa ubi tu es.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ir a Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Generar nove alias"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Tu ha jam create le maxime numero de aliases",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Tu ha attingite le limite de alias."
+  },
   "close": {
     "message": "Clauder"
   }
