@@ -36,6 +36,10 @@
     "message": "Monstrar icone de Relay in campos de e-mail sur sitos web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupSettingsCollectData": {
+    "message": "Permitter a Mozilla de colliger datos de interaction",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsLeaveFeedback": {
     "message": "Lassar commentario"
   },
@@ -47,6 +51,10 @@
   },
   "popupSignUpPanelWelcome": {
     "message": "Benvenite"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Comencia per acceder a Relay con tu Firefox Account.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
     "message": "Continuar"
@@ -74,6 +82,22 @@
   },
   "popupOnboardingShowPrevious": {
     "message": "Monstrar le quadro previe"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ir a quadro successive"
+  },
+  "ManageAllAliases": {
+    "message": "Gerer tote le Aliases"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Quando le icone de Firefox Relay appare sur un sito web, elige lo pro generar un nove alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Non vide tu le icone?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Clicca dextre sur le campos del formulario pro acceder le menu contextual e generar un alias de illac."
   },
   "close": {
     "message": "Clauder"
