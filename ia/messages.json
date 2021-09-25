@@ -19,6 +19,10 @@
     "message": "Disactivar le collection de datos",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP": {
+    "message": "Colliger datos de interaction quando tu face cosas como cliccar le icone de Relay in tu barra del instrumentos o crear un nove alias adjuta nos a apprender lo que functiona ben e ubi nos pote meliorar. Tu pote sempre disactivar isto in le quadro del parametros.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "Inscriber se/acceder"
   },
@@ -27,6 +31,10 @@
   },
   "popupSettingsReturn": {
     "message": "Retornar a quadro principal"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Monstrar icone de Relay in campos de e-mail sur sitos web",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsLeaveFeedback": {
     "message": "Lassar commentario"
