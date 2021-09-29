@@ -1,0 +1,55 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay memudahkan pembuatan surel alias yang meneruskan pesan ke kotak masuk asli Anda. Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Anda telah berhasil memasang pengaya Firefox Relay. Untuk mulai, gunakan Firefox account untuk masuk ke Relay.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Izinkan Mozilla untuk mengumpulkan informasi tentang cara Anda memakai ekstensi ini.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Izinkan pengumpulan data",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Matikan pengumpulan data",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Mengumpulkan data interaksi ketika Anda melakukan hal-hal seperti mengklik ikon Relay pada bilah alat atau membuat alias baru bantu kami mempelajari apa yang berfungsi baik dan di mana kami dapat meningkatkannya. Anda dapat selalu mematikannya di panel Pengaturan.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Daftar / Masuk"
+  },
+  "popupSettingsTitle": {
+    "message": "Pengaturan"
+  },
+  "popupSettingsReturn": {
+    "message": "Kembali ke panel utama"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Tampilkan ikon Relay di kolom surel pada situs web",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Izinkan Mozilla untuk mengumpulkan data interaksi",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Kirim Saran"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privasi"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Persyaratan Layanan"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Selamat Datang"
+  }
+}
