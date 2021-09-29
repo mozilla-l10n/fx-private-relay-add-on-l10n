@@ -128,5 +128,41 @@
   },
   "popupEmailsForwarded": {
     "message": "Surel diteruskan"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Tingkatkan jadi Relay Premium untuk perlindungan lebih!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Alat perlindungan seluruh dunia"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay dapat membantu Anda lindungi surel di mana pun Anda berada.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Kunjungi situs web Firefox Relay untuk masuk atau membuat akun.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Buka Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Buat Alias Baru"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Anda sudah membuat alias sebanyak jumlah maksimum",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Anda sudah mencapai batas jumlah alias."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Tambahkan nama akun",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Tutup"
   }
 }
