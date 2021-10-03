@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Firefox Relay rende facile crear aliases de e-mail que inultra le messages a tu cassa de entrata real. Usa lo pro proteger tu contos in linea contra piratas informatic e messages indesirate.",
+    "message": "Firefox Relay rende facile crear aliases de e-mail que reexpedi le messages a tu cassa de entrata real. Usa lo pro proteger tu contos in linea contra piratas informatic e messages indesirate.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "firstRunP": {
@@ -103,7 +103,7 @@
     "message": "Recipe tu troppo de e-mails?"
   },
   "popupOnboardingPanel3Body": {
-    "message": "Gere tu aliases de Relay e facilemente passa a inultrar pro blocar.",
+    "message": "Gere tu aliases de Relay e commuta facilemente inter Reexpedir e Blocar.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
@@ -127,7 +127,7 @@
     "message": "E-mails blocate"
   },
   "popupEmailsForwarded": {
-    "message": "E-mails inultrate"
+    "message": "Messages reexpedite"
   },
   "popupUpgradeToPremiumBanner": {
     "message": "Promove a Relay Premium pro major protection!",
