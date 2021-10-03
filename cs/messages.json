@@ -1,0 +1,57 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay usnadňuje vytváření e-mailových aliasů, které přeposílají e-maily do vaší skutečné schránky. Použijte jej k ochraně svých online účtů před hackery a nevyžádanou poštou.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "allowDataCollection": {
+    "message": "Povolit sběr dat",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Zakázat sběr dat",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Přihlášení / Registrace"
+  },
+  "popupSettingsTitle": {
+    "message": "Nastavení"
+  },
+  "popupSettingsReturn": {
+    "message": "Zpět na hlavní panel"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Zpětná vazba"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Soukromí"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Vítejte"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Pokračovat"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Zobrazit předchozí panel"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Přejít na další panel"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Nevidíte ikonu?"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Dostáváte příliš mnoho e-mailů?"
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Plácni to!"
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Přidat název účtu",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Zavřít"
+  }
+}
