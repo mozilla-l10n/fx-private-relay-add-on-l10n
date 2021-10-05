@@ -1,6 +1,168 @@
 {
+  "extensionDescription": {
+    "message": "Mae Firefox Relay yn ei gwneud hi'n hawdd creu arallenwau e-bostio sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn. Defnyddiwch hwn i ddiogelu eich cyfrifon ar-lein rhag hacwyr a negeseuon digroeso.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
-    "message": "Rydych chi wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
+    "message": "Rydych wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Caniatáu i Mozilla gasglu gwybodaeth am sut rydych chi'n defnyddio'r estyniad hwn.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Caniatáu casglu data",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Analluogi casglu data",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Mae casglu data rhyngweithio, sef, pan fyddwch chi'n gwneud pethau fel clicio'r eicon Relay yn eich bar offer neu greu arallenw newydd yn ein helpu i ddysgu beth sy'n gweithio'n dda a beth allwn ni wella. Gallwch chi ddiffodd hyn ar unrhyw adeg yn y panel Gosodiadau.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Cofrestru / Mewngofnodi"
+  },
+  "popupSettingsTitle": {
+    "message": "Gosodiadau"
+  },
+  "popupSettingsReturn": {
+    "message": "Nôl i'r prif banel"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Dangos eicon Relay mewn meysydd e-bost ar wefannau",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Caniatáu i Mozilla gasglu data rhyngweithio",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Gadael Adborth"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Preifatrwydd"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Amodau Gwasanaeth"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Croeso"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Dechreuwch trwy fewngofnodi i Relay gyda'ch cyfrif Firefox.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Parhau"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Arallenwau sy'n weddill: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Cael arallenwau diderfyn"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Arallenwau wedi'u creu: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Dangos y panel blaenorol"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Mynd i'r panel nesaf"
+  },
+  "ManageAllAliases": {
+    "message": "Rheoli Pob Arallenw"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Pan fydd eicon Firefox Relay yn ymddangos ar wefan, dewiswch hi i gynhyrchu arallenw newydd.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Ddim yn gweld yr eicon?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "De-gliciwch ar feysydd ffurflen i gael mynediad i'r ddewislen cyd-destun a chynhyrchu arallenw oddi yno."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Yn cael gormod o negeseuon e-bost?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Rheoli eich arallenwau Relay a newid o Ymlaen i Rwystro yn hawdd.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Da iawn!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Rydych chi'n uwch-ddefnyddiwr Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Cael parth cyfaddas ar gyfer arallenwau e-bost Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Cofrestru parth e-bost"
+  },
+  "popupAliasesUsed": {
+    "message": "Arallenwau e-bost wedi'u defnyddio"
+  },
+  "popupEmailsBlocked": {
+    "message": "E-byst wedi'u rhwystro"
+  },
+  "popupEmailsForwarded": {
+    "message": "E-byst wedi'u hanfon ymlaen"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Uwchraddiwch i Relay Premium am fwy o ddiogelwch!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Teclyn diogelwch byd-eang"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Gall Relay eich helpu i ddiogelu eich e-bost lle bynnag rydych chi.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Ewch i wefan Firefox Relay i fewngofnodi neu greu cyfrif.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ewch i Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Cynhyrchu Arallenw Newydd"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Rydych wedi cyrraedd terfyn yr arallenwau."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Ychwanegu enw'r cyfrif",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Cau"
   }
 }
