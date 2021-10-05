@@ -1,0 +1,6 @@
+{
+  "firstRunP": {
+    "message": "Rydych chi wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  }
+}
