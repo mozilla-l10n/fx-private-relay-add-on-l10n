@@ -1,4 +1,16 @@
 {
+  "extensionDescription": {
+    "message": "Firefox Relay facilita la creación de alias de correo electrónico que se reenvían a tu bandeja de entrada real. Úsalo para proteger tus cuentas en línea de piratas informáticos y mensajes no deseados.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta de Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Permitir que Mozilla recopile información sobre cómo utilizas esta extensión.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsPrivacy": {
     "message": "Privacidad"
   },
