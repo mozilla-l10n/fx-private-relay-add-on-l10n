@@ -1,0 +1,14 @@
+{
+  "popupSettingsPrivacy": {
+    "message": "Privacidad"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Continuar"
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Obtener alias ilimitados"
+  },
+  "close": {
+    "message": "Cerrar"
+  }
+}
