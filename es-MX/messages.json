@@ -11,6 +11,14 @@
     "message": "Permitir que Mozilla recopile información sobre cómo utilizas esta extensión.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
+  "allowDataCollection": {
+    "message": "Permitir recopilación de datos",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Deshabilitar recopilación de datos",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
   "popupSettingsPrivacy": {
     "message": "Privacidad"
   },
