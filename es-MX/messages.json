@@ -106,6 +106,36 @@
     "message": "Administra tus alias de Relay cambiando fácilmente entre Reenvío y Bloqueo.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "¡Chócalas!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "¡Eres un usuario avanzado de Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Obtén un dominio personalizado para los alias de e-mail de Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Registra domino de e-mail"
+  },
+  "popupAliasesUsed": {
+    "message": "Alias de e-mail usados"
+  },
+  "popupEmailsBlocked": {
+    "message": "E-mails bloqueados"
+  },
+  "popupEmailsForwarded": {
+    "message": "E-mails reenviados"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "¡Actualiza a Relay Premium para mayor protección!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Una herramienta de protección mundial"
+  },
   "close": {
     "message": "Cerrar"
   }
