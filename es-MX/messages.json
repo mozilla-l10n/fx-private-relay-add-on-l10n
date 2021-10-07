@@ -46,11 +46,45 @@
   "popupSettingsPrivacy": {
     "message": "Privacidad"
   },
+  "popupSettingsTermsOfService": {
+    "message": "Términos de servicio"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Bienvenido"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Empieza iniciando sesión en Relay con tu cuenta de Firefox.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
+  "popupRemainingAliases-2": {
+    "message": "Alias restantes: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
-    "message": "Obtener alias ilimitados"
+    "message": "Obtén alias ilimitados"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Alias creados: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Mostrar panel anterior"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ir al panel siguiente"
   },
   "close": {
     "message": "Cerrar"
