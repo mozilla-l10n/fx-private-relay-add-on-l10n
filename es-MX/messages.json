@@ -136,6 +136,32 @@
   "popupEducationalComponent1Headline": {
     "message": "Una herramienta de protección mundial"
   },
+  "popupEducationalComponent1Body": {
+    "message": "Relay te puede ayudar a proteger tu e-mail sin importar dónde estés.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ir a Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Generar nuevo alias"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Ya has creado el número máximo de alias",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Alcanzaste el límite de alias."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Agregar nombre de cuenta",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
   "close": {
     "message": "Cerrar"
   }
