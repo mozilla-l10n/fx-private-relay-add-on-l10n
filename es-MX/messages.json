@@ -86,6 +86,26 @@
   "popupOnboardingShowNext": {
     "message": "Ir al panel siguiente"
   },
+  "ManageAllAliases": {
+    "message": "Administrar todos los alias"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Cuando aparezca el icono de Firefox Relay en un sitio web, selecciónalo para generar un nuevo alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "¿No ves el ícono?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Haz clic derecho sobre los campos del formulario para abrir el menú contextual y generar un alias desde ahí."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "¿Recibes muchos e-mails?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Administra tus alias de Relay cambiando fácilmente entre Reenvío y Bloqueo.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
   "close": {
     "message": "Cerrar"
   }
