@@ -164,5 +164,21 @@
     },
     "close": {
         "message": "Close"
+    },
+    "popupDataCollectionHeadline": {
+        "message": "Allow data collection"
+    },
+    "popupDataCollectionBody": {
+        "message": "You can allow Relay to collect optional data on the websites where your aliases are used and created. Allowing this data collection will make managing your inbox even easier.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupDataCollectionButtonLearnMore": {
+        "message": "Learn More"
+    },
+    "popupDataCollectionButtonDecline": {
+        "message": "Decline"
+    },
+    "popupDataCollectionButtonAllow": {
+        "message": "Allow"
     }
 }
