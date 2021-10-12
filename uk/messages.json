@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Закрити"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Увімкнути нові функції"
+  },
+  "popupDataCollectionBody": {
+    "message": "Ви можете дозволити Relay збирати додаткові дані, які дозволяють нам синхронізувати ваші псевдоадреси на ваших пристроях із вебсайтами, де вони створюються та використовуються.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Докладніше"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Відхилити"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Дозволити"
   }
 }
