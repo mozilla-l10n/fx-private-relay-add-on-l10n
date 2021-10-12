@@ -166,10 +166,10 @@
         "message": "Close"
     },
     "popupDataCollectionHeadline": {
-        "message": "Allow data collection"
+        "message": "Enable new features"
     },
     "popupDataCollectionBody": {
-        "message": "You can allow Relay to collect optional data on the websites where your aliases are used and created. Allowing this data collection will make managing your inbox even easier.",
+        "message": "You can allow Relay to collect optional data that allows us to sync your alias labels across your devices with the websites where they’re created and used.",
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupDataCollectionButtonLearnMore": {
