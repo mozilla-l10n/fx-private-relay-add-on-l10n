@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Stäng"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Aktivera nya funktioner"
+  },
+  "popupDataCollectionBody": {
+    "message": "Du kan tillåta Relay att samla in valfri data som gör att vi kan synkronisera dina aliasetiketter mellan dina enheter med webbplatserna där de skapas och används.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Läs mer"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Neka"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Tillåt"
   }
 }
