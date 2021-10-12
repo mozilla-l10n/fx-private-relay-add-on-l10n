@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Close"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Enable new features"
+  },
+  "popupDataCollectionBody": {
+    "message": "You can allow Relay to collect optional data that allows us to synchronise your alias labels across your devices with the web sites where they’re created and used.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Learn More"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Decline"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Allow"
   }
 }
