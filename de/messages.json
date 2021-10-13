@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Schließen"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Neue Funktionen aktivieren"
+  },
+  "popupDataCollectionBody": {
+    "message": "Sie können Relay erlauben, optionale Daten zu sammeln, die es uns ermöglichen, Ihre Alias-Beschriftungen über Ihre Geräte hinweg mit den Websites zu synchronisieren, auf denen sie erstellt und verwendet werden.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Weitere Informationen"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Ablehnen"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Erlauben"
   }
 }
