@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Sluiten"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Nieuwe functies inschakelen"
+  },
+  "popupDataCollectionBody": {
+    "message": "U kunt Relay toestaan om optionele gegevens te verzamelen, waarmee we uw aliaslabels op al uw apparaten kunnen synchroniseren met de websites waarop ze zijn gemaakt en gebruikt.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Meer info"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Weigeren"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Toestaan"
   }
 }
