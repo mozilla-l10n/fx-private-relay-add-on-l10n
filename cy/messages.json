@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Cau"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Galluogi nodweddion newydd"
+  },
+  "popupDataCollectionBody": {
+    "message": "Gallwch ganiatáu i Relay gasglu data dewisol sy'n ein galluogi i gydweddu labeli arallenwau eich holl ddyfeisiau â'r gwefannau lle maen nhw wedi'u creu a'u defnyddio.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Dysgu Rhagor"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Gwrthod"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Caniatáu"
   }
 }
