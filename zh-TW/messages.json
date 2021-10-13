@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "關閉"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "開啟全新功能"
+  },
+  "popupDataCollectionBody": {
+    "message": "您可允許 Relay 收集更多資料，讓我們於各裝置間同步您於哪些網站建立使用別名標籤（非必要提供）。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "了解更多"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "拒絕"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "允許"
   }
 }
