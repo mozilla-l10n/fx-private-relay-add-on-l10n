@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Clauder"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Activar nove functiones"
+  },
+  "popupDataCollectionBody": {
+    "message": "Tu pote permitter a Relay de colliger datos optional pro nos consentir de synchronisar tu etiquettas alias inter apparatos con le sitos web ubi illos ha essite create e es usate.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Pro saper plus"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Refusar"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Permitter"
   }
 }
