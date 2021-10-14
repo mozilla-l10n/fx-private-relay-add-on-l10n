@@ -168,6 +168,10 @@
   "popupDataCollectionHeadline": {
     "message": "启用新功能"
   },
+  "popupDataCollectionBody": {
+    "message": "您可以允许 Relay 收集更多数据，以便我们将您在各网站上创建使用的马甲标签在设备间同步（非必需）。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "详细了解"
   },
