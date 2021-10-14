@@ -114,11 +114,11 @@
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
-    "message": "用自定义子域名创建 Relay 马甲邮箱",
+    "message": "用自定义域名创建 Relay 马甲邮箱",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
-    "message": "注册邮箱子域名"
+    "message": "注册邮箱域名"
   },
   "popupAliasesUsed": {
     "message": "已用的邮箱马甲"
