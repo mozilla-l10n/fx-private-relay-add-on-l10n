@@ -164,5 +164,17 @@
   },
   "close": {
     "message": "关闭"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "启用新功能"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "详细了解"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "拒绝"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "允许"
   }
 }
