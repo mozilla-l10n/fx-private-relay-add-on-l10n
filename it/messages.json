@@ -164,5 +164,8 @@
   },
   "close": {
     "message": "Chiudi"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Consenti"
   }
 }
