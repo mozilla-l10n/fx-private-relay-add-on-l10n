@@ -165,6 +165,19 @@
   "close": {
     "message": "Chiudi"
   },
+  "popupDataCollectionHeadline": {
+    "message": "Attiva nuove funzioni"
+  },
+  "popupDataCollectionBody": {
+    "message": "Puoi consentire a Relay di raccogliere dati facoltativi che ci consentono di sincronizzare le etichette degli alias su tutti i tuoi dispositivi, insieme ai siti web dove li hai generati e utilizzati.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Ulteriori informazioni"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Rifiuta"
+  },
   "popupDataCollectionButtonAllow": {
     "message": "Consenti"
   }
