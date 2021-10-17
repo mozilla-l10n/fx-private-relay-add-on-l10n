@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Zavrieť"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Povolenie nových funkcií"
+  },
+  "popupDataCollectionBody": {
+    "message": "Môžete službe Relay povoliť zhromažďovať voliteľné údaje, ktoré nám umožňujú synchronizovať štítky vašich aliasov vo vašich zariadeniach so stránkami, pre ktoré sú vytvorené a na ktorých sú používané.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Ďalšie informácie"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Odmietnuť"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Povoliť"
   }
 }
