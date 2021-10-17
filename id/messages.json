@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Tutup"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Aktifkan fitur baru"
+  },
+  "popupDataCollectionBody": {
+    "message": "Anda dapat mengizinkan Relay untuk mengumpulkan data opsional yang memungkinkan kami menyinkronkan label alias Anda di seluruh perangkat Anda dengan situs web tempat label tersebut dibuat dan digunakan.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Pelajari Lebih Lanjut"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Tolak"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Izinkan"
   }
 }
