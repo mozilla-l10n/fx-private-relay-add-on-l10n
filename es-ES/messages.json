@@ -164,5 +164,17 @@
   },
   "close": {
     "message": "Cerrar"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Activar nuevas funciones"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Saber más"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Rechazar"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Permitir"
   }
 }
