@@ -149,7 +149,7 @@
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
-    "message": "Nieuw alias aanmaken"
+    "message": "Nieuwe alias aanmaken"
   },
   "pageInputIconMaxAliasesError": {
     "message": "U hebt het maximale aantal aliassen al aangemaakt",
