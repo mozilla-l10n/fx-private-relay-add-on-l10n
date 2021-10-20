@@ -164,5 +164,21 @@
   },
   "close": {
     "message": "Κλείσιμο"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Ενεργοποίηση νέων λειτουργιών"
+  },
+  "popupDataCollectionBody": {
+    "message": "Μπορείτε να επιτρέψετε στο Relay τη συλλογή προαιρετικών δεδομένων που μας επιτρέπουν να συγχρονίζουμε τις ετικέτες των ψευδωνύμων σας στις συσκευές σας με τους ιστοτόπους όπου δημιουργήθηκαν και χρησιμοποιήθηκαν.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Μάθετε περισσότερα"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Απόρριψη"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Αποδοχή"
   }
 }
