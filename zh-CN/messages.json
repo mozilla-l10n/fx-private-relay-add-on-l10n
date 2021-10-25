@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "生成新马甲"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "获得无限别名"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "您可创建的马甲数量已满",
     "description": "Tells the user they have already created the max number of aliases."
