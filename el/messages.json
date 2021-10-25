@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Δημιουργία νέου ψευδωνύμου"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Απόκτηση απεριόριστων ψευδώνυμων"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Έχετε ήδη δημιουργήσει τον μέγιστο αριθμό ψευδωνύμων",
     "description": "Tells the user they have already created the max number of aliases."
