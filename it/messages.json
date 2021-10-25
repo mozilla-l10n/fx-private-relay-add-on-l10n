@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Genera nuovo alias"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Ottieni alias illimitati"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Hai già creato il numero massimo di alias",
     "description": "Tells the user they have already created the max number of aliases."
