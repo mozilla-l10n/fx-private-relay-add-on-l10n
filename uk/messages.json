@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Створити нову псевдоадресу"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Отримати необмежену кількість псевдоадрес"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Ви вже створили максимальну кількість псевдоадрес",
     "description": "Tells the user they have already created the max number of aliases."
