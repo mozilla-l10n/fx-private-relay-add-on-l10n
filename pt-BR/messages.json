@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Gerar novo endereço de redirecionamento"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Tenha endereços de redirecionamento ilimitados"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Você já criou o número máximo de endereços de redirecionamento",
     "description": "Tells the user they have already created the max number of aliases."
