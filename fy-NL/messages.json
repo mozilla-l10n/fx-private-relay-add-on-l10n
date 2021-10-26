@@ -1,0 +1,31 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay makket it maklik om e-mailaliassen te meitsjen, dy't nei jo echte postfek yn trochstjoerd wurde. Brûk it om jo online accounts te beskermjen tsjin hackers en net-winske berjochten.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Jo hawwe de Firefox Relay-add-on mei sukses ynstallearre. Meld jo oan by Relay mei jo Firefox-account om oan de slach te gean.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla tastean gegevens te sammeljen oer hoe't jo dizze útwreiding brûke.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Gegevenssamling tastean",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Gegevenssamling útskeakelje",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Ynskriuwe / Oanmelde"
+  },
+  "popupSettingsTitle": {
+    "message": "Ynstellingen"
+  },
+  "popupSettingsReturn": {
+    "message": "Werom nei haadpaniel"
+  }
+}
