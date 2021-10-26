@@ -151,6 +151,9 @@
   "pageInputIconGenerateNewAlias": {
     "message": "產生新別名"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "取得無限量別名"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "您可建立的別名數量已滿",
     "description": "Tells the user they have already created the max number of aliases."
