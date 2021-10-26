@@ -69,7 +69,7 @@
     }
   },
   "popupGetUnlimitedAliases": {
-    "message": "Cael arallenwau diderfyn"
+    "message": "Cael arallenwau dirifedi"
   },
   "popupUnlimitedAliases": {
     "message": "Arallenwau wedi'u creu: $COUNT$",
@@ -150,6 +150,9 @@
   },
   "pageInputIconGenerateNewAlias": {
     "message": "Cynhyrchu Arallenw Newydd"
+  },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Cael arallenwau diderfyn"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
