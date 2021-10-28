@@ -54,5 +54,130 @@
   },
   "popupSignUpPanelContinue": {
     "message": "Trochgean"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Restearjende aliassen: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Unbeheinde aliassen krije"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Oanmakke aliassen: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Foarige paniel toane"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Nei it folgjende paniel"
+  },
+  "ManageAllAliases": {
+    "message": "Al jo aliassen beheare"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Selektearje it Fireox Relay-piktogram op in website om in nije alias oan te meitsjen.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Sjogge jo it piktogram net?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Klik mei de rjochtermûsknop op formulierfjilden om it kontekstmenu te iepenjen en fan dêrút in alias te generearjen."
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Untfange jo te folle e-mailberjochten?"
+  },
+  "popupOnboardingPanel3Body": {
+    "message": "Behear jo Relay-aliassen en skeakelje ienfâldich Trochstjoeren om nei Blokkearje.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Lokwinske!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Jo binne in yntinsive brûker fan Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "In oanpast domein krije foar Relay-e-mailaliassen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "E-maildomein registrearje"
+  },
+  "popupAliasesUsed": {
+    "message": "Brûkte e-mailaliassen"
+  },
+  "popupEmailsBlocked": {
+    "message": "E-mailberjochten blokkearre"
+  },
+  "popupEmailsForwarded": {
+    "message": "E-mailberjochten trochstjoerd"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Wurdearje op nei Relay Premium foar mear beskerming!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "In wrâldwiid beskermingshelpmiddel"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay kin jo helpe jo e-mail te beskermjen, wêr't jo ek binne.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Besykje de Firefox Relay-website om jo oan te melden of in account oan te meitsjen.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Nei Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Nije alias oanmeitsje"
+  },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Unbeheinde aliassen krije"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Jo hawwe it maksimum oantal aliassen al oanmakke",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Jo hawwe de aliaslimyt berikt."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Accountnamme tafoegje",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
+  "close": {
+    "message": "Slute"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Nije funksjes ynskeakelje"
+  },
+  "popupDataCollectionBody": {
+    "message": "Jo kinne Relay tastean om opsjonele gegevens te sammeljen, wêrmei't wy jo aliaslabels op al jo apparaten syngronisearje kinne mei de websites wêrop se makke en brûkt binne.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Mear ynfo"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Wegerje"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Tastean"
   }
 }
