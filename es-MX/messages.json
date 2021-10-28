@@ -151,12 +151,25 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Generar nuevo alias"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Obtener alias ilimitados"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Ya has creado el número máximo de alias",
     "description": "Tells the user they have already created the max number of aliases."
   },
   "pageFillRelayAddressLimit": {
     "message": "Alcanzaste el límite de alias."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Caracteres no permitidos: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Agregar nombre de cuenta",
