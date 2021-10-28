@@ -161,6 +161,16 @@
   "pageFillRelayAddressLimit": {
     "message": "Hai raggiunto il numero massimo di alias."
   },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Caratteri non consentiti: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
+  },
   "profilePageDefaulAliasLabelText": {
     "message": "Aggiungi nome account",
     "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
