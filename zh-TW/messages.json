@@ -161,6 +161,16 @@
   "pageFillRelayAddressLimit": {
     "message": "您已達到別名數量限制。"
   },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "不允許下列符號: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
+  },
   "profilePageDefaulAliasLabelText": {
     "message": "新增帳號名稱",
     "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
