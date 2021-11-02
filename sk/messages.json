@@ -182,7 +182,7 @@
     "message": "Povolenie nových funkcií"
   },
   "popupDataCollectionBody": {
-    "message": "Môžete službe Relay povoliť zhromažďovať voliteľné údaje, ktoré nám umožňujú synchronizovať štítky vašich aliasov vo vašich zariadeniach so stránkami, pre ktoré sú vytvorené a na ktorých sú používané.",
+    "message": "Službe Relay môžete povoliť zhromažďovať voliteľné údaje, ktoré nám umožňujú priraďovať štítky vašich aliasov vo všetkých vašich zariadeniach ku stránkam, pre ktoré sú vytvorené a na ktorých sú používané.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
