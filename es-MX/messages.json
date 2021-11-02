@@ -181,6 +181,10 @@
   "popupDataCollectionHeadline": {
     "message": "Habilitar nuevas funciones"
   },
+  "popupDataCollectionBody": {
+    "message": "Puedes permitir que Relay recopile datos opcionales que nos permitan sincronizar tus etiquetas de alias en tus dispositivos con los sitios web donde se crean y utilizan.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Saber más"
   },
