@@ -197,6 +197,10 @@
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "隱私權公告更新"
   },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "為了加強 Firefox Relay 的可靠度，降低郵件轉寄失敗的機會，我們將在伺服器上暫存收到的郵件，直到信件成功寄出為止。這個保存時間不會超過三天。",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "檢視隱私權公告"
   },
