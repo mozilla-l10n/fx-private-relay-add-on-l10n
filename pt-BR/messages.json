@@ -193,5 +193,14 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Permitir"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Atualização do aviso de privacidade"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Ver aviso de privacidade"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Descartar"
   }
 }
