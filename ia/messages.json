@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Permitter"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Actualisation del aviso de confidentialitate"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Pro meliorar le fidabilitate de Firefox Relay in caso que un e-mail non pote esser livrate, nos temporarimente mantenera le e-mail sur nostre servitores usque illo ha essite livrate. Nos jammais lo tenera illac plus que tres dies.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Vider le aviso de confidentialitate"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Dimitter"
   }
 }
