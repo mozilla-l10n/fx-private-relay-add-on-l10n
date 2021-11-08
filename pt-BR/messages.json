@@ -197,6 +197,10 @@
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Atualização do aviso de privacidade"
   },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Para melhorar a confiabilidade do Firefox Relay no caso de não conseguir entregar um email, ele será mantido em nossos servidores temporariamente até que seja entregue. Nunca iremos manter por mais de três dias.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "Ver aviso de privacidade"
   },
