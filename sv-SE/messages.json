@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Tillåt"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Uppdatering av sekretesspolicy"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "För att förbättra tillförlitligheten hos Firefox Relay i händelse av att ett e-postmeddelande inte kan levereras, kommer vi tillfälligt att behålla e-postmeddelandet på våra servrar tills det har levererats. Vi kommer aldrig att hålla på det i mer än tre dagar.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Visa sekretesspolicy"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Ignorera"
   }
 }
