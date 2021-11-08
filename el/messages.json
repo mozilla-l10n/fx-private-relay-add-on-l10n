@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Αποδοχή"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Ενημέρωση σημείωσης απορρήτου"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Για τη βελτίωση της αξιοπιστίας του Firefox Relay σε περίπτωση που δεν μπορεί παραδοθεί κάποιο email, θα το διατηρήσουμε προσωρινά στους διακομιστές μας έως ότου παραδοθεί. Δεν θα το κρατήσουμε ποτέ παραπάνω από τρεις ημέρες.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Προβολή σημείωσης απορρήτου"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Απόρριψη"
   }
 }
