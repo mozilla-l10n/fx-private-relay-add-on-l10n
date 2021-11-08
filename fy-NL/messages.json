@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Tastean"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Fernijing privacyferklearring"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Om de betrouberheid fan Firefox Relay te ferbetterjen yn it gefal dat in e-mailberjocht net ôflevere wurde kin, bewarje wy it e-mailberjocht tydlik op ús servers oant it ôflevere is. Wy bewarje it nea langer as trije dagen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Privacyferklearring besjen"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Slute"
   }
 }
