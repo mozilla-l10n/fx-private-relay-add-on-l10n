@@ -193,5 +193,14 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "允许"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "隐私声明更新"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "查看隐私声明"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "知道了"
   }
 }
