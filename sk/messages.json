@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Povoliť"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Aktualizácia oznámenia o ochrane osobných údajov"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Aby sme zvýšili spoľahlivosť služby Firefox Relay v prípade, že e-mail nebude možné doručiť, dočasne ho ponecháme na našich serveroch, kým nebude doručený. Nikdy to však nebude dlhšie ako tri dni.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Zobraziť oznámenie o ochrane osobných údajov"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Zavrieť"
   }
 }
