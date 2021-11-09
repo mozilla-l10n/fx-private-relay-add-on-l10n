@@ -114,7 +114,7 @@
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
-    "message": "Cael parth cyfaddas ar gyfer arallenwau e-bost Relay",
+    "message": "Cael parth personol ar gyfer arallenwau e-bost Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Caniatáu"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Diweddariad Hysbysiad Preifatrwydd"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Er mwyn gwella dibynadwyedd { -brand-name-firefox-relay } os nad ydym yn gallu dosbarthu e-bost, byddwn yn cadw'r e-bost dros dro ar ein gweinyddwyr nes iddo gael ei anfon. Fyddwn ni byth yn ei gadw am fwy na thridiau.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Gweld yr Hysbysiad Preifatrwydd"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Cau"
   }
 }
