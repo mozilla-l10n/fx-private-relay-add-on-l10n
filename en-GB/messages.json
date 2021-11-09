@@ -193,5 +193,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Allow"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Privacy Notice Update"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "To improve the reliability of Firefox Relay in the event that an email can’t be delivered, we will temporarily keep the email on our servers until it has been delivered. We will never hold onto it for more than three days.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "View Privacy Notice"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Dismiss"
   }
 }
