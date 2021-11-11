@@ -198,7 +198,7 @@
     "message": "隐私声明更新"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "为了提高 Firefox Relay 的可靠性，尽可能避免邮件转发失败，我们将暂时保存收到的邮件直到转发成功。这个保存期限不会超过三天。",
+    "message": "为了提高 Firefox Relay 的可靠性，尽可能避免邮件转发失败，我们将在服务器上暂存收到的邮件直到转发成功，但不会超过三天。",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
