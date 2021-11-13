@@ -193,5 +193,8 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Permitir"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Ver aviso de privacidad"
   }
 }
