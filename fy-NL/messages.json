@@ -8,7 +8,7 @@
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Mozilla tastean gegevens te sammeljen oer hoe't jo dizze útwreiding brûke.",
+    "message": "Mozilla tastean gegevens te sammeljen oer hoe’t jo dizze útwreiding brûke.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
