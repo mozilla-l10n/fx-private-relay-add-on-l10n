@@ -20,7 +20,7 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
-    "message": "Troch ynteraksjegegevens te sammeljen wannear’t jo bygelyks op it Relay-piktogram yn jo arkbalke klikke of in nije alias meitsje, kinne wy leare wat goed wurket en wêr't wy ferbetterje kinne. Jo kinne dit altyd útskeakelje yn it paniel Ynstellingen.",
+    "message": "Troch ynteraksjegegevens te sammeljen wannear’t jo bygelyks op it Relay-piktogram yn jo arkbalke klikke of in nije alias meitsje, kinne wy leare wat goed wurket en wêr’t wy ferbetterje kinne. Jo kinne dit altyd útskeakelje yn it paniel Ynstellingen.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -137,7 +137,7 @@
     "message": "In wrâldwiid beskermingshelpmiddel"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay kin jo helpe jo e-mail te beskermjen, wêr't jo ek binne.",
+    "message": "Relay kin jo helpe jo e-mail te beskermjen, wêr’t jo ek binne.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "pageInputIconSignUpText": {
