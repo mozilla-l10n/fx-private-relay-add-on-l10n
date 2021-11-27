@@ -20,7 +20,7 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
-    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-E-Mail-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
+    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-E-Mail-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungen-Ansicht deaktivieren.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -90,20 +90,20 @@
     "message": "Alle Alias-E-Mail-Adressen verwalten"
   },
   "popupOnboardingPanel1Body": {
-    "message": "Wenn das Firefox-Relay-Symbol auf einer Website angezeigt wird, wählen Sie es aus, um eine neue Alias-Adresse zu generieren.",
+    "message": "Wenn das Firefox-Relay-Symbol auf einer Website angezeigt wird, wählen Sie es aus, um eine neue Alias-E-Mail-Adresse zu generieren.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupOnboardingPanel2Headline": {
     "message": "Sie sehen das Symbol nicht?"
   },
   "popupOnboardingPanel2Body": {
-    "message": "Klicken Sie mit der rechten Maustaste auf Formularfelder, um auf das Kontextmenü zuzugreifen und von dort aus eine Alias-Adresse zu erzeugen."
+    "message": "Klicken Sie mit der rechten Maustaste auf Formularfelder, um auf das Kontextmenü zuzugreifen und von dort aus eine Alias-E-Mail-Adresse zu erzeugen."
   },
   "popupOnboardingPanel3Headline": {
     "message": "Erhalten Sie zu viele E-Mails?"
   },
   "popupOnboardingPanel3Body": {
-    "message": "Verwalten Sie Ihre Relay-Alias-Adressen und ändern Sie die Einstellung für die Weiterleitung auf „Blockieren“.",
+    "message": "Verwalten Sie Ihre Alias-E-Mail-Adressen bei Relay und ändern Sie die Einstellung für die Weiterleitung auf „Blockieren“.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
