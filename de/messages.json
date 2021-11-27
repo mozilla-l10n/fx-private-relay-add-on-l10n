@@ -114,7 +114,7 @@
     "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
-    "message": "Holen Sie sich eine benutzerdefinierte Domain für Relay-Alias-E-Mail-Adressen",
+    "message": "Holen Sie sich eine benutzerdefinierte Domain für Alias-E-Mail-Adressen bei Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
