@@ -90,20 +90,20 @@
     "message": "Gerenciar endereços de redirecionamento"
   },
   "popupOnboardingPanel1Body": {
-    "message": "Quando o ícone do Firefox Relay aparecer em um site, clique nele para gerar um novo endereço de redirecionamento.",
+    "message": "Quando o ícone do Firefox Relay aparecer, clique nele para gerar um novo endereço.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupOnboardingPanel2Headline": {
     "message": "O ícone não aparece?"
   },
   "popupOnboardingPanel2Body": {
-    "message": "Clique com o botão direito em campos de formulário para acessar o menu de contexto e gerar um endereço de redirecionamento."
+    "message": "Clique com o botão direito em campos para acessar o menu de contexto e gerar um endereço."
   },
   "popupOnboardingPanel3Headline": {
     "message": "Recebendo emails demais?"
   },
   "popupOnboardingPanel3Body": {
-    "message": "Gerencie seus endereços de redirecionamento do Relay e mude facilmente de Encaminhamento para Bloqueio.",
+    "message": "Gerencie seus endereços do Relay e mude facilmente de Encaminhamento para Bloqueio.",
     "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
