@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Отримати необмежену кількість псевдоадрес"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Використовувати наявну псевдоадресу з цього сайту…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Останні псевдоадреси"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Ви вже створили максимальну кількість псевдоадрес",
     "description": "Tells the user they have already created the max number of aliases."
