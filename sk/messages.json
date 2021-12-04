@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Získajte neobmedzené množstvo aliasov"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Použiť existujúci alias z tejto stránky…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Naposledy použité aliasy"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Už ste vytvorili maximálny počet aliasov",
     "description": "Tells the user they have already created the max number of aliases."
