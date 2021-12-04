@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Få obegränsat med alias"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Använd befintliga alias från denna webbplats…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Senaste alias"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Du har redan skapat det maximala antalet alias",
     "description": "Tells the user they have already created the max number of aliases."
