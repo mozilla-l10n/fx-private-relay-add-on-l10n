@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Unbegrenzt viele Alias-Adressen erhalten"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Vorhandene Alias-E-Mail-Adresse von dieser Website verwenden…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Kürzlich verwendete Alias-E-Mail-Adressen"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Sie haben bereits die maximale Anzahl von Alias-Adressen erstellt",
     "description": "Tells the user they have already created the max number of aliases."
