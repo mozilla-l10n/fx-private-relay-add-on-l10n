@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Obtene aliases illimitate"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Usar alias existente ab iste sito…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Aliases recente"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Tu ha jam create le maxime numero de aliases",
     "description": "Tells the user they have already created the max number of aliases."
