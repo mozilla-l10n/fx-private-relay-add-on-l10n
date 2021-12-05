@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Απόκτηση απεριόριστων ψευδώνυμων"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Χρήση υπάρχοντος ψευδωνύμου από τον ιστότοπο…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Πρόσφατα ψευδώνυμα"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Έχετε ήδη δημιουργήσει τον μέγιστο αριθμό ψευδωνύμων",
     "description": "Tells the user they have already created the max number of aliases."
