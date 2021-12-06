@@ -154,6 +154,9 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Obtener alias ilimitados"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Usar alias existente de este sitio…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Alias recientes"
   },
