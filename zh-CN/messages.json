@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "获得无限多个马甲"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "使用此网站已有的马甲…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "最近用过的马甲"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "您可创建的马甲数量已满",
     "description": "Tells the user they have already created the max number of aliases."
