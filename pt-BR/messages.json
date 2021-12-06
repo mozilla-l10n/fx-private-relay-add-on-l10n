@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Tenha endereços de redirecionamento ilimitados"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Usar um endereço de redirecionamento existente neste site…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Endereços de redirecionamento recentes"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Você já criou o número máximo de endereços de redirecionamento",
     "description": "Tells the user they have already created the max number of aliases."
