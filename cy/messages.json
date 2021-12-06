@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Cael arallenwau diderfyn"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Defnyddiwch yr Arallenwau Presennol o'r Wefan hon…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Arallenwau Diweddar"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
     "description": "Tells the user they have already created the max number of aliases."
