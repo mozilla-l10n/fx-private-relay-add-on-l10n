@@ -154,6 +154,12 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Unbeheinde aliassen krije"
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "In besteande alias fan dizze website brûke…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Resinte aliassen"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Jo hawwe it maksimum oantal aliassen al oanmakke",
     "description": "Tells the user they have already created the max number of aliases."
