@@ -12,5 +12,107 @@
   },
   "popupSettingsTitle": {
     "message": "Beállítások"
+  },
+  "popupSettingsReturn": {
+    "message": "Vissza a fő panelre"
+  },
+  "popupSettingsShowIcon": {
+    "message": "A Relay ikon megjelenítése a webhelyek e-mail mezőiben",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Engedélyezés, hogy a Mozilla interakciós adatokat gyűjtsön",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Visszajelzés küldése"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Adatvédelem"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Szolgáltatás feltételei"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Üdvözöljük"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Folytatás"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Hátralévő álnevek: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Szerezzen korlátlan számú álnevet"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Létrehozott álnevek: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Előző panel megjelenítése"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ugrás a következő panelre"
+  },
+  "ManageAllAliases": {
+    "message": "Összes álnév kezelése"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Nem látja az ikont?"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Túl sok e-mailt kap?"
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Pacsi!"
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Szerezzen egyéni domaint a Relay e-mail álnevekhez",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "E-mail domain regisztrálása"
+  },
+  "popupAliasesUsed": {
+    "message": "Használt e-mail álnevek"
+  },
+  "popupEmailsBlocked": {
+    "message": "Blokkolt e-mailek"
+  },
+  "popupEmailsForwarded": {
+    "message": "Továbbított e-mailek"
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Új alias létrehozása"
+  },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Szerezzen korlátlan számú álnevet"
+  },
+  "close": {
+    "message": "Bezárás"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Új funkciók engedélyezése"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "További tudnivalók"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Elutasítás"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Engedélyezés"
   }
 }
