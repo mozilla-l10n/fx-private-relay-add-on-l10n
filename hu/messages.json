@@ -100,6 +100,10 @@
   "pageInputIconGetUnlimitedAliases": {
     "message": "Szerezzen korlátlan számú álnevet"
   },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Fióknév hozzáadása",
+    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+  },
   "close": {
     "message": "Bezárás"
   },
@@ -114,5 +118,14 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Engedélyezés"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Adatvédelmi nyilatkozat frissítése"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Adatvédelmi nyilatkozat megtekintése"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Eltüntetés"
   }
 }
