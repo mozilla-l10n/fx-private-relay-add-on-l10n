@@ -1,0 +1,16 @@
+{
+  "allowDataCollection": {
+    "message": "Adatgyűjtés engedélyezése",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Adatgyűjtés letiltása",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Belépés/regisztráció"
+  },
+  "popupSettingsTitle": {
+    "message": "Beállítások"
+  }
+}
