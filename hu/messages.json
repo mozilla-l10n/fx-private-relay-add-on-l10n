@@ -132,6 +132,14 @@
     "message": "A Relay segíthet megvédeni az e-mail-címét, bárhol is legyen.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "pageInputIconSignUpText": {
+    "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ugrás a Firefox Relayhez",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconGenerateNewAlias": {
     "message": "Új alias létrehozása"
   },
@@ -171,6 +179,10 @@
   "popupDataCollectionHeadline": {
     "message": "Új funkciók engedélyezése"
   },
+  "popupDataCollectionBody": {
+    "message": "Engedélyezheti a Relay számára, hogy nem kötelező adatokat gyűjtsön, amely lehetővé teszik számunkra, hogy szinkronizáljuk a webhelyekhez létrehozott és használt álnévcímkéit az eszközei között.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "További tudnivalók"
   },
@@ -182,6 +194,10 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Adatvédelmi nyilatkozat frissítése"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "A Firefox Relay megbízhatóságának javítása érdekében, arra az esetre, ha egy e-mailt nem sikerül kézbesíteni, az e-mailt ideiglenesen a kiszolgálóinkon tároljuk, amíg az kézbesítésre nem kerül. Soha nem tartjuk meg három napnál tovább.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "Adatvédelmi nyilatkozat megtekintése"
