@@ -19,6 +19,10 @@
     "message": "Adatgyűjtés letiltása",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP": {
+    "message": "Az interakciós adatok gyűjtése, amikor a Relay ikonra kattint az eszköztáron vagy egy új álnevet hoz létre, segítenek megtudnunk, hogy mi működik jól, és hol fejleszthetünk. Ezt bármikor kikapcsolhatja a Beállítások panelen.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "Belépés/regisztráció"
   },
