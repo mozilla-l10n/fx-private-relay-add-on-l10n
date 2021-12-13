@@ -121,6 +121,17 @@
   "popupEmailsForwarded": {
     "message": "Továbbított e-mailek"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Frissítsen Relay Premiumra a még nagyobb védelem érdekében.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Világméretű védelmi eszköz"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "A Relay segíthet megvédeni az e-mail-címét, bárhol is legyen.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "pageInputIconGenerateNewAlias": {
     "message": "Új alias létrehozása"
   },
