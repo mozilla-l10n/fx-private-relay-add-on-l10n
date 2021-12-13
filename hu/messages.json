@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "A Firefox Relay megkönnyíti az e-mail álnevek létrehozását, amelyek a valódi postafiókjába továbbítják az üzeneteket. Használja online fiókjainak védelmére a hackerek és a nem kívánt üzenetek ellen.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Engedélyezés a Mozillának, hogy információkat gyűjtsön arról, hogyan használja a kiegészítőt.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
