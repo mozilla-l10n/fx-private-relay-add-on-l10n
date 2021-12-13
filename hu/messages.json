@@ -105,6 +105,10 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Pacsi!"
   },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Ön egy komoly Firefox Relay felhasználó!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainHeadline": {
     "message": "Szerezzen egyéni domaint a Relay e-mail álnevekhez",
     "description": "DO NOT TRANSLATE \"Relay\"."
