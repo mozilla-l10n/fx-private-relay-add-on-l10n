@@ -3,6 +3,14 @@
     "message": "Firefox Relay usnadňuje vytváření e-mailových aliasů, které přeposílají e-maily do vaší skutečné schránky. Použijte jej k ochraně svých online účtů před hackery a nevyžádanou poštou.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "firstRunP": {
+    "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Povolit Mozille sbírat data, jak toto rozšíření používáte.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "Povolit sběr dat",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -10,6 +18,10 @@
   "disableDataCollection": {
     "message": "Zakázat sběr dat",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Shromažďování údajů o interakcích, například když klepnete myší na ikonu služby Relay nebo když vytvoříte nový alias, nám pomáhá zjistit, co funguje dobře a co můžeme vylepšit. Tento sběr můžete kdykoli v nastavení vypnout.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
     "message": "Přihlášení / Registrace"
@@ -20,17 +32,53 @@
   "popupSettingsReturn": {
     "message": "Zpět na hlavní panel"
   },
+  "popupSettingsShowIcon": {
+    "message": "Zobrazovat ikonu služby Relay v polích pro zadání e-mailové adresy na webových stránkách",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Povolit Mozille sbírat údaje o interakcích",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsLeaveFeedback": {
     "message": "Zpětná vazba"
   },
   "popupSettingsPrivacy": {
     "message": "Soukromí"
   },
+  "popupSettingsTermsOfService": {
+    "message": "Podmínky poskytování služby"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Vítejte"
   },
+  "popupSignUpPanelIntro": {
+    "message": "Přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
   "popupSignUpPanelContinue": {
     "message": "Pokračovat"
+  },
+  "popupRemainingAliases-2": {
+    "message": "Zbývá dostupných aliasů: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Získat neomezený počet aliasů"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Vytvořeno aliasů: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Zobrazit předchozí panel"
@@ -38,8 +86,18 @@
   "popupOnboardingShowNext": {
     "message": "Přejít na další panel"
   },
+  "ManageAllAliases": {
+    "message": "Spravovat všechny aliasy"
+  },
+  "popupOnboardingPanel1Body": {
+    "message": "Když se na webové stránce objeví ikona služby Firefox Relay, klepnutím na ni si vygenerujete nový alias.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupOnboardingPanel2Headline": {
     "message": "Nevidíte ikonu?"
+  },
+  "popupOnboardingPanel2Body": {
+    "message": "Klepnutím pravým tlačítkem myši do formulářového pole otevřete kontextovou nabídku a alias si vygenerujete z ní."
   },
   "popupOnboardingPanel3Headline": {
     "message": "Dostáváte příliš mnoho e-mailů?"
@@ -47,11 +105,52 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Plácni to!"
   },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Jste zdatný uživatel služby Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Získejte vlastní doménu pro e-mailové aliasy služby Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Zaregistrovat doménu pro e-maily"
+  },
+  "popupAliasesUsed": {
+    "message": "Používané e-mailové aliasy"
+  },
+  "popupEmailsBlocked": {
+    "message": "Zablokované e-maily"
+  },
+  "popupEmailsForwarded": {
+    "message": "Přeposlané e-maily"
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Celosvětový ochranný nástroj"
+  },
   "profilePageDefaulAliasLabelText": {
     "message": "Přidat název účtu",
     "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
   },
   "close": {
+    "message": "Zavřít"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Zjistit více"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Odmítnout"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Povolit"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Aktualizace zásad ochrany osobních údajů"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Zobrazit zásady ochrany osobních údajů"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Zavřít"
   }
 }
