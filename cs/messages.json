@@ -102,6 +102,10 @@
   "popupOnboardingPanel3Headline": {
     "message": "Dostáváte příliš mnoho e-mailů?"
   },
+  "popupOnboardingPanel3Body": {
+    "message": "Přejděte do správy svých aliasů služby Relay a snadno přepněte z režimu přeposílání na blokování.",
+    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Plácni to!"
   },
@@ -125,8 +129,53 @@
   "popupEmailsForwarded": {
     "message": "Přeposlané e-maily"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Relay Premium vám poskytne ještě větší ochranu.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEducationalComponent1Headline": {
     "message": "Celosvětový ochranný nástroj"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay vám pomůže ochránit váš e-mail bez ohledu na to, kde se nacházíte.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Navštivte web služby Firefox Relay a přihlaste se nebo si vytvořte účet.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Přejít na Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Vygenerovat nový alias"
+  },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Získat neomezený počet aliasů"
+  },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Použít existující alias z tohoto webu…"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Nedávno použité aliasy"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Už jste vytvořili maximální počet aliasů",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Dosáhli jste limitu pro počet aliasů."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Nepovolené znaky: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Přidat název účtu",
@@ -134,6 +183,13 @@
   },
   "close": {
     "message": "Zavřít"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Nové funkce"
+  },
+  "popupDataCollectionBody": {
+    "message": "Službě Relay můžete povolit shromažďování volitelných údajů, které nám umožní synchronizovat popisky vašich aliasů napříč vašimi zařízeními, včetně webů, na kterých jste aliasy vytvořili a použili.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
     "message": "Zjistit více"
@@ -146,6 +202,10 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Aktualizace zásad ochrany osobních údajů"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Pro zvýšení spolehlivosti služby Firefox Relay v případě, že e-mail nebude možné doručit, ho dočasně uchováme na našich serverech, dokud nebude doručen. Nikdy ho však nebudeme uchovávat déle než tři dny.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "Zobrazit zásady ochrany osobních údajů"
