@@ -1,4 +1,7 @@
 {
+    "extensionDescription": {
+        "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox. Use it to protect your online accounts from hackers and unwanted messages.",
+    },
     "extensionDescription_v1": {
         "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox.",
         "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
