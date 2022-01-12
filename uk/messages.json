@@ -3,6 +3,10 @@
     "message": "Firefox Relay полегшує створення псевдоадрес е-пошти, з яких листи пересилаються до вашої справжньої теки вхідних. Користуйтеся ним для захисту своїх мережних облікових записів від хакерів та небажаних повідомлень.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay дає змогу легко створювати псевдоадреси електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Ви встановили додаток Firefox Relay. Щоб розпочати, увійдіть у Relay за допомогою свого облікового запису Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,8 +63,8 @@
   "popupSignUpPanelContinue": {
     "message": "Продовжити"
   },
-  "popupRemainingAliases-2": {
-    "message": "Залишилось псевдоадрес: $REMAINING$",
+  "popupRemainingAliases_2": {
+    "message": "Залишилося псевдоадрес: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
