@@ -3,6 +3,10 @@
     "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordras till din riktiga inkorg. Använd den för att skydda dina onlinekonton från hackare och oönskade meddelanden.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Du har installerat Firefox Relay-tillägget. För att komma igång, logga in på Relay med ditt Firefox-konto.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Fortsätt"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Återstående alias: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
