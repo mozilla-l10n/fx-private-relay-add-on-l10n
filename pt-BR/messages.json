@@ -3,6 +3,10 @@
     "message": "O Firefox Relay facilita criar endereços de redirecionamento de email, que encaminham mensagens para sua caixa de entrada real. Use para proteger suas contas online de hackers e mensagens indesejadas.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "O Firefox Relay facilita criar endereços de redirecionamento de email, que encaminham mensagens para sua caixa de entrada real.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Você instalou com sucesso a extensão Firefox Relay. Para começar, entre no Relay com sua conta Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Avançar"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Endereços de redirecionamento restantes: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
