@@ -3,6 +3,10 @@
     "message": "Firefox Relay facilite la création d’alias de messagerie qui transfèrent les messages vers votre véritable boîte de réception. Utilisez-le pour protéger vos comptes en ligne contre les pirates et les messages indésirables.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay facilite la création d’alias de messagerie qui transfèrent les messages vers votre véritable boîte de réception.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Vous avez correctement installé le module complémentaire Firefox Relay. Pour commencer, connectez-vous à Relay avec votre compte Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Continuer"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Alias restants : $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
