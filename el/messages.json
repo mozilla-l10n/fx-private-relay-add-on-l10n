@@ -3,6 +3,10 @@
     "message": "Το Firefox Relay διευκολύνει τη δημιουργία ψευδωνύμων email που κάνουν προώθηση στα πραγματικά σας εισερχόμενα. Προστατέψτε τους λογαριασμούς σας από hackers και ανεπιθύμητα μηνύματα.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Το Firefox Relay διευκολύνει τη δημιουργία ψευδώνυμων email που κάνουν προώθηση στα πραγματικά εισερχόμενά σας.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Έχετε εγκαταστήσει επιτυχώς το πρόσθετο Firefox Relay. Για να ξεκινήσετε, συνδεθείτε στο Relay με τον λογαριασμό Firefox σας.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Υπολειπόμενα ψευδώνυμα: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
