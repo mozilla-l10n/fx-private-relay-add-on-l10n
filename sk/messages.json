@@ -3,6 +3,10 @@
     "message": "Firefox Relay uľahčuje vytváranie e-mailových aliasov, ktoré sú preposielané do vašej skutočnej e-mailovej schránky. Použite ho na ochranu svojich online účtov pred hackermi a nechcenými správami.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay uľahčuje vytváranie e-mailových aliasov, ktoré preposielajú e-maily do vašej skutočnej e-mailovej schránky.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Úspešne ste nainštalovali doplnok Firefox Relay. Ak chcete začať, prihláste sa do služby Relay pomocou svojho účtu Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Pokračovať"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Zostávajúce aliasy: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
