@@ -3,6 +3,10 @@
     "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale. In questo modo puoi proteggere i tuoi account da hacker e messaggi indesiderati.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Il componente aggiuntivo di Firefox Relay è stato installato correttamente. Accedi a Relay con il tuo account Firefox per iniziare.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Continua"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Alias restanti: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
