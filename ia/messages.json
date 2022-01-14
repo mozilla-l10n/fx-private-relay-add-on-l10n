@@ -59,7 +59,7 @@
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Aliases restante: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
