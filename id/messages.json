@@ -3,6 +3,10 @@
     "message": "Firefox Relay memudahkan pembuatan surel alias yang meneruskan pesan ke kotak masuk asli Anda. Gunakan untuk melindungi akun daring Anda dari peretas dan pesan yang tidak diinginkan.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_v1": {
+    "message": "Firefox Relay memudahkan Anda buat alias surel yang memindahkan pesan ke kotak pesan asli Anda.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Anda telah berhasil memasang pengaya Firefox Relay. Untuk mulai, gunakan akun Firefox Anda untuk masuk ke Relay.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -59,7 +63,7 @@
   "popupSignUpPanelContinue": {
     "message": "Lanjutkan"
   },
-  "popupRemainingAliases-2": {
+  "popupRemainingAliases_2": {
     "message": "Alias yang tersisa: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
@@ -151,12 +155,31 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Buat Alias Baru"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Dapatkan Alias Tanpa Batas"
+  },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Gunakan Alias yang Sudah Ada dari Situs ini..."
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Alias Terakhir"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Anda sudah membuat alias sebanyak jumlah maksimum",
     "description": "Tells the user they have already created the max number of aliases."
   },
   "pageFillRelayAddressLimit": {
     "message": "Anda sudah mencapai batas jumlah alias."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Karakter yang tidak diizinkan: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Tambahkan nama akun",
@@ -180,5 +203,18 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Izinkan"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Pembaruan Pemberitahuan Privasi"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Untuk meningkatkan keandalan Firefox Relay pada saat surel tidak dapat dikirim, kami akan menjaga surel pada peladen kami sementara hingga dikirimkan. Kami tidak akan pernah menahannya selama lebih dari tiga hari.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Lihat Pemberitahuan Privasi"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Tutup"
   }
 }
