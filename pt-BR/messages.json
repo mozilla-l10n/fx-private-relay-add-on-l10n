@@ -64,7 +64,7 @@
     "message": "Avançar"
   },
   "popupRemainingAliases_2": {
-    "message": "Endereços de redirecionamento restantes: $REMAINING$",
+    "message": "Endereços restantes: $REMAINING$",
     "description": "Tells the user how many more aliases they can make.",
     "placeholders": {
       "remaining": {
