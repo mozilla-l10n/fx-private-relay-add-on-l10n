@@ -1,0 +1,220 @@
+{
+    "extensionDescription": {
+        "message": "Firefox Relay では、実際の受信トレイに転送するメールエイリアスを簡単に作成できます。 ハッカーや不要なメッセージからオンラインアカウントを保護するために使用します。",
+        "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "extensionDescription_v1": {
+        "message": "Firefox Relay では、実際の受信トレイに転送するメールエイリアスを簡単に作成できます。",
+        "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "firstRunP": {
+        "message": "Firefoxのリレーアドオンのインストールに成功しました。開始するには、Firefoxアカウントでリレーにサインインしてください。",
+        "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+    },
+    "firstRunCollectDataLabel": {
+        "message": "Mozilla がこの拡張機能の使用方法に関する情報を収集することを許可します。",
+        "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+    },
+    "allowDataCollection": {
+        "message": "データ収集を許可する",
+        "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+    },
+    "disableDataCollection": {
+        "message": "データ収集を無効にする",
+        "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+    },
+    "firstRunPrefP": {
+        "message": "ツールバーのリレーアイコンをクリックしたり、新しいエイリアスを作成したりするときにインタラクションデータを収集すると、何がうまく機能していて、どこを改善できるかを知るのに役立ちます。 これは、設定パネルでいつでもオフにできます。",
+        "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+    },
+    "firstRunSignInButton": {
+        "message": "サインアップ/サインイン"
+    },
+    "popupSettingsTitle": {
+        "message": "設定"
+    },
+    "popupSettingsReturn": {
+        "message": "メインパネルに戻る"
+    },
+    "popupSettingsShowIcon": {
+        "message": "ウェブサイトの電子メールフィールドにリレーアイコンを表示する",
+        "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupSettingsCollectData": {
+        "message": "Mozilla にインタラクションデータの収集を許可する",
+        "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+    },
+    "popupSettingsLeaveFeedback": {
+        "message": "フィードバックを残す"
+    },
+    "popupSettingsPrivacy": {
+        "message": "プライバシー"
+    },
+    "popupSettingsTermsOfService": {
+        "message": "サービス利用規約"
+    },
+    "popupSignUpPanelWelcome": {
+        "message": "ようこそ"
+    },
+    "popupSignUpPanelIntro": {
+        "message": "FirefoxアカウントでRelayにサインインすることから始めましょう。",
+        "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+    },
+    "popupSignUpPanelContinue": {
+        "message": "続ける"
+    },
+    "popupRemainingAliases_2": {
+        "message": "残りのエイリアス: $REMAINING$",
+        "description": "Tells the user how many more aliases they can make.",
+        "placeholders": {
+            "remaining": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupGetUnlimitedAliases": {
+        "message": "無制限のエイリアスを取得する"
+    },
+    "popupUnlimitedAliases": {
+        "message": "エイリアスを作成: $COUNT$",
+        "description": "Tells the premium user how many aliases they have created.",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupOnboardingShowPrevious": {
+        "message": "前のパネルを表示する"
+    },
+    "popupOnboardingShowNext": {
+        "message": "次のパネルへ移動する"
+    },
+    "ManageAllAliases": {
+        "message": "すべてのエイリアスを管理"
+    },
+    "popupOnboardingPanel1Body": {
+        "message": "Firefox のリレーアイコンがウェブサイトに表示されたら、それを選択して新しいエイリアスを生成します。",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupOnboardingPanel2Headline": {
+        "message": "アイコンが表示されませんか。"
+    },
+    "popupOnboardingPanel2Body": {
+        "message": "フォームフィールドを右クリックしてコンテキストメニューにアクセスし、そこからエイリアスを生成します。"
+    },
+    "popupOnboardingPanel3Headline": {
+        "message": "メールが多すぎますか。"
+    },
+    "popupOnboardingPanel3Body": {
+        "message": "リレーエイリアスを管理し、転送をブロッキングに簡単に切り替えます。",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupOnboardingMaxAliasesPanelHeadline": {
+        "message": "すばらしい！"
+    },
+    "popupOnboardingMaxAliasesPanelBody": {
+        "message": "あなたはFirefoxのリレーパワーユーザーです！",
+        "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupRegisterDomainHeadline": {
+        "message": "リレーメールエイリアスのカスタムドメインを取得する",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupRegisterDomainButton": {
+        "message": "メールドメインを登録する"
+    },
+    "popupAliasesUsed": {
+        "message": "メールエイリアスを使用"
+    },
+    "popupEmailsBlocked": {
+        "message": "電子メールがブロックされました"
+    },
+    "popupEmailsForwarded": {
+        "message": "電子メールが転送されました"
+    },
+    "popupUpgradeToPremiumBanner": {
+        "message": "リレープレミアムにアップグレードして保護を強化！",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
+    },
+    "popupEducationalComponent1Headline": {
+        "message": "世界的な保護ツール"
+    },
+    "popupEducationalComponent1Body": {
+        "message": "リレーは、どこにいてもあなたの電子メールを保護するのに役立ちます。",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "pageInputIconSignUpText": {
+        "message": "Firefox の Relay ウェブサイトにアクセスして、サインインするかアカウントを作成してください。",
+        "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "pageInputIconSignUpButton": {
+        "message": "Firefoxのリレーに移動",
+        "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "pageInputIconGenerateNewAlias": {
+        "message": "新しいエイリアスを生成する"
+    },
+    "pageInputIconGetUnlimitedAliases": {
+        "message": "無制限のエイリアスを取得する"
+    },
+    "pageInputIconUseExistingAliasFromTheSite": {
+        "message": "このサイトから既存のエイリアスを使用する…"
+    },
+    "pageInputIconRecentAliases": {
+        "message": "最近のエイリアス"
+    },
+    "pageInputIconMaxAliasesError": {
+        "message": "すでにエイリアスの最大数を作成しています",
+        "description": "Tells the user they have already created the max number of aliases."
+    },
+    "pageFillRelayAddressLimit": {
+        "message": "エイリアスの上限に達しました。"
+    },
+    "profilePageInvalidAliasCharactersError": {
+        "message": "文字が許可されていません: $CHARACTERS$",
+        "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+        "placeholders": {
+            "characters": {
+                "content": "$1",
+                "example": "; )"
+            }
+        }
+    },
+    "profilePageDefaulAliasLabelText": {
+        "message": "アカウント名を追加する",
+        "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    },
+    "close": {
+        "message": "閉じる"
+    },
+    "popupDataCollectionHeadline": {
+        "message": "新しい機能を有効にする"
+    },
+    "popupDataCollectionBody": {
+        "message": "リレーにオプションのデータ収集を許可することで、デバイス間でエイリアスラベルを作成および使用するWebサイトと同期させることができます。",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupDataCollectionButtonLearnMore": {
+        "message": "さらに詳しく"
+    },
+    "popupDataCollectionButtonDecline": {
+        "message": "拒否する"
+    },
+    "popupDataCollectionButtonAllow": {
+        "message": "許可する"
+    },
+    "popupPrivacyNoticeUpdateHeadline": {
+        "message": "プライバシーに関する通知の更新"
+    },
+    "popupPrivacyNoticeUpdateBody": {
+        "message": "電子メールが配信できない場合には、 Firefox リレーの信頼性を向上させるために、メールが届くまで一時的にサーバーに保管します。我々は三日以上それを保持することはありません。",
+        "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupPrivacyNoticeUpdateButtonLearnMore": {
+        "message": "プライバシーに関する通知を表示"
+    },
+    "popupPrivacyNoticeUpdateButtonDismiss": {
+        "message": "閉じる"
+    }
+}
