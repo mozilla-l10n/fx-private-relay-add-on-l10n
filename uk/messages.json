@@ -144,6 +144,13 @@
     "message": "Relay може допомогти вам захистити вашу е-пошту, де б ви не були.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Збільшено розміру вкладення"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay тепер може пересилати електронні листи розміром до 25 МБ, включно з вкладеннями.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Перейдіть на вебсайт Firefox Relay, щоб увійти або створити обліковий запис.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
