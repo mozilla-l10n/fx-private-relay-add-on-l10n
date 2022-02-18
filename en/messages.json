@@ -149,7 +149,7 @@
     },
     "popupAttachmentSizeIncreaseBody": {
         "message": "Firefox Relay can now forward emails up to 25MB, including attachments.",
-        "description": "DO NOT TRANSLATE \"Relay Relay\"."
+        "description": "DO NOT TRANSLATE \"Firefox Relay\"."
     },
     "popupCriticalEmailForwardingHeadline": {
         "message": "Critical email forwarding"
