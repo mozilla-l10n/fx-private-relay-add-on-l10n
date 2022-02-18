@@ -158,6 +158,9 @@
     "message": "O Relay Premium permite que você receba apenas emails críticos enviados para um endereço de redirecionamento. Você receberá emails como recibos, mas não emails de propaganda.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupSignBackInHeadline": {
+    "message": "Cadastre-se novamente com seus endereços de redirecionamento"
+  },
   "popupSignBackInBody": {
     "message": "Para criar um novo endereço de redirecionamento quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente um novo endereço de redirecionamento."
   },
