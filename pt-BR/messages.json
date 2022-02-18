@@ -144,6 +144,23 @@
     "message": "O Relay pode ajudar a proteger seu email, não importa onde você esteja.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Aumento no tamanho de anexos"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Agora o Firefox Relay pode encaminhar emails de até 25MB, incluindo anexos.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Encaminhamento de emails críticos"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "O Relay Premium permite que você receba apenas emails críticos enviados para um endereço de redirecionamento. Você receberá emails como recibos, mas não emails de propaganda.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInBody": {
+    "message": "Para criar um novo endereço de redirecionamento quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente um novo endereço de redirecionamento."
+  },
   "pageInputIconSignUpText": {
     "message": "Visite o site do Firefox Relay para entrar ou criar uma conta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
