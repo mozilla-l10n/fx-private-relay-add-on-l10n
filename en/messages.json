@@ -148,13 +148,15 @@
         "message": "Attachment size increase"
     },
     "popupAttachmentSizeIncreaseBody": {
-        "message": "Firefox Relay can now forward emails up to 25MB, including attachments."
+        "message": "Firefox Relay can now forward emails up to 25MB, including attachments.",
+        "description": "DO NOT TRANSLATE \"Relay Relay\"."
     },
     "popupCriticalEmailForwardingHeadline": {
         "message": "Critical email forwarding"
     },
     "popupCriticalEmailForwardingBody": {
-        "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails."
+        "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
     "popupSignBackInHeadline": {
         "message": "Sign back in with your aliases"
