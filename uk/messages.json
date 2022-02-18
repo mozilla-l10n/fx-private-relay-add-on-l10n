@@ -151,6 +151,19 @@
     "message": "Firefox Relay тепер може пересилати електронні листи розміром до 25 МБ, включно з вкладеннями.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Пересилання важливих листів"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium дозволяє отримувати лише важливі електронні листи, надіслані на псевдоадресу. Ви отримуватимете електронні листи, як-от квитанції, але не рекламу.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Увійдіть використовуючи свої псевдоадреси"
+  },
+  "popupSignBackInBody": {
+    "message": "Щоб створити нову псевдоадресу, коли вас попросять ввести електронну пошту, відкрийте контекстне меню (клацніть правою кнопкою миші або клацніть, утримуючи клавішу Control) у полі електронної пошти. Звідти ви можете відразу створити та використовувати нову псевдоадресу."
+  },
   "pageInputIconSignUpText": {
     "message": "Перейдіть на вебсайт Firefox Relay, щоб увійти або створити обліковий запис.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
