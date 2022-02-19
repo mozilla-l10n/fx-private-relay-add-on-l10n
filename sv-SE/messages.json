@@ -144,6 +144,26 @@
     "message": "Relay kan hjälpa dig att skydda din e-post oavsett var du befinner dig.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Ökning av bilagans storlek"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay kan nu vidarebefordra e-postmeddelanden upp till 25 MB, inklusive bilagor.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Kritisk vidarebefordran av e-post"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium låter dig endast ta emot viktiga e-postmeddelanden som skickas till ett alias. Du kommer att få e-postmeddelanden som kvitton men inte marknadsföringsmeddelanden.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Logga in igen med dina alias"
+  },
+  "popupSignBackInBody": {
+    "message": "För att skapa ett nytt alias när du blir ombedd att ange din e-post, öppna snabbmenyn (högerklicka eller kontroll-klicka) i ett e-postfält. Därifrån kan du skapa och använda ett nytt alias direkt."
+  },
   "pageInputIconSignUpText": {
     "message": "Besök Firefox Relay-webbplatsen för att logga in eller skapa ett konto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
