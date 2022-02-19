@@ -144,6 +144,26 @@
     "message": "Relay vám môže pomôcť chrániť váš e-mail bez ohľadu na to, kde sa nachádzate.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Zväčšenie veľkosti prílohy"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay teraz dokáže preposielať e-maily s veľkosťou až 25 MB vrátane príloh.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Preposielanie kritických e-mailov"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium vám umožňuje prijímať iba kritické e-maily odoslané na alias. Budete dostávať e-maily, ako sú potvrdenia, ale nie marketingové e-maily.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Znova sa prihláste pomocou svojich aliasov"
+  },
+  "popupSignBackInBody": {
+    "message": "Ak chcete vytvoriť nový alias, keď sa zobrazí výzva na zadanie e-mailu, otvorte kontextovú ponuku (kliknutie pravým tlačidlom myši alebo stlačenie klávesu Control a kliknutie) v poli e-mailu. Odtiaľ môžete okamžite vytvoriť a použiť nový alias."
+  },
   "pageInputIconSignUpText": {
     "message": "Navštívte webovú stránku Firefox Relay a prihláste sa alebo si vytvorte účet.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
