@@ -144,6 +144,13 @@
     "message": "Relay pote adjutar a proteger tu e-mail non importa ubi tu es.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Accrescer le dimension del annexo"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay pote ora inultrar e-mails usque 25MB, includite annexos.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
