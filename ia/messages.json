@@ -154,6 +154,10 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Inultramento de e-mail critic"
   },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium te permitte de reciper solo e-mails critic inviate a un alias. Tu recipera e-mails tal como quitantias, ma non marketing e-mails de marketing.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
