@@ -145,11 +145,14 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Accrescer le dimension del annexo"
+    "message": "Accrescimento del dimension del annexo"
   },
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay pote ora inultrar e-mails usque 25MB, includite annexos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Inultramento de e-mail critic"
   },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
