@@ -144,6 +144,13 @@
     "message": "无论身在何处，Relay 都能帮助保护您的电子邮件。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "附件容量增加"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay 现在可转发最大 25MB（含附件）的邮件。",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpText": {
     "message": "访问 Firefox Relay 网站登录或创建账户。",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
