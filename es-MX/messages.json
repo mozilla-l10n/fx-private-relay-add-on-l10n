@@ -144,9 +144,25 @@
     "message": "Relay te puede ayudar a proteger tu e-mail sin importar dónde estés.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Aumento del tamaño del archivo adjunto"
+  },
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay ahora puede reenviar correos electrónicos de hasta 25MB, incluidos los archivos adjuntos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Reenvío de correo electrónico crítico"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium te permite recibir solo correos electrónicos críticos enviados a un alias. Recibirás correos electrónicos como recibos, pero no correos electrónicos de marketing.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Vuelve a iniciar sesión con tus alias"
+  },
+  "popupSignBackInBody": {
+    "message": "Para crear un nuevo alias cuando se te solicite tu correo electrónico, abra el menú contextual (clic derecho o control-clic) en un campo de correo electrónico. Desde allí, puedes crear y usar un nuevo alias de inmediato."
   },
   "pageInputIconSignUpText": {
     "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
