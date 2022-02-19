@@ -144,6 +144,9 @@
     "message": "Το Relay μπορεί να προστατέψει το email σας όπου κι αν βρίσκεστε.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Αύξηση μεγέθους συνημμένων"
+  },
   "pageInputIconSignUpText": {
     "message": "Επισκεφθείτε τον ιστότοπο του Firefox Relay για σύνδεση ή δημιουργία λογαριασμού.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
