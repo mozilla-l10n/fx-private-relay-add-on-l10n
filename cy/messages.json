@@ -144,6 +144,26 @@
     "message": "Gall Relay eich helpu i ddiogelu eich e-bost lle bynnag rydych chi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Cynnydd maint atodiad"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Gall Firefox Relay nawr anfon ymlaen e-byst hyd at 25MB, gan gynnwys atodiadau.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Anfon ymlaen e-bost hollbwysig"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Mae Relay Premium yn caniatáu i chi dderbyn e-byst hollbwysig yn unig a anfonwyd at arallenw. Byddwch yn derbyn e-byst fel derbynebau ond nid e-byst marchnata.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Mewngofnodwch eto gyda'ch arallenwau"
+  },
+  "popupSignBackInBody": {
+    "message": "I greu arallenw newydd pan fydd gofyn i chi ddarparu e-bost, agorwch y ddewislen cyd-destun (cliciwch ar y dde neu control-clic) mewn maes e-bost. Oddi yno gallwch greu a defnyddio alias newydd ar unwaith."
+  },
   "pageInputIconSignUpText": {
     "message": "Ewch i wefan Firefox Relay i fewngofnodi neu greu cyfrif.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
