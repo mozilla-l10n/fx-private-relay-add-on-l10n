@@ -144,6 +144,26 @@
     "message": "不論身在何方，Relay 都可幫助保護您的電子郵件信箱。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "接受的附件大小增加了"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "現在起，Firefox Relay 可轉寄大小不超過 25MB（含附件）的郵件。",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "轉寄重要郵件"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium 讓您可以只收到寄送到別名信箱中的重要郵件。您會收到收據、發票等郵件，但不再收到行銷郵件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "使用您的別名信箱登入網站"
+  },
+  "popupSignBackInBody": {
+    "message": "遇到網站向您要求輸入信箱時，可以開啟右鍵選單（或按住 Control + 滑鼠點擊）直接建立別名，方便又快速。"
+  },
   "pageInputIconSignUpText": {
     "message": "到 Firefox Relay 網站登入或註冊帳號。",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
