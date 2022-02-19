@@ -161,6 +161,9 @@
   "popupSignBackInHeadline": {
     "message": "Re-accesso per proprie aliases"
   },
+  "popupSignBackInBody": {
+    "message": "Pro crear un nove alias quando te es requirite tu e-mail, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove alias immediatemente."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
