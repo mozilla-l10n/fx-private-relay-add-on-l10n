@@ -144,6 +144,26 @@
     "message": "Relay kann Ihnen dabei helfen, Ihre E-Mail-Adresse zu schützen, egal wo Sie sich befinden.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Erhöhung der Größe von Anhängen"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay kann jetzt E-Mails bis zu einer Größe von 25 MB weiterleiten, einschließlich Anhängen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Weiterleitung wichtiger E-Mails"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Alias-E-Mail-Adresse gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
+  },
+  "popupSignBackInBody": {
+    "message": "Um eine neue Alias-E-Mail-Adresse zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
+  },
   "pageInputIconSignUpText": {
     "message": "Besuchen Sie die Firefox-Relay-Website, um sich anzumelden oder ein Konto zu erstellen.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
