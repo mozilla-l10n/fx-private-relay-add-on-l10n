@@ -151,6 +151,13 @@
     "message": "Firefox Relay 现在可转发最大 25MB（含附件）的邮件。",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "转发重要邮件"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium 允许您只收取转发至马甲邮箱的重要邮件。您将收到收据、发票等邮件，但不会收到营销邮件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "pageInputIconSignUpText": {
     "message": "访问 Firefox Relay 网站登录或创建账户。",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
