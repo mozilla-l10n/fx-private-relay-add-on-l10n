@@ -144,6 +144,26 @@
     "message": "Relay kan u helpen uw e-mail te beschermen, waar u ook bent.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Verbeterde bijlagegrootte"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay kan nu e-mailberichten tot 25 MB doorsturen, inclusief bijlagen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Doorsturen van kritieke e-mailberichten"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Met Relay Premium kunt u instellen dat u alleen kritieke e-mailberichten op een alias ontvangt. U ontvangt berichten zoals ontvangstbewijzen, maar geen marketingberichten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Opnieuw aanmelden met uw aliassen"
+  },
+  "popupSignBackInBody": {
+    "message": "Open het contextmenu (rechtermuisknop of control-klik) om een nieuwe alias aan te maken als u wordt gevraagd om uw e-mailadres. Hiervandaan kunt direct een nieuwe alias aanmaken en gebruiken."
+  },
   "pageInputIconSignUpText": {
     "message": "Bezoek de Firefox Relay-website om u aan te melden of een account aan te maken.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
