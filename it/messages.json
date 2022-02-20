@@ -154,6 +154,16 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Inoltro delle email essenziali"
   },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium ti consente di ricevere solo le email essenziali inviate a un alias. Riceverai email importanti, come ad esempio fatture, ma non email di marketing.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Registrati direttamente con i tuoi alias"
+  },
+  "popupSignBackInBody": {
+    "message": "Per creare un nuovo alias quando viene richiesta la tua email, apri il menu contestuale (clic con il tasto destro del mouse o control + clic) in un campo email. Da lì puoi creare e utilizzare subito un nuovo alias."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita il sito web di Firefox Relay per accedere o creare un account.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
