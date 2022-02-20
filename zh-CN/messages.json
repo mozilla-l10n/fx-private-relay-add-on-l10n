@@ -161,6 +161,9 @@
   "popupSignBackInHeadline": {
     "message": "用您的马甲邮箱登录网站"
   },
+  "popupSignBackInBody": {
+    "message": "遇到网站要求您输入电子邮件地址时，可以通过右键菜单（或 Control + 鼠标左键）直接创建马甲邮箱。"
+  },
   "pageInputIconSignUpText": {
     "message": "访问 Firefox Relay 网站登录或创建账户。",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
