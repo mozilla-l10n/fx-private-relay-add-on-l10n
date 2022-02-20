@@ -144,6 +144,10 @@
     "message": "Relay può aiutarti a proteggere la tua email ovunque ti trovi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Con Firefox Relay è ora possibile inoltrare email fino a 25 MB (allegati inclusi).",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita il sito web di Firefox Relay per accedere o creare un account.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
