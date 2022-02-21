@@ -144,6 +144,20 @@
     "message": "A Relay segíthet megvédeni az e-mail-címét, bárhol is legyen.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Mellékletek méretének növelése"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "A Firefox Relay mostantól akár 25 MB-os e-maileket is képes továbbítani, mellékletekkel együtt.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Kritikus e-mailek továbbítása"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "A Relay Premium lehetővé teszi, hogy csak az álnévre küldött kritikus e-maileket fogadja. Meg fogja kapni például nyugtákat, de marketing e-maileket nem.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
