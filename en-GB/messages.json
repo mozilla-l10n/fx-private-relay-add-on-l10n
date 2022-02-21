@@ -144,6 +144,26 @@
     "message": "Relay can help you protect your email no matter where you are.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Attachment size increase"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay can now forward emails up to 25MB, including attachments.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Critical email forwarding"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Sign back in with your aliases"
+  },
+  "popupSignBackInBody": {
+    "message": "To create a new alias when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
+  },
   "pageInputIconSignUpText": {
     "message": "Visit the Firefox Relay web site to sign in or create an account.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
