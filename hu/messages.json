@@ -158,6 +158,12 @@
     "message": "A Relay Premium lehetővé teszi, hogy csak az álnévre küldött kritikus e-maileket fogadja. Meg fogja kapni például nyugtákat, de marketing e-maileket nem.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupSignBackInHeadline": {
+    "message": "Jelentkezzen be újra az álneveivel"
+  },
+  "popupSignBackInBody": {
+    "message": "Ha új álnevet szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új álnevet."
+  },
   "pageInputIconSignUpText": {
     "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
