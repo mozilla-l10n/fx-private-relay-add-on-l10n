@@ -147,6 +147,23 @@
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "Αύξηση μεγέθους συνημμένων"
   },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Το Firefox Relay μπορεί πλέον να προωθεί email μεγέθους έως 25 MB, μαζί με τα συνημμένα.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Προώθηση κρίσιμων email"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Το Relay Premium σάς επιτρέπει να λαμβάνετε μόνο τα κρίσιμα email που αποστέλλονται σε ένα ψευδώνυμο. Θα λαμβάνετε email, όπως αποδείξεις, αλλά όχι διαφημιστικά email.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Συνδεθείτε ξανά με τα ψευδώνυμά σας"
+  },
+  "popupSignBackInBody": {
+    "message": "Για να δημιουργήσετε ένα νέο ψευδώνυμο όταν σας ζητείται το email σας, ανοίξτε το μενού επιλογών (με δεξί κλικ ή control-κλικ) σε ένα πεδίο email. Από εκεί, μπορείτε να δημιουργήσετε και να χρησιμοποιήσετε άμεσα ένα νέο ψευδώνυμο."
+  },
   "pageInputIconSignUpText": {
     "message": "Επισκεφθείτε τον ιστότοπο του Firefox Relay για σύνδεση ή δημιουργία λογαριασμού.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
