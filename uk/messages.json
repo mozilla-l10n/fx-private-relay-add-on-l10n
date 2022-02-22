@@ -7,6 +7,10 @@
     "message": "Firefox Relay дає змогу легко створювати псевдоадреси електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay допомагає вам захистити вашу справжню адресу електронної пошти — ту, яка найтісніше пов’язана з вашою особою в інтернеті. Служба дає змогу генерувати унікальні випадкові псевдоадреси, які можна використовувати для реєстрації в облікових записах, застосунках або інформаційних бюлетенях, а також пересилає повідомлення на вашу справжню адресу. Якщо ви виявите, що обліковий запис надсилає небажану електронну пошту або спам, ви можете заблокувати псевдоадресу, і вона припинить надсилання електронної пошти у вашу теку «Вхідні». Якщо ви більше не потребуєте цього облікового запису, ви можете видалити псевдоадресу.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Ви встановили додаток Firefox Relay. Щоб розпочати, увійдіть у Relay за допомогою свого облікового запису Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
