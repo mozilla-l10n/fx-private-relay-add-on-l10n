@@ -7,6 +7,10 @@
         "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox.",
         "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
     },
+    "extensionDescriptionStore": {
+        "message": "Firefox Relay helps you protect your real email address — the one most closely tied to your online identity. It lets you generate unique, random aliases you can use to sign up for accounts, apps, or newsletters, and forwards messages to your real address. If you find that an account is sending unwanted email or spam, you can block the alias and it will stop sending email to your inbox. Once you no longer want an account, you can delete the alias.",
+        "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
     "firstRunP": {
         "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
         "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
