@@ -7,6 +7,10 @@
     "message": "A Firefox Relay megkönnyíti az e-mail álnevek létrehozását, amelyek a valódi postaládájába továbbítják a leveleket.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "A Firefox Relay segít megvédeni valódi e-mail címét – amely a legszorosabban kötődik online személyazonosságához. Lehetővé teszi az egyedi, véletlenszerű álnevek létrehozását, melyek segítségével fiókokat, alkalmazásokat vagy hírleveleket regisztrálhat, és az üzeneteket a valós címére továbbítja. Ha úgy találja, hogy egy fiók nem kívánt e-maileket vagy levélszemetet küld, akkor letilthatja az álnevet, és az többé nem küld e-maileket a beérkező levelek mappájába. Ha már nem szeretne egy fiókot, akkor törölheti az álnevet.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Sikeresen telepítette a Firefox Relay kiegészítőt. A kezdéshez jelentkezzen be a Relay szolgáltatásba Firefox-fiókjával.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
