@@ -8,7 +8,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
-    "message": "Firefox Relay hjälper dig att skydda din riktiga e-postadress — den som är närmast kopplad till din onlineidentitet. Den låter dig skapa unika, slumpmässiga alias som du kan använda för att registrera dig för konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du upptäcker att ett konto skickar oönskad e-post eller spam, kan du blockera alias och det kommer att sluta skicka e-post till din inkorg. När du inte längre vill ha ett konto kan du ta bort alias.",
+    "message": "Firefox Relay hjälper dig att skydda din riktiga e-postadress — den som är närmast kopplad till din onlineidentitet. Den låter dig skapa unika, slumpmässiga alias som du kan använda för att registrera dig för konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du upptäcker att ett konto skickar oönskad e-post eller spam, kan du blockera aliaset och det kommer att sluta skicka e-post till din inkorg. När du inte längre vill ha ett konto kan du ta bort aliaset.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "firstRunP": {
