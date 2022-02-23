@@ -7,6 +7,10 @@
     "message": "使用 Firefox Relay，讓您輕鬆就能建立虛擬轉寄電子信箱。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay 可幫助保護您的實際電子郵件信箱 — 此資料與您的網路身分最有關聯。此附加元件可產生隨機而獨特的別名信箱，讓您可用來註冊網站或 App 帳號、訂閱電子報，再將郵件轉寄到您的實際信箱。若您覺得該帳號開始收到不適當的郵件或垃圾信，可以暫時關閉該別名，就不會再將郵件轉寄到您的信箱。當您不再需要該帳號，就可以直接刪除該別名。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "您已成功安裝 Firefox Relay 附加元件，使用 Firefox 帳號登入 Relay 即可開始使用。",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
