@@ -7,6 +7,10 @@
     "message": "Mae Firefox Relay yn ei gwneud hi'n hawdd creu arallenwau e-bost sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Mae Firefox Relay yn eich helpu i ddiogelu eich cyfeiriad e-bost go iawn - yr un sydd â'r cysylltiad agosaf â'ch hunaniaeth ar-lein. Mae'n caniatáu ichi gynhyrchu arallenwau unigryw ar hap, y gallwch eu defnyddio i gofrestru ar gyfer cyfrifon, apiau, neu gylchlythyrau, ac anfon negeseuon ymlaen i'ch cyfeiriad go iawn. Os gwelwch fod cyfrif yn anfon e-bost neu sbam digroeso, gallwch rwystro'r arallenw a bydd yn peidio ag anfon e-bost i'ch blwch derbyn. Unwaith na fydd angen y cyfrif arnoch mwyach, gallwch ddileu'r arallenw.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Rydych wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
