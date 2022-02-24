@@ -7,6 +7,10 @@
     "message": "O Firefox Relay facilita criar endereços de redirecionamento de email, que encaminham mensagens para sua caixa de entrada real.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "O Firefox Relay te ajuda a proteger seu endereço de email real, aquele mais intimamente ligado à sua identidade online. Ele permite gerar endereços de redirecionamento únicos e aleatórios, que você pode usar para criar contas ou se inscrever em aplicativos e boletins informativos. As mensagens são encaminhadas para seu endereço real. Se perceber que uma conta está enviando emails indesejados ou spam, você pode bloquear o endereço de redirecionamento e ele deixará de enviar emails para sua caixa de entrada. Quando não quiser mais uma conta, você pode excluir o endereço de redirecionamento.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Você instalou com sucesso a extensão Firefox Relay. Para começar, entre no Relay com sua conta Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
