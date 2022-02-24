@@ -162,6 +162,16 @@
         "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
         "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
+    "popupBlockPromotionalEmailsHeadline": {
+        "message": "Block Promotional Emails"
+    },
+    "popupBlockPromotionalEmailsBody": {
+        "message": "Enable Block Promotional Emails on an alias to stop marketing emails from reaching your inbox."
+    },
+    "popupBlockPromotionalEmailsBodyNonPremium": {
+        "message": "With Relay Premium, you can block promotional emails from reaching your inbox while still allowing you to receive emails like receipts or shipping information.",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
+    },
     "popupSignBackInHeadline": {
         "message": "Sign back in with your aliases"
     },
