@@ -162,6 +162,16 @@
     "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Alias-E-Mail-Adresse gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Werbe-E-Mails blockieren"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Aktivieren Sie bei einer Alias-E-Mail-Adresse die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Mit Relay Premium können Sie verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen, während Sie weiterhin E-Mails wie Quittungen oder Versandinformationen erhalten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
   },
