@@ -165,6 +165,13 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Blokovať marketingové e-maily"
   },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Povoľte možnosť Blokovať marketingové e-maily na aliase, aby ste zabránili tomu, aby sa marketingové e-maily dostávali do vašej doručenej pošty."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "So službou Relay Premium môžete blokovať doručenie marketingových e-mailov do vašej doručenej pošty, a zároveň prijímať e-maily, ako sú potvrdenia o prečítaní či informácie o dodaní vašich objednávok.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Znova sa prihláste pomocou svojich aliasov"
   },
