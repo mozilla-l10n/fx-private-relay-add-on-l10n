@@ -162,6 +162,9 @@
     "message": "Relay Premium vám umožňuje prijímať iba kritické e-maily odoslané na alias. Budete dostávať e-maily, ako sú potvrdenia, ale nie marketingové e-maily.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blokovať marketingové e-maily"
+  },
   "popupSignBackInHeadline": {
     "message": "Znova sa prihláste pomocou svojich aliasov"
   },
