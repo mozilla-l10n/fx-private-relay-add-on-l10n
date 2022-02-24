@@ -162,6 +162,12 @@
     "message": "Relay Premium te permite recibir solo correos electrónicos críticos enviados a un alias. Recibirás correos electrónicos como recibos, pero no correos electrónicos de marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Bloquear correos promocionales"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Habilitar el bloqueo de correos electrónicos promocionales en un alias para evitar que los correos electrónicos de marketing lleguen a tu bandeja de entrada."
+  },
   "popupSignBackInHeadline": {
     "message": "Vuelve a iniciar sesión con tus alias"
   },
