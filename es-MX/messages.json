@@ -168,6 +168,10 @@
   "popupBlockPromotionalEmailsBody": {
     "message": "Habilitar el bloqueo de correos electrónicos promocionales en un alias para evitar que los correos electrónicos de marketing lleguen a tu bandeja de entrada."
   },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Con Relay Premium, puedes bloquear los correos electrónicos promocionales para que no lleguen a tu bandeja de entrada y aún te permita recibir correos electrónicos como recibos o información de envío.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Vuelve a iniciar sesión con tus alias"
   },
