@@ -162,6 +162,16 @@
     "message": "Relay Premium ti consente di ricevere solo le email essenziali inviate a un alias. Riceverai email importanti, come ad esempio fatture, ma non email di marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blocco delle email pubblicitarie"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Attiva il blocco delle email pubblicitarie su un alias per impedire alle email di marketing di raggiungere la tua casella di posta."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Con Relay Premium puoi impedire alle email pubblicitarie di raggiungere la tua casella di posta, consentendoti comunque di ricevere email essenziali come fatture o informazioni su una spedizione.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Registrati direttamente con i tuoi alias"
   },
