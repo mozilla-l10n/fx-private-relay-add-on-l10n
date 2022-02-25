@@ -162,6 +162,16 @@
     "message": "Mae Relay Premium yn caniatáu i chi dderbyn e-byst hollbwysig yn unig a anfonwyd at arallenw. Byddwch yn derbyn e-byst fel derbynebau ond nid e-byst marchnata.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Rhwystro E-byst Hyrwyddo"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Galluogi Rhwystro E-byst Hyrwyddo ar arallenw i rwystro e-byst marchnata rhag cyrraedd eich blwch derbyn."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Gyda Relay Premium, gallwch rwystro e-byst hyrwyddo rhag cyrraedd eich blwch derbyn tra'n parhau i ganiatáu i chi dderbyn e-byst fel derbynebau neu fanylion cludo.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Mewngofnodwch eto gyda'ch arallenwau"
   },
