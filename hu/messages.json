@@ -162,6 +162,16 @@
     "message": "A Relay Premium lehetővé teszi, hogy csak az álnévre küldött kritikus e-maileket fogadja. Meg fogja kapni például nyugtákat, de marketing e-maileket nem.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Promóciós e-mailek blokkolása"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Engedélyezze a Promóciós e-mailek letiltását egy álnéven, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "A Relay Premium segítségével letilthatja a promóciós e-maileket, hogy ne jussanak el a postaládájába, miközben továbbra is lehetővé teszi a nyugtákat vagy szállítási információkat tartalmazó e-mailek fogadását.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Jelentkezzen be újra az álneveivel"
   },
