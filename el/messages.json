@@ -7,6 +7,10 @@
     "message": "Το Firefox Relay διευκολύνει τη δημιουργία ψευδώνυμων email που κάνουν προώθηση στα πραγματικά εισερχόμενά σας.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Το Firefox Relay σάς βοηθά να προστατεύσετε την πραγματική διεύθυνση email σας — το κυριότερο στοιχείο της διαδικτυακής σας ταυτότητας. Επιτρέπει τη δημιουργία μοναδικών, τυχαίων ψευδωνύμων που μπορείτε να χρησιμοποιήσετε για λογαριασμούς, εφαρμογές ή ενημερωτικά δελτία και προωθεί τα μηνύματα στην πραγματική σας διεύθυνση. Αν ένας λογαριασμός στέλνει ανεπιθύμητα email, μπορείτε να αποκλείσετε την αποστολή email από το ψευδώνυμο στα εισερχόμενά σας. Εάν δεν χρειάζεστε πλέον έναν λογαριασμό, μπορείτε να διαγράψετε το ψευδώνυμο.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Έχετε εγκαταστήσει επιτυχώς το πρόσθετο Firefox Relay. Για να ξεκινήσετε, συνδεθείτε στο Relay με τον λογαριασμό Firefox σας.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -160,6 +164,9 @@
   },
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Φραγή διαφημιστικών email"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε ένα ψευδώνυμο για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Με το Relay Premium, μπορείτε να αποκλείσετε τα διαφημιστικά email από τα εισερχόμενά σας, ενώ επιτρέπεται ακόμα η λήψη email, όπως αποδείξεις ή στοιχεία αποστολής.",
