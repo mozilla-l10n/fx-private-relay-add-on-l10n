@@ -162,6 +162,16 @@
     "message": "Relay Premium låter dig endast ta emot viktiga e-postmeddelanden som skickas till ett alias. Du kommer att få e-postmeddelanden som kvitton men inte marknadsföringsmeddelanden.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blockera reklammeddelanden"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Aktivera blockera reklammeddelanden för ett alias för att hindra marknadsföringsmeddelanden från att nå din inkorg."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Med Relay Premium kan du blockera reklammeddelanden från att nå din inkorg samtidigt som du kan ta emot e-postmeddelanden som kvitton eller leveransinformation.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Logga in igen med dina alias"
   },
