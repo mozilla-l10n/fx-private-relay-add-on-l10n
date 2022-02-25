@@ -158,6 +158,13 @@
     "message": "Το Relay Premium σάς επιτρέπει να λαμβάνετε μόνο τα κρίσιμα email που αποστέλλονται σε ένα ψευδώνυμο. Θα λαμβάνετε email, όπως αποδείξεις, αλλά όχι διαφημιστικά email.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Φραγή διαφημιστικών email"
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Με το Relay Premium, μπορείτε να αποκλείσετε τα διαφημιστικά email από τα εισερχόμενά σας, ενώ επιτρέπεται ακόμα η λήψη email, όπως αποδείξεις ή στοιχεία αποστολής.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Συνδεθείτε ξανά με τα ψευδώνυμά σας"
   },
