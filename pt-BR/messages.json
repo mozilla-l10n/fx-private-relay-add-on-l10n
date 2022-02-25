@@ -162,6 +162,16 @@
     "message": "O Relay Premium permite que você receba apenas emails críticos enviados para um endereço de redirecionamento. Você receberá emails como recibos, mas não emails de propaganda.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Bloquear emails promocionais"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Ative o bloqueio de emails promocionais em um endereço de redirecionamento para impedir que emails de marketing cheguem à sua caixa de entrada."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Com o Relay Premium, você pode impedir que emails promocionais cheguem à sua caixa de entrada, mas permitir receber emails como recibos ou informações de frete.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Cadastre-se novamente com seus endereços de redirecionamento"
   },
