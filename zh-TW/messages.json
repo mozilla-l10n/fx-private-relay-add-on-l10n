@@ -162,6 +162,16 @@
     "message": "Relay Premium 讓您可以只收到寄送到別名信箱中的重要郵件。您會收到收據、發票等郵件，但不再收到行銷郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "封鎖行銷郵件"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "對別名信箱開啟「封鎖行銷郵件功能」，即可不讓行銷郵件進入收件匣。"
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "使用您的別名信箱登入網站"
   },
