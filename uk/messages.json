@@ -162,6 +162,16 @@
     "message": "Relay Premium дозволяє отримувати лише важливі електронні листи, надіслані на псевдоадресу. Ви отримуватимете електронні листи, як-от квитанції, але не рекламу.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Блокувати промоційні листи"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Увімкніть блокування промоційних електронних листів псевдоадресою, щоб маркетингові листи не надходили до вашої теки вхідних."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "За допомогою Relay Premium ви можете блокувати надходження промоційних листів до вашої теки «Вхідні», при цьому дозволяючи вам отримувати електронні листи, як-от квитанції або інформацію про доставлення.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Увійдіть використовуючи свої псевдоадреси"
   },
