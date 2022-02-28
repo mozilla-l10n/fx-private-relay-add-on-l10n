@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Werbe-E-Mails blockieren"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Werbe-E-Mails blockieren"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivieren Sie bei einer Alias-E-Mail-Adresse die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
   },
