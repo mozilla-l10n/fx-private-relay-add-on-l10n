@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Block Promotional Emails"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Block promotional emails"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Enable Block Promotional Emails on an alias to stop marketing emails from reaching your inbox."
   },
