@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Blockera reklammeddelanden"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Blockera reklammeddelanden"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivera blockera reklammeddelanden för ett alias för att hindra marknadsföringsmeddelanden från att nå din inkorg."
   },
