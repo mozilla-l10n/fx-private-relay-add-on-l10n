@@ -144,6 +144,22 @@
     "message": "Relay peut vous aider à protéger votre messagerie, où que vous soyez.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Augmentation de la taille des pièces jointes"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay peut désormais transférer des e-mails de 25 Mo, en tenant compte des pièces jointes.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Transfert des e-mails critiques"
+  },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blocage des e-mails promotionnels"
+  },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Blocage des e-mails promotionnels"
+  },
   "pageInputIconSignUpText": {
     "message": "Visitez le site web Firefox Relay pour vous connecter ou créer un compte.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
