@@ -7,6 +7,10 @@
     "message": "Firefox Relay 可以轻松创建马甲邮箱，收取的邮件将自动转发至您的真实邮箱。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay 可帮助保护您的的真实邮箱地址 — 与您的网络身份最息息相关的信息。此扩展可生成随机唯一的马甲邮件，您可用于网站或 App 账号注册、订阅新闻通讯，它会将邮件转发至您的真实邮箱。若您发觉开始收到不需要的邮件或垃圾邮件，屏蔽该马甲即会停止转发邮件至您的收件箱。若不再需要某个马甲邮箱，删除即可。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "您已成功安装 Firefox Relay 扩展。请登录您的 Firefox 账户开始使用 Relay。",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
