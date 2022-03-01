@@ -161,8 +161,15 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "屏蔽营销邮件"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "屏蔽营销邮件"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "启用马甲邮箱的“屏蔽营销邮件”功能，即会停止转发营销邮件至收件箱。"
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "使用 Relay Premium 可阻止营销邮件转发至您的收件箱，但您仍可收到收据和物流信息等电子邮件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupSignBackInHeadline": {
     "message": "用您的马甲邮箱登录网站"
