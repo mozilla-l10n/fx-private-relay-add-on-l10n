@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "封鎖行銷郵件"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "封鎖行銷郵件"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "對別名信箱開啟「封鎖行銷郵件功能」，即可不讓行銷郵件進入收件匣。"
   },
