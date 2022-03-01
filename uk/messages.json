@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Блокувати промоційні листи"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Блокувати промоційні листи"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Увімкніть блокування промоційних електронних листів псевдоадресою, щоб маркетингові листи не надходили до вашої теки вхідних."
   },
