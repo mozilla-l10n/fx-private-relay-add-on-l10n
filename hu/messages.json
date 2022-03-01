@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Promóciós e-mailek blokkolása"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Promóciós e-mailek blokkolása"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Engedélyezze a Promóciós e-mailek letiltását egy álnéven, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
   },
