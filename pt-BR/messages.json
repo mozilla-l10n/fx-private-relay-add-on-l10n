@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Bloquear emails promocionais"
   },
+  "popupBlockPromotionalEmailsHeadline-2": {
+    "message": "Bloquear emails promocionais"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Ative o bloqueio de emails promocionais em um endereço de redirecionamento para impedir que emails de marketing cheguem à sua caixa de entrada."
   },
