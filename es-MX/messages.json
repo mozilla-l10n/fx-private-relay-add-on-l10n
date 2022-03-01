@@ -165,8 +165,8 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Bloquear correos promocionales"
   },
-  "popupBlockPromotionalEmailsHeadline-2": {
-    "message": "Bloquear correos promocionales"
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Bloquear correos electrónicos promocionales"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Habilitar el bloqueo de correos electrónicos promocionales en un alias para evitar que los correos electrónicos de marketing lleguen a tu bandeja de entrada."
