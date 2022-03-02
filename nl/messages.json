@@ -7,6 +7,10 @@
     "message": "Firefox Relay maakt het gemakkelijk om e-mailaliassen te maken die naar uw echte Postvak IN worden doorgestuurd.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay helpt u uw echte e-mailadres te beschermen – het adres dat het nauwst verband houdt met uw online-identiteit. U kunt er unieke, willekeurige aliassen mee aanmaken, die u kunt gebruiken om u in te schrijven bij accounts, apps of nieuwsbrieven, en stuurt berichten door naar uw echte adres. Als u ontdekt dat een account u ongewenste berichten of spam stuurt, kunt u de alias blokkeren en verstuurt deze geen berichten meer naar uw Postvak IN. Als u een account niet meer wilt gebruiken, kunt u de alias verwijderen.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "U hebt de Firefox Relay-add-on met succes geïnstalleerd. Meld u aan bij Relay met uw Firefox-account om aan de slag te gaan.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -156,6 +160,19 @@
   },
   "popupCriticalEmailForwardingBody": {
     "message": "Met Relay Premium kunt u instellen dat u alleen kritieke e-mailberichten op een alias ontvangt. U ontvangt berichten zoals ontvangstbewijzen, maar geen marketingberichten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Reclameberichten blokkeren"
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Reclameberichten blokkeren"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Schakel Reclameberichten blokkeren in voor een alias om te voorkomen dat marketingberichten uw Postvak IN bereiken."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Met Relay Premium kunt uw voorkomen dat reclameberichten uw Postvak IN bereiken, terwijl u nog steeds e-mailberichten zoals ontvangstbevestigingen of verzendinformatie ontvangt.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupSignBackInHeadline": {
