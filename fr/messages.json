@@ -160,6 +160,10 @@
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocage des e-mails promotionnels"
   },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Grâce à Relay Premium, vous pouvez empêcher les e-mails promotionnels d’arriver dans votre boîte de réception tout en autorisant la réception des messages tels que les reçus ou les avis d’expédition.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "pageInputIconSignUpText": {
     "message": "Visitez le site web Firefox Relay pour vous connecter ou créer un compte.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
