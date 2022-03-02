@@ -158,6 +158,19 @@
     "message": "Relay Premium te permitte de reciper solo e-mails critic inviate a un alias. Tu recipera e-mails tal como quitantias, ma non e-mails de marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blocar e-mails promotional"
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Blocar e-mails promotional"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Activar le blocada del e-mails promotional sur un alias pro stoppar le e-mails de marketing de attinger tu cassa de ingresso."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Con Relay Premium, tu pote blocar e-mails promotional de attinger tu cassa de ingresso durante que ancora te es permittite reciper e-mails como quitantias o informationes de expedition.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupSignBackInHeadline": {
     "message": "Re-accesso per proprie aliases"
   },
