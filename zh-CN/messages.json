@@ -159,7 +159,7 @@
     "message": "转发重要邮件"
   },
   "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium 允许您只收取转发至马甲邮箱的重要邮件。您将收到收据、发票等邮件，但不会收到营销邮件。",
+    "message": "Relay Premium 允许您只收取发送至马甲邮箱的重要邮件。您将收到收据、发票等邮件，但不会收到营销邮件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline": {
