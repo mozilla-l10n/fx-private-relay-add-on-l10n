@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Φραγή διαφημιστικών email"
   },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Φραγή διαφημιστικών email"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε ένα ψευδώνυμο για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
   },
