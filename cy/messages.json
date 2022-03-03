@@ -165,6 +165,9 @@
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Rhwystro E-byst Hyrwyddo"
   },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Rhwystro e-byst hyrwyddo"
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Galluogi Rhwystro E-byst Hyrwyddo ar arallenw i rwystro e-byst marchnata rhag cyrraedd eich blwch derbyn."
   },
