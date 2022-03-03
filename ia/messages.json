@@ -7,6 +7,10 @@
     "message": "Firefox Relay rende facile crear aliases de e-mail que inultra a tu real cassa de ingresso.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay te adjuta a proteger tu real adresse e-mail, le major parte del los intimemente ligate a tu identitate online. Illo te permitte de generar unic, aliases aleatori que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e inultra messages a tu real adresse. Si tu trova que un conto invia indesirate e-mail o SPAM, tu pote blocar le alias e illo stoppara le invio de e-mail a tu cassa de ingresso. Un vice tu non plus vole un conto, tu pote deler le alias.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Tu ha installate con successo le additivo Firefox Relay. Pro comenciar, accede a Relay con tu Firefox Account.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
