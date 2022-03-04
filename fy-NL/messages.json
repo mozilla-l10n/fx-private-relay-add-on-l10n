@@ -7,6 +7,10 @@
     "message": "Firefox Relay makket it maklik om e-mailaliassen te meitsjen dy’t nei jo echte Postfek YN trochstjoerd wurde.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay helpt jo jo echte e-mailadres te beskermjen – it adres dat it meast deun ferbân hâldt mei jo online-identiteit. Jo kinne der unike, aliassen mei oanmeitsje, dy’t jo brûke kinne om jo yn te skriuwen by accounts, apps of nijsbrieven, en stjoert berjochten troch nei jo echte adres. As jo ûntdekke dat in account jo net-winske berjochten of spam stjoert, kinne jo de alias blokkearje en ferstjoert dizze gjin berjochten mear nei jo Postfek YN. As jo in account net mear brûke wolle, kinne jo de alias fuortsmite.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Jo hawwe de Firefox Relay-add-on mei sukses ynstallearre. Meld jo oan by Relay mei jo Firefox-account om oan de slach te gean.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -143,6 +147,39 @@
   "popupEducationalComponent1Body": {
     "message": "Relay kin jo helpe jo e-mail te beskermjen, wêr’t jo ek binne.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Ferbettere bylagegrutte"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay kin no e-mailberjochten oant 25 MB trochstjoere, ynklusyf bylagen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Trochstjoeren fan kritike e-mailberjochten"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Mei Relay Premium kinne jo ynstelle dat jo allinnich kritike e-mailberjochten op in alias ûntfange. Jo ûntfange berjochten lykas ûntfangstbewizen, mar gjin marketingberjochten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Reklameberjochten blokkearje"
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Reklameberjochten blokkearje"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Skeakelje Reklameberjochten blokkearje yn foar in alias om foar te kommen dat marketingberjochten jo Postfek YN berikke."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Mei Relay Premium kinne jo foarkomme dat reklameberjochten jo Postfek YN berikke, wylst jo noch hieltyd e-mailberjochten lykas ûntfangstbefêstigingen of ferstjoerynformaasje ûntfange.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInHeadline": {
+    "message": "Opnij oanmelde mei jo aliassen"
+  },
+  "popupSignBackInBody": {
+    "message": "Iepenje it kontekstmenu (rjochtermûsknop of control-klik) om in nije alias oan te meitsjen as jo frege wurdt om jo e-mailadres. Fan hjir út kinne jo daliks in nije alias oanmeitsje en brûke."
   },
   "pageInputIconSignUpText": {
     "message": "Besykje de Firefox Relay-website om jo oan te melden of in account oan te meitsjen.",
