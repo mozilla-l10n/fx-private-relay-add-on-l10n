@@ -7,6 +7,10 @@
     "message": "Firefox Relay usnadňuje vytváření e-mailových aliasů, které přeposílají e-maily do vaší skutečné schránky.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay vám pomůže ochránit vaši pravou e-mailovou adresu, která se svázána s vaší online identitou. Umožňuje vám vygenerovat unikátní a náhodné aliasy, které můžete používat pro registraci účtů, v aplikacích, nebo pro zasílání zpravodajů a jejich přeposílání do vaší e-mailové schránky. Pokud zjistíte, že vám chodí nevyžádané zprávy, můžete alias zablokovat a zprávy na něj posílané vám do schránky přestanou chodit. A když daný účet nebudete potřebovat, můžete alias smazat úplně.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -143,6 +147,36 @@
   "popupEducationalComponent1Body": {
     "message": "Relay vám pomůže ochránit váš e-mail bez ohledu na to, kde se nacházíte.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Navýšení velikosti příloh"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay teď umí přeposílat e-maily až do velikosti 25 MB, včetně příloh.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Přeposílání důležitých e-mailů"
+  },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Replay Premium umožňuje omezit doručování e-mailů pouze na ty důležité. Potvrzení o platbách dostanete, ale obchodní nabídky zablokuje.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Blokování propagačních e-mailů"
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Blokování propagačních e-mailů"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Zapnutím blokování propagačních e-mailů zaslaných na váš alias zabráníte jejich doručování do vaší e-mailové schránky."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Se službou Relay Premium můžete zabránit doručování propagačních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupSignBackInBody": {
+    "message": "Nový alias můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) políčko pro zadání e-mailové adresy."
   },
   "pageInputIconSignUpText": {
     "message": "Navštivte web služby Firefox Relay a přihlaste se nebo si vytvořte účet.",
