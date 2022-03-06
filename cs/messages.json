@@ -175,6 +175,9 @@
     "message": "Se službou Relay Premium můžete zabránit doručování propagačních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupSignBackInHeadline": {
+    "message": "Přihlaste se zpátky pomocí svých aliasů"
+  },
   "popupSignBackInBody": {
     "message": "Nový alias můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) políčko pro zadání e-mailové adresy."
   },
