@@ -154,11 +154,18 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Transfert des e-mails critiques"
   },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium vous permet de recevoir seulement les e-mails critiques envoyés à un alias. Vous recevez les messages tels que les reçus, mais pas les e-mails des campagnes publicitaires.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline": {
     "message": "Blocage des e-mails promotionnels"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocage des e-mails promotionnels"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Activez le blocage des e-mails promotionnels pour un alias afin d’empêcher la réception des messages des campagnes publicitaires dans votre boîte de réception."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Grâce à Relay Premium, vous pouvez empêcher les e-mails promotionnels d’arriver dans votre boîte de réception tout en autorisant la réception des messages tels que les reçus ou les avis d’expédition.",
