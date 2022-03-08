@@ -1,0 +1,43 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Relay облегчает создание псевдонимов электронной почты, письма с которых пересылаются в ваш настоящий почтовый ящик. Используйте их для защиты своих сетевых аккаунтов от хакеров и нежелательных сообщений.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Разрешить Mozilla собирать информацию о том, как вы используете это расширение.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Разрешить сбор данных",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Отключить сбор данных",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Зарегистрироваться / Войти"
+  },
+  "popupSettingsTitle": {
+    "message": "Настройки"
+  },
+  "popupSettingsReturn": {
+    "message": "Вернуться на главную панель"
+  },
+  "popupSettingsCollectData": {
+    "message": "Разрешить Mozilla собирать данные о взаимодействии",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Оставить отзыв"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Приватность"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Условия использования"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Добро пожаловать"
+  }
+}
