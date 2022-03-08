@@ -39,5 +39,113 @@
   },
   "popupSignUpPanelWelcome": {
     "message": "Добро пожаловать"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Продолжить"
+  },
+  "popupRemainingAliases_2": {
+    "message": "Оставшихся псевдонимов: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases": {
+    "message": "Созданных псевдонимов: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Показать предыдущую панель"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Перейти на следующую панель"
+  },
+  "ManageAllAliases": {
+    "message": "Управление всеми псевдонимами"
+  },
+  "popupOnboardingPanel2Headline": {
+    "message": "Не видите значок?"
+  },
+  "popupOnboardingPanel3Headline": {
+    "message": "Получаете слишком много писем?"
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Дай пять!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Вы опытный пользователь Firefox Relay!",
+    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Зарегистрировать домен для электронной почты"
+  },
+  "popupAliasesUsed": {
+    "message": "Почтовых псевдонимов использовано"
+  },
+  "popupEmailsBlocked": {
+    "message": "Писем заблокировано"
+  },
+  "popupEmailsForwarded": {
+    "message": "Писем переадресовано"
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Увеличенный размер вложений"
+  },
+  "popupBlockPromotionalEmailsHeadline": {
+    "message": "Блокировка рекламных писем"
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Блокировка рекламных писем"
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Перейти в Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Создать новый псевдоним"
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Последние псевдонимы"
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Недопустимые символы: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Включить новые функции"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Подробнее"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Отклонить"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Разрешить"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Обновление уведомления о конфиденциальности"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Просмотреть уведомление о конфиденциальности"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Убрать"
   }
 }
