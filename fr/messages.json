@@ -7,6 +7,10 @@
     "message": "Firefox Relay facilite la création d’alias de messagerie qui transfèrent les messages vers votre véritable boîte de réception.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay vous aide à protéger votre véritable adresse e-mail, celle qui est le plus étroitement liée à votre identité en ligne. Il vous permet de générer des alias uniques et aléatoires que vous pouvez utiliser pour créer des comptes, vous inscrire à des applications ou des newsletters, et transférer des messages à votre véritable adresse. Si vous constatez qu’un compte envoie des e-mails indésirables ou des spams, vous pouvez bloquer l’alias et il cessera d’envoyer des e-mails à votre boîte de réception. Lorsque vous ne voulez plus d’un compte, supprimez simplement l’alias.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "firstRunP": {
     "message": "Vous avez correctement installé le module complémentaire Firefox Relay. Pour commencer, connectez-vous à Relay avec votre compte Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
