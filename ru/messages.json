@@ -178,6 +178,9 @@
   "popupSignBackInHeadline": {
     "message": "Войдите снова, используя псевдонимы"
   },
+  "popupSignBackInBody": {
+    "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
+  },
   "pageInputIconSignUpText": {
     "message": "Посетите веб-сайт Firefox Relay, чтобы войти или создать учётную запись.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -189,8 +192,21 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Создать новый псевдоним"
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Получить неограниченное число псевдонимов"
+  },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Использовать существующий псевдоним с этого сайта…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Последние псевдонимы"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Вы уже создали максимальное число псевдонимов",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Вы достигли предела числа псевдонимов."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Недопустимые символы: $CHARACTERS$",
@@ -212,6 +228,10 @@
   "popupDataCollectionHeadline": {
     "message": "Включить новые функции"
   },
+  "popupDataCollectionBody": {
+    "message": "Вы можете разрешить Relay собирать дополнительные данные, которые позволяют нам синхронизировать ваши метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Подробнее"
   },
@@ -223,6 +243,10 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Обновление уведомления о конфиденциальности"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Чтобы повысить надежность Firefox Relay в случае, если электронное письмо не может быть доставлено, мы временно будем хранить электронное письмо на наших серверах, пока оно не будет доставлено. Мы никогда не будем держать его дольше трех дней.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "Просмотреть уведомление о конфиденциальности"
