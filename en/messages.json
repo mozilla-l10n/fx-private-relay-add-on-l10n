@@ -1,8 +1,4 @@
 {
-    "extensionDescription": {
-        "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox. Use it to protect your online accounts from hackers and unwanted messages.",
-        "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-    },
     "extensionDescription_v1": {
         "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox.",
         "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -97,23 +93,6 @@
     "ManageAllAliases": {
         "message": "Manage All Aliases"
     },
-    "popupOnboardingPanel1Body": {
-        "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias.",
-        "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-    },
-    "popupOnboardingPanel2Headline": {
-        "message": "Don’t see the icon?"
-    },
-    "popupOnboardingPanel2Body": {
-        "message": "Right-click on form fields to access the context menu and generate an alias from there."
-    },
-    "popupOnboardingPanel3Headline": {
-        "message": "Getting too many emails?"
-    },
-    "popupOnboardingPanel3Body": {
-        "message": "Manage your Relay aliases and easily toggle Forwarding to Blocking.",
-        "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-    },
     "popupOnboardingMaxAliasesPanelHeadline": {
         "message": "High five!"
     },
@@ -161,9 +140,6 @@
     "popupCriticalEmailForwardingBody": {
         "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
         "description": "DO NOT TRANSLATE \"Relay Premium\"."
-    },
-    "popupBlockPromotionalEmailsHeadline": {
-        "message": "Block Promotional Emails"
     },
     "popupBlockPromotionalEmailsHeadline_2": {
         "message": "Block promotional emails"
