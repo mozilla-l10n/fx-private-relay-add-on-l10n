@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay полегшує створення псевдоадрес е-пошти, з яких листи пересилаються до вашої справжньої теки вхідних. Користуйтеся ним для захисту своїх мережних облікових записів від хакерів та небажаних повідомлень.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay дає змогу легко створювати псевдоадреси електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay дає змогу легко створювати маски електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay допомагає вам захистити вашу справжню адресу електронної пошти — ту, яка найтісніше пов’язана з вашою особою в інтернеті. Служба дає змогу генерувати унікальні випадкові псевдоадреси, які можна використовувати для реєстрації в облікових записах, застосунках або інформаційних бюлетенях, а також пересилає повідомлення на вашу справжню адресу. Якщо ви виявите, що обліковий запис надсилає небажану електронну пошту або спам, ви можете заблокувати псевдоадресу, і вона припинить надсилання електронної пошти у вашу теку «Вхідні». Якщо ви більше не потребуєте цього облікового запису, ви можете видалити псевдоадресу.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Ви встановили додаток Firefox Relay. Щоб розпочати, увійдіть у Relay за допомогою свого облікового запису Firefox.",
@@ -97,29 +101,12 @@
   "ManageAllAliases": {
     "message": "Керувати всіма псевдоадресами"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Коли на вебсайті з’являється піктограма Firefox Relay, виберіть її, щоб створити нову псевдоадресу.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupOnboardingPanel2Headline": {
-    "message": "Не бачите піктограму?"
-  },
-  "popupOnboardingPanel2Body": {
-    "message": "Клацніть правою кнопкою миші на полі форми, щоб отримати доступ до контекстного меню та створити з нього псевдоадресу."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Отримуєте забагато листів?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Керуйте псевдоадресами Relay та легко змінюйте пересилання на блокування.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Чудово!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Ви — активний користувач Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Отримайте власний домен для псевдоадрес е-пошти Relay",
@@ -161,9 +148,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium дозволяє отримувати лише важливі електронні листи, надіслані на псевдоадресу. Ви отримуватимете електронні листи, як-от квитанції, але не рекламу.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Блокувати промоційні листи"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Блокувати промоційні листи"
@@ -210,7 +194,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Символ(и) заборонено: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +204,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Додати назву облікового запису",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Закрити"
