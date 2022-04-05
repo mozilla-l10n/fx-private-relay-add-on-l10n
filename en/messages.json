@@ -156,23 +156,6 @@
         "message": "All email masks",
         "description": "In the pop-up panel, the use can view all masks they've created."
     },
-    "popupOnboardingPanel1Body": {
-        "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias.",
-        "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-    },
-    "popupOnboardingPanel2Headline": {
-        "message": "Don’t see the icon?"
-    },
-    "popupOnboardingPanel2Body": {
-        "message": "Right-click on form fields to access the context menu and generate an alias from there."
-    },
-    "popupOnboardingPanel3Headline": {
-        "message": "Getting too many emails?"
-    },
-    "popupOnboardingPanel3Body": {
-        "message": "Manage your Relay aliases and easily toggle Forwarding to Blocking.",
-        "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-    },
     "popupOnboardingMaxAliasesPanelHeadline": {
         "message": "High five!"
     },
