@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay rende facile crear aliases de e-mail que reexpedi le messages a tu cassa de entrata real. Usa lo pro proteger tu contos in linea contra piratas informatic e messages indesirate.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay rende facile crear aliases de e-mail que inultra a tu real cassa de ingresso.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay rende facile crear mascas email que inultra a tu real cassa de ingresso.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay te adjuta a proteger tu real adresse e-mail, le major parte del los intimemente ligate a tu identitate online. Illo te permitte de generar unic, aliases aleatori que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e inultra messages a tu real adresse. Si tu trova que un conto invia indesirate e-mail o SPAM, tu pote blocar le alias e illo stoppara le invio de e-mail a tu cassa de ingresso. Un vice tu non plus vole un conto, tu pote deler le alias.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Tu ha installate con successo le additivo Firefox Relay. Pro comenciar, accede a Relay con tu Firefox Account.",
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "Colliger datos de interaction quando tu face cosas como cliccar le icone de Relay in tu barra del instrumentos o crear un nove alias adjuta nos a apprender lo que functiona ben e ubi nos pote meliorar. Tu pote sempre disactivar isto in le quadro del parametros.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Colliger datos de interaction quando tu face cosas como cliccar le icone de Relay in tu barra del instrumentos o crear un nove masca adjuta nos a apprender lo que functiona ben e ubi nos pote meliorar. Tu pote sempre disactivar isto in le quadro del parametros.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,6 +84,15 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Mascas restante: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
     "message": "Obtene aliases illimitate"
   },
@@ -97,29 +114,12 @@
   "ManageAllAliases": {
     "message": "Gerer tote le Aliases"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Quando le icone de Firefox Relay appare sur un sito web, elige lo pro generar un nove alias.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupOnboardingPanel2Headline": {
-    "message": "Non vide tu le icone?"
-  },
-  "popupOnboardingPanel2Body": {
-    "message": "Clicca dextre sur le campos del formulario pro acceder le menu contextual e generar un alias de illac."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Recipe tu troppo de e-mails?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Gere tu aliases de Relay e commuta facilemente inter Reexpedir e Blocar.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Perfecto!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Tu es un usator de potentia de Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Obtene un dominio personal pro le aliases de e-mail de Relay",
@@ -161,9 +161,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium te permitte de reciper solo e-mails critic inviate a un alias. Tu recipera e-mails tal como quitantias, ma non e-mails de marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Blocar e-mails promotional"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocar e-mails promotional"
@@ -210,7 +207,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Character(s) non permittite: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +217,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Adder nomine de conto",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Clauder"
