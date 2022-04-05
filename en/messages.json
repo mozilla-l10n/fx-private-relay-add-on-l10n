@@ -106,14 +106,9 @@
             }
         }
     },
-    "popupLastUsedMasks": {
-        "message": "Last $LIMIT$ used masks",
-        "description": "Label for list of most recently used masks. The placeholder is a number. Example: 5",
-        "placeholders": {
-            "limit": {
-                "content": "$1"
-            }
-        }
+    "popupRecentlyUsedMasks": {
+        "message": "Recently used email masks",
+        "description": "Label for list of most recently used masks."
     },
     "popupGetUnlimitedAliases": {
         "message": "Get unlimited aliases"
@@ -275,6 +270,14 @@
     },
     "pageInputIconGenerateNewRandomMask": {
         "message": "Generate new random mask"
+    },
+    "pageInputIconAdditionalEmailMasks": {
+        "message": "Additional email masks",
+        "description": "In the website content icon pop-up, users can re-use masks they've already created."
+    },
+    "pageInputIconPreviouslyUsedMask": {
+        "message": "Previously used on this website",
+        "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
     },
     "pageInputIconGetUnlimitedAliases": {
         "message": "Get Unlimited Aliases"
