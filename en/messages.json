@@ -11,6 +11,10 @@
         "message": "Firefox Relay helps you protect your real email address — the one most closely tied to your online identity. It lets you generate unique, random aliases you can use to sign up for accounts, apps, or newsletters, and forwards messages to your real address. If you find that an account is sending unwanted email or spam, you can block the alias and it will stop sending email to your inbox. Once you no longer want an account, you can delete the alias.",
         "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
     },
+    "labelRelayPremium": {
+        "message": "Firefox Relay Premium",
+        "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+    },
     "firstRunP": {
         "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
         "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -89,11 +93,42 @@
             }
         }
     },
+    "popupRemainingFreeMasks": {
+        "message": "Remaining free email masks:  $REMAINING$",
+        "description": "Tells the user how many more free masks they can make.",
+        "placeholders": {
+            "remaining": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupRecentlyUsedMasks": {
+        "message": "Recently used email masks",
+        "description": "Label for list of most recently used masks."
+    },
     "popupGetUnlimitedAliases": {
         "message": "Get unlimited aliases"
     },
     "popupGetUnlimitedAliases_mask": {
         "message": "Get unlimited masks"
+    },
+    "popupUnlimitedAliases": {
+        "message": "Aliases created: $COUNT$",
+        "description": "Tells the premium user how many aliases they have created.",
+        "placeholders": {
+            "remaining": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupUnlimitedAliases_mask": {
+        "message": "Masks created: $COUNT$",
+        "description": "Tells the premium user how many masks they have created.",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
     },
     "popupOnboardingShowPrevious": {
         "message": "Show previous panel"
@@ -106,6 +141,37 @@
     },
     "ManageAllAliases_mask": {
         "message": "Manage all masks"
+    },
+    "labelManage": {
+        "message": "Manage"
+    },
+    "labelSearch": {
+        "message": "Search"
+    },
+    "labelFromThisWebsite": {
+        "message": "From this website",
+        "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+    },
+    "labelAllEmailMasks": {
+        "message": "All email masks",
+        "description": "In the pop-up panel, the use can view all masks they've created."
+    },
+    "popupOnboardingPanel1Body": {
+        "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias.",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupOnboardingPanel2Headline": {
+        "message": "Don’t see the icon?"
+    },
+    "popupOnboardingPanel2Body": {
+        "message": "Right-click on form fields to access the context menu and generate an alias from there."
+    },
+    "popupOnboardingPanel3Headline": {
+        "message": "Getting too many emails?"
+    },
+    "popupOnboardingPanel3Body": {
+        "message": "Manage your Relay aliases and easily toggle Forwarding to Blocking.",
+        "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
     },
     "popupOnboardingMaxAliasesPanelHeadline": {
         "message": "High five!"
@@ -208,6 +274,17 @@
     "pageInputIconGenerateNewAlias_mask": {
         "message": "Generate new mask"
     },
+    "pageInputIconGenerateNewRandomMask": {
+        "message": "Generate new random mask"
+    },
+    "pageInputIconAdditionalEmailMasks": {
+        "message": "Additional email masks",
+        "description": "In the website content icon pop-up, users can re-use masks they've already created."
+    },
+    "pageInputIconPreviouslyUsedMask": {
+        "message": "Previously used on this website",
+        "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+    },
     "pageInputIconGetUnlimitedAliases": {
         "message": "Get Unlimited Aliases"
     },
@@ -239,6 +316,10 @@
     },
     "pageFillRelayAddressLimit_mask": {
         "message": "You’ve reached the mask limit."
+    },
+    "pageNoMasksRemaining": {
+        "message": "You have no more free email masks.",
+        "description": "Error message that appears when a free tier user uses all of their masks."
     },
     "profilePageInvalidAliasCharactersError": {
         "message": "Character(s) not allowed: $CHARACTERS$",
