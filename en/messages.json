@@ -116,7 +116,7 @@
         "message": "Aliases created: $COUNT$",
         "description": "Tells the premium user how many aliases they have created.",
         "placeholders": {
-            "remaining": {
+            "count": {
                 "content": "$1"
             }
         }
