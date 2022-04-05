@@ -97,23 +97,12 @@
             }
         }
     },
-    "popupRemainingFreeMasks_Num1": {
-        "message": "You have $REMAINING$ free email mask remaining",
-        "description": "Tells the user they can make one more mask. (Remaining mask count: 1)",
+    "popupRemainingFreeMasks": {
+        "message": "Remaining free email masks:  $REMAINING$",
+        "description": "Tells the user how many more free masks they can make.",
         "placeholders": {
             "remaining": {
-                "content": "$1",
-                "example": "1"
-            }
-        }
-    },
-    "popupRemainingFreeMasks_NumMany": {
-        "message": "You have $REMAINING$ free email masks remaining",
-        "description": "Tells the user how many more free masks they can make. (Remaining mask count: 5)",
-        "placeholders": {
-            "remaining": {
-                "content": "$1",
-                "example": "5"
+                "content": "$1"
             }
         }
     },
