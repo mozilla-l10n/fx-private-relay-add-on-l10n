@@ -95,24 +95,6 @@
     "popupGetUnlimitedAliases_mask": {
         "message": "Get unlimited masks"
     },
-    "popupUnlimitedAliases": {
-        "message": "Aliases created: $COUNT$",
-        "description": "Tells the premium user how many aliases they have created.",
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }
-    },
-    "popupUnlimitedAliases_mask": {
-        "message": "Masks created: $COUNT$",
-        "description": "Tells the premium user how many masks they have created.",
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }
-    },
     "popupOnboardingShowPrevious": {
         "message": "Show previous panel"
     },
