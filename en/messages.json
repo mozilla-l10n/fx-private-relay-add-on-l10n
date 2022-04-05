@@ -93,6 +93,24 @@
             }
         }
     },
+    "popupRemainingFreeMasks": {
+        "message": "You have $REMAINING$ free email masks remaining",
+        "description": "Tells the user how many more free masks they can make.",
+        "placeholders": {
+            "remaining": {
+                "content": "$1"
+            }
+        }
+    },
+    "popupLastUsedMasks": {
+        "message": "Last $LIMIT$ used masks",
+        "description": "Label for list of most recently used masks. The placeholder is a number. Example: 5",
+        "placeholders": {
+            "limit": {
+                "content": "$1"
+            }
+        }
+    },
     "popupGetUnlimitedAliases": {
         "message": "Get unlimited aliases"
     },
@@ -128,6 +146,20 @@
     },
     "ManageAllAliases_mask": {
         "message": "Manage all masks"
+    },
+    "labelManage": {
+        "message": "Manage"
+    },
+    "labelSearch": {
+        "message": "Search"
+    },
+    "labelFromThisWebsite": {
+        "message": "From this website",
+        "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+    },
+    "labelAllEmailMasks": {
+        "message": "All email masks",
+        "description": "In the pop-up panel, the use can view all masks they've created."
     },
     "popupOnboardingPanel1Body": {
         "message": "When the Firefox Relay icon appears on a website, select it to generate a new alias.",
@@ -237,6 +269,9 @@
     "pageInputIconGenerateNewAlias_mask": {
         "message": "Generate new mask"
     },
+    "pageInputIconGenerateNewRandomMask": {
+        "message": "Generate new random mask"
+    },
     "pageInputIconGetUnlimitedAliases": {
         "message": "Get Unlimited Aliases"
     },
@@ -268,6 +303,10 @@
     },
     "pageFillRelayAddressLimit_mask": {
         "message": "You’ve reached the mask limit."
+    },
+    "pageNoMasksRemaining": {
+        "message": "You have no more free email masks.",
+        "description": "Error message that appears when a free tier user uses all of their masks."
     },
     "profilePageInvalidAliasCharactersError": {
         "message": "Character(s) not allowed: $CHARACTERS$",
