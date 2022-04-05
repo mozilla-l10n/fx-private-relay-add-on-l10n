@@ -93,8 +93,24 @@
       }
     }
   },
+  "popupRemainingFreeMasks": {
+    "message": "Mascas email gratuite restante: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Mascas email recentemente usate",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Obtene aliases illimitate"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Obtener mascas illimitate"
   },
   "popupUnlimitedAliases": {
     "message": "Aliases create: $COUNT$",
