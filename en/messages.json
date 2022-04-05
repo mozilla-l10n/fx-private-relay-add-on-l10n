@@ -1,8 +1,4 @@
 {
-    "extensionDescription": {
-        "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox. Use it to protect your online accounts from hackers and unwanted messages.",
-        "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-    },
     "extensionDescription_v1": {
         "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox.",
         "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -120,7 +116,7 @@
         "message": "Aliases created: $COUNT$",
         "description": "Tells the premium user how many aliases they have created.",
         "placeholders": {
-            "count": {
+            "remaining": {
                 "content": "$1"
             }
         }
@@ -182,7 +178,7 @@
     },
     "popupOnboardingMaxAliasesPanelBody": {
         "message": "You’re a Firefox Relay power user!",
-        "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+        "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
     },
     "popupRegisterDomainHeadline": {
         "message": "Get a custom domain for Relay email aliases",
@@ -235,14 +231,18 @@
         "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
         "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
-    "popupBlockPromotionalEmailsHeadline": {
-        "message": "Block Promotional Emails"
+    "popupCriticalEmailForwardingBody_mask": {
+        "message": "Relay Premium allows you to receive only critical emails sent to a mask. You’ll receive emails like receipts but not marketing emails.",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
     "popupBlockPromotionalEmailsHeadline_2": {
         "message": "Block promotional emails"
     },
     "popupBlockPromotionalEmailsBody": {
         "message": "Enable Block Promotional Emails on an alias to stop marketing emails from reaching your inbox."
+    },
+    "popupBlockPromotionalEmailsBody_mask": {
+        "message": "Enable Block Promotional Emails on a mask to stop marketing emails from reaching your inbox."
     },
     "popupBlockPromotionalEmailsBodyNonPremium": {
         "message": "With Relay Premium, you can block promotional emails from reaching your inbox while still allowing you to receive emails like receipts or shipping information.",
@@ -251,8 +251,14 @@
     "popupSignBackInHeadline": {
         "message": "Sign back in with your aliases"
     },
+    "popupSignBackInHeadline_mask": {
+        "message": "Sign back in with your email masks"
+    },
     "popupSignBackInBody": {
         "message": "To create a new alias when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
+    },
+    "popupSignBackInBody_mask": {
+        "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
     },
     "pageInputIconSignUpText": {
         "message": "Visit the Firefox Relay website to sign in or create an account.",
@@ -317,7 +323,7 @@
     },
     "profilePageInvalidAliasCharactersError": {
         "message": "Character(s) not allowed: $CHARACTERS$",
-        "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+        "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
         "placeholders": {
             "characters": {
                 "content": "$1",
@@ -327,7 +333,7 @@
     },
     "profilePageDefaulAliasLabelText": {
         "message": "Add account name",
-        "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+        "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
     },
     "close": {
         "message": "Close"
