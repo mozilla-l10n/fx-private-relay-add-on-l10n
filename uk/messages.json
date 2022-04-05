@@ -283,12 +283,26 @@
   "pageInputIconRecentAliases": {
     "message": "Останні псевдоадреси"
   },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Останні маски"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Ви вже створили максимальну кількість псевдоадрес",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Ви вже створили максимальну кількість масок",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Ви досягли обмеження кількості псевдоадрес."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Ви досягли обмеження кількості масок."
+  },
+  "pageNoMasksRemaining": {
+    "message": "У вас більше немає безплатних масок електронної пошти.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Символ(и) заборонено: $CHARACTERS$",
@@ -312,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Ви можете дозволити Relay збирати додаткові дані, які дозволяють нам синхронізувати ваші псевдоадреси на ваших пристроях із вебсайтами, де вони створюються та використовуються.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Ви можете дозволити Relay збирати додаткові дані, які дозволяють нам синхронізувати ваші маски на ваших пристроях із вебсайтами, де вони створюються та використовуються.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
