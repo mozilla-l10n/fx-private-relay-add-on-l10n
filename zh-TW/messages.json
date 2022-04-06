@@ -1,8 +1,4 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay 讓您可輕鬆建立別名信箱，使用該地址收信後再轉寄回您實際的信箱。可使用別名信箱來保護帳號，不受駭客與垃圾信件的騷擾。",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "使用 Firefox Relay，讓您輕鬆就能建立虛擬轉寄電子信箱。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -10,6 +6,10 @@
   "extensionDescriptionStore": {
     "message": "Firefox Relay 可幫助保護您的實際電子郵件信箱 — 此資料與您的網路身分最有關聯。此附加元件可產生隨機而獨特的別名信箱，讓您可用來註冊網站或 App 帳號、訂閱電子報，再將郵件轉寄到您的實際信箱。若您覺得該帳號開始收到不適當的郵件或垃圾信，可以暫時關閉該別名，就不會再將郵件轉寄到您的信箱。當您不再需要該帳號，就可以直接刪除該別名。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "您已成功安裝 Firefox Relay 附加元件，使用 Firefox 帳號登入 Relay 即可開始使用。",
@@ -97,29 +97,22 @@
   "ManageAllAliases": {
     "message": "管理所有別名"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "當網站上出現 Firefox Relay 圖示時，選擇它即可產生新別名。",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "labelManage": {
+    "message": "管理"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "找不到圖示嗎？"
+  "labelSearch": {
+    "message": "搜尋"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "對表單欄位按右鍵，從選單中直接建立別名。"
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "收到太多郵件了？"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "管理您的 Relay 別名並輕鬆將轉寄中狀態改為封鎖。",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelFromThisWebsite": {
+    "message": "來自此網站",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Gimme Five!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "您是 Firefox Relay 大師！",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "用自訂網域名稱建立 Relay 郵件別名",
@@ -127,6 +120,9 @@
   },
   "popupRegisterDomainButton": {
     "message": "註冊郵件網域"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "註冊郵件子網域"
   },
   "popupAliasesUsed": {
     "message": "已用的郵件別名"
@@ -161,9 +157,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium 讓您可以只收到寄送到別名信箱中的重要郵件。您會收到收據、發票等郵件，但不再收到行銷郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "封鎖行銷郵件"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "封鎖行銷郵件"
@@ -210,7 +203,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "不允許下列符號: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +213,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "新增帳號名稱",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "關閉"
