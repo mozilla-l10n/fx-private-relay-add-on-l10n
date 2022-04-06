@@ -93,6 +93,19 @@
       }
     }
   },
+  "popupRemainingFreeMasks": {
+    "message": "Alias gratuiti restanti: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Alias utilizzati di recente",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Ottieni alias illimitati"
   },
@@ -139,6 +152,10 @@
     "message": "Da questo sito web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
+  "labelAllEmailMasks": {
+    "message": "Tutti gli alias",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Batti il cinque!"
   },
@@ -161,6 +178,9 @@
     "message": "Registra sottodominio email"
   },
   "popupAliasesUsed": {
+    "message": "Alias utilizzati"
+  },
+  "popupAliasesUsed_mask": {
     "message": "Alias utilizzati"
   },
   "popupEmailsBlocked": {
