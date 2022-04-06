@@ -121,6 +121,15 @@
       }
     }
   },
+  "popupUnlimitedAliases_mask": {
+    "message": "Máscaras criadas: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "popupOnboardingShowPrevious": {
     "message": "Exibir painel anterior"
   },
@@ -129,6 +138,23 @@
   },
   "ManageAllAliases": {
     "message": "Gerenciar endereços de redirecionamento"
+  },
+  "ManageAllAliases_mask": {
+    "message": "Gerenciar todas as máscaras"
+  },
+  "labelManage": {
+    "message": "Gerenciar"
+  },
+  "labelSearch": {
+    "message": "Pesquisar"
+  },
+  "labelFromThisWebsite": {
+    "message": "deste site",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Todas as máscaras de email",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Perfeito!"
@@ -141,11 +167,21 @@
     "message": "Tenha um domínio personalizado de endereços de redirecionamento de email no Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Tenha um subdomínio personalizado de máscaras de email no Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrar domínio de emails"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "Registrar subdomínio de emails"
+  },
   "popupAliasesUsed": {
     "message": "Endereços de redirecionamento de email usados"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Máscaras de email usadas"
   },
   "popupEmailsBlocked": {
     "message": "Emails bloqueados"
@@ -178,11 +214,18 @@
     "message": "O Relay Premium permite que você receba apenas emails críticos enviados para um endereço de redirecionamento. Você receberá emails como recibos, mas não emails de propaganda.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "O Relay Premium permite que você receba apenas emails críticos enviados para uma máscara. Você recebe emails como recibos, mas não emails de propaganda.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Bloquear emails promocionais"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Ative o bloqueio de emails promocionais em um endereço de redirecionamento para impedir que emails de marketing cheguem à sua caixa de entrada."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Ative o bloqueio de emails promocionais em uma máscara para impedir que emails de marketing cheguem à sua caixa de entrada."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Com o Relay Premium, você pode impedir que emails promocionais cheguem à sua caixa de entrada, mas permitir receber emails como recibos ou informações de frete.",
@@ -191,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Cadastre-se novamente com seus endereços de redirecionamento"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Cadastre-se novamente com suas máscaras de email"
+  },
   "popupSignBackInBody": {
     "message": "Para criar um novo endereço de redirecionamento quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente um novo endereço de redirecionamento."
+  },
+  "popupSignBackInBody_mask": {
+    "message": "Para criar uma nova máscara quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente uma nova máscara."
   },
   "pageInputIconSignUpText": {
     "message": "Visite o site do Firefox Relay para entrar ou criar uma conta.",
@@ -205,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Gerar novo endereço de redirecionamento"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Gerar nova máscara"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Gerar nova máscara aleatória"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Máscaras de email adicionais",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Usado anteriormente neste site",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Tenha endereços de redirecionamento ilimitados"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Tenha máscaras ilimitadas"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Usar um endereço de redirecionamento existente neste site…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Usar uma máscara existente neste site…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Endereços de redirecionamento recentes"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Máscaras recentes"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Você já criou o número máximo de endereços de redirecionamento",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Você já criou o número máximo de máscaras",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Você atingiu o limite de endereços de redirecionamento."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Você atingiu o limite de máscaras."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Você não tem mais máscaras de email gratuitas.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Caracteres não permitidos: $CHARACTERS$",
