@@ -3,6 +3,10 @@
     "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescriptionStore": {
     "message": "Firefox Relay ti aiuta a proteggere il tuo indirizzo email reale, quello più strettamente legato alla tua identità online. Ti consente di generare alias casuali univoci che puoi utilizzare per nuovi account, app o newsletter e inoltrare messaggi email al tuo indirizzo reale. Se scopri che un servizio sta inviando email indesiderate o spam, puoi bloccare l’alias interrompendo in questo modo l’invio di email alla tua casella di posta. Quando non desideri più utilizzare un account, puoi semplicemente eliminare l’alias.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -28,6 +32,10 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
+    "message": "La raccolta dei dati di interazione quando esegui determinate azioni, come fare clic sull’icona Relay nella barra degli strumenti o creare un nuovo alias, ci aiuta a capire cosa funziona bene e dove invece possiamo migliorare. Puoi sempre disattivare questa opzione nel pannello Impostazioni.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
     "message": "La raccolta dei dati di interazione quando esegui determinate azioni, come fare clic sull’icona Relay nella barra degli strumenti o creare un nuovo alias, ci aiuta a capire cosa funziona bene e dove invece possiamo migliorare. Puoi sempre disattivare questa opzione nel pannello Impostazioni.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
@@ -76,12 +84,33 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Alias restanti: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
+    "message": "Ottieni alias illimitati"
+  },
+  "popupGetUnlimitedAliases_mask": {
     "message": "Ottieni alias illimitati"
   },
   "popupUnlimitedAliases": {
     "message": "Alias creati: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Alias creati: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,6 +126,19 @@
   "ManageAllAliases": {
     "message": "Gestisci tutti gli alias"
   },
+  "ManageAllAliases_mask": {
+    "message": "Gestisci tutti gli alias"
+  },
+  "labelManage": {
+    "message": "Gestisci"
+  },
+  "labelSearch": {
+    "message": "Cerca"
+  },
+  "labelFromThisWebsite": {
+    "message": "Da questo sito web",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Batti il cinque!"
   },
@@ -108,8 +150,15 @@
     "message": "Ottieni un dominio personalizzato per gli alias email di Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Ottieni un sottodominio personalizzato per gli alias email di Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registra dominio email"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "Registra sottodominio email"
   },
   "popupAliasesUsed": {
     "message": "Alias utilizzati"
