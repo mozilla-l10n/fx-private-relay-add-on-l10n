@@ -1,8 +1,4 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale. In questo modo puoi proteggere i tuoi account da hacker e messaggi indesiderati.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -10,6 +6,10 @@
   "extensionDescriptionStore": {
     "message": "Firefox Relay ti aiuta a proteggere il tuo indirizzo email reale, quello più strettamente legato alla tua identità online. Ti consente di generare alias casuali univoci che puoi utilizzare per nuovi account, app o newsletter e inoltrare messaggi email al tuo indirizzo reale. Se scopri che un servizio sta inviando email indesiderate o spam, puoi bloccare l’alias interrompendo in questo modo l’invio di email alla tua casella di posta. Quando non desideri più utilizzare un account, puoi semplicemente eliminare l’alias.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Il componente aggiuntivo di Firefox Relay è stato installato correttamente. Accedi a Relay con il tuo account Firefox per iniziare.",
@@ -97,29 +97,12 @@
   "ManageAllAliases": {
     "message": "Gestisci tutti gli alias"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Quando l’icona di Firefox Relay viene visualizzata in un sito web, selezionala per generare un nuovo alias.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupOnboardingPanel2Headline": {
-    "message": "Non vedi l’icona?"
-  },
-  "popupOnboardingPanel2Body": {
-    "message": "Fai clic con il tasto destro sui campi del modulo per accedere al menu contestuale e generare un alias."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Ricevi troppe email?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Gestisci i tuoi alias in Relay e scegli facilmente tra inoltro e blocco.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Batti il cinque!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Sei un utente esperto di Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Ottieni un dominio personalizzato per gli alias email di Relay",
@@ -161,9 +144,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium ti consente di ricevere solo le email essenziali inviate a un alias. Riceverai email importanti, come ad esempio fatture, ma non email di marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Blocco delle email pubblicitarie"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocco delle email pubblicitarie"
@@ -210,7 +190,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Caratteri non consentiti: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +200,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Aggiungi nome account",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Chiudi"
