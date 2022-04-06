@@ -194,10 +194,17 @@
     "message": "Relay Premium ti consente di ricevere solo le email essenziali inviate a un alias. Riceverai email importanti, come ad esempio fatture, ma non email di marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium ti consente di ricevere solo le email essenziali inviate a un alias. Riceverai email importanti, come ad esempio fatture, ma non email di marketing.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocco delle email pubblicitarie"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "Attiva il blocco delle email pubblicitarie su un alias per impedire alle email di marketing di raggiungere la tua casella di posta."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "Attiva il blocco delle email pubblicitarie su un alias per impedire alle email di marketing di raggiungere la tua casella di posta."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -207,7 +214,13 @@
   "popupSignBackInHeadline": {
     "message": "Registrati direttamente con i tuoi alias"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Registrati direttamente con i tuoi alias"
+  },
   "popupSignBackInBody": {
+    "message": "Per creare un nuovo alias quando viene richiesta la tua email, apri il menu contestuale (clic con il tasto destro del mouse o control + clic) in un campo email. Da lì puoi creare e utilizzare subito un nuovo alias."
+  },
+  "popupSignBackInBody_mask": {
     "message": "Per creare un nuovo alias quando viene richiesta la tua email, apri il menu contestuale (clic con il tasto destro del mouse o control + clic) in un campo email. Da lì puoi creare e utilizzare subito un nuovo alias."
   },
   "pageInputIconSignUpText": {
@@ -221,21 +234,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Genera nuovo alias"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Genera nuovo alias"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Genera un nuovo alias casuale"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Altri alias",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Utilizzati in precedenza in questo sito web",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
+    "message": "Ottieni alias illimitati"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Ottieni alias illimitati"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Utilizza alias esistente per questo sito…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Utilizza alias esistente per questo sito…"
+  },
   "pageInputIconRecentAliases": {
+    "message": "Alias recenti"
+  },
+  "pageInputIconRecentAliases_mask": {
     "message": "Alias recenti"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Hai già creato il numero massimo di alias",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Hai già creato il numero massimo di alias",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Hai raggiunto il numero massimo di alias."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Hai raggiunto il numero massimo di alias."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Non sono disponibili ulteriori alias gratuiti.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Caratteri non consentiti: $CHARACTERS$",
@@ -258,6 +305,10 @@
     "message": "Attiva nuove funzioni"
   },
   "popupDataCollectionBody": {
+    "message": "Puoi consentire a Relay di raccogliere dati facoltativi che ci consentono di sincronizzare le etichette degli alias su tutti i tuoi dispositivi, insieme ai siti web dove li hai generati e utilizzati.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "Puoi consentire a Relay di raccogliere dati facoltativi che ci consentono di sincronizzare le etichette degli alias su tutti i tuoi dispositivi, insieme ai siti web dove li hai generati e utilizzati.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
