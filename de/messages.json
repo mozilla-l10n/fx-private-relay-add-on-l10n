@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Mit Firefox Relay können Sie Alias-E-Mail-Adressen erstellen, die an Ihren echten Posteingang weitergeleitet werden. So können Sie Ihre Online-Konten vor Hackern und unerwünschten Nachrichten schützen.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay macht es einfach, Alias-E-Mail-Adressen zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay macht es einfach, E-Mail-Masken zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige Alias-E-Mail-Adressen generieren, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die Alias-Adresse blockieren und, sodass keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die Alias-Adresse löschen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Sie haben das Firefox-Relay-Add-on erfolgreich installiert. Melden Sie sich zunächst mit Ihrem Firefox Account bei Relay an.",
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-E-Mail-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungen-Ansicht deaktivieren.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Verbleibende Masken: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Verbleibende kostenlose E-Mail-Masken:  $REMAING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Kürzlich verwendete E-Mail-Masken",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Unbegrenzt viele Alias-Adressen erhalten"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Unbegrenzt viele E-Mail-Masken erhalten"
   },
   "popupUnlimitedAliases": {
     "message": "Erstellte Alias-Adressen: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Erstellte Masken: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,39 +139,49 @@
   "ManageAllAliases": {
     "message": "Alle Alias-E-Mail-Adressen verwalten"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Wenn das Firefox-Relay-Symbol auf einer Website angezeigt wird, wählen Sie es aus, um eine neue Alias-E-Mail-Adresse zu generieren.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "Alle Masken verwalten"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Sie sehen das Symbol nicht?"
+  "labelManage": {
+    "message": "Verwalten"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Klicken Sie mit der rechten Maustaste auf Formularfelder, um auf das Kontextmenü zuzugreifen und von dort aus eine Alias-E-Mail-Adresse zu erzeugen."
+  "labelSearch": {
+    "message": "Suchen"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "Erhalten Sie zu viele E-Mails?"
+  "labelFromThisWebsite": {
+    "message": "Von dieser Website",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
-  "popupOnboardingPanel3Body": {
-    "message": "Verwalten Sie Ihre Alias-E-Mail-Adressen bei Relay und ändern Sie die Einstellung für die Weiterleitung auf „Blockieren“.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelAllEmailMasks": {
+    "message": "Alle E-Mail-Masken",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Perfekt!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Sie sind ein Firefox-Relay-Power-User!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Holen Sie sich eine benutzerdefinierte Domain für Alias-E-Mail-Adressen bei Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Eine benutzerdefinierte Subdomain für Relay-E-Mail-Masken erhalten",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "E-Mail-Domain registrieren"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "E-Mail-Subdomain registrieren"
+  },
   "popupAliasesUsed": {
     "message": "Verwendete Alias-E-Mail-Adressen"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Verwendete E-Mail-Masken"
   },
   "popupEmailsBlocked": {
     "message": "Blockierte E-Mails"
@@ -162,14 +214,18 @@
     "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Alias-E-Mail-Adresse gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Werbe-E-Mails blockieren"
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Maske gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Werbe-E-Mails blockieren"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivieren Sie bei einer Alias-E-Mail-Adresse die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Aktivieren Sie bei einer Maske die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Mit Relay Premium können Sie verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen, während Sie weiterhin E-Mails wie Quittungen oder Versandinformationen erhalten.",
@@ -210,7 +266,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nicht zulässige(s) Zeichen: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +276,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Kontoname hinzufügen",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Schließen"
