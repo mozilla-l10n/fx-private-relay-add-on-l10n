@@ -234,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Melden Sie sich mit Ihren E-Mail-Masken wieder an"
+  },
   "popupSignBackInBody": {
     "message": "Um eine neue Alias-E-Mail-Adresse zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
+  },
+  "popupSignBackInBody_mask": {
+    "message": "Um eine neue E-Mail-Maske zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
   },
   "pageInputIconSignUpText": {
     "message": "Besuchen Sie die Firefox-Relay-Website, um sich anzumelden oder ein Konto zu erstellen.",
@@ -248,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Neue Alias-Adresse erzeugen"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Neue Maske erzeugen"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Neue zufällige Maske erzeugen"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Zusätzliche E-Mail-Masken",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Bisher auf dieser Website verwendet",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Unbegrenzt viele Alias-Adressen erhalten"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Unbegrenzt viele E-Mail-Masken erhalten"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Vorhandene Alias-E-Mail-Adresse von dieser Website verwenden…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Vorhandene Maske von dieser Website verwenden…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Kürzlich verwendete Alias-E-Mail-Adressen"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Neueste Masken"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Sie haben bereits die maximale Anzahl von Alias-Adressen erstellt",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Sie haben bereits die maximale Anzahl an Masken erstellt",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Sie haben die Grenze für Alias-Adressen erreicht."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Sie haben die Grenze für Masken erreicht."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Sie haben keine kostenlosen E-Mail-Masken mehr.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nicht zulässige(s) Zeichen: $CHARACTERS$",
@@ -286,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Sie können Relay erlauben, optionale Daten zu sammeln, die es uns ermöglichen, Ihre Alias-Beschriftungen über Ihre Geräte hinweg mit den Websites zu synchronisieren, auf denen sie erstellt und verwendet werden.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Sie können Relay erlauben, optionale Daten zu sammeln, die es uns ermöglichen, Ihre Masken-Beschriftungen über Ihre Geräte hinweg mit den Websites zu synchronisieren, auf denen sie erstellt und verwendet werden.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
