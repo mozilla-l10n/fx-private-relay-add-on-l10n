@@ -328,6 +328,10 @@
     "message": "Você pode permitir que o Relay colete dados opcionais que nos permitem sincronizar seus rótulos de endereços de redirecionamento em seus dispositivos, com os sites onde são criados e usados.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupDataCollectionBody_mask": {
+    "message": "Você pode permitir que o Relay colete dados opcionais que nos permitem sincronizar seus rótulos de máscaras em seus dispositivos, com informação dos sites onde são criados e usados.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Saiba mais"
   },
