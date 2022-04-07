@@ -1,8 +1,4 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordras till din riktiga inkorg. Använd den för att skydda dina onlinekonton från hackare och oönskade meddelanden.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -10,6 +6,10 @@
   "extensionDescriptionStore": {
     "message": "Firefox Relay hjälper dig att skydda din riktiga e-postadress — den som är närmast kopplad till din onlineidentitet. Den låter dig skapa unika, slumpmässiga alias som du kan använda för att registrera dig för konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du upptäcker att ett konto skickar oönskad e-post eller spam, kan du blockera aliaset och det kommer att sluta skicka e-post till din inkorg. När du inte längre vill ha ett konto kan du ta bort aliaset.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Du har installerat Firefox Relay-tillägget. För att komma igång, logga in på Relay med ditt Firefox-konto.",
@@ -97,29 +97,22 @@
   "ManageAllAliases": {
     "message": "Hantera alla alias"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "När Firefox Relay-ikonen visas på en webbplats väljer du den för att skapa ett nytt alias.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "labelManage": {
+    "message": "Hantera"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Ser du inte ikonen?"
+  "labelSearch": {
+    "message": "Sök"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Högerklicka på formulärfältet för att komma åt snabbmenyn och skapa ett alias därifrån."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Får du för många mejl?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Hantera dina Relay-alias och växla enkelt vidarebefordran till blockering.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelFromThisWebsite": {
+    "message": "Från den här webbplatsen",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Hög femma!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Du är en Firefox Relay power-användare!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Skaffa en anpassad domän för Relay e-postalias",
@@ -127,6 +120,9 @@
   },
   "popupRegisterDomainButton": {
     "message": "Registrera e-postdomän"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "Registrera e-post underdomän"
   },
   "popupAliasesUsed": {
     "message": "E-postalias som används"
@@ -161,9 +157,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium låter dig endast ta emot viktiga e-postmeddelanden som skickas till ett alias. Du kommer att få e-postmeddelanden som kvitton men inte marknadsföringsmeddelanden.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Blockera reklammeddelanden"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blockera reklammeddelanden"
@@ -210,7 +203,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Tecken som inte är tillåtna: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +213,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Lägg till kontonamn",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Stäng"
