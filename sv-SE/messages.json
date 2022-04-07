@@ -122,7 +122,7 @@
     "message": "Registrera e-postdomän"
   },
   "popupRegisterDomainButton_mask": {
-    "message": "Registrera e-post underdomän"
+    "message": "Registrera underdomän för e-post"
   },
   "popupAliasesUsed": {
     "message": "E-postalias som används"
