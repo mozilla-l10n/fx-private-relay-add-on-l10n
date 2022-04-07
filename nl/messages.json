@@ -152,6 +152,10 @@
     "message": "Van deze website",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
+  "labelAllEmailMasks": {
+    "message": "Alle e-mailmaskers",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Gefeliciteerd!"
   },
@@ -163,10 +167,20 @@
     "message": "Een aangepast domein verkrijgen voor Relay-e-mailmaskers",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Een aangepast subdomein verkrijgen voor Relay-e-mailmaskers",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "E-mailsubdomein registreren"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "E-mailsubdomein registreren"
+  },
   "popupAliasesUsed": {
+    "message": "Gebruikte e-mailmaskers"
+  },
+  "popupAliasesUsed_mask": {
     "message": "Gebruikte e-mailmaskers"
   },
   "popupEmailsBlocked": {
@@ -200,10 +214,17 @@
     "message": "Met Relay Premium kunt u instellen dat u alleen kritieke e-mailberichten op een alias ontvangt. U ontvangt berichten zoals ontvangstbewijzen, maar geen marketingberichten.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Met Relay Premium kunt u instellen dat u alleen kritieke e-mailberichten op een masker ontvangt. U ontvangt berichten zoals ontvangstbewijzen, maar geen marketingberichten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Reclameberichten blokkeren"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "Schakel Reclameberichten blokkeren in voor een masker om te voorkomen dat marketingberichten uw Postvak IN bereiken."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "Schakel Reclameberichten blokkeren in voor een masker om te voorkomen dat marketingberichten uw Postvak IN bereiken."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -213,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Opnieuw aanmelden met uw maskers"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Opnieuw aanmelden met uw e-mailmaskers"
+  },
   "popupSignBackInBody": {
     "message": "Open het contextmenu (rechtermuisknop of control-klik) om een nieuw masker aan te maken als u wordt gevraagd om uw e-mailadres. Hiervandaan kunt u direct een nieuw masker aanmaken en gebruiken."
+  },
+  "popupSignBackInBody_mask": {
+    "message": "Open om een nieuw e-mailmasker aan te maken als om uw e-mailadres wordt gevraagd het contextmenu (rechtermuisknop of control-klik) in een e-mailveld. Daarvandaan kunt u direct een nieuw masker aanmaken en gebruiken."
   },
   "pageInputIconSignUpText": {
     "message": "Bezoek de Firefox Relay-website om u aan te melden of een account aan te maken.",
@@ -227,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Nieuw masker aanmaken"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Nieuw masker aanmaken"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Willekeurig nieuw masker aanmaken"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Extra e-mailmaskers",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Eerder gebruikt op deze website",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
+    "message": "Onbeperkt maskers verkrijgen"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Onbeperkt maskers verkrijgen"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Een bestaand masker van deze website gebruiken…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Een bestaand masker van deze website gebruiken…"
+  },
   "pageInputIconRecentAliases": {
+    "message": "Recente maskers"
+  },
+  "pageInputIconRecentAliases_mask": {
     "message": "Recente maskers"
   },
   "pageInputIconMaxAliasesError": {
     "message": "U hebt het maximale aantal maskers al aangemaakt",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "U hebt het maximale aantal maskers al aangemaakt",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "U hebt de maskerlimiet bereikt."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "U hebt de maskerlimiet bereikt."
+  },
+  "pageNoMasksRemaining": {
+    "message": "U hebt geen gratis e-mailmaskers meer.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Teken(s) niet toegestaan: $CHARACTERS$",
@@ -264,6 +325,10 @@
     "message": "Nieuwe functies inschakelen"
   },
   "popupDataCollectionBody": {
+    "message": "U kunt Relay toestaan om optionele gegevens te verzamelen, waarmee we uw maskerlabels op al uw apparaten kunnen synchroniseren met de websites waarop ze zijn gemaakt en gebruikt.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "U kunt Relay toestaan om optionele gegevens te verzamelen, waarmee we uw maskerlabels op al uw apparaten kunnen synchroniseren met de websites waarop ze zijn gemaakt en gebruikt.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
