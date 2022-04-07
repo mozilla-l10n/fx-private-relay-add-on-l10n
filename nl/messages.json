@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay maakt het gemakkelijk om e-mailmaskers te maken, die naar uw echte Postvak IN worden doorgestuurd. Gebruik het om uw online accounts te beschermen tegen hackers en ongewenste berichten.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
+    "message": "Firefox Relay maakt het gemakkelijk om e-mailmaskers te maken die naar uw echte Postvak IN worden doorgestuurd.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
     "message": "Firefox Relay maakt het gemakkelijk om e-mailmaskers te maken die naar uw echte Postvak IN worden doorgestuurd.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay helpt u uw echte e-mailadres te beschermen – het adres dat het nauwst verband houdt met uw online-identiteit. U kunt er unieke, willekeurige maskers mee aanmaken, die u kunt gebruiken om u in te schrijven bij accounts, apps of nieuwsbrieven, en stuurt berichten door naar uw echte adres. Als u ontdekt dat een account u ongewenste berichten of spam stuurt, kunt u het masker blokkeren en verstuurt dit geen berichten meer naar uw Postvak IN. Als u een account niet meer wilt gebruiken, kunt u het masker verwijderen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "U hebt de Firefox Relay-add-on met succes geïnstalleerd. Meld u aan bij Relay met uw Firefox-account om aan de slag te gaan.",
@@ -28,6 +32,10 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
+    "message": "Door interactiegegevens te verzamelen wanneer u bijvoorbeeld op het Relay-pictogram in uw werkbalk klikt of een nieuw masker maakt, kunnen we leren wat goed werkt en waar we kunnen verbeteren. U kunt dit altijd uitschakelen in het paneel Instellingen.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
     "message": "Door interactiegegevens te verzamelen wanneer u bijvoorbeeld op het Relay-pictogram in uw werkbalk klikt of een nieuw masker maakt, kunnen we leren wat goed werkt en waar we kunnen verbeteren. U kunt dit altijd uitschakelen in het paneel Instellingen.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Resterende maskers: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Resterende gratis maskers: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Recent gebruikte e-mailmaskers",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
+    "message": "Onbeperkt maskers verkrijgen"
+  },
+  "popupGetUnlimitedAliases_mask": {
     "message": "Onbeperkt maskers verkrijgen"
   },
   "popupUnlimitedAliases": {
     "message": "Aangemaakte maskers: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Aangemaakte maskers: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,29 +139,25 @@
   "ManageAllAliases": {
     "message": "Al uw maskers beheren"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Selecteer het Fireox Relay-pictogram op een website om een nieuw masker aan te maken.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "Al uw maskers beheren"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Ziet u het pictogram niet?"
+  "labelManage": {
+    "message": "Beheren"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Klik met de rechtermuisknop op formuliervelden om het contextmenu te openen en van daaruit een masker aan te maken."
+  "labelSearch": {
+    "message": "Zoeken"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "Ontvangt u te veel e-mailberichten?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Beheer uw Relay-aliassen en schakel eenvoudig Doorsturen om naar Blokkeren.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelFromThisWebsite": {
+    "message": "Van deze website",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Gefeliciteerd!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "U bent een intensieve gebruiker van Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Een aangepast domein verkrijgen voor Relay-e-mailmaskers",
@@ -161,9 +199,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Met Relay Premium kunt u instellen dat u alleen kritieke e-mailberichten op een alias ontvangt. U ontvangt berichten zoals ontvangstbewijzen, maar geen marketingberichten.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Reclameberichten blokkeren"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Reclameberichten blokkeren"
@@ -210,7 +245,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Teken(s) niet toegestaan: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +255,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Accountnaam toevoegen",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Sluiten"
