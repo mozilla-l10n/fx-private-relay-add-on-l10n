@@ -121,6 +121,15 @@
       }
     }
   },
+  "popupUnlimitedAliases_mask": {
+    "message": "Mascas create: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
   "popupOnboardingShowPrevious": {
     "message": "Monstrar le quadro previe"
   },
@@ -129,6 +138,23 @@
   },
   "ManageAllAliases": {
     "message": "Gerer tote le Aliases"
+  },
+  "ManageAllAliases_mask": {
+    "message": "Gerer tote le mascas"
+  },
+  "labelManage": {
+    "message": "Gerer"
+  },
+  "labelSearch": {
+    "message": "Cercar"
+  },
+  "labelFromThisWebsite": {
+    "message": "Ab iste sito web",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Tote le mascas email",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Perfecto!"
@@ -141,11 +167,21 @@
     "message": "Obtene un dominio personal pro le aliases de e-mail de Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Obtene un subdominio personal pro le mascas email de Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrar tu dominio e-mail"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "Registrar un subdominio email"
+  },
   "popupAliasesUsed": {
     "message": "Un instrumento de protection universal"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Mascas email usate"
   },
   "popupEmailsBlocked": {
     "message": "E-mails blocate"
@@ -178,11 +214,18 @@
     "message": "Relay Premium te permitte de reciper solo e-mails critic inviate a un alias. Tu recipera e-mails tal como quitantias, ma non e-mails de marketing.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium te permitte de reciper solo emails critic inviate a un masca. Tu recipera emails como quitantias, ma non emails de marketing.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocar e-mails promotional"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Activar le blocada del e-mails promotional sur un alias pro stoppar le e-mails de marketing de attinger tu cassa de ingresso."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Activar le blocada de emails promotional sur un masca pro stoppar emails de marketing que attinge tu cassa de ingresso."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Con Relay Premium, tu pote blocar e-mails promotional de attinger tu cassa de ingresso durante que ancora te es permittite reciper e-mails como quitantias o informationes de expedition.",
@@ -190,6 +233,9 @@
   },
   "popupSignBackInHeadline": {
     "message": "Re-accesso per proprie aliases"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "Re-accesso per proprie mascas email"
   },
   "popupSignBackInBody": {
     "message": "Pro crear un nove alias quando te es requirite tu e-mail, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove alias immediatemente."
