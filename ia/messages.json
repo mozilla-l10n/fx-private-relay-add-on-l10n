@@ -240,6 +240,9 @@
   "popupSignBackInBody": {
     "message": "Pro crear un nove alias quando te es requirite tu e-mail, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove alias immediatemente."
   },
+  "popupSignBackInBody_mask": {
+    "message": "Pro crear un nove masca email quando te es requirite tu email, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove masca immediatemente."
+  },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -251,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Generar nove alias"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Generar un nove masca"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Generar un nove masca aleatori"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Altere mascas email",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Previemente usate sur iste sito web",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Obtene aliases illimitate"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Obtener mascas illimitate"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Usar alias existente ab iste sito…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Usar un masca existente ab iste sito…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Aliases recente"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Mascas recente"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Tu ha jam create le maxime numero de aliases",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Tu ha jam create le maxime numero de mascas",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Tu ha attingite le limite de alias."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Tu ha attingite le limite de mascas."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Tu non ha altere mascas gratuite.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Character(s) non permittite: $CHARACTERS$",
@@ -289,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Tu pote permitter a Relay de colliger datos optional pro nos consentir de synchronisar tu etiquettas alias inter apparatos con le sitos web ubi illos ha essite create e es usate.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Tu pote permitter a Relay de colliger datos optional pro nos consentir de synchronisar tu etiquettas de masca inter apparatos con le sitos web ubi illos ha essite create e es usate.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
