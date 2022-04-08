@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay makket it maklik om e-mailaliassen te meitsjen, dy’t nei jo echte postfek yn trochstjoerd wurde. Brûk it om jo online accounts te beskermjen tsjin hackers en net-winske berjochten.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay makket it maklik om e-mailaliassen te meitsjen dy’t nei jo echte Postfek YN trochstjoerd wurde.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay makket it maklik om e-mailmaskers te meitsjen dy’t nei jo echte Postfek YN trochstjoerd wurde.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay helpt jo jo echte e-mailadres te beskermjen – it adres dat it meast deun ferbân hâldt mei jo online-identiteit. Jo kinne der unike, aliassen mei oanmeitsje, dy’t jo brûke kinne om jo yn te skriuwen by accounts, apps of nijsbrieven, en stjoert berjochten troch nei jo echte adres. As jo ûntdekke dat in account jo net-winske berjochten of spam stjoert, kinne jo de alias blokkearje en ferstjoert dizze gjin berjochten mear nei jo Postfek YN. As jo in account net mear brûke wolle, kinne jo de alias fuortsmite.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Jo hawwe de Firefox Relay-add-on mei sukses ynstallearre. Meld jo oan by Relay mei jo Firefox-account om oan de slach te gean.",
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "Troch ynteraksjegegevens te sammeljen wannear’t jo bygelyks op it Relay-piktogram yn jo arkbalke klikke of in nije alias meitsje, kinne wy leare wat goed wurket en wêr’t wy ferbetterje kinne. Jo kinne dit altyd útskeakelje yn it paniel Ynstellingen.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Troch ynteraksjegegevens te sammeljen wannear’t jo bygelyks op it Relay-piktogram yn jo arkbalke klikke of in nij masker meitsje, kinne wy leare wat goed wurket en wêr’t wy ferbetterje kinne. Jo kinne dit altyd útskeakelje yn it paniel Ynstellingen.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Restearjende maskers: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Restearjende fergeze maskers: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Resint brûkte e-mailmaskers",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Unbeheinde aliassen krije"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Unbeheinde maskers krije"
   },
   "popupUnlimitedAliases": {
     "message": "Oanmakke aliassen: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Oanmakke maskers: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,39 +139,49 @@
   "ManageAllAliases": {
     "message": "Al jo aliassen beheare"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Selektearje it Fireox Relay-piktogram op in website om in nije alias oan te meitsjen.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "Al jo maskers beheare"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Sjogge jo it piktogram net?"
+  "labelManage": {
+    "message": "Beheare"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Klik mei de rjochtermûsknop op formulierfjilden om it kontekstmenu te iepenjen en fan dêrút in alias te generearjen."
+  "labelSearch": {
+    "message": "Sykje"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "Untfange jo te folle e-mailberjochten?"
+  "labelFromThisWebsite": {
+    "message": "Fan dizze website",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
-  "popupOnboardingPanel3Body": {
-    "message": "Behear jo Relay-aliassen en skeakelje ienfâldich Trochstjoeren om nei Blokkearje.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelAllEmailMasks": {
+    "message": "Alle e-mailmaskers",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Lokwinske!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Jo binne in yntinsive brûker fan Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "In oanpast domein krije foar Relay-e-mailaliassen",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "In oanpast subdomein krije foar Relay-e-mailmaskers",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "E-maildomein registrearje"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "E-mailsubdomein registrearje"
+  },
   "popupAliasesUsed": {
     "message": "Brûkte e-mailaliassen"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Brûkte e-mailmaskers"
   },
   "popupEmailsBlocked": {
     "message": "E-mailberjochten blokkearre"
@@ -162,14 +214,18 @@
     "message": "Mei Relay Premium kinne jo ynstelle dat jo allinnich kritike e-mailberjochten op in alias ûntfange. Jo ûntfange berjochten lykas ûntfangstbewizen, mar gjin marketingberjochten.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Reklameberjochten blokkearje"
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Mei Relay Premium kinne jo ynstelle dat jo allinnich kritike e-mailberjochten op in masker ûntfange. Jo ûntfange berjochten lykas ûntfangstbewizen, mar gjin marketingberjochten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Reklameberjochten blokkearje"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Skeakelje Reklameberjochten blokkearje yn foar in alias om foar te kommen dat marketingberjochten jo Postfek YN berikke."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Skeakelje Reklameberjochten blokkearje yn foar in masker om foar te kommen dat marketingberjochten jo Postfek YN berikke."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Mei Relay Premium kinne jo foarkomme dat reklameberjochten jo Postfek YN berikke, wylst jo noch hieltyd e-mailberjochten lykas ûntfangstbefêstigingen of ferstjoerynformaasje ûntfange.",
@@ -178,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Opnij oanmelde mei jo aliassen"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Opnij oanmelde mei jo e-mailmaskers"
+  },
   "popupSignBackInBody": {
     "message": "Iepenje it kontekstmenu (rjochtermûsknop of control-klik) om in nije alias oan te meitsjen as jo frege wurdt om jo e-mailadres. Fan hjir út kinne jo daliks in nije alias oanmeitsje en brûke."
+  },
+  "popupSignBackInBody_mask": {
+    "message": "Iepenje it kontekstmenu (rjochtermûsknop of control-klik) om in nij masker oan te meitsjen as jo frege wurdt om jo e-mailadres. Fan hjir út kinne jo daliks in nij masker oanmeitsje en brûke."
   },
   "pageInputIconSignUpText": {
     "message": "Besykje de Firefox Relay-website om jo oan te melden of in account oan te meitsjen.",
@@ -192,25 +254,59 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Nije alias oanmeitsje"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Nije masker oanmeitsje"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Willekeurich nij masker oanmeitsje"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Ekstra e-mailmaskers",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Earder brûkt op dizze website",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Unbeheinde aliassen krije"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Unbeheinde maskers krije"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "In besteande alias fan dizze website brûke…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "In besteande masker fan dizze website brûke…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Resinte aliassen"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Resinte maskers"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Jo hawwe it maksimum oantal aliassen al oanmakke",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Jo hawwe it maksimum oantal maskers al oanmakke",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Jo hawwe de aliaslimyt berikt."
   },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Jo hawwe de maskerlimyt berikt."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Jo hawwe gjin fergeze e-mailmaskers mear.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
+  },
   "profilePageInvalidAliasCharactersError": {
     "message": "Teken(s) net tastien: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +316,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Accountnamme tafoegje",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Slute"
@@ -230,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Jo kinne Relay tastean om opsjonele gegevens te sammeljen, wêrmei't wy jo aliaslabels op al jo apparaten syngronisearje kinne mei de websites wêrop se makke en brûkt binne.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Jo kinne Relay tastean om opsjonele gegevens te sammeljen, wêrmei't wy jo maskerlabels op al jo apparaten syngronisearje kinne mei de websites wêrop se makke en brûkt binne.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
