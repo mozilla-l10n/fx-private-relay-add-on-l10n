@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay облегчает создание псевдонимов электронной почты, письма с которых пересылаются в ваш настоящий почтовый ящик. Используйте их для защиты своих сетевых аккаунтов от хакеров и нежелательных сообщений.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
+    "message": "Firefox Relay позволяет легко создавать псевдонимы электронной почты, которые перенаправляют почту на ваш настоящий почтовый ящик.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
     "message": "Firefox Relay позволяет легко создавать псевдонимы электронной почты, которые перенаправляют почту на ваш настоящий почтовый ящик.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay поможет вам защитить ваш реальный адрес электронной почты — адрес, наиболее тесно связанный с вашей личностью в Интернете. Он позволяет создавать уникальные случайные псевдонимы, которые вы можете использовать для регистрации учетных записей, приложений или информационных бюллетеней, и перенаправляет сообщения на ваш реальный адрес. Если вы обнаружите, что учётная запись отправляет нежелательную электронную почту или спам, вы можете заблокировать псевдоним, и он перестанет отправлять электронную почту в ваш почтовый ящик. Если вам больше не нужна учётная запись, вы можете удалить псевдоним.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Вы успешно установили дополнение Firefox Relay. Чтобы начать, войдите в Relay с помощью своего Аккаунта Firefox.",
@@ -28,6 +32,10 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
+    "message": "Сбор данных о взаимодействии, когда вы выполняете такие действия, как нажатие значка Relay на панели инструментов или создание нового псевдонима, помогает нам понять, что работает хорошо, а что можно улучшить. Вы всегда можете отключить это на панели настроек.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
     "message": "Сбор данных о взаимодействии, когда вы выполняете такие действия, как нажатие значка Relay на панели инструментов или создание нового псевдонима, помогает нам понять, что работает хорошо, а что можно улучшить. Вы всегда можете отключить это на панели настроек.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Осталось псевдонимов: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Осталось бесплатных псевдонимов:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Недавно использованные псевдонимы электронной почты",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
+    "message": "Получите неограниченное число псевдонимов"
+  },
+  "popupGetUnlimitedAliases_mask": {
     "message": "Получите неограниченное число псевдонимов"
   },
   "popupUnlimitedAliases": {
     "message": "Создано псевдонимов: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Создано псевдонимов: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,38 +139,48 @@
   "ManageAllAliases": {
     "message": "Управление всеми псевдонимами"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Когда на веб-сайте появится значок Firefox Relay, выберите его, чтобы создать новый псевдоним.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "Управление всеми псевдонимами"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Не видите значок?"
+  "labelManage": {
+    "message": "Управление"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Щёлкните правой кнопкой мыши по полю формы, чтобы открыть контекстное меню и сгенерировать псевдоним."
+  "labelSearch": {
+    "message": "Поиск"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "Получаете слишком много писем?"
+  "labelFromThisWebsite": {
+    "message": "С этого веб-сайта",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
-  "popupOnboardingPanel3Body": {
-    "message": "Управляйте псевдонимами Relay и легко переключайте переадресацию на блокировку.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelAllEmailMasks": {
+    "message": "Все почтовые псевдонимы",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Дай пять!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Вы — опытный пользователь Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Получите собственный домен для псевдонимов электронной почты Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Получите собственный поддомен для псевдонимов электронной почты Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Зарегистрировать домен электронной почты"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "Зарегистрировать почтовый поддомен"
+  },
   "popupAliasesUsed": {
+    "message": "Псевдонимов электронной почты использовано"
+  },
+  "popupAliasesUsed_mask": {
     "message": "Псевдонимов электронной почты использовано"
   },
   "popupEmailsBlocked": {
@@ -162,13 +214,17 @@
     "message": "Relay Premium позволяет получать только важные письма, отправленные на псевдоним. Вы будете получать такие электронные письма, как квитанции, но не рекламные письма.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Блокировка рекламных писем"
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium позволяет получать только важные письма, отправленные на псевдоним. Вы будете получать такие электронные письма, как квитанции, но не рекламные письма.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Блокировка рекламных писем"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "Включите блокировку рекламных писем для псевдонима, чтобы эти электронные письма не попадали в ваш почтовый ящик."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "Включите блокировку рекламных писем для псевдонима, чтобы эти электронные письма не попадали в ваш почтовый ящик."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -178,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Войдите снова, используя псевдонимы"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Войдите снова, используя почтовые псевдонимы"
+  },
   "popupSignBackInBody": {
     "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
+  },
+  "popupSignBackInBody_mask": {
+    "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши, или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
   },
   "pageInputIconSignUpText": {
     "message": "Посетите веб-сайт Firefox Relay, чтобы войти или создать учётную запись.",
@@ -191,6 +253,12 @@
   },
   "pageInputIconGenerateNewAlias": {
     "message": "Создать новый псевдоним"
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Создать новый псевдоним"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Создать новый случайный псевдоним"
   },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Получить неограниченное число псевдонимов"
@@ -210,7 +278,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Недопустимые символы: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +288,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Добавить имя учётной записи",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Закрыть"
