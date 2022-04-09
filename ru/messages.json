@@ -260,21 +260,49 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Создать новый случайный псевдоним"
   },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Дополнительные почтовые псевдонимы",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Ранее использованные на этом сайте",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Получить неограниченное число псевдонимов"
   },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Получите неограниченное число псевдонимов"
+  },
   "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Использовать существующий псевдоним с этого сайта…"
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Использовать существующий псевдоним с этого сайта…"
   },
   "pageInputIconRecentAliases": {
     "message": "Последние псевдонимы"
   },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Недавние псевдонимы"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Вы уже создали максимальное число псевдонимов",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Вы уже создали максимальное число псевдонимов",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Вы достигли предела числа псевдонимов."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Вы достигли предела числа псевдонимов."
+  },
+  "pageNoMasksRemaining": {
+    "message": "У вас больше нет бесплатных почтовых псевдонимов.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Недопустимые символы: $CHARACTERS$",
@@ -297,6 +325,10 @@
     "message": "Включить новые функции"
   },
   "popupDataCollectionBody": {
+    "message": "Вы можете разрешить Relay собирать дополнительные данные, которые позволяют нам синхронизировать ваши метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "Вы можете разрешить Relay собирать дополнительные данные, которые позволяют нам синхронизировать ваши метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
