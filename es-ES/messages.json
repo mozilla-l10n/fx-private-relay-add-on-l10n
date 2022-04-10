@@ -35,6 +35,10 @@
     "message": "Recopilar datos de interacción cuando haces cosas como hacer clic en el icono Relay de tu barra de herramientas o crear un nuevo alias nos ayuda a saber qué funciona bien y dónde podemos mejorar. Siempre puedes desactivar esto en el panel de Ajustes.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
+  "firstRunPrefP_mask": {
+    "message": "Recopilar datos de interacción cuando haces cosas como hacer clic en el icono Relay de tu barra de herramientas o crear un nuevas máscaras nos ayuda a saber qué funciona bien y dónde podemos mejorar. Siempre puedes desactivar esto en el panel de Ajustes.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "Registrarse / Iniciar sesión"
   },
@@ -322,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Puedes permitir que Relay recopile datos opcionales que nos permitan sincronizar tus etiquetas de alias en todos tus dispositivos con los sitios web donde se han creado y utilizado.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Puedes permitir que Relay recopile datos opcionales que nos permitan sincronizar tus etiquetas de máscaras en todos tus dispositivos con los sitios web donde se han creado y utilizado.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
