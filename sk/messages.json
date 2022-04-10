@@ -1,8 +1,4 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay uľahčuje vytváranie e-mailových aliasov, ktoré sú preposielané do vašej skutočnej e-mailovej schránky. Použite ho na ochranu svojich online účtov pred hackermi a nechcenými správami.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay uľahčuje vytváranie e-mailových aliasov, ktoré preposielajú e-maily do vašej skutočnej e-mailovej schránky.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -10,6 +6,10 @@
   "extensionDescriptionStore": {
     "message": "Firefox Relay vám pomáha chrániť vašu skutočnú e-mailovú adresu – tú, ktorá je najviac prepojená s vašou online identitou. Umožňuje vám generovať jedinečné, náhodné aliasy, ktoré môžete použiť na registráciu účtov, aplikácií či odber magazínov, a ktoré budú preposielať správy na vašu skutočnú adresu. Ak zistíte, že účet odosiela nežiaduce e-maily alebo spam, môžete alias zablokovať a prestane vám odosielať e-maily do vašej doručenej pošty. Keď už nebudete chcieť účet, môžete alias odstrániť.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Úspešne ste nainštalovali doplnok Firefox Relay. Ak chcete začať, prihláste sa do služby Relay pomocou svojho účtu Firefox.",
@@ -76,6 +76,15 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Zostávajúce masky: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
     "message": "Získajte neobmedzené množstvo aliasov"
   },
@@ -97,29 +106,12 @@
   "ManageAllAliases": {
     "message": "Spravovať všetky aliasy"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Keď sa na webe zobrazí ikona Firefox Relay, vyberte ju a vygenerujte nový alias.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupOnboardingPanel2Headline": {
-    "message": "Nevidíte ikonu?"
-  },
-  "popupOnboardingPanel2Body": {
-    "message": "Kliknutím pravým tlačidlom myši na polia formulára sa dostanete do kontextovej ponuky a vygenerujete odtiaľ alias."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Dostávate príliš veľa e-mailov?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Spravujte svoje aliasy služby Relay a jednoducho prepínajte možnosť presmerovania či blokovania nových správ.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Perfektné!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Ste skúseným používateľom služby Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Získajte vlastnú doménu pre e-mailové aliasy služby Relay",
@@ -161,9 +153,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Relay Premium vám umožňuje prijímať iba kritické e-maily odoslané na alias. Budete dostávať e-maily, ako sú potvrdenia, ale nie marketingové e-maily.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Blokovať marketingové e-maily"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blokovanie marketingových e-mailov"
@@ -210,7 +199,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nepovolené znaky: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +209,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Pridať názov účtu",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Zavrieť"
