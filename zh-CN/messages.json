@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay 可以轻松创建马甲邮箱，用它收邮件并转发至您的真实邮箱。可用马甲邮箱来保护您的账户，不受黑客和垃圾邮件的侵扰。",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
+    "message": "Firefox Relay 可以轻松创建马甲邮箱，收取的邮件将自动转发至您的真实邮箱。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
     "message": "Firefox Relay 可以轻松创建马甲邮箱，收取的邮件将自动转发至您的真实邮箱。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay 可帮助保护您的的真实邮箱地址 — 与您的网络身份最息息相关的信息。此扩展可生成随机唯一的马甲邮件，您可用于网站或 App 账号注册、订阅新闻通讯，它会将邮件转发至您的真实邮箱。若您发觉开始收到不需要的邮件或垃圾邮件，屏蔽该马甲即会停止转发邮件至您的收件箱。若不再需要某个马甲邮箱，删除即可。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "您已成功安装 Firefox Relay 扩展。请登录您的 Firefox 账户开始使用 Relay。",
@@ -28,6 +32,10 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
+    "message": "收集诸如您点击工具栏中的 Relay 图标，或是创建新马甲时的交互数据，有助于我们了解哪些方面做得不错，以及哪些方面可以改进。您可以随时到“设置”面板中关闭。",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
     "message": "收集诸如您点击工具栏中的 Relay 图标，或是创建新马甲时的交互数据，有助于我们了解哪些方面做得不错，以及哪些方面可以改进。您可以随时到“设置”面板中关闭。",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
@@ -76,12 +84,39 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "剩余马甲数量：$REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "剩余免费马甲数量：$REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
-    "message": "获得无限多个马甲"
+    "message": "获取无限量马甲"
   },
   "popupUnlimitedAliases": {
     "message": "已创建的马甲数量：$COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "已创建的马甲数量：$COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,36 +132,39 @@
   "ManageAllAliases": {
     "message": "管理所有马甲"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "当网站上出现 Firefox Relay 图标时，点击即可生成新马甲。",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "管理所有马甲"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "找不到图标？"
+  "labelManage": {
+    "message": "管理"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "鼠标右键表单栏，选择“生成新马甲”。"
+  "labelSearch": {
+    "message": "搜索"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "收到太多邮件？"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "管理您的 Relay 马甲，轻松将“转发”切换为“屏蔽”状态。",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelFromThisWebsite": {
+    "message": "来自此网站",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "击爪 🖐️！"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "您是 Firefox Relay 大师！",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "用自定义域名创建 Relay 马甲邮箱",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "用自定义子域名创建 Relay 马甲邮箱",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "注册邮箱域名"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "注册邮箱子域名"
   },
   "popupAliasesUsed": {
     "message": "已用的邮箱马甲"
@@ -162,13 +200,17 @@
     "message": "Relay Premium 允许您只收取发送至马甲邮箱的重要邮件。您将收到收据、发票等邮件，但不会收到营销邮件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "屏蔽营销邮件"
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium 允许您只收取发送至马甲邮箱的重要邮件。您将收到收据、发票等邮件，但不会收到营销邮件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "屏蔽营销邮件"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "启用马甲邮箱的“屏蔽营销邮件”功能，即会停止转发营销邮件至收件箱。"
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "启用马甲邮箱的“屏蔽营销邮件”功能，即会停止转发营销邮件至收件箱。"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -178,7 +220,13 @@
   "popupSignBackInHeadline": {
     "message": "用您的马甲邮箱登录网站"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "用您的马甲邮箱登录网站"
+  },
   "popupSignBackInBody": {
+    "message": "遇到网站要求您输入电子邮件地址时，可以通过右键菜单（或 Control + 鼠标左键）直接创建马甲邮箱。"
+  },
+  "popupSignBackInBody_mask": {
     "message": "遇到网站要求您输入电子邮件地址时，可以通过右键菜单（或 Control + 鼠标左键）直接创建马甲邮箱。"
   },
   "pageInputIconSignUpText": {
@@ -192,10 +240,22 @@
   "pageInputIconGenerateNewAlias": {
     "message": "生成新马甲"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "生成新马甲"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "生成随机新马甲"
+  },
   "pageInputIconGetUnlimitedAliases": {
-    "message": "获得无限多个马甲"
+    "message": "获取无限量马甲"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "获得无限量马甲"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "使用此网站已有的马甲…"
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "使用此网站已有的马甲…"
   },
   "pageInputIconRecentAliases": {
@@ -205,12 +265,19 @@
     "message": "您可创建的马甲数量已满",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "您可创建的马甲数量已满",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
+    "message": "您已达到马甲数量限制。"
+  },
+  "pageFillRelayAddressLimit_mask": {
     "message": "您已达到马甲数量限制。"
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "不允许下列字符：$CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +287,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "添加标签",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "关闭"
@@ -229,6 +296,10 @@
     "message": "启用新功能"
   },
   "popupDataCollectionBody": {
+    "message": "您可以允许 Relay 收集更多数据，以便我们将您在各网站上创建使用的马甲标签在设备间同步（非必需）。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "您可以允许 Relay 收集更多数据，以便我们将您在各网站上创建使用的马甲标签在设备间同步（非必需）。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
