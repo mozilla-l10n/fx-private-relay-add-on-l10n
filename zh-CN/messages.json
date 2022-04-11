@@ -105,6 +105,9 @@
   "popupGetUnlimitedAliases": {
     "message": "获取无限量马甲"
   },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "获得无限量马甲"
+  },
   "popupUnlimitedAliases": {
     "message": "已创建的马甲数量：$COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
