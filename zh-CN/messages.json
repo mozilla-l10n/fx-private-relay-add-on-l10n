@@ -148,6 +148,10 @@
     "message": "来自此网站",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
+  "labelAllEmailMasks": {
+    "message": "所有马甲邮箱",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "击爪 🖐️！"
   },
@@ -277,6 +281,10 @@
   },
   "pageFillRelayAddressLimit_mask": {
     "message": "您已达到马甲数量限制。"
+  },
+  "pageNoMasksRemaining": {
+    "message": "免费马甲数量已用完。",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "不允许下列字符：$CHARACTERS$",
