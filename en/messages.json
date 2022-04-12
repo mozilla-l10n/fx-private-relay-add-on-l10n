@@ -240,8 +240,8 @@
     "popupSignBackInBody": {
         "message": "To create a new alias when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
     },
-    "popupSignBackInBody_mask": {
-        "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
+    "popupSignBackInBody_mask_v2": {
+        "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
     },
     "pageInputIconSignUpText": {
         "message": "Visit the Firefox Relay website to sign in or create an account.",
