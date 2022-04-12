@@ -324,6 +324,10 @@
     "message": "Vous pouvez autoriser Relay à collecter des données facultatives qui nous permettent de synchroniser vos noms d’alias sur vos appareils avec les sites web sur lesquels ils sont créés et utilisés.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupDataCollectionBody_mask": {
+    "message": "Vous pouvez autoriser Relay à collecter des données facultatives qui nous permettent de synchroniser vos noms d’alias sur vos appareils avec les sites web sur lesquels ils sont créés et utilisés.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "En savoir plus"
   },
