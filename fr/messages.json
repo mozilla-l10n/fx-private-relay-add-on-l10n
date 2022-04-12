@@ -97,6 +97,12 @@
   "ManageAllAliases": {
     "message": "Gérer tous les alias"
   },
+  "labelManage": {
+    "message": "Gérer"
+  },
+  "labelSearch": {
+    "message": "Rechercher"
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Bien joué !"
   },
