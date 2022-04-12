@@ -102,6 +102,10 @@
       }
     }
   },
+  "popupRecentlyUsedMasks": {
+    "message": "最近用过的马甲",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "获取无限量马甲"
   },
