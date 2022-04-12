@@ -94,7 +94,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Verbleibende kostenlose E-Mail-Masken:  $REMAING$",
+    "message": "Verbleibende kostenlose E-Mail-Masken:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "remaining": {
