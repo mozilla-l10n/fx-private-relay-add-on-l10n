@@ -57,7 +57,7 @@
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "留下反馈"
+    "message": "意见反馈"
   },
   "popupSettingsPrivacy": {
     "message": "隐私"
@@ -256,6 +256,10 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "生成随机新马甲"
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "之前在此网站上用过",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases": {
     "message": "获取无限量马甲"
