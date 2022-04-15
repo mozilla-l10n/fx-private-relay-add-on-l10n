@@ -240,8 +240,8 @@
   "popupSignBackInBody": {
     "message": "Um eine neue Alias-E-Mail-Adresse zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
   },
-  "popupSignBackInBody_mask": {
-    "message": "Um eine neue E-Mail-Maske zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
+  "popupSignBackInBody_mask_v2": {
+    "message": "Um eine neue E-Mail-Maske zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Maske erstellen und verwenden."
   },
   "pageInputIconSignUpText": {
     "message": "Besuchen Sie die Firefox-Relay-Website, um sich anzumelden oder ein Konto zu erstellen.",
