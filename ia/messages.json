@@ -240,7 +240,7 @@
   "popupSignBackInBody": {
     "message": "Pro crear un nove alias quando te es requirite tu e-mail, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove alias immediatemente."
   },
-  "popupSignBackInBody_mask": {
+  "popupSignBackInBody_mask_v2": {
     "message": "Pro crear un nove masca email quando te es requirite tu email, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove masca immediatemente."
   },
   "pageInputIconSignUpText": {
