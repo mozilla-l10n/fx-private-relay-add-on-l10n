@@ -240,7 +240,7 @@
   "popupSignBackInBody": {
     "message": "Ak chcete vytvoriť nový alias, keď sa zobrazí výzva na zadanie e-mailu, otvorte kontextovú ponuku (kliknutie pravým tlačidlom myši alebo stlačenie klávesu Control a kliknutie) v poli e-mailu. Odtiaľ môžete okamžite vytvoriť a použiť nový alias."
   },
-  "popupSignBackInBody_mask": {
+  "popupSignBackInBody_mask_v2": {
     "message": "Ak chcete vytvoriť novú masku, keď sa zobrazí výzva na zadanie e-mailu, otvorte kontextovú ponuku (kliknutím pravým tlačidlom myši alebo stlačením klávesu Control) v poli s e-mailom. Odtiaľ môžete okamžite vytvoriť novú masku a použiť ju."
   },
   "pageInputIconSignUpText": {
