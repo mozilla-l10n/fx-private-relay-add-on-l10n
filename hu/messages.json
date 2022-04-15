@@ -240,8 +240,8 @@
   "popupSignBackInBody": {
     "message": "Ha új álnevet szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új álnevet."
   },
-  "popupSignBackInBody_mask": {
-    "message": "Ha új e-mail-maszkot szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új álnevet."
+  "popupSignBackInBody_mask_v2": {
+    "message": "Ha új e-mail-maszkot szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új maszkot."
   },
   "pageInputIconSignUpText": {
     "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
