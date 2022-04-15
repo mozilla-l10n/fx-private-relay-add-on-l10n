@@ -240,7 +240,7 @@
   "popupSignBackInBody": {
     "message": "Open het contextmenu (rechtermuisknop of control-klik) om een nieuw masker aan te maken als u wordt gevraagd om uw e-mailadres. Hiervandaan kunt u direct een nieuw masker aanmaken en gebruiken."
   },
-  "popupSignBackInBody_mask": {
+  "popupSignBackInBody_mask_v2": {
     "message": "Open om een nieuw e-mailmasker aan te maken als om uw e-mailadres wordt gevraagd het contextmenu (rechtermuisknop of control-klik) in een e-mailveld. Daarvandaan kunt u direct een nieuw masker aanmaken en gebruiken."
   },
   "pageInputIconSignUpText": {
