@@ -180,6 +180,9 @@
   "popupAliasesUsed": {
     "message": "已用的邮箱马甲"
   },
+  "popupAliasesUsed_mask": {
+    "message": "已用的马甲邮箱"
+  },
   "popupEmailsBlocked": {
     "message": "封邮件已拦截"
   },
@@ -257,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "生成随机新马甲"
   },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "其他马甲邮箱",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
   "pageInputIconPreviouslyUsedMask": {
     "message": "之前在此网站上用过",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
@@ -275,6 +282,9 @@
   },
   "pageInputIconRecentAliases": {
     "message": "最近用过的马甲"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "近期的马甲邮箱"
   },
   "pageInputIconMaxAliasesError": {
     "message": "您可创建的马甲数量已满",
