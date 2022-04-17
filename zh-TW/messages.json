@@ -3,6 +3,10 @@
     "message": "使用 Firefox Relay，讓您輕鬆就能建立虛擬轉寄電子信箱。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_mask": {
+    "message": "使用 Firefox Relay，讓您輕鬆就能建立虛擬轉寄信箱。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescriptionStore": {
     "message": "Firefox Relay 可幫助保護您的實際電子郵件信箱 — 此資料與您的網路身分最有關聯。此附加元件可產生隨機而獨特的別名信箱，讓您可用來註冊網站或 App 帳號、訂閱電子報，再將郵件轉寄到您的實際信箱。若您覺得該帳號開始收到不適當的郵件或垃圾信，可以暫時關閉該別名，就不會再將郵件轉寄到您的信箱。當您不再需要該帳號，就可以直接刪除該別名。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "收集例如當您點擊工具列中的 Relay 圖示，或是建立新別名時的互動資料，可幫助我們了解哪些功能做得好，又有哪些地方可以改善。您可以隨時到設定面板中關閉。",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "收集例如當您點擊工具列中的 Relay 圖示，或是建立新轉寄信箱時的互動資料，可幫助我們了解哪些功能做得好，又有哪些地方可以改善。您可以隨時到「設定」面板中關閉此功能。",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "剩餘轉寄信箱: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "剩餘免費轉寄信箱: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "最近使用過的轉寄信箱",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "取得無限量別名"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "取得無限量轉寄信箱"
   },
   "popupUnlimitedAliases": {
     "message": "已建立的別名數量: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "已建立的轉寄信箱數量: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,6 +139,9 @@
   "ManageAllAliases": {
     "message": "管理所有別名"
   },
+  "ManageAllAliases_mask": {
+    "message": "管理所有轉寄信箱"
+  },
   "labelManage": {
     "message": "管理"
   },
@@ -106,6 +151,10 @@
   "labelFromThisWebsite": {
     "message": "來自此網站",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "所有轉寄信箱",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Gimme Five!"
@@ -118,6 +167,10 @@
     "message": "用自訂網域名稱建立 Relay 郵件別名",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "用自訂子網域名稱建立 Relay 轉寄信箱",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "註冊郵件網域"
   },
@@ -126,6 +179,9 @@
   },
   "popupAliasesUsed": {
     "message": "已用的郵件別名"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "已用的轉寄信箱"
   },
   "popupEmailsBlocked": {
     "message": "封信已封鎖"
@@ -158,11 +214,18 @@
     "message": "Relay Premium 讓您可以只收到寄送到別名信箱中的重要郵件。您會收到收據、發票等郵件，但不再收到行銷郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium 讓您可以只收到寄送到轉寄信箱中的重要郵件。您會收到收據、發票等郵件，但不再收到行銷郵件。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "封鎖行銷郵件"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "對別名信箱開啟「封鎖行銷郵件功能」，即可不讓行銷郵件進入收件匣。"
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "對轉寄信箱開啟「封鎖行銷郵件」功能，即可不讓行銷郵件進入收件匣。"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
@@ -171,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "使用您的別名信箱登入網站"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "使用您的轉寄信箱登入網站"
+  },
   "popupSignBackInBody": {
     "message": "遇到網站向您要求輸入信箱時，可以開啟右鍵選單（或按住 Control + 滑鼠點擊）直接建立別名，方便又快速。"
+  },
+  "popupSignBackInBody_mask_v2": {
+    "message": "遇到網站向您要求輸入信箱時，可以對欄位點滑鼠右鍵（或按住 Control + 滑鼠點擊）直接建立轉寄信箱，方便又快速。"
   },
   "pageInputIconSignUpText": {
     "message": "到 Firefox Relay 網站登入或註冊帳號。",
@@ -185,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "產生新別名"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "產生新轉寄信箱"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "產生新隨機轉寄信箱"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "其它轉寄信箱",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "在此網站使用過的轉寄信箱",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "取得無限量別名"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "取得無限量轉寄信箱"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "使用此網站已有的別名…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "使用在此網站用過的轉寄信箱…"
+  },
   "pageInputIconRecentAliases": {
     "message": "最近使用過的別名"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "近期的轉寄信箱"
   },
   "pageInputIconMaxAliasesError": {
     "message": "您可建立的別名數量已滿",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "您可建立的轉寄信箱數量已滿",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "您已達到別名數量限制。"
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "您已達到轉寄信箱數量限制。"
+  },
+  "pageNoMasksRemaining": {
+    "message": "您的免費轉寄信箱數量不足。",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "不允許下列符號: $CHARACTERS$",
@@ -223,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "您可允許 Relay 收集更多資料，讓我們於各裝置間同步您於哪些網站建立使用別名標籤（非必要提供）。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "您可允許 Relay 收集資料，讓我們於您的各裝置間同步您於哪些網站建立使用過的轉寄信箱的標籤（非必要提供）。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
