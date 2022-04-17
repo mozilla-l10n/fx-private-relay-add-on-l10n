@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Firefox Relay usnadňuje vytváření e-mailových aliasů, které přeposílají e-maily do vaší skutečné schránky. Použijte jej k ochraně svých online účtů před hackery a nevyžádanou poštou.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
     "message": "Firefox Relay usnadňuje vytváření e-mailových aliasů, které přeposílají e-maily do vaší skutečné schránky.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay usnadňuje vytváření e-mailových masek, které přeposílají e-maily do vaší skutečné schránky.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Firefox Relay vám pomůže ochránit vaši pravou e-mailovou adresu, která se svázána s vaší online identitou. Umožňuje vám vygenerovat unikátní a náhodné aliasy, které můžete používat pro registraci účtů, v aplikacích, nebo pro zasílání zpravodajů a jejich přeposílání do vaší e-mailové schránky. Pokud zjistíte, že vám chodí nevyžádané zprávy, můžete alias zablokovat a zprávy na něj posílané vám do schránky přestanou chodit. A když daný účet nebudete potřebovat, můžete alias smazat úplně.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "Shromažďování údajů o interakcích, například když klepnete myší na ikonu služby Relay nebo když vytvoříte nový alias, nám pomáhá zjistit, co funguje dobře a co můžeme vylepšit. Tento sběr můžete kdykoli v nastavení vypnout.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Shromažďování údajů o interakcích, například když klepnete myší na ikonu služby Relay nebo když vytvoříte novou masku, nám pomáhá zjistit, co funguje dobře a co můžeme vylepšit. Tento sběr můžete kdykoli v nastavení vypnout.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Zbývá dostupných masek: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Zbývá dostupných bezplatných masek: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Naposledy použité e-mailové masky",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Získat neomezený počet aliasů"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Získat neomezený počet masek"
   },
   "popupUnlimitedAliases": {
     "message": "Vytvořeno aliasů: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Vytvořeno masek: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,39 +139,49 @@
   "ManageAllAliases": {
     "message": "Spravovat všechny aliasy"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Když se na webové stránce objeví ikona služby Firefox Relay, klepnutím na ni si vygenerujete nový alias.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
+  "ManageAllAliases_mask": {
+    "message": "Spravovat všechny masky"
   },
-  "popupOnboardingPanel2Headline": {
-    "message": "Nevidíte ikonu?"
+  "labelManage": {
+    "message": "Spravovat"
   },
-  "popupOnboardingPanel2Body": {
-    "message": "Klepnutím pravým tlačítkem myši do formulářového pole otevřete kontextovou nabídku a alias si vygenerujete z ní."
+  "labelSearch": {
+    "message": "Vyhledat"
   },
-  "popupOnboardingPanel3Headline": {
-    "message": "Dostáváte příliš mnoho e-mailů?"
+  "labelFromThisWebsite": {
+    "message": "Z tohoto webu",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
-  "popupOnboardingPanel3Body": {
-    "message": "Přejděte do správy svých aliasů služby Relay a snadno přepněte z režimu přeposílání na blokování.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
+  "labelAllEmailMasks": {
+    "message": "Všechny e-mailové masky",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Plácni to!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Jste zdatný uživatel služby Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Získejte vlastní doménu pro e-mailové aliasy služby Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Získejte vlastní subdoménu pro e-mailové masky služby Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Zaregistrovat doménu pro e-maily"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "Zaregistrovat subdoménu pro e-maily"
+  },
   "popupAliasesUsed": {
     "message": "Používané e-mailové aliasy"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Používané e-mailové masky"
   },
   "popupEmailsBlocked": {
     "message": "Zablokované e-maily"
@@ -162,14 +214,18 @@
     "message": "Replay Premium umožňuje omezit doručování e-mailů pouze na ty důležité. Potvrzení o platbách dostanete, ale obchodní nabídky zablokuje.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Blokování propagačních e-mailů"
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Replay Premium umožňuje omezit doručování e-mailů pouze na ty důležité. Potvrzení o platbách dostanete, ale obchodní nabídky zablokuje.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blokování propagačních e-mailů"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Zapnutím blokování propagačních e-mailů zaslaných na váš alias zabráníte jejich doručování do vaší e-mailové schránky."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Zapnutím blokování propagačních e-mailů zaslaných na vaší masku zabráníte jejich doručování do vaší e-mailové schránky."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Se službou Relay Premium můžete zabránit doručování propagačních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
@@ -178,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Přihlaste se zpátky pomocí svých aliasů"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Přihlaste se zpátky pomocí svých e-mailových masek"
+  },
   "popupSignBackInBody": {
-    "message": "Nový alias můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) políčko pro zadání e-mailové adresy."
+    "message": "Nový alias můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) pole pro zadání e-mailové adresy."
+  },
+  "popupSignBackInBody_mask_v2": {
+    "message": "Novou masku můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) pole pro zadání e-mailové adresy."
   },
   "pageInputIconSignUpText": {
     "message": "Navštivte web služby Firefox Relay a přihlaste se nebo si vytvořte účet.",
@@ -192,25 +254,59 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Vygenerovat nový alias"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Vygenerovat novou masku"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Vygenerovat novou náhodnou masku"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Další e-mailové masky",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Dříve použité na tomto webu",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
     "message": "Získat neomezený počet aliasů"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Získat neomezený počet masek"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Použít existující alias z tohoto webu…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Použít existující masku z tohoto webu…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Nedávno použité aliasy"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Naposledy použité masky"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Už jste vytvořili maximální počet aliasů",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Už jste vytvořili maximální počet masek",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Dosáhli jste limitu pro počet aliasů."
   },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Dosáhli jste limitu pro počet masek."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Už nemáte žádné bezplatné e-mailové masky.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
+  },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nepovolené znaky: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +316,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Přidat název účtu",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Zavřít"
@@ -230,6 +326,10 @@
   },
   "popupDataCollectionBody": {
     "message": "Službě Relay můžete povolit shromažďování volitelných údajů, které nám umožní synchronizovat popisky vašich aliasů napříč vašimi zařízeními, včetně webů, na kterých jste aliasy vytvořili a použili.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Službě Relay můžete povolit shromažďování volitelných údajů, které nám umožní synchronizovat popisky vašich masek napříč vašimi zařízeními, včetně webů, na kterých jste masky vytvořili a použili.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
