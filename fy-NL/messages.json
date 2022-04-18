@@ -240,8 +240,8 @@
   "popupSignBackInBody": {
     "message": "Iepenje it kontekstmenu (rjochtermûsknop of control-klik) om in nije alias oan te meitsjen as jo frege wurdt om jo e-mailadres. Fan hjir út kinne jo daliks in nije alias oanmeitsje en brûke."
   },
-  "popupSignBackInBody_mask": {
-    "message": "Iepenje it kontekstmenu (rjochtermûsknop of control-klik) om in nij masker oan te meitsjen as jo frege wurdt om jo e-mailadres. Fan hjir út kinne jo daliks in nij masker oanmeitsje en brûke."
+  "popupSignBackInBody_mask_v2": {
+    "message": "Iepenje om in nij e-mailmasker oan te meitsjen as jo frege wurdt om jo e-mailadres, it kontekstmenu (rjochtermûsknop of control-klik) yn in e-mailfjild. Fan hjir út kinne jo daliks in nij masker oanmeitsje en brûke."
   },
   "pageInputIconSignUpText": {
     "message": "Besykje de Firefox Relay-website om jo oan te melden of in account oan te meitsjen.",
