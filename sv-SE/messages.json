@@ -3,6 +3,10 @@
     "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescriptionStore": {
     "message": "Firefox Relay hjälper dig att skydda din riktiga e-postadress — den som är närmast kopplad till din onlineidentitet. Den låter dig skapa unika, slumpmässiga alias som du kan använda för att registrera dig för konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du upptäcker att ett konto skickar oönskad e-post eller spam, kan du blockera aliaset och det kommer att sluta skicka e-post till din inkorg. När du inte längre vill ha ett konto kan du ta bort aliaset.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -28,6 +32,10 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
+    "message": "Att samla in interaktionsdata när du gör saker som att klicka på Relay-ikonen i verktygsfältet eller skapa ett nytt alias hjälper oss med vad som fungerar bra och var vi kan förbättra. Du kan alltid stänga av detta i panelen Inställningar.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
     "message": "Att samla in interaktionsdata när du gör saker som att klicka på Relay-ikonen i verktygsfältet eller skapa ett nytt alias hjälper oss med vad som fungerar bra och var vi kan förbättra. Du kan alltid stänga av detta i panelen Inställningar.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
@@ -76,12 +84,46 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Återstående alias: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Återstående gratis e-postalias:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Nyligen använda e-postalias",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
+    "message": "Få obegränsat med alias"
+  },
+  "popupGetUnlimitedAliases_mask": {
     "message": "Få obegränsat med alias"
   },
   "popupUnlimitedAliases": {
     "message": "Skapade alias: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Skapade alias: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -97,6 +139,9 @@
   "ManageAllAliases": {
     "message": "Hantera alla alias"
   },
+  "ManageAllAliases_mask": {
+    "message": "Hantera alla alias"
+  },
   "labelManage": {
     "message": "Hantera"
   },
@@ -106,6 +151,10 @@
   "labelFromThisWebsite": {
     "message": "Från den här webbplatsen",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Alla e-postalias",
+    "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Hög femma!"
@@ -118,6 +167,10 @@
     "message": "Skaffa en anpassad domän för Relay e-postalias",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Skaffa en anpassad underdomän för Relay e-postalias",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrera e-postdomän"
   },
@@ -125,6 +178,9 @@
     "message": "Registrera underdomän för e-post"
   },
   "popupAliasesUsed": {
+    "message": "E-postalias som används"
+  },
+  "popupAliasesUsed_mask": {
     "message": "E-postalias som används"
   },
   "popupEmailsBlocked": {
@@ -158,10 +214,17 @@
     "message": "Relay Premium låter dig endast ta emot viktiga e-postmeddelanden som skickas till ett alias. Du kommer att få e-postmeddelanden som kvitton men inte marknadsföringsmeddelanden.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium låter dig endast ta emot viktiga e-postmeddelanden som skickas till ett alias. Du kommer att få e-postmeddelanden som kvitton men inte marknadsföringsmeddelanden.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blockera reklammeddelanden"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "Aktivera blockera reklammeddelanden för ett alias för att hindra marknadsföringsmeddelanden från att nå din inkorg."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "Aktivera blockera reklammeddelanden för ett alias för att hindra marknadsföringsmeddelanden från att nå din inkorg."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -171,7 +234,13 @@
   "popupSignBackInHeadline": {
     "message": "Logga in igen med dina alias"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Logga in igen med dina e-postalias"
+  },
   "popupSignBackInBody": {
+    "message": "För att skapa ett nytt alias när du blir ombedd att ange din e-post, öppna snabbmenyn (högerklicka eller kontroll-klicka) i ett e-postfält. Därifrån kan du skapa och använda ett nytt alias direkt."
+  },
+  "popupSignBackInBody_mask_v2": {
     "message": "För att skapa ett nytt alias när du blir ombedd att ange din e-post, öppna snabbmenyn (högerklicka eller kontroll-klicka) i ett e-postfält. Därifrån kan du skapa och använda ett nytt alias direkt."
   },
   "pageInputIconSignUpText": {
@@ -185,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Skapa nytt alias"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Skapa nytt alias"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Skapa ett nytt slumpmässigt alias"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Ytterligare e-postalias",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Tidigare använd på denna webbplats",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
+    "message": "Få obegränsat med alias"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Få obegränsat med alias"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Använd befintliga alias från denna webbplats…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Använd befintliga alias från denna webbplats…"
+  },
   "pageInputIconRecentAliases": {
+    "message": "Senaste alias"
+  },
+  "pageInputIconRecentAliases_mask": {
     "message": "Senaste alias"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Du har redan skapat det maximala antalet alias",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Du har redan skapat det maximala antalet alias",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Du har nått maxgränsen för antal alias."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Du har nått maxgränsen för antal alias."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Du har inga fler gratis e-postalias.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Tecken som inte är tillåtna: $CHARACTERS$",
@@ -222,6 +325,10 @@
     "message": "Aktivera nya funktioner"
   },
   "popupDataCollectionBody": {
+    "message": "Du kan tillåta Relay att samla in valfri data som gör att vi kan synkronisera dina aliasetiketter mellan dina enheter med webbplatserna där de skapas och används.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "Du kan tillåta Relay att samla in valfri data som gör att vi kan synkronisera dina aliasetiketter mellan dina enheter med webbplatserna där de skapas och används.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
