@@ -93,12 +93,37 @@
       }
     }
   },
+  "popupRemainingFreeMasks": {
+    "message": "Arallenwau e-bost am ddim sy'n weddill: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Arallenwau e-bost a ddefnyddiwyd yn ddiweddar",
+    "description": "Label for list of most recently used masks."
+  },
   "popupGetUnlimitedAliases": {
     "message": "Cael arallenwau dirifedi"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Cael arallenwau diderfyn"
   },
   "popupUnlimitedAliases": {
     "message": "Arallenwau wedi'u creu: $COUNT$",
     "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Arallenwau wedi'u creu: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
         "content": "$1"
@@ -114,6 +139,23 @@
   "ManageAllAliases": {
     "message": "Rheoli Pob Arallenw"
   },
+  "ManageAllAliases_mask": {
+    "message": "Rheoli pob arallenw"
+  },
+  "labelManage": {
+    "message": "Rheoli"
+  },
+  "labelSearch": {
+    "message": "Chwilio"
+  },
+  "labelFromThisWebsite": {
+    "message": "O'r wefan hon",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Pob arallenw e-bost",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Da iawn!"
   },
@@ -125,10 +167,20 @@
     "message": "Cael parth personol ar gyfer arallenwau e-bost Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Cael parth personol ar gyfer arallenwau e-bost Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Cofrestru parth e-bost"
   },
+  "popupRegisterDomainButton_mask": {
+    "message": "Cofrestru parth e-bost"
+  },
   "popupAliasesUsed": {
+    "message": "Arallenwau e-bost wedi'u defnyddio"
+  },
+  "popupAliasesUsed_mask": {
     "message": "Arallenwau e-bost wedi'u defnyddio"
   },
   "popupEmailsBlocked": {
@@ -162,10 +214,17 @@
     "message": "Mae Relay Premium yn caniatáu i chi dderbyn e-byst hollbwysig yn unig a anfonwyd at arallenw. Byddwch yn derbyn e-byst fel derbynebau ond nid e-byst marchnata.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Mae Relay Premium yn caniatáu i chi dderbyn e-byst hollbwysig yn unig a anfonwyd at arallenw. Byddwch yn derbyn e-byst fel derbynebau ond nid e-byst marchnata.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Rhwystro e-byst hyrwyddo"
   },
   "popupBlockPromotionalEmailsBody": {
+    "message": "Galluogi Rhwystro E-byst Hyrwyddo ar arallenw i rwystro e-byst marchnata rhag cyrraedd eich blwch derbyn."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
     "message": "Galluogi Rhwystro E-byst Hyrwyddo ar arallenw i rwystro e-byst marchnata rhag cyrraedd eich blwch derbyn."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
@@ -175,8 +234,14 @@
   "popupSignBackInHeadline": {
     "message": "Mewngofnodwch eto gyda'ch arallenwau"
   },
+  "popupSignBackInHeadline_mask": {
+    "message": "Mewngofnodwch eto gyda'ch arallenwau"
+  },
   "popupSignBackInBody": {
     "message": "I greu arallenw newydd pan fydd gofyn i chi ddarparu e-bost, agorwch y ddewislen cyd-destun (cliciwch ar y dde neu control-clic) mewn maes e-bost. Oddi yno gallwch greu a defnyddio alias newydd ar unwaith."
+  },
+  "popupSignBackInBody_mask_v2": {
+    "message": "I greu arallenw newydd pan fydd gofyn i chi ddarparu e-bost, agorwch y ddewislen cyd-destun (cliciwch ar y dde neu control-clic) mewn maes e-bost. Oddi yno gallwch greu a defnyddio arallenw newydd ar unwaith."
   },
   "pageInputIconSignUpText": {
     "message": "Ewch i wefan Firefox Relay i fewngofnodi neu greu cyfrif.",
@@ -189,21 +254,55 @@
   "pageInputIconGenerateNewAlias": {
     "message": "Cynhyrchu Arallenw Newydd"
   },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Cynhyrchu arallenw newydd"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Cynhyrchu arallenw ar hap newydd"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Arallenwau e-bost ychwanegol",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Wedi eu defnyddio'n flaenorol ar y wefan hon",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases": {
+    "message": "Cael arallenwau diderfyn"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Cael arallenwau diderfyn"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Defnyddiwch yr Arallenwau Presennol o'r Wefan hon…"
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Defnyddiwch yr arallenwau presennol o'r wefan hon…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Arallenwau Diweddar"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Arallenwau diweddar"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
     "description": "Tells the user they have already created the max number of aliases."
   },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
+    "description": "Tells the user they have already created the max number of masks."
+  },
   "pageFillRelayAddressLimit": {
     "message": "Rydych wedi cyrraedd terfyn yr arallenwau."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Rydych wedi cyrraedd terfyn yr arallenwau."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Nid oes gennych ragor o arallenwau e-bost am ddim.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nodau sydd ddim yn cael eu caniatâu: $CHARACTERS$",
@@ -226,6 +325,10 @@
     "message": "Galluogi nodweddion newydd"
   },
   "popupDataCollectionBody": {
+    "message": "Gallwch ganiatáu i Relay gasglu data dewisol sy'n ein galluogi i gydweddu labeli arallenwau eich holl ddyfeisiau â'r gwefannau lle maen nhw wedi'u creu a'u defnyddio.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
     "message": "Gallwch ganiatáu i Relay gasglu data dewisol sy'n ein galluogi i gydweddu labeli arallenwau eich holl ddyfeisiau â'r gwefannau lle maen nhw wedi'u creu a'u defnyddio.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
