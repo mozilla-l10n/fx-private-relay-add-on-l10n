@@ -1,15 +1,19 @@
 {
-  "extensionDescription": {
-    "message": "Mae Firefox Relay yn ei gwneud hi'n hawdd creu arallenwau e-bostio sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn. Defnyddiwch hwn i ddiogelu eich cyfrifon ar-lein rhag hacwyr a negeseuon digroeso.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_v1": {
+    "message": "Mae Firefox Relay yn ei gwneud hi'n hawdd creu arallenwau e-bost sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
     "message": "Mae Firefox Relay yn ei gwneud hi'n hawdd creu arallenwau e-bost sy'n cael eu hanfon ymlaen i'ch blwch derbyn go iawn.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
     "message": "Mae Firefox Relay yn eich helpu i ddiogelu eich cyfeiriad e-bost go iawn - yr un sydd â'r cysylltiad agosaf â'ch hunaniaeth ar-lein. Mae'n caniatáu ichi gynhyrchu arallenwau unigryw ar hap, y gallwch eu defnyddio i gofrestru ar gyfer cyfrifon, apiau, neu gylchlythyrau, ac anfon negeseuon ymlaen i'ch cyfeiriad go iawn. Os gwelwch fod cyfrif yn anfon e-bost neu sbam digroeso, gallwch rwystro'r arallenw a bydd yn peidio ag anfon e-bost i'ch blwch derbyn. Unwaith na fydd angen y cyfrif arnoch mwyach, gallwch ddileu'r arallenw.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
     "message": "Rydych wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
@@ -29,6 +33,10 @@
   },
   "firstRunPrefP": {
     "message": "Mae casglu data rhyngweithio, sef, pan fyddwch chi'n gwneud pethau fel clicio'r eicon Relay yn eich bar offer neu greu arallenw newydd yn ein helpu i ddysgu beth sy'n gweithio'n dda a beth allwn ni wella. Gallwch chi ddiffodd hyn ar unrhyw adeg yn y panel Gosodiadau.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Mae casglu data rhyngweithio, sef, pan fyddwch chi'n gwneud pethau fel clicio'r eicon Relay yn eich bar offer neu greu arallenw newydd yn ein helpu i ddysgu beth sy'n gweithio'n dda a beth allwn ni ei wella. Gallwch chi ddiffodd hyn ar unrhyw adeg yn y panel Gosodiadau.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -76,6 +84,15 @@
       }
     }
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "Arallenwau sy'n weddill: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupGetUnlimitedAliases": {
     "message": "Cael arallenwau dirifedi"
   },
@@ -97,29 +114,12 @@
   "ManageAllAliases": {
     "message": "Rheoli Pob Arallenw"
   },
-  "popupOnboardingPanel1Body": {
-    "message": "Pan fydd eicon Firefox Relay yn ymddangos ar wefan, dewiswch hi i gynhyrchu arallenw newydd.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can use the icon to make a new alias. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupOnboardingPanel2Headline": {
-    "message": "Ddim yn gweld yr eicon?"
-  },
-  "popupOnboardingPanel2Body": {
-    "message": "De-gliciwch ar feysydd ffurflen i gael mynediad i'r ddewislen cyd-destun a chynhyrchu arallenw oddi yno."
-  },
-  "popupOnboardingPanel3Headline": {
-    "message": "Yn cael gormod o negeseuon e-bost?"
-  },
-  "popupOnboardingPanel3Body": {
-    "message": "Rheoli eich arallenwau Relay a newid o Ymlaen i Rwystro yn hawdd.",
-    "description": "In the pop-up panel, after the user has signed in, we tell them they can toggle forwarding/blocking on each alias. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Da iawn!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Rydych chi'n uwch-ddefnyddiwr Firefox Relay!",
-    "description": "In the pop-up panel, when a free user has hit their alias limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupRegisterDomainHeadline": {
     "message": "Cael parth personol ar gyfer arallenwau e-bost Relay",
@@ -161,9 +161,6 @@
   "popupCriticalEmailForwardingBody": {
     "message": "Mae Relay Premium yn caniatáu i chi dderbyn e-byst hollbwysig yn unig a anfonwyd at arallenw. Byddwch yn derbyn e-byst fel derbynebau ond nid e-byst marchnata.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupBlockPromotionalEmailsHeadline": {
-    "message": "Rhwystro E-byst Hyrwyddo"
   },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Rhwystro e-byst hyrwyddo"
@@ -210,7 +207,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Nodau sydd ddim yn cael eu caniatâu: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an alias.",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
         "content": "$1",
@@ -220,7 +217,7 @@
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Ychwanegu enw'r cyfrif",
-    "description": "On the user's profile page, this text appears for an alias when it doesn't have a label."
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Cau"
