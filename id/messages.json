@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescription_mask": {
-    "message": "Firefox Relay mempermudah Anda membuat masker surel yang meneruskan kotak masuk Anda yang sebenarnya.",
+    "message": "Firefox Relay mempermudah Anda membuat topeng surel yang meneruskan kotak masuk Anda yang sebenarnya.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
@@ -36,7 +36,7 @@
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
-    "message": "Mengumpulkan data interaksi ketika Anda melakukan hal-hal seperti mengklik ikon Relay di bilah alat Anda atau membuat masker baru membantu kami mempelajari apa yang bekerja dengan baik dan di mana kami dapat meningkatkan. Anda dapat mematikan fitur ini di panel Pengaturan.",
+    "message": "Mengumpulkan data interaksi ketika Anda melakukan hal-hal seperti mengklik ikon Relay di bilah alat Anda atau membuat topeng baru membantu kami mempelajari apa yang bekerja dengan baik dan di mana kami dapat meningkatkan. Anda dapat mematikan fitur ini di panel Pengaturan.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
@@ -85,7 +85,7 @@
     }
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Sisa masker: $REMAINING$",
+    "message": "Sisa topeng: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "remaining": {
@@ -94,7 +94,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Sisa masker surel gratis:  $REMAINING$",
+    "message": "Sisa topeng surel gratis:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "remaining": {
@@ -103,14 +103,14 @@
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Masker surel yang baru saja digunakan",
+    "message": "Topeng surel yang baru saja digunakan",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases": {
     "message": "Dapatkan alias tanpa batas"
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Dapatkan masker tak terbatas"
+    "message": "Dapatkan topeng tak terbatas"
   },
   "popupUnlimitedAliases": {
     "message": "Alias yang dibuat: $COUNT$",
@@ -122,7 +122,7 @@
     }
   },
   "popupUnlimitedAliases_mask": {
-    "message": "Masker dibuat: $COUNT$",
+    "message": "Topeng dibuat: $COUNT$",
     "description": "Tells the premium user how many masks they have created.",
     "placeholders": {
       "count": {
@@ -140,7 +140,7 @@
     "message": "Kelola Semua Alias"
   },
   "ManageAllAliases_mask": {
-    "message": "Kelola semua masker"
+    "message": "Kelola semua topeng"
   },
   "labelManage": {
     "message": "Kelola"
@@ -153,7 +153,7 @@
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "Semua masker surel",
+    "message": "Semua topeng surel",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
@@ -168,7 +168,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainHeadline_mask": {
-    "message": "Dapatkan subdomain khusus untuk masker surel Relay",
+    "message": "Dapatkan subdomain khusus untuk topeng surel Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupRegisterDomainButton": {
@@ -181,7 +181,7 @@
     "message": "Alias surel digunakan"
   },
   "popupAliasesUsed_mask": {
-    "message": "Masker surel digunakan"
+    "message": "Topeng surel digunakan"
   },
   "popupEmailsBlocked": {
     "message": "Surel diblokir"
@@ -215,7 +215,7 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium memungkinkan Anda menerima hanya surel penting yang dikirim ke masker. Anda akan menerima surel seperti tanda terima tetapi bukan surel pemasaran.",
+    "message": "Relay Premium memungkinkan Anda menerima hanya surel penting yang dikirim ke topeng. Anda akan menerima surel seperti tanda terima tetapi bukan surel pemasaran.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBlockPromotionalEmailsHeadline_2": {
@@ -225,7 +225,7 @@
     "message": "Aktifkan Blokir Surel Promosi pada alias untuk menghentikan surel pemasaran mencapai kotak masuk Anda."
   },
   "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Aktifkan Blokir Surel Promosi pada masker untuk menghentikan surel pemasaran mencapai kotak masuk Anda."
+    "message": "Aktifkan Blokir Surel Promosi pada topeng untuk menghentikan surel pemasaran mencapai kotak masuk Anda."
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Dengan Relay Premium, Anda dapat memblokir surel promosi untuk mencapai kotak masuk saat masih memungkinkan Anda menerima surel seperti informasi kuitansi atau pengiriman.",
@@ -235,13 +235,13 @@
     "message": "Masuk kembali dengan alias Anda"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Masuk kembali dengan masker surel Anda"
+    "message": "Masuk kembali dengan topeng surel Anda"
   },
   "popupSignBackInBody": {
     "message": "Untuk membuat alias baru saat ditanya tentang email Anda, buka menu konteks (klik kanan atau kontrol-klik) pada bidang email. Dari sana Anda dapat membuat dan menggunakan alias baru segera."
   },
   "popupSignBackInBody_mask_v2": {
-    "message": "Untuk membuat masker surel baru saat Anda diminta untuk surel Anda, buka menu konteks (klik kanan atau klik-kanan) pada bidang surel. Dari sana Anda dapat membuat dan segera menggunakan masker baru."
+    "message": "Untuk membuat topeng surel baru saat Anda diminta untuk surel Anda, buka menu konteks (klik kanan atau klik-kanan) pada bidang surel. Dari sana Anda dapat membuat dan segera menggunakan topeng baru."
   },
   "pageInputIconSignUpText": {
     "message": "Kunjungi situs web Firefox Relay untuk masuk atau membuat akun.",
@@ -255,13 +255,13 @@
     "message": "Buat Alias Baru"
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "Buat masker baru"
+    "message": "Buat topeng baru"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Buat masker acak baru"
+    "message": "Buat topeng acak baru"
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Masker surel tambahan",
+    "message": "Topeng surel tambahan",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
@@ -272,36 +272,36 @@
     "message": "Dapatkan Alias Tanpa Batas"
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Dapatkan masker tak terbatas"
+    "message": "Dapatkan topeng tak terbatas"
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Gunakan Alias yang Sudah Ada dari Situs ini…"
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Gunakan masker yang ada dari situs ini…"
+    "message": "Gunakan topeng yang ada dari situs ini…"
   },
   "pageInputIconRecentAliases": {
     "message": "Alias Terakhir"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Masker terkini"
+    "message": "Topeng terkini"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Anda sudah membuat alias sebanyak jumlah maksimum",
     "description": "Tells the user they have already created the max number of aliases."
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "Anda telah membuat masker sebanyak jumlah maksimal",
+    "message": "Anda telah membuat topeng sebanyak jumlah maksimal",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageFillRelayAddressLimit": {
     "message": "Anda sudah mencapai batas jumlah alias."
   },
   "pageFillRelayAddressLimit_mask": {
-    "message": "Anda telah mencapai batas maksimal."
+    "message": "Anda telah mencapai batas topeng maksimal."
   },
   "pageNoMasksRemaining": {
-    "message": "Anda tidak memiliki masker surel gratis lagi.",
+    "message": "Anda tidak memiliki topeng surel gratis lagi.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
@@ -329,7 +329,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
-    "message": "Anda dapat mengizinkan Relay untuk mengumpulkan data opsional yang memungkinkan kami untuk menyinkronkan label masker Anda di seluruh perangkat Anda dengan situs web di mana mereka dibuat dan digunakan.",
+    "message": "Anda dapat mengizinkan Relay untuk mengumpulkan data opsional yang memungkinkan kami untuk menyinkronkan label topeng Anda di seluruh perangkat Anda dengan situs web di mana mereka dibuat dan digunakan.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
