@@ -274,6 +274,10 @@
     "pageInputIconGetUnlimitedAliases_mask": {
         "message": "Get unlimited masks"
     },
+    "pageInputIconJoinPremiumWaitlist": {
+        "message": "Join Premium waitlist",
+        "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+    },
     "pageInputIconUseExistingAliasFromTheSite": {
         "message": "Use Existing Alias from this Site…"
     },
