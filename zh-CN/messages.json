@@ -274,6 +274,10 @@
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "获得无限量马甲"
   },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "加入 Premium 预约名单",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "使用此网站已有的马甲…"
   },
