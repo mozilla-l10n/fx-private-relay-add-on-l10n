@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Genera un nuovo alias casuale"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Seleziona dagli alias di posta esistenti",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Altri alias",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Ottieni alias illimitati"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Iscriviti alla lista d’attesa",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Utilizza alias esistente per questo sito…"
