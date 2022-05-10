@@ -278,6 +278,10 @@
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Unbegrenzt viele E-Mail-Masken erhalten"
   },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Auf Premium-Warteliste eintragen",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Vorhandene Alias-E-Mail-Adresse von dieser Website verwenden…"
   },
