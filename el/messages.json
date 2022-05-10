@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Δημιουργία νέας τυχαίας μάσκας"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Επιλέξτε από τις τρέχουσες μάσκες email σας",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Επιπρόσθετες μάσκες email",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Απόκτηση απεριόριστων μασκών"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Εγγραφή στη λίστα αναμονής του Premium",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Χρήση υπάρχοντος ψευδωνύμου από τον ιστότοπο…"
