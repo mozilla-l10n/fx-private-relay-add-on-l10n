@@ -260,6 +260,10 @@
     "pageInputIconGenerateNewRandomMask": {
         "message": "Generate new random mask"
     },
+    "pageInputIconSelectFromYourCurrentEmailMasks": {
+        "message": "Select from your current email masks",
+        "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+    },    
     "pageInputIconAdditionalEmailMasks": {
         "message": "Additional email masks",
         "description": "In the website content icon pop-up, users can re-use masks they've already created."
