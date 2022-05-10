@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "產生新隨機轉寄信箱"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "選擇您目前的轉寄信箱",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "其它轉寄信箱",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "取得無限量轉寄信箱"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "加入 Premium 版排隊名單",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "使用此網站已有的別名…"
