@@ -278,6 +278,10 @@
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Få obegränsat med alias"
   },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Ställ dig i väntelistan för Premium",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Använd befintliga alias från denna webbplats…"
   },
