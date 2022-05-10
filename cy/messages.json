@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Cynhyrchu arallenw ar hap newydd"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Dewiswch o'ch arallenwau e-bost cyfredol",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Arallenwau e-bost ychwanegol",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Cael arallenwau diderfyn"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Ymunwch â rhestr aros Premiwm",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Defnyddiwch yr Arallenwau Presennol o'r Wefan hon…"
