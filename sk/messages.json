@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Vytvoriť novú náhodnú masku"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Vyberte si z vašich aktuálnych e-mailových masiek",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Ďalšie e-mailové masky",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Získajte neobmedzené množstvo masiek"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Pridajte sa do zoznamu čakateľov na Premium",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Použiť existujúci alias z tejto stránky…"
