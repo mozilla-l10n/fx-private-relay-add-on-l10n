@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Gerar nova máscara aleatória"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Selecione uma de suas máscaras de email atuais",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Máscaras de email adicionais",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Tenha máscaras ilimitadas"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Entrar na lista de espera do Premium",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Usar um endereço de redirecionamento existente neste site…"
