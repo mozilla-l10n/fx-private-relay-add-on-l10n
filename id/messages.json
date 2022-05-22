@@ -260,6 +260,10 @@
   "pageInputIconGenerateNewRandomMask": {
     "message": "Buat topeng acak baru"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Pilih dari topeng surel Anda saat ini",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "Topeng surel tambahan",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -273,6 +277,10 @@
   },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Dapatkan topeng tak terbatas"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Gabung ke daftar tunggu Premium",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Gunakan Alias yang Sudah Ada dari Situs ini…"
