@@ -69,7 +69,7 @@
     "message": "欢迎！"
   },
   "popupSignUpPanelIntro": {
-    "message": "首先请使用您的 Firefox 账户登录 Relay。",
+    "message": "请先使用您的 Firefox 账户登录 Relay。",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
