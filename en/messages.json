@@ -81,7 +81,8 @@
         "message": "Email mask was not accepted by website"
     },
     "popupReportIssueCaseTwo": {
-        "message": "Relay add-on caused a visual issue with the website"
+        "message": "Relay add-on caused a visual issue with the website",
+        "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupReportIssueCaseThree": {
         "message": "I haven’t received an email from this website that I was expecting"
