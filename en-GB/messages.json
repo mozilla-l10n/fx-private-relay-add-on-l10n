@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Terms of Service"
   },
+  "popupSettingsReportIssue": {
+    "message": "Report Issue"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Submit Report"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "I’m having issues with this web site"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Issue situation"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Email mask was not accepted by web site"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay add-on caused a visual issue with the web site",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "I haven’t received an email from this web site that I was expecting"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Other"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Please provide details"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Welcome"
   },
