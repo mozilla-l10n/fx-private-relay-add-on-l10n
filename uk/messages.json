@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Умови надання послуги"
   },
+  "popupSettingsReportIssue": {
+    "message": "Повідомити про проблему"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Надіслати звіт"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "У мене виникли проблеми з цим вебсайтом"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Проблемна ситуація"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Вебсайт не приймає маску електронної пошти"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Додаток Relay спричинив візуальну проблему на вебсайті",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Мені не надійшов електронний лист, на який я очікую, від цього вебсайту"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Інше"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Будь ласка, вкажіть подробиці"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Вітаємо"
   },
