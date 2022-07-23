@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "服務條款"
   },
+  "popupSettingsReportIssue": {
+    "message": "回報問題"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "送出報告"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "我在這個網站遇到問題"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "問題狀況"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "網站不接受轉寄信箱"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay 附加元件造成網站顯示問題",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "我沒有收到來自此網站的郵件"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "其他"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "請提供更多詳情"
+  },
   "popupSignUpPanelWelcome": {
     "message": "歡迎！"
   },
