@@ -65,6 +65,28 @@
   "popupSettingsTermsOfService": {
     "message": "Terminos de servicio"
   },
+  "popupSettingsReportIssue": {
+    "message": "Reportar problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Inviar reporto"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situation del problema"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Le masca email non era acceptate per le sito web"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Le additivo Relay causava un problema de visualisation de sito web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Altero"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Per favor forni le detalios"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Benvenite"
   },
