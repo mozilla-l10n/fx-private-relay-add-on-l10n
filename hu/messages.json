@@ -77,6 +77,22 @@
   "popupReportIssueSituationHeadline": {
     "message": "Probléma leírása"
   },
+  "popupReportIssueCaseOne": {
+    "message": "A webhely nem fogadta el az e-mail-maszkot"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "A Relay bővítmény vizuális problémát okozott a webhelyen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Nem kaptam meg egy várt e-mailt ettől a webhelytől"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Egyéb"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Adjon részletesebb információt"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Üdvözöljük"
   },
