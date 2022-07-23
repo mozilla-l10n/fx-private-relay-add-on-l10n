@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Términos de servicio"
   },
+  "popupSettingsReportIssue": {
+    "message": "Reportar problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Enviar reporte"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Estoy teniendo problemas con este sitio web"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situación del problema"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Máscara de correo no fue aceptada por el sitio web"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Complemento de Relay ha causado un problema visual con el sitio web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "No he recibido un correo de este sitio web que estaba esperando"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Otro"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Por favor, proporciona detalles"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Bienvenido"
   },
