@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Användarvillkor"
   },
+  "popupSettingsReportIssue": {
+    "message": "Rapportera problem"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Skicka in rapport"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Jag har problem med den här webbplatsen"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Problemsituation"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "E-postalias accepterades inte av webbplatsen"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Tillägget Relay orsakade ett visuellt problem med webbplatsen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Jag har inte fått ett e-postmeddelande från denna webbplats som jag förväntade mig"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Annat"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Vänligen ange detaljer"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Välkommen"
   },
