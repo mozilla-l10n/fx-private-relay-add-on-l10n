@@ -65,6 +65,24 @@
   "popupSettingsTermsOfService": {
     "message": "服务条款"
   },
+  "popupSettingsReportIssue": {
+    "message": "报告问题"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "提交报告"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "问题情况"
+  },
+  "popupReportIssueCaseThree": {
+    "message": "我没有收到来自该网站的电子邮件"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "其他"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "请提供更多细节"
+  },
   "popupSignUpPanelWelcome": {
     "message": "欢迎！"
   },
