@@ -65,6 +65,18 @@
   "popupSettingsTermsOfService": {
     "message": "Szolgáltatás feltételei"
   },
+  "popupSettingsReportIssue": {
+    "message": "Probléma jelentése"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Jelentés beküldése"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Problémáim vannak ezzel a webhellyel"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Probléma leírása"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Üdvözöljük"
   },
