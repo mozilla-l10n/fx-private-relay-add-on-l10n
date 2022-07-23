@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Nutzungsbedingungen"
   },
+  "popupSettingsReportIssue": {
+    "message": "Problem melden"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Bericht absenden"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Ich habe Probleme mit dieser Website"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Problembeschreibung"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Die E-Mail-Maske wurde von der Website nicht akzeptiert"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Das Relay-Add-on verursachte ein Problem bei der Darstellung der Website",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Ich habe keine E-Mail von dieser Website erhalten, die ich erwartet hatte"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Sonstiges"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Bitte geben Sie weitere Details an"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Willkommen"
   },
