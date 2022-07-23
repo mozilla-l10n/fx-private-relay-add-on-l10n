@@ -71,6 +71,9 @@
   "popupSettingsSubmitReport": {
     "message": "Inviar reporto"
   },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Io ha problemas con iste sito web"
+  },
   "popupReportIssueSituationHeadline": {
     "message": "Situation del problema"
   },
