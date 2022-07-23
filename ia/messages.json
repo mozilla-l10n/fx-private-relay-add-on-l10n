@@ -81,6 +81,9 @@
     "message": "Le additivo Relay causava un problema de visualisation de sito web",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupReportIssueCaseThree": {
+    "message": "Io non ha recipite un email attendite ab iste sito web"
+  },
   "popupReportIssueCaseOther": {
     "message": "Altero"
   },
