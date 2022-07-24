@@ -65,6 +65,9 @@
   "popupSettingsTermsOfService": {
     "message": "Όροι υπηρεσίας"
   },
+  "popupSettingsSubmitReport": {
+    "message": "Υποβολή αναφοράς"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Καλώς ορίσατε"
   },
