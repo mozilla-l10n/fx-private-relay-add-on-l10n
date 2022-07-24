@@ -65,6 +65,15 @@
   "popupSettingsTermsOfService": {
     "message": "Conditions d’utilisation"
   },
+  "popupSettingsReportIssue": {
+    "message": "Signaler un problème"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Envoyer un rapport"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Autre"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Bienvenue"
   },
