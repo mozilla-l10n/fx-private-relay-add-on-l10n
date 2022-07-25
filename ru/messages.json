@@ -80,6 +80,19 @@
   "popupReportIssueCaseOne": {
     "message": "Веб-сайт не принял псевдоним электронной почты"
   },
+  "popupReportIssueCaseTwo": {
+    "message": "Дополнение Relay вызвало визуальную проблему с этим веб-сайтом",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Я не получил ожидаемое письмо от этого веб-сайта"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Другое"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Пожалуйста, опишите подробности"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Добро пожаловать"
   },
