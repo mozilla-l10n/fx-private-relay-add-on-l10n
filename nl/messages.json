@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Servicevoorwaarden"
   },
+  "popupSettingsReportIssue": {
+    "message": "Probleem melden"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Rapport verzenden"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Ik heb problemen met deze website"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Probleemsituatie"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "E-mailmasker werd niet geaccepteerd door de website"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay-add-on veroorzaakte een visueel probleem met de website",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Ik heb geen e-mailbericht van deze website ontvangen dat ik verwachtte"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Overig"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Geef details"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Welkom"
   },
