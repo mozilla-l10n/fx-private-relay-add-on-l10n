@@ -65,6 +65,21 @@
   "popupSettingsTermsOfService": {
     "message": "Termos do serviço"
   },
+  "popupSettingsReportIssue": {
+    "message": "Relatar problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Enviar relatório"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Estou tendo problemas neste site"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situação do problema"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "A máscara de email não foi aceita pelo site"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Boas-vindas"
   },
