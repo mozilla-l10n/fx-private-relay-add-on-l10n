@@ -65,6 +65,21 @@
   "popupSettingsTermsOfService": {
     "message": "Условия использования"
   },
+  "popupSettingsReportIssue": {
+    "message": "Сообщить о проблеме"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Отправить сообщение"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "У меня возникли проблемы с этим веб-сайтом"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Проблема"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Веб-сайт не принял псевдоним электронной почты"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Добро пожаловать"
   },
