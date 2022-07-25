@@ -65,6 +65,34 @@
   "popupSettingsTermsOfService": {
     "message": "Amodau Gwasanaeth"
   },
+  "popupSettingsReportIssue": {
+    "message": "Adrodd ar Anhawster"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Cyflwyno Adroddiad"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Rwy'n cael anawsterau gyda'r wefan hon"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Disgrifiad o'r anhawster"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Nid oedd yr arallenw wedi'i dderbyn gan y wefan"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Achosodd ychwanegyn Relay anhawster weledol gyda'r wefan",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Nid wyf wedi derbyn e-bost roeddwn yn ei ddisgwyl o'r wefan hon"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Arall"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Rhowch fanylion"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Croeso"
   },
