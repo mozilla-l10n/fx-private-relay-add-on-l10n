@@ -80,6 +80,19 @@
   "popupReportIssueCaseOne": {
     "message": "A máscara de email não foi aceita pelo site"
   },
+  "popupReportIssueCaseTwo": {
+    "message": "A extensão Relay causou um problema visual no site",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Não recebi deste site um email que eu estava esperando"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Outro"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Forneça detalhes"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Boas-vindas"
   },
