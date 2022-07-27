@@ -93,6 +93,16 @@
     "popupReportIssueCaseOtherDetails": {
         "message": "Please provide details"
     },
+    "popupReportIssueSuccessHeadline": {
+        "message": "Report Sent!"
+    },
+    "popupReportIssueSuccessBody": {
+        "message": "Thank you for helping us to improve Firefox Relay!",
+        "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+    },
+    "popupReportIssueSuccessContinue": {
+        "message": "Continue"
+    },
     "popupSignUpPanelWelcome": {
         "message": "Welcome"
     },
