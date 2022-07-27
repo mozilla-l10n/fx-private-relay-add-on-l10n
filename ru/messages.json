@@ -49,7 +49,7 @@
     "message": "Вернуться на главную панель"
   },
   "popupSettingsShowIcon": {
-    "message": "Показывать значок Relay в полях электронной почты на веб-сайтах",
+    "message": "Показывать значок Relay в полях для ввода электронной почты на веб-сайтах",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
