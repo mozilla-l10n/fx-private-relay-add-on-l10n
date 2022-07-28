@@ -65,6 +65,31 @@
   "popupSettingsTermsOfService": {
     "message": "Termini di servizio"
   },
+  "popupSettingsReportIssue": {
+    "message": "Segnala un problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Invia segnalazione"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Ho riscontrato problemi con questo sito web"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situazione del problema"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "L’alias email non è stato accettato dal sito web"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Segnalazione inviata."
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Grazie per averci aiutato a migliorare Firefox Relay.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Continua"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Ti diamo il benvenuto"
   },
