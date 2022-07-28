@@ -93,6 +93,16 @@
   "popupReportIssueCaseOtherDetails": {
     "message": "Adjon részletesebb információt"
   },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Jelentés elküldve!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Köszönjük, hogy segít nekünk a Firefox Relay tökéletesítésében!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Folytatás"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Üdvözöljük"
   },
