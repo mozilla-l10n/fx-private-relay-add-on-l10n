@@ -80,6 +80,16 @@
   "popupReportIssueCaseOne": {
     "message": "L’alias email non è stato accettato dal sito web"
   },
+  "popupReportIssueCaseTwo": {
+    "message": "Il componente aggiuntivo Relay ha causato un problema nella visualizzazione del sito web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Non ho ricevuto un’email che aspettavo da questo sito web"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Altro"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Segnalazione inviata."
   },
