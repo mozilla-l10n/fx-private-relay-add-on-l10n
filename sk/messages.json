@@ -65,6 +65,44 @@
   "popupSettingsTermsOfService": {
     "message": "Podmienky služby"
   },
+  "popupSettingsReportIssue": {
+    "message": "Nahlásiť problém"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Odoslať hlásenie"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Mám problém s touto stránkou"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situácia"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Webová stránka neprijala masku"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Doplnok Relay spôsobil vizuálne zmeny na stránke",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Očakávaný e-mail od tejto stránky neprišiel"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Iná"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Zadajte, prosím, viac informácií"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Hlásenie bolo odoslané!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Ďakujeme, že nám pomáhate zlepšovať Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Pokračovať"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Vitajte"
   },
