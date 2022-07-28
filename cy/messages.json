@@ -93,6 +93,16 @@
   "popupReportIssueCaseOtherDetails": {
     "message": "Rhowch fanylion"
   },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Adroddiad wedi'i Anfon!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Diolch am ein helpu i wella Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Parhau"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Croeso"
   },
