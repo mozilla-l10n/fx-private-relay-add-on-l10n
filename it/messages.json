@@ -90,6 +90,9 @@
   "popupReportIssueCaseOther": {
     "message": "Altro"
   },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Fornisci ulteriori dettagli"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Segnalazione inviata."
   },
