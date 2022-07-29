@@ -71,8 +71,20 @@
   "popupSettingsSubmitReport": {
     "message": "Envoyer un rapport"
   },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "J’ai des problèmes avec ce site web"
+  },
   "popupReportIssueCaseOther": {
     "message": "Autre"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Veuillez fournir des détails"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Rapport envoyé !"
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Continuer"
   },
   "popupSignUpPanelWelcome": {
     "message": "Bienvenue"
