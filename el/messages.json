@@ -65,8 +65,23 @@
   "popupSettingsTermsOfService": {
     "message": "Όροι υπηρεσίας"
   },
+  "popupSettingsReportIssue": {
+    "message": "Αναφορά ζητήματος"
+  },
   "popupSettingsSubmitReport": {
     "message": "Υποβολή αναφοράς"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Άλλο"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Η αναφορά απεστάλη!"
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Συνέχεια"
   },
   "popupSignUpPanelWelcome": {
     "message": "Καλώς ορίσατε"
