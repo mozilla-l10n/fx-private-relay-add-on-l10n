@@ -74,6 +74,9 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
   },
+  "popupReportIssueCaseOne": {
+    "message": "Η μάσκα email δεν έγινε αποδεκτή από τον ιστότοπο"
+  },
   "popupReportIssueCaseOther": {
     "message": "Άλλο"
   },
