@@ -65,6 +65,44 @@
   "popupSettingsTermsOfService": {
     "message": "Podmínky poskytování služby"
   },
+  "popupSettingsReportIssue": {
+    "message": "Nahlásit chybu"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Odeslat hlášení"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Mám problémy s touto webovou stránkou"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Popis situace"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Stránka e-mailovou masku odmítá přijmout"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Doplněk Relay způsobil na stránce problémy se zobrazením",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Očekávaná e-mailová zpráva z tohoto serveru nebyla doručena"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Jiná"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Vyplňte prosím další podrobnosti"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Hlášení odesláno"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Děkujeme, že nám pomáháte Firefox Relay vylepšovat.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Pokračovat"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Vítejte"
   },
