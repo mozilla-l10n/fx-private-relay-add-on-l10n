@@ -1,0 +1,51 @@
+{
+  "extensionDescription_mask": {
+    "message": "Firefox Relay を使用すると、本当の受信トレイに転送されるメールマスクを簡単に作成できます。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "allowDataCollection": {
+    "message": "データ収集を許可する",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "データ収集を無効にする",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "登録 / ログイン"
+  },
+  "popupSettingsTitle": {
+    "message": "設定"
+  },
+  "popupSettingsReturn": {
+    "message": "メインパネルに戻る"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "フィードバックを残す"
+  },
+  "popupSettingsPrivacy": {
+    "message": "プライバシー"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "利用規約"
+  },
+  "popupSettingsReportIssue": {
+    "message": "問題を報告する"
+  },
+  "labelManage": {
+    "message": "管理"
+  },
+  "labelSearch": {
+    "message": "検索"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "プライバシー通知を表示する"
+  }
+}
