@@ -1,4 +1,8 @@
 {
+  "extensionDescription_v1": {
+    "message": "Firefox Relay を使えば、実在する受信トレイに転送されるメールエイリアスを簡単に作成できます。",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescription_mask": {
     "message": "Firefox Relay を使用すると、本当の受信トレイに転送されるメールマスクを簡単に作成できます。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -6,6 +10,10 @@
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "firstRunP": {
+    "message": "Firefox Relay アドオンが正常にインストールされました。開始するには、Firefox アカウントで Relay にログインします。",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "allowDataCollection": {
     "message": "データ収集を許可する",
@@ -23,6 +31,14 @@
   },
   "popupSettingsReturn": {
     "message": "メインパネルに戻る"
+  },
+  "popupSettingsShowIcon": {
+    "message": "ウェブサイトのメールフィールドに Relay アイコンを表示する",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Mozilla が対話データを収集するのを許可する",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
     "message": "フィードバックを残す"
