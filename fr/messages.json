@@ -74,6 +74,13 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "J’ai des problèmes avec ce site web"
   },
+  "popupReportIssueCaseOne": {
+    "message": "L’alias de messagerie n’a pas été accepté par le site web"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Le module complémentaire Relay a provoqué un problème visuel avec le site web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupReportIssueCaseOther": {
     "message": "Autre"
   },
