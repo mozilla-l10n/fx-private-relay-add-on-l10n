@@ -52,11 +52,53 @@
   "popupSettingsReportIssue": {
     "message": "問題を報告する"
   },
+  "popupRemainingAliases_2_mask": {
+    "message": "残りのマスク数: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "無料で作れるマスク数:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "最近使用したメールマスク",
+    "description": "Label for list of most recently used masks."
+  },
+  "ManageAllAliases_mask": {
+    "message": "すべてのマスクを管理する"
+  },
   "labelManage": {
     "message": "管理"
   },
   "labelSearch": {
     "message": "検索"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "メールマスクで再ログイン"
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "新しいマスクを生成"
+  },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "既存のメールマスクから選択",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "最近使用したマスク"
+  },
+  "pageNoMasksRemaining": {
+    "message": "無料で作れるメールマスクはありません。",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "close": {
     "message": "閉じる"
