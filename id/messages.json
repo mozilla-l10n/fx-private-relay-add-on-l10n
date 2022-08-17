@@ -65,6 +65,44 @@
   "popupSettingsTermsOfService": {
     "message": "Persyaratan Layanan"
   },
+  "popupSettingsReportIssue": {
+    "message": "Laporkan Masalah"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Kirimkan Laporan"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Saya mengalami masalah dengan situs web ini"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situasi masalah"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Topeng surel tidak diterima oleh situs web"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Pengaya Relay menyebabkan masalah visual dengan situs web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Saya belum menerima surel dari situs web yang saya harapkan"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Lainnya"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Mohon berikan rincian"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Laporan Terkirim!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Terima kasih telah membantu kami meningkatkan Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Lanjutkan"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Selamat Datang"
   },
