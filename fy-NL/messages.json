@@ -65,6 +65,25 @@
   "popupSettingsTermsOfService": {
     "message": "Tsjinstbetingsten"
   },
+  "popupSettingsReportIssue": {
+    "message": "Probleem melde"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Rapport ferstjoere"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Ik haw problemen mei dizze website"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Probleemsituaasje"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "E-mailmasker waard net akseptearre troch de website"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay add-on feroarsake in fisueel probleem mei de website",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSignUpPanelWelcome": {
     "message": "Wolkom"
   },
