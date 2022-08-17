@@ -84,6 +84,25 @@
     "message": "Relay add-on feroarsake in fisueel probleem mei de website",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupReportIssueCaseThree": {
+    "message": "Ik haw gjin e-mailberjocht fan dizze website ûntfongen dy’t ik ferwachte"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Oars"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Jou details"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Rapport ferstjoerd!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Tank foar jo help by it ferbetterjen fan Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Trochgean"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Wolkom"
   },
