@@ -74,14 +74,31 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
   },
+  "popupReportIssueSituationHeadline": {
+    "message": "Κατάσταση ζητήματος"
+  },
   "popupReportIssueCaseOne": {
     "message": "Η μάσκα email δεν έγινε αποδεκτή από τον ιστότοπο"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Το πρόσθετο Relay προκάλεσε οπτικό ζήτημα στον ιστότοπο",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Δεν έχω λάβει κάποιο email που περίμενα από αυτόν τον ιστότοπο"
   },
   "popupReportIssueCaseOther": {
     "message": "Άλλο"
   },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Παρακαλούμε παραθέστε λεπτομέρειες"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Η αναφορά απεστάλη!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Σας ευχαριστούμε για τη συμβολή σας στη βελτίωση του Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
     "message": "Συνέχεια"
