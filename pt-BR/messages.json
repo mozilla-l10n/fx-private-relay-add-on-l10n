@@ -324,7 +324,7 @@
     "message": "Usar um endereço de redirecionamento existente neste site…"
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Usar uma máscara existente neste site…"
+    "message": "Usar máscara existente deste site…"
   },
   "pageInputIconRecentAliases": {
     "message": "Endereços de redirecionamento recentes"
