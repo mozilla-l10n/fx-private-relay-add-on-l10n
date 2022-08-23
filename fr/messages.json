@@ -81,6 +81,9 @@
     "message": "Le module complémentaire Relay a provoqué un problème visuel avec le site web",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupReportIssueCaseThree": {
+    "message": "Je n’ai pas reçu l’e-mail d’un site web auquel je m’attendais"
+  },
   "popupReportIssueCaseOther": {
     "message": "Autre"
   },
