@@ -74,6 +74,9 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "J’ai des problèmes avec ce site web"
   },
+  "popupReportIssueSituationHeadline": {
+    "message": "Description du problème"
+  },
   "popupReportIssueCaseOne": {
     "message": "L’alias de messagerie n’a pas été accepté par le site web"
   },
