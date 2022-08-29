@@ -257,19 +257,19 @@
     },
     "popupEndOfIntroPricingCountdownDays": {
         "message": "Days",
-        "description": "This label displayed on top of a large number representing the number of days of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+        "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
     },
     "popupEndOfIntroPricingCountdownHours": {
         "message": "Hours",
-        "description": "This label displayed on top of a large number representing the number of hours of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+        "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
     },
     "popupEndOfIntroPricingCountdownMinutes": {
         "message": "Min.",
-        "description": "This label displayed on top of a large number representing the number of minutes of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+        "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
     },
     "popupEndOfIntroPricingCountdownSeconds": {
         "message": "Sec.",
-        "description": "This label displayed on top of a large number representing the number of seconds of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+        "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
     },
     "popupCriticalEmailForwardingHeadline": {
         "message": "Critical email forwarding"
