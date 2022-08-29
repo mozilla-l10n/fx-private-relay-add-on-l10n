@@ -245,6 +245,32 @@
         "message": "Firefox Relay can now forward emails up to 25MB, including attachments.",
         "description": "DO NOT TRANSLATE \"Firefox Relay\"."
     },
+    "popupEndOfIntroPricingHeadline": {
+        "message": "Our intro pricing offer ends soon!"
+    },
+    "popupEndOfIntroPricingBody": {
+        "message": "Get Relay Premium before September 27th and enjoy unlimited masking at our introductory month-to-month price.",
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
+    },
+    "popupEndOfIntroPricingCTA": {
+        "message": "Upgrade now"
+    },
+    "popupEndOfIntroPricingCountdownDays": {
+        "message": "Days",
+        "description": "This label displayed on top of a large number representing the number of days of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+    },
+    "popupEndOfIntroPricingCountdownHours": {
+        "message": "Hours",
+        "description": "This label displayed on top of a large number representing the number of hours of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+    },
+    "popupEndOfIntroPricingCountdownMinuites": {
+        "message": "Min.",
+        "description": "This label displayed on top of a large number representing the number of minutes of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+    },
+    "popupEndOfIntroPricingCountdownSeconds": {
+        "message": "Sec.",
+        "description": "This label displayed on top of a large number representing the number of seconds of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+    },
     "popupCriticalEmailForwardingHeadline": {
         "message": "Critical email forwarding"
     },
