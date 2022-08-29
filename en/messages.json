@@ -263,7 +263,7 @@
         "message": "Hours",
         "description": "This label displayed on top of a large number representing the number of hours of the remaining time the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
     },
-    "popupEndOfIntroPricingCountdownMinuites": {
+    "popupEndOfIntroPricingCountdownMinutes": {
         "message": "Min.",
         "description": "This label displayed on top of a large number representing the number of minutes of the remaining time the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
     },
