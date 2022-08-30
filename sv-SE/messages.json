@@ -245,6 +245,17 @@
     "message": "Firefox Relay kan nu vidarebefordra e-postmeddelanden upp till 25 MB, inklusive bilagor.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Uppgradera nu"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "Dagar",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "Timmar",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kritisk vidarebefordran av e-post"
   },
