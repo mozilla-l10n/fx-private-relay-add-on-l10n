@@ -245,6 +245,13 @@
     "message": "Firefox Relay pote ora inultrar e-mails usque 25MB, includite annexos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Nostre offerta de compra introductive finira tosto!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Obtene Relay Premium ante le 27 de septembre e frue del uso illimitate de mascas per nostre precio mensual promotional.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "Promover ora"
   },
