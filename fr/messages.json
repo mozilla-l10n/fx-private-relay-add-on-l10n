@@ -245,6 +245,24 @@
     "message": "Firefox Relay peut désormais transférer des e-mails de 25 Mo, en tenant compte des pièces jointes.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Notre offre tarifaire de lancement se termine bientôt !"
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Mettre à niveau maintenant"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "jours",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "heures",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Transfert des e-mails critiques"
   },
