@@ -228,7 +228,7 @@
         "message": "Emails forwarded"
     },
     "popupEmailTrackersRemoved": {
-        "message": "Emails trackers removed"
+        "message": "Email trackers removed"
     },
     "popupUpgradeToPremiumBanner": {
         "message": "Upgrade to Relay Premium for more protection!",
