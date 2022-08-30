@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "Переслані електронні листи"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Елементи стеження електронної пошти вилучені"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Передплатіть Relay Premium для додаткового захисту!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
