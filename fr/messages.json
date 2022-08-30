@@ -263,6 +263,10 @@
     "message": "min.",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "s",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Transfert des e-mails critiques"
   },
