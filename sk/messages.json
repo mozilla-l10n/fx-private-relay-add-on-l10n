@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "Presmerované e-maily"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Odstránené sledovacie prvky"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Inovujte na Relay Premium pre ešte väčšiu ochranu!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
