@@ -245,6 +245,13 @@
     "message": "Firefox Relay kan nu e-mailberichten tot 25 MB doorsturen, inclusief bijlagen.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Onze introductieprijsaanbieding loopt binnenkort af!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Abonneer u vóór 27 september op Relay Premium en geniet van onbeperkt maskeren tegen onze introductieprijs voor een maandabonnement.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "Nu upgraden"
   },
