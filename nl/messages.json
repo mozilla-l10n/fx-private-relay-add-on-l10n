@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "E-mailberichten doorgestuurd"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "E-mailtrackers verwijderd"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Upgrade naar Relay Premium voor meer bescherming!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
