@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "E-postmeddelanden vidarebefordrade"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Borttagna e-postspårare"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Uppgradera till Relay Premium för mer skydd!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -245,6 +248,13 @@
     "message": "Firefox Relay kan nu vidarebefordra e-postmeddelanden upp till 25 MB, inklusive bilagor.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Vårt intropriserbjudande upphör snart!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Uppgradera till Relay Premium före den 27 september och njut av ett obegränsat antal alias till vårt månatliga introduktionspris.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "Uppgradera nu"
   },
@@ -255,6 +265,14 @@
   "popupEndOfIntroPricingCountdownHours": {
     "message": "Timmar",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "Min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "Sek.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kritisk vidarebefordran av e-post"
