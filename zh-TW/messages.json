@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "封信已轉寄"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "郵件追蹤器移除數量"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "升級到 Relay Premium 版，獲得更多保護！",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
