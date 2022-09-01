@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "E-byst wedi'u hanfon ymlaen"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Tracwyr e-bost wedi'u tynnu"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Uwchraddiwch i Relay Premium am fwy o ddiogelwch!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -244,6 +247,32 @@
   "popupAttachmentSizeIncreaseBody": {
     "message": "Gall Firefox Relay nawr anfon ymlaen e-byst hyd at 25MB, gan gynnwys atodiadau.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Mae ein cynnig prisio agoriadol yn dod i ben cyn bo hir!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Cymrwch Relay Premium cyn Medi 27ain a mwynhewch arallenwau diderfyn am ein pris rhagarweiniol o fis i fis.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Uwchraddiwch nawr"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "Diwrnod",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "Awr",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "Mun.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "Eil.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Anfon ymlaen e-bost hollbwysig"
