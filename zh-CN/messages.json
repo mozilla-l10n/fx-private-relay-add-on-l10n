@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "封邮件已转发"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "邮件跟踪器移除数量"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "升级为 Relay Premium 版，获得更多保护！",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -244,6 +247,32 @@
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay 现在可转发最大 25MB（含附件）的邮件。",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "优惠价即将结束！"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "9 月 27 日前订阅 Relay Premium，可享优惠价。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "立即升级"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "天",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "小时",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "分",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "秒",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "转发重要邮件"
