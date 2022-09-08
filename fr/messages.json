@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "Messages transférés"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Traqueurs supprimés dans des e-mails"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Passez à Relay Premium pour plus de protection !",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -247,6 +250,10 @@
   },
   "popupEndOfIntroPricingHeadline": {
     "message": "Notre offre tarifaire de lancement se termine bientôt !"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Souscrivez à Relay Premium avant le 27 septembre et profitez d’un nombre illimité d’alias de messagerie à un prix promotionnel pour l’arrivée du paiement mensuel.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
     "message": "Mettre à niveau maintenant"
