@@ -1,1 +1,39 @@
-{}
+{
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "firstRunP": {
+    "message": "Du har installeret Firefox Relay-tilføjelsen. For at komme i gang skal du logge ind på Relay med din Firefox-konto.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Tillad Mozilla at indsamle oplysninger om, hvordan du bruger denne udvidelse.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Tillad dataindsamling",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Deaktiver dataindsamling",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Indsamling af interaktionsdata, når du gør ting som at klikke på Relay-ikonet på din værktøjslinje eller oprette et nyt alias, hjælper os med at lære, hvad der fungerer godt, og hvor vi kan forbedre os. Du kan altid slå dette fra i panelet Indstillinger.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Indsamling af interaktionsdata, når du gør ting som at klikke på Relay-ikonet på din værktøjslinje eller oprette en ny maske, hjælper os med at lære, hvad der fungerer godt, og hvor vi kan forbedre os. Du kan altid slå dette fra i panelet Indstillinger.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunSignInButton": {
+    "message": "Tilmeld dig / log ind"
+  },
+  "popupSettingsTitle": {
+    "message": "Indstillinger"
+  },
+  "popupSettingsReturn": {
+    "message": "Vend tilbage til hovedpanelet"
+  }
+}
