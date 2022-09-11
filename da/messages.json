@@ -35,5 +35,24 @@
   },
   "popupSettingsReturn": {
     "message": "Vend tilbage til hovedpanelet"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Velkommen"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Fortsæt"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Vis forrige panel"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Gå til næste panel"
+  },
+  "labelSearch": {
+    "message": "Søg"
+  },
+  "labelFromThisWebsite": {
+    "message": "Fra dette websted",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   }
 }
