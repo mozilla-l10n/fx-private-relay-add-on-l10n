@@ -298,6 +298,9 @@
     "message": "Con Relay Premium, tu pote blocar e-mails promotional de attinger tu cassa de ingresso durante que ancora te es permittite reciper e-mails como quitantias o informationes de expedition.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Promover ora"
+  },
   "popupSignBackInHeadline": {
     "message": "Re-accesso per proprie aliases"
   },
