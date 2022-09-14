@@ -298,6 +298,34 @@
     "message": "Με το Relay Premium, μπορείτε να αποκλείσετε τα διαφημιστικά email από τα εισερχόμενά σας, ενώ επιτρέπεται ακόμα η λήψη email, όπως αποδείξεις ή στοιχεία αποστολής.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "Προσθέστε το Mozilla VPN με έκπτωση $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "Πακέτο 1 έτους που περιλαμβάνει τα Relay Premium + Mozilla VPN με $MONTHLY_PRICE$/μήνα.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Απόκτηση των VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Παρουσίαση της μάσκας αριθμού τηλεφώνου"
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Αναβάθμιση τώρα"
+  },
   "popupSignBackInHeadline": {
     "message": "Συνδεθείτε ξανά με τα ψευδώνυμά σας"
   },
