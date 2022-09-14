@@ -298,6 +298,37 @@
         "message": "With Relay Premium, you can block promotional emails from reaching your inbox while still allowing you to receive emails like receipts or shipping information.",
         "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
+    "popupBundlePromoHeadline": {
+        "message": "Add Mozilla VPN at $SAVINGS$ off.",
+        "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+        "placeholders": {
+            "savings": {
+                "content": "50%"
+            }
+        }
+    },
+    "popupBundlePromoBody": {
+        "message": "1 year plan including Relay Premium + Mozilla VPN for $MONTHLY_PRICE$/month.",
+        "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+        "placeholders": {
+            "monthly_price": {
+                "content": "$4.99"
+            }
+        }
+    },
+    "popupBundlePromoCTA": {
+        "message": "Get VPN + Relay",
+        "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+    },
+    "popupPhoneMaskingPromoHeadline": {
+        "message": "Introducing phone number masking"
+    },
+    "popupPhoneMaskingPromoBody": {
+        "message": "With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number."
+    },
+    "popupPhoneMaskingPromoCTA": {
+        "message": "Upgrade now"
+    },
     "popupSignBackInHeadline": {
         "message": "Sign back in with your aliases"
     },
