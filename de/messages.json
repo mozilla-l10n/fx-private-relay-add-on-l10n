@@ -298,6 +298,37 @@
     "message": "Mit Relay Premium können Sie verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen, während Sie weiterhin E-Mails wie Quittungen oder Versandinformationen erhalten.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "Holen Sie sich auch Mozilla VPN und sparen Sie $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "1-Jahres-Plan mit Relay Premium + Mozilla VPN für $MONTHLY_PRICE$/Monat.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Holen Sie sich VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Einführung von Masken für Telefonnummern"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Mit der Telefonnummernmaskierung können Sie jetzt eine Telefonnummernmaske erstellen, mit der Sie SMS und Anrufe erhalten können, ohne Ihre wahre Nummer preiszugeben."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Jetzt upgraden"
+  },
   "popupSignBackInHeadline": {
     "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
   },
