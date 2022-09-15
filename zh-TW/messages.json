@@ -298,6 +298,13 @@
     "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoCTA": {
+    "message": "下載 VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "立刻升級"
+  },
   "popupSignBackInHeadline": {
     "message": "使用您的別名信箱登入網站"
   },
