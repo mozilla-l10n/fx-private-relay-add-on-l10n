@@ -237,11 +237,24 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Opgradér nu"
   },
+  "popupSignBackInHeadline": {
+    "message": "Log ind igen med dine aliasser"
+  },
   "popupSignBackInHeadline_mask": {
     "message": "Log ind igen med dine mail-masker"
   },
+  "popupSignBackInBody": {
+    "message": "For at oprette et nyt alias, når du bliver bedt om din e-mail, skal du åbne kontekstmenuen (højreklik eller kontrol-klik) i et e-mail-felt. Derfra kan du oprette og bruge et nyt alias med det samme."
+  },
   "popupSignBackInBody_mask_v2": {
     "message": "For at oprette en ny mail-maske, når du bliver bedt om din mailadresse, skal du åbne genvejsmenuen (højreklik eller kontrol-klik) i et mail-felt. Derfra kan du oprette og bruge en ny maske med det samme."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Gå til Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Generer nyt alias"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Vælg mellem dine nuværende mail-masker",
@@ -255,18 +268,67 @@
     "message": "Tidligere brugt på dette websted",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Få ubegrænsede aliaser"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Få ubegrænsede masker"
+  },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Brug eksisterende alias fra dette websted..."
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Seneste aliaser"
+  },
   "pageInputIconRecentAliases_mask": {
     "message": "Seneste masker"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Du har allerede oprettet det maksimale antal aliaser",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Du har allerede oprettet det maksimale antal masker",
+    "description": "Tells the user they have already created the max number of masks."
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Du har nået aliasgrænsen."
   },
   "pageNoMasksRemaining": {
     "message": "Du har ikke flere gratis mail-masker.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Tilføj kontonavn",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
+  "close": {
+    "message": "Luk"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Aktiver nye funktioner"
+  },
+  "popupDataCollectionBody": {
+    "message": "Du kan give Relay tilladelse til at indsamle valgfri data, der gør det muligt for os at synkronisere dine aliasetiketter på tværs af dine enheder med de websteder, hvor de er oprettet og brugt.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Læs mere"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Afvis"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Tillad"
   },
   "popupPrivacyNoticeUpdateBody": {
     "message": "For at forbedre pålideligheden af Firefox Relay i tilfælde af, at en mail ikke kan leveres, vil vi midlertidigt gemme mailen på vores servere, indtil den er blevet leveret. Vi vil aldrig gemme den i mere end tre dage.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Vis privatlivspolitik"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Afvis"
   }
 }
