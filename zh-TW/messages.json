@@ -298,9 +298,30 @@
     "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "以 $SAVINGS$ 折扣獲得 Mozilla VPN。",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "包含 Relay Premium + Mozilla VPN 的一年方案，僅需每月 $MONTHLY_PRICE$。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "下載 VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "推出手機號碼轉接功能"
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "立刻升級"
