@@ -346,6 +346,9 @@
     "popupPhoneMaskingPromoBody": {
         "message": "With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number."
     },
+    "popupPhoneMaskingPromoBodyFreePlan": {
+        "message": "Get texts and calls without revealing your true number."
+    },
     "popupPhoneMaskingPromoCTA": {
         "message": "Upgrade now"
     },
