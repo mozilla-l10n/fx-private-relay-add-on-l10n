@@ -298,12 +298,35 @@
     "message": "Con Relay Premium, tu pote blocar e-mails promotional de attinger tu cassa de ingresso durante que ancora te es permittite reciper e-mails como quitantias o informationes de expedition.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Adde Mozilla VPN con un reduction de $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Plano de un anno includite Relay Premium + Mozilla VPN pro $MONTHLY_PRICE$/month.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Discargamento de VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
     "message": "Introduction al mascas del numero telephonic"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Disguisante le numero de telephono, ora tu pote crea un masca del numero de telephono que te adjuta a reciper textos e appellos sin revelar tu ver numero."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Promover ora"
