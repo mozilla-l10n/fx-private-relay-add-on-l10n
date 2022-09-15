@@ -298,6 +298,60 @@
     "message": "Med Relay Premium kan du blockera reklammeddelanden från att nå din inkorg samtidigt som du kan ta emot e-postmeddelanden som kvitton eller leveransinformation.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Lägg till Mozilla VPN för $SAVINGS$ rabatt.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "1-års plan inklusive Relay Premium + Mozilla VPN för $MONTHLY_PRICE$/månad.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Vi presenterar: Relay + VPN-prenumerationsplan",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Uppgradera ditt abonnemang för att få både Relay Premium + Mozilla VPN för $MONTHLY_PRICE$/månad. Spara $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Skaffa VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Vi introducerar maskering av telefonnummer"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Med telefonnummeralias kan du nu skapa ett telefonnummeralias som hjälper dig att få sms och samtal utan att avslöja ditt verkliga nummer."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Få sms och samtal utan att avslöja ditt verkliga nummer."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Uppgradera nu"
+  },
   "popupSignBackInHeadline": {
     "message": "Logga in igen med dina alias"
   },
