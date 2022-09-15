@@ -298,6 +298,37 @@
     "message": "Met Relay Premium kunt uw voorkomen dat reclameberichten uw Postvak IN bereiken, terwijl u nog steeds e-mailberichten zoals ontvangstbevestigingen of verzendinformatie ontvangt.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "Voeg Mozilla VPN toe met $SAVINGS$ korting.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "Jaarabonnement met Relay Premium + Mozilla VPN voor $MONTHLY_PRICE$/maand.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "VPN + Relay downloaden",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Nieuw: telefoonnummermaskering"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Met telefoonnummermaskering kunt u nu een telefoonnummermasker aanmaken dat u helpt sms’jes en oproepen te ontvangen zonder uw echte nummer prijs te geven."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Nu upgraden"
+  },
   "popupSignBackInHeadline": {
     "message": "Opnieuw aanmelden met uw maskers"
   },
