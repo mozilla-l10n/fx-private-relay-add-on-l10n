@@ -298,6 +298,37 @@
     "message": "So službou Relay Premium môžete blokovať doručenie marketingových e-mailov do vašej doručenej pošty, a zároveň prijímať e-maily, ako sú potvrdenia o prečítaní či informácie o dodaní vašich objednávok.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "Pridajte si Mozilla VPN so zľavou $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "1-ročný plán vrátane Relay Premium + Mozilla VPN za $MONTHLY_PRICE$/mesiac.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Získajte VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Predstavujeme maskovanie telefónneho čísla"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Pomocou maskovania telefónneho čísla si teraz môžete vytvoriť masku telefónneho čísla, ktorá vám pomôže prijímať textové správy a hovory bez toho, aby ste odhalili svoje skutočné číslo."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Inovovať teraz"
+  },
   "popupSignBackInHeadline": {
     "message": "Znova sa prihláste pomocou svojich aliasov"
   },
