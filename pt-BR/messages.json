@@ -298,6 +298,37 @@
     "message": "Com o Relay Premium, você pode impedir que emails promocionais cheguem à sua caixa de entrada, mas permitir receber emails como recibos ou informações de frete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline": {
+    "message": "Adicione o Mozilla VPN com $SAVINGS$ de desconto.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "placeholders": {
+      "savings": {
+        "content": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody": {
+    "message": "Plano de 1 ano, incluindo Relay Premium + Mozilla VPN por $MONTHLY_PRICE$/mês.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Tenha VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Apresentando o mascaramento de número de telefone"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Com o mascaramento de número de telefone, agora você pode criar uma máscara de número de telefone que ajuda a receber mensagens de texto e chamadas sem revelar seu número verdadeiro."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Mude agora"
+  },
   "popupSignBackInHeadline": {
     "message": "Cadastre-se novamente com seus endereços de redirecionamento"
   },
