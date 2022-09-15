@@ -7,6 +7,10 @@
     "message": "Firefox Relay gør det nemt at oprette mail-masker, der videresender til din rigtige indbakke.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay hjælper dig med at beskytte din rigtige mailadresse - den, der er tættest knyttet til din online identitet. Tjenesten lader dig oprette unikke, tilfældige aliasser, du kan bruge til at tilmelde dig konti, apps eller nyhedsbreve - og videresender så beskeder til din rigtige adresse. Hvis du opdager, at en konto sender uønskede mails eller spam, kan du blokere aliasset, og tjenesten vil stoppe med at sende mails til din indbakke. Når du ikke længere vil have en konto, kan du slette aliasset.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
@@ -47,6 +51,10 @@
   "popupSettingsShowIcon": {
     "message": "Vis Relay-ikonet i mail-felter på websider",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Tillad Mozilla at indsamle interaktionsdata",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
     "message": "Indsend feedback"
@@ -276,6 +284,9 @@
   "popupCriticalEmailForwardingBody_mask": {
     "message": "Relay Premium giver dig mulighed for kun at modtage vigtige mails sendt til en maske. Du modtager mails som fx kvitteringer, men ikke marketing-mails.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Bloker reklamemails"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivér Bloker reklamemails på et alias for at forhindre, at marketingmails når din indbakke."
