@@ -40,6 +40,12 @@
     "message": "Vis Relay-ikonet i mail-felter på websider",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupSettingsLeaveFeedback": {
+    "message": "Indsend feedback"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privatlivsbeskyttelse"
+  },
   "popupSettingsTermsOfService": {
     "message": "Servicevilkår"
   },
@@ -52,12 +58,18 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "Jeg har problemer med dette websted"
   },
+  "popupReportIssueSituationHeadline": {
+    "message": "Beskrivelse af problemet"
+  },
   "popupReportIssueCaseOne": {
     "message": "Mail-maske blev ikke accepteret af webstedet"
   },
   "popupReportIssueCaseTwo": {
     "message": "Relay-tilføjelsen forårsagede et visuelt problem med webstedet",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Jeg har ikke modtaget en mail fra webstedet, som jeg forventede"
   },
   "popupReportIssueCaseOther": {
     "message": "Andet"
@@ -103,9 +115,21 @@
       }
     }
   },
+  "popupRemainingFreeMasks": {
+    "message": "Resterende gratis mail-masker:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
   "popupRecentlyUsedMasks": {
     "message": "Senest brugte mail-masker",
     "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Få ubegrænsede mail-masker"
   },
   "popupGetUnlimitedAliases_mask": {
     "message": "Få ubegrænsede masker"
@@ -154,9 +178,25 @@
     "message": "Alle mail-masker",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Sådan dér!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Du er en Firefox Relay superbruger!",
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupRegisterDomainHeadline": {
     "message": "Få et tilpasset domæne til Relay-mailaliasser",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Registrer mail-domæne"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "Registrer mail-subdomæne"
+  },
+  "popupAliasesUsed": {
+    "message": "Mail-aliasser brugt"
   },
   "popupAliasesUsed_mask": {
     "message": "Mail-masker brugt"
@@ -209,6 +249,9 @@
   "popupEndOfIntroPricingCountdownSeconds": {
     "message": "sek.",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Videresendelse af vigtige mails"
   },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivér Bloker reklamemails på et alias for at forhindre, at marketingmails når din indbakke."
