@@ -1,4 +1,12 @@
 {
+  "extensionDescription_v1": {
+    "message": "Firefox Relay gør det nemt at oprette mail-aliaser, der videresendes til din rigtige indbakke.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relay gør det nemt at oprette mail-masker, der videresender til din rigtige indbakke.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
@@ -189,6 +197,10 @@
     "message": "Få et tilpasset domæne til Relay-mailaliasser",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Få et tilpasset subdomæne til Relay-mail-masker",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Registrer mail-domæne"
   },
@@ -231,6 +243,10 @@
   "popupEndOfIntroPricingHeadline": {
     "message": "Vores introduktionstilbud slutter snart!"
   },
+  "popupEndOfIntroPricingBody": {
+    "message": "Få Relay Premium inden den 27. september og få ubegrænset maskering til vores introduktionspris, der betales månedligt.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "Opgradér nu"
   },
@@ -253,6 +269,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Videresendelse af vigtige mails"
   },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium giver dig mulighed for kun at modtage vigtige mails sendt til en maske. Du modtager mails som fx kvitteringer, men ikke marketing-mails.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium giver dig mulighed for kun at modtage vigtige mails sendt til en maske. Du modtager mails som fx kvitteringer, men ikke marketing-mails.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBlockPromotionalEmailsBody": {
     "message": "Aktivér Bloker reklamemails på et alias for at forhindre, at marketingmails når din indbakke."
   },
@@ -273,9 +297,25 @@
       }
     }
   },
+  "popupBundlePromoBody_2": {
+    "message": "Planen på 1 år inkluderer Relay Premium og Mozilla VPN for $MONTHLY_PRICE$ per måned.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Få VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Nyt: Maskering af telefonnummer"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Med maskering af telefonnummer kan du oprette en telefonnummer-maske, der hjælper dig med at modtage SMS-beskeder og opkald - uden at afsløre din rigtige telefonnummer."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Opgradér nu"
@@ -292,12 +332,22 @@
   "popupSignBackInBody_mask_v2": {
     "message": "For at oprette en ny mail-maske, når du bliver bedt om din mailadresse, skal du åbne genvejsmenuen (højreklik eller kontrol-klik) i et mail-felt. Derfra kan du oprette og bruge en ny maske med det samme."
   },
+  "pageInputIconSignUpText": {
+    "message": "Besøg Firefox Relays websted for at logge ind eller oprette en konto.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpButton": {
     "message": "Gå til Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
     "message": "Generer nyt alias"
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Opret ny maske"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Opret ny tilfældig maske"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Vælg mellem dine nuværende mail-masker",
@@ -317,8 +367,15 @@
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Få ubegrænsede masker"
   },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Tilmeld dig Premium-venteliste",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
   "pageInputIconUseExistingAliasFromTheSite": {
     "message": "Brug eksisterende alias fra dette websted..."
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Brug eksisterende maske fra dette websted…"
   },
   "pageInputIconRecentAliases": {
     "message": "Seneste aliaser"
@@ -337,9 +394,22 @@
   "pageFillRelayAddressLimit": {
     "message": "Du har nået aliasgrænsen."
   },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Du har nået grænsen for antal masker."
+  },
   "pageNoMasksRemaining": {
     "message": "Du har ikke flere gratis mail-masker.",
     "description": "Error message that appears when a free tier user uses all of their masks."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Tegn ikke tilladt: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Tilføj kontonavn",
@@ -363,6 +433,9 @@
   },
   "popupDataCollectionButtonAllow": {
     "message": "Tillad"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Opdatering af privatlivspolitik"
   },
   "popupPrivacyNoticeUpdateBody": {
     "message": "For at forbedre pålideligheden af Firefox Relay i tilfælde af, at en mail ikke kan leveres, vil vi midlertidigt gemme mailen på vores servere, indtil den er blevet leveret. Vi vil aldrig gemme den i mere end tre dage.",
