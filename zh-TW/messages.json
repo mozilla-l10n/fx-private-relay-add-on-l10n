@@ -323,6 +323,9 @@
   "popupPhoneMaskingPromoHeadline": {
     "message": "推出手機號碼轉接功能"
   },
+  "popupPhoneMaskingPromoBody": {
+    "message": "透過手機號碼轉接功能，您可以建立一組虛擬手機號碼，將來電與簡訊轉接到您的實際號碼。"
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "立刻升級"
   },
