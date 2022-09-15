@@ -320,7 +320,7 @@
     },
     "popupBundlePromoHeadlineFreePlan": {
         "message": "Introducing: Relay + VPN subscription plan",
-        "description" : "\"Relay\" and \"VPN\"."
+        "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
     },
     "popupBundlePromoBodyFreePlan": {
         "message": "Upgrade your subscription to get both Relay Premium + Mozilla VPN for $MONTHLY_PRICE$/month. Save $SAVINGS$!",
