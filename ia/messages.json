@@ -318,6 +318,24 @@
       }
     }
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Introducente: plano de abonamento Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Promove tu abonamento pro haber ambe Relay Premium + Mozilla VPN pro $MONTHLY_PRICE$/mense. Sparnia $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Discargamento de VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
@@ -327,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Disguisante le numero de telephono, ora tu pote crea un masca del numero de telephono que te adjuta a reciper textos e appellos sin revelar tu ver numero."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Obtene textos e appellos sin revelar tu ver numero."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Promover ora"
