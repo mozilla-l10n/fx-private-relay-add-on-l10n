@@ -298,21 +298,23 @@
     "message": "Mit Relay Premium können Sie verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen, während Sie weiterhin E-Mails wie Quittungen oder Versandinformationen erhalten.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBundlePromoHeadline": {
+  "popupBundlePromoHeadline_2": {
     "message": "Holen Sie sich auch Mozilla VPN und sparen Sie $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
-        "content": "50%"
+        "content": "$1",
+        "example": "50%"
       }
     }
   },
-  "popupBundlePromoBody": {
+  "popupBundlePromoBody_2": {
     "message": "1-Jahres-Plan mit Relay Premium + Mozilla VPN für $MONTHLY_PRICE$/Monat.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
-        "content": "$4.99"
+        "content": "$1",
+        "example": "$4.99"
       }
     }
   },
