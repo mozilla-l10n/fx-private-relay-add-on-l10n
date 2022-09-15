@@ -40,6 +40,9 @@
     "message": "Vis Relay-ikonet i mail-felter på websider",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
+  "popupSettingsTermsOfService": {
+    "message": "Servicevilkår"
+  },
   "popupSettingsReportIssue": {
     "message": "Rapportér problem"
   },
@@ -75,18 +78,70 @@
   "popupSignUpPanelWelcome": {
     "message": "Velkommen"
   },
+  "popupSignUpPanelIntro": {
+    "message": "Kom i gang ved at logge ind på Relay med din Firefox-konto.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
   "popupSignUpPanelContinue": {
     "message": "Fortsæt"
+  },
+  "popupRemainingAliases_2": {
+    "message": "Resterende aliaser: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingAliases_2_mask": {
+    "message": "Resterende masker: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
   },
   "popupRecentlyUsedMasks": {
     "message": "Senest brugte mail-masker",
     "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Få ubegrænsede masker"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Aliaser oprettet: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Masker oprettet: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Vis forrige panel"
   },
   "popupOnboardingShowNext": {
     "message": "Gå til næste panel"
+  },
+  "ManageAllAliases": {
+    "message": "Administrer alle aliaser"
+  },
+  "ManageAllAliases_mask": {
+    "message": "Administrer alle masker"
+  },
+  "labelManage": {
+    "message": "Administrer"
   },
   "labelSearch": {
     "message": "Søg"
@@ -98,6 +153,10 @@
   "labelAllEmailMasks": {
     "message": "Alle mail-masker",
     "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupRegisterDomainHeadline": {
+    "message": "Få et tilpasset domæne til Relay-mailaliasser",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
     "message": "Mail-masker brugt"
@@ -114,6 +173,9 @@
   "popupUpgradeToPremiumBanner": {
     "message": "Opgradér til Relay Premium for mere beskyttelse!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Et verdensomspændende beskyttelsesværktøj"
   },
   "popupEducationalComponent1Body": {
     "message": "Relay kan hjælpe dig med at beskytte din mailadresse, uanset hvor du er.",
@@ -147,5 +209,64 @@
   "popupEndOfIntroPricingCountdownSeconds": {
     "message": "sek.",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Aktivér Bloker reklamemails på et alias for at forhindre, at marketingmails når din indbakke."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Aktivér Bloker reklamemails på en maske for at forhindre, at marketingmails når din indbakke."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Med Relay Premium kan du forhindre reklamemails i at nå din indbakke, men stadig modtage mails som fx kvitteringer eller forsendelsesoplysninger.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBundlePromoHeadline_2": {
+    "message": "Tilføj Mozilla VPN og få $SAVINGS$ i rabat.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Få VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Opgradér nu"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "Log ind igen med dine mail-masker"
+  },
+  "popupSignBackInBody_mask_v2": {
+    "message": "For at oprette en ny mail-maske, når du bliver bedt om din mailadresse, skal du åbne genvejsmenuen (højreklik eller kontrol-klik) i et mail-felt. Derfra kan du oprette og bruge en ny maske med det samme."
+  },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Vælg mellem dine nuværende mail-masker",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Yderligere mail-masker",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Tidligere brugt på dette websted",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Seneste masker"
+  },
+  "pageNoMasksRemaining": {
+    "message": "Du har ikke flere gratis mail-masker.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Læs mere"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "For at forbedre pålideligheden af Firefox Relay i tilfælde af, at en mail ikke kan leveres, vil vi midlertidigt gemme mailen på vores servere, indtil den er blevet leveret. Vi vil aldrig gemme den i mere end tre dage.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   }
 }
