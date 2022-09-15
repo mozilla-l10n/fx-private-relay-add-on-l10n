@@ -425,6 +425,10 @@
     "message": "Du kan give Relay tilladelse til at indsamle valgfri data, der gør det muligt for os at synkronisere dine aliasetiketter på tværs af dine enheder med de websteder, hvor de er oprettet og brugt.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupDataCollectionBody_mask": {
+    "message": "Du kan give Relay tilladelse til at indsamle valgfri data, der giver os mulighed for at synkronisere dine maske-etiketter på tværs af dine enheder med de websteder, hvor de er oprettet og brugt.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Læs mere"
   },
