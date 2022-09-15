@@ -36,11 +36,51 @@
   "popupSettingsReturn": {
     "message": "Vend tilbage til hovedpanelet"
   },
+  "popupSettingsShowIcon": {
+    "message": "Vis Relay-ikonet i mail-felter på websider",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsReportIssue": {
+    "message": "Rapportér problem"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Indsend rapport"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Jeg har problemer med dette websted"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Mail-maske blev ikke accepteret af webstedet"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay-tilføjelsen forårsagede et visuelt problem med webstedet",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Andet"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Angiv detaljer"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Rapport sendt!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Tak fordi du hjælper os med at forbedre Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Fortsæt"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Velkommen"
   },
   "popupSignUpPanelContinue": {
     "message": "Fortsæt"
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Senest brugte mail-masker",
+    "description": "Label for list of most recently used masks."
   },
   "popupOnboardingShowPrevious": {
     "message": "Vis forrige panel"
@@ -54,5 +94,58 @@
   "labelFromThisWebsite": {
     "message": "Fra dette websted",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Alle mail-masker",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Mail-masker brugt"
+  },
+  "popupEmailsBlocked": {
+    "message": "Mails blokeret"
+  },
+  "popupEmailsForwarded": {
+    "message": "Mails videresendt"
+  },
+  "popupEmailTrackersRemoved": {
+    "message": "Sporings-mekanismer i mail fjernet"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Opgradér til Relay Premium for mere beskyttelse!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay kan hjælpe dig med at beskytte din mailadresse, uanset hvor du er.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Størrelsen på vedhæftede filer forøget"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay kan nu videresende mails på op til 25 MB, inklusive vedhæftede filer.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Vores introduktionstilbud slutter snart!"
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Opgradér nu"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "dage",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "timer",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "sek.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   }
 }
