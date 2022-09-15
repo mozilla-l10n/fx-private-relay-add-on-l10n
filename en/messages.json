@@ -343,10 +343,10 @@
     "popupPhoneMaskingPromoHeadline": {
         "message": "Introducing phone number masking"
     },
-    "popupPhoneMaskingPromoBodyFreePlan": {
+    "popupPhoneMaskingPromoBody": {
         "message": "With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number."
     },
-    "popupPhoneMaskingPromoBody": {
+    "popupPhoneMaskingPromoBodyPremium": {
         "message": "Get texts and calls without revealing your true number."
     },
     "popupPhoneMaskingPromoCTA": {
