@@ -318,6 +318,24 @@
       }
     }
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Παρουσιάζουμε: Πακέτο συνδρομής Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Αναβαθμίστε τη συνδρομή σας για να αποκτήσετε τα Relay Premium + Mozilla VPN με $MONTHLY_PRICE$/μήνα. Εξοικονομήστε $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Απόκτηση των VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
@@ -327,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Με τη μάσκα αριθμού τηλεφώνου, μπορείτε πλέον να κρύβετε έναν αριθμό τηλεφώνου και να λαμβάνετε μηνύματα και κλήσεις χωρίς να αποκαλυφθεί ο πραγματικός σας αριθμός."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Λάβετε μηνύματα και κλήσεις χωρίς να αποκαλύπτετε τον πραγματικό σας αριθμό."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Αναβάθμιση τώρα"
