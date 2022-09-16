@@ -298,21 +298,41 @@
     "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBundlePromoHeadline": {
+  "popupBundlePromoHeadline_2": {
     "message": "以 $SAVINGS$ 折扣獲得 Mozilla VPN。",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
-        "content": "50%"
+        "content": "$1",
+        "example": "50%"
       }
     }
   },
-  "popupBundlePromoBody": {
+  "popupBundlePromoBody_2": {
     "message": "包含 Relay Premium + Mozilla VPN 的一年方案，僅需每月 $MONTHLY_PRICE$。",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
-        "content": "$4.99"
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "向您介紹：Relay + VPN 訂閱方案",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "升級訂閱內容，只要每月 $MONTHLY_PRICE$ 即可一次獲得 Relay Premium + Mozilla VPN。可省下 $SAVINGS$！",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
       }
     }
   },
@@ -325,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "透過手機號碼轉接功能，您可以建立一組虛擬手機號碼，將來電與簡訊轉接到您的實際號碼。"
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "不需提供您的實際號碼，即可接聽電話與接收簡訊。"
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "立刻升級"
