@@ -298,6 +298,15 @@
     "message": "Con Relay Premium, puedes bloquear los correos electrónicos promocionales para que no lleguen a tu bandeja de entrada y aún te permita recibir correos electrónicos como recibos o información de envío.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Presentamos el enmascaramiento de números de teléfono"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Con el enmascaramiento de número de teléfono, ahora puedes crear un número de teléfono enmascarado que ayuda a que recibas textos y llamadas sin revelar tu número verdadero."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Recibe mensajes de texto y llamadas sin revelar tu verdadero número."
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "Actualizar ahora"
   },
