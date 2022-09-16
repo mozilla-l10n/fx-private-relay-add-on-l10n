@@ -298,21 +298,41 @@
     "message": "Com o Relay Premium, você pode impedir que emails promocionais cheguem à sua caixa de entrada, mas permitir receber emails como recibos ou informações de frete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBundlePromoHeadline": {
+  "popupBundlePromoHeadline_2": {
     "message": "Adicione o Mozilla VPN com $SAVINGS$ de desconto.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
-        "content": "50%"
+        "content": "$1",
+        "example": "50%"
       }
     }
   },
-  "popupBundlePromoBody": {
+  "popupBundlePromoBody_2": {
     "message": "Plano de 1 ano, incluindo Relay Premium + Mozilla VPN por $MONTHLY_PRICE$/mês.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
-        "content": "$4.99"
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Apresentando: Plano de assinatura Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Mude sua assinatura para ter ambos, Relay Premium + Mozilla VPN, por $MONTHLY_PRICE$/mês. Economize $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
       }
     }
   },
@@ -325,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Com o mascaramento de número de telefone, agora você pode criar uma máscara de número de telefone que ajuda a receber mensagens de texto e chamadas sem revelar seu número verdadeiro."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Receba mensagens de texto e chamadas sem revelar seu número verdadeiro."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Mude agora"
