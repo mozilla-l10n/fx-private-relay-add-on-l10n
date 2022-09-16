@@ -298,6 +298,13 @@
     "message": "使用 Relay Premium 可阻止营销邮件转发至您的收件箱，但您仍可收到收据和物流信息等电子邮件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoCTA": {
+    "message": "下载 VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "立即升级"
+  },
   "popupSignBackInHeadline": {
     "message": "用您的马甲邮箱登录网站"
   },
