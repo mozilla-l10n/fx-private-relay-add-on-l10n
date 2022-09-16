@@ -322,6 +322,20 @@
     "message": "Wir stellen vor: Relay + VPN-Abonnementplan",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Machen Sie ein Upgrade für Ihr Abonnement und holen Sie sich sowohl Relay Premium als auch Mozilla VPN für $MONTHLY_PRICE$/Monat. Sparen Sie $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Holen Sie sich VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
@@ -331,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Mit der Telefonnummernmaskierung können Sie jetzt eine Telefonnummernmaske erstellen, mit der Sie SMS und Anrufe erhalten können, ohne Ihre wahre Nummer preiszugeben."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Erhalten Sie SMS und Anrufe, ohne Ihre wahre Nummer preiszugeben."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Jetzt upgraden"
