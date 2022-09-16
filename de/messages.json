@@ -318,6 +318,10 @@
       }
     }
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Wir stellen vor: Relay + VPN-Abonnementplan",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
   "popupBundlePromoCTA": {
     "message": "Holen Sie sich VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
