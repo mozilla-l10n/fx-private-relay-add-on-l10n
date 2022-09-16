@@ -326,7 +326,7 @@
     "message": "Nyt: Maskering af telefonnummer"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Med maskering af telefonnummer kan du oprette en telefonnummer-maske, der hjælper dig med at modtage SMS-beskeder og opkald - uden at afsløre din rigtige telefonnummer."
+    "message": "Med maskering af telefonnummer kan du oprette en telefonnummer-maske, der hjælper dig med at modtage SMS-beskeder og opkald - uden at afsløre dit rigtige telefonnummer."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Opgradér nu"
