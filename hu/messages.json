@@ -298,6 +298,60 @@
     "message": "A Relay Premium segítségével letilthatja a promóciós e-maileket, hogy ne jussanak el a postaládájába, miközben továbbra is lehetővé teszi a nyugtákat vagy szállítási információkat tartalmazó e-mailek fogadását.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Mozilla VPN hozzáadása $SAVINGS$ kedvezménnyel.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "1 éves előfizetés, beleértve a Relay Premiumot és a Mozilla VPN-t $MONTHLY_PRICE$/hó áron.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Bemutatjuk: Relay + VPN előfizetési csomag",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Frissítse előfizetését, hogy megkapja a Relay Premiumot és a Mozilla VPN-t $MONTHLY_PRICE$/hó áron. Takarítson meg $SAVINGS$-t.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "VPN + Relay beszerzése",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Bemutatkozik a telefonszám-maszkolás"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "A telefonszám-maszkolás segítségével most létrehozhat egy telefonszámmaszkot, amely segít abban, hogy anélkül fogadjon SMS-eket és hívásokat, hogy felfedné valódi számát."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Kapjon SMS-eket és hívásokat anélkül, hogy felfedné valódi számát."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Frissítés most"
+  },
   "popupSignBackInHeadline": {
     "message": "Jelentkezzen be újra az álneveivel"
   },
