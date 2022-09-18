@@ -298,21 +298,41 @@
     "message": "So službou Relay Premium môžete blokovať doručenie marketingových e-mailov do vašej doručenej pošty, a zároveň prijímať e-maily, ako sú potvrdenia o prečítaní či informácie o dodaní vašich objednávok.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
-  "popupBundlePromoHeadline": {
+  "popupBundlePromoHeadline_2": {
     "message": "Pridajte si Mozilla VPN so zľavou $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
-        "content": "50%"
+        "content": "$1",
+        "example": "50%"
       }
     }
   },
-  "popupBundlePromoBody": {
+  "popupBundlePromoBody_2": {
     "message": "1-ročný plán vrátane Relay Premium + Mozilla VPN za $MONTHLY_PRICE$/mesiac.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\"",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
-        "content": "$4.99"
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Predstavujeme: plán predplatného pre Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Inovujte svoje predplatné a získajte Relay Premium a Mozilla VPN za $MONTHLY_PRICE$/mesiac. Ušetríte $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
       }
     }
   },
@@ -325,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Pomocou maskovania telefónneho čísla si teraz môžete vytvoriť masku telefónneho čísla, ktorá vám pomôže prijímať textové správy a hovory bez toho, aby ste odhalili svoje skutočné číslo."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Posielajte SMS a volajte bez toho, aby ste prezradili svoje skutočné číslo."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Inovovať teraz"
