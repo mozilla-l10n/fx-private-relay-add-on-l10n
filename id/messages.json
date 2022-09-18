@@ -298,6 +298,60 @@
     "message": "Dengan Relay Premium, Anda dapat memblokir surel promosi untuk mencapai kotak masuk saat masih memungkinkan Anda menerima surel seperti informasi kuitansi atau pengiriman.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Paket 1 tahun termasuk Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Memperkenalkan: Paket berlangganan Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Tingkatkan langganan Anda untuk mendapatkan Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan. Hemat $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Dapatkan VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Memperkenalkan penyamaran nomor telepon"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Dengan penyamaran nomor telepon, Anda dapat membuat topeng nomor telepon yang membantu Anda mendapatkan teks dan panggilan tanpa mengungkapkan nomor asli Anda."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Terima teks dan panggilan tanpa mengungkapkan nomor asli Anda."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Tingkatkan sekarang"
+  },
   "popupSignBackInHeadline": {
     "message": "Masuk kembali dengan alias Anda"
   },
