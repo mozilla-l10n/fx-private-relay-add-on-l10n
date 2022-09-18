@@ -298,6 +298,60 @@
     "message": "За допомогою Relay Premium ви можете блокувати надходження промоційних листів до вашої теки «Вхідні», при цьому дозволяючи вам отримувати електронні листи, як-от квитанції або інформацію про доставлення.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Додати Mozilla VPN зі знижкою $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Річний тарифний план Relay Premium + Mozilla VPN за $MONTHLY_PRICE$/місяць.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Представляємо: передплату Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Оновіть свою передплату, щоб отримати Relay Premium і Mozilla VPN за $MONTHLY_PRICE$/місяць. Заощаджуйте $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Отримати VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Представляємо маскування номера телефону"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "За допомогою маскування номера телефону відтепер ви можете створити маску телефонного номера, яка допоможе вам отримувати текстові повідомлення та виклики, не розкриваючи свій справжній номер."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Отримуйте текстові повідомлення та виклики, не розкриваючи свій справжній номер."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Оновити зараз"
+  },
   "popupSignBackInHeadline": {
     "message": "Увійдіть використовуючи свої псевдоадреси"
   },
