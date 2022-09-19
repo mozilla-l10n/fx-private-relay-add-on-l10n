@@ -322,6 +322,36 @@
     "message": "Nij: abonnemint foar Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Fernij jo abonnemint om sawol Relay Premium as Mozilla VPN te ûntfangen foar $MONTHLY_PRICE$/moanne. Besparje $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "VPN + Relay downloade",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Nij: telefoannûmermaskearing"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Mei telefoannûmermaskearing kinne jo no in telefoannûmermasker oanmeitsje dat jo helpt sms’kes en oproppen te ûntfangen sûnder jo echte nûmer priis te jaan."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Untfang sms’kes en oproppen sûnder jo echte nûmer te toanen."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "No opwurdearje"
+  },
   "popupSignBackInHeadline": {
     "message": "Opnij oanmelde mei jo aliassen"
   },
