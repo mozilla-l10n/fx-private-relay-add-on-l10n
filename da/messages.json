@@ -318,6 +318,24 @@
       }
     }
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Nyt: Relay + VPN-abonnement",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Opgradér dit abonnement og få både Relay Premium + Mozilla VPN for $MONTHLY_PRICE$ per måned. Spar $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Få VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
@@ -327,6 +345,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Med maskering af telefonnummer kan du oprette en telefonnummer-maske, der hjælper dig med at modtage SMS-beskeder og opkald - uden at afsløre dit rigtige telefonnummer."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Modtag SMS-beskeder og opkald - uden at afsløre dit rigtige telefonnummer."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Opgradér nu"
