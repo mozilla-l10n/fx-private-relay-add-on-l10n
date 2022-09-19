@@ -404,7 +404,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Brug eksisterende alias fra dette websted..."
+    "message": "Brug eksisterende alias fra dette websted…"
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Brug eksisterende maske fra dette websted…"
