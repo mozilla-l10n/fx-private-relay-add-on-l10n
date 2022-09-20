@@ -352,6 +352,9 @@
     "popupPhoneMaskingPromoCTA": {
         "message": "Upgrade now"
     },
+    "popupPromoNewLabel": {
+        "message": "New!"
+    },
     "popupSignBackInHeadline": {
         "message": "Sign back in with your aliases"
     },
