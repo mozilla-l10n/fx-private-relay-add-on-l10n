@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Promover ora"
   },
+  "popupPromoNewLabel": {
+    "message": "Nove!"
+  },
   "popupSignBackInHeadline": {
     "message": "Re-accesso per proprie aliases"
   },
