@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Inovovať teraz"
   },
+  "popupPromoNewLabel": {
+    "message": "Novinka!"
+  },
   "popupSignBackInHeadline": {
     "message": "Znova sa prihláste pomocou svojich aliasov"
   },
