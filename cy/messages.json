@@ -298,6 +298,60 @@
     "message": "Gyda Relay Premium, gallwch rwystro e-byst hyrwyddo rhag cyrraedd eich blwch derbyn tra'n parhau i ganiatáu i chi dderbyn e-byst fel derbynebau neu fanylion cludo.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Ychwanegwch Mozilla VPN gyda $SAVINGS$ i ffwrdd.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Cynllun 1 blwyddyn gan gynnwys Relay Premium + Mozilla VPN am $MONTHLY_PRICE$/mis.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Yn cyflwyno: Cynllun tanysgrifio Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Uwchraddiwch eich tanysgrifiad i gael Relay Premium + Mozilla VPN am $MONTHLY_PRICE$/mis. Arbediad o $SavingS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Cael VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Yn cyflwyno cuddio rhifau ffôn"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Gyda chuddio rhif ffôn, gallwch nawr greu rhif ffôn arall sy'n eich helpu i gael negeseuon testun a galwadau heb ddatgelu'ch gwir rif."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Cael negeseuon testun a galwadau heb ddatgelu'ch gwir rif."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Uwchraddiwch nawr"
+  },
   "popupSignBackInHeadline": {
     "message": "Mewngofnodwch eto gyda'ch arallenwau"
   },
