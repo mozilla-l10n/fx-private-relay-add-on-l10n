@@ -298,6 +298,18 @@
     "message": "Grâce à Relay Premium, vous pouvez empêcher les e-mails promotionnels d’arriver dans votre boîte de réception tout en autorisant la réception des messages tels que les reçus ou les avis d’expédition.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Ajout des alias de numéro de téléphone"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Avec les alias de numéro de téléphone, vous pouvez désormais créer un alias de numéro de téléphone qui vous permet de recevoir des SMS et des appels sans révéler votre vrai numéro."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Recevez des SMS et des appels sans révéler votre vrai numéro."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Mettre à niveau maintenant"
+  },
   "popupSignBackInHeadline": {
     "message": "Reconnectez-vous avec vos alias"
   },
