@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Nu upgraden"
   },
+  "popupPromoNewLabel": {
+    "message": "Nieuw!"
+  },
   "popupSignBackInHeadline": {
     "message": "Opnieuw aanmelden met uw maskers"
   },
