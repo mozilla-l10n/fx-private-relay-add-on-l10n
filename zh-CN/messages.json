@@ -298,6 +298,20 @@
     "message": "使用 Relay Premium 可阻止营销邮件转发至您的收件箱，但您仍可收到收据和物流信息等电子邮件。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoBody_2": {
+    "message": "Relay Premium + Mozilla VPN 年付方案，只需 $MONTHLY_PRICE$ / 月。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "介绍：Relay + VPN 订阅方案",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
   "popupBundlePromoCTA": {
     "message": "下载 VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
