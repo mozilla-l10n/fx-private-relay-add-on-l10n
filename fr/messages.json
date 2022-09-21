@@ -298,6 +298,48 @@
     "message": "Grâce à Relay Premium, vous pouvez empêcher les e-mails promotionnels d’arriver dans votre boîte de réception tout en autorisant la réception des messages tels que les reçus ou les avis d’expédition.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "Ajoutez Mozilla VPN avec une réduction de $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Abonnement d’un an incluant Relay Premium + Mozilla VPN pour $MONTHLY_PRICE$/mois.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Nouveau : abonnement Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Mettez à niveau votre abonnement pour obtenir à la fois Relay Premium + Mozilla VPN pour $MONTHLY_PRICE$/mois. Économisez $SAVINGS$ !",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Obtenez VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
   "popupPhoneMaskingPromoHeadline": {
     "message": "Ajout des alias de numéro de téléphone"
   },
@@ -309,6 +351,9 @@
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Mettre à niveau maintenant"
+  },
+  "popupPromoNewLabel": {
+    "message": "Nouveau !"
   },
   "popupSignBackInHeadline": {
     "message": "Reconnectez-vous avec vos alias"
