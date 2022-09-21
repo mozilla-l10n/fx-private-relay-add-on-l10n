@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Jetzt upgraden"
   },
+  "popupPromoNewLabel": {
+    "message": "Neu!"
+  },
   "popupSignBackInHeadline": {
     "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
   },
