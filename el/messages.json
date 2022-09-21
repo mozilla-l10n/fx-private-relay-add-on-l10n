@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Αναβάθμιση τώρα"
   },
+  "popupPromoNewLabel": {
+    "message": "Νέο!"
+  },
   "popupSignBackInHeadline": {
     "message": "Συνδεθείτε ξανά με τα ψευδώνυμά σας"
   },
