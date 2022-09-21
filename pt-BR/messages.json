@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Mude agora"
   },
+  "popupPromoNewLabel": {
+    "message": "Novidade!"
+  },
   "popupSignBackInHeadline": {
     "message": "Cadastre-se novamente com seus endereços de redirecionamento"
   },
