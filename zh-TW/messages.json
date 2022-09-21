@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "立刻升級"
   },
+  "popupPromoNewLabel": {
+    "message": "新推出！"
+  },
   "popupSignBackInHeadline": {
     "message": "使用您的別名信箱登入網站"
   },
