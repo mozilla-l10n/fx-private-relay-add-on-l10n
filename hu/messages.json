@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Frissítés most"
   },
+  "popupPromoNewLabel": {
+    "message": "Új!"
+  },
   "popupSignBackInHeadline": {
     "message": "Jelentkezzen be újra az álneveivel"
   },
