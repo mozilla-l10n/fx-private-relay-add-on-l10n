@@ -299,7 +299,7 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "$SAVINGS$ 折获得 Mozilla VPN。",
+    "message": "$SAVINGS$ 折订阅 Mozilla VPN。",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
