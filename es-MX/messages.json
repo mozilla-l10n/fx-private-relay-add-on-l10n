@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Actualizar ahora"
   },
+  "popupPromoNewLabel": {
+    "message": "¡Lo nuevo!"
+  },
   "popupSignBackInHeadline": {
     "message": "Vuelve a iniciar sesión con tus alias"
   },
