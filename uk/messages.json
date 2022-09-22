@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Оновити зараз"
   },
+  "popupPromoNewLabel": {
+    "message": "Новинка!"
+  },
   "popupSignBackInHeadline": {
     "message": "Увійдіть використовуючи свої псевдоадреси"
   },
