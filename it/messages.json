@@ -323,7 +323,7 @@
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Aggiorna il tuo abbonamento per ottenere sia Relay Premium che Mozilla VPN per $MONTHLY_PRICE$/mese. Risparmia il $SAVINGS$!",
+    "message": "Aggiorna il tuo abbonamento per ottenere sia Relay Premium che Mozilla VPN per $MONTHLY_PRICE$ al mese. Risparmia il $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
       "monthly_price": {
