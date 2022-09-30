@@ -322,9 +322,26 @@
     "message": "介绍：Relay + VPN 订阅方案",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "升级您的方案，每月只需 $MONTHLY_PRICE$ 即可订阅 Relay Premium + Mozilla VPN，可省 $SAVINGS$！",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "下载 VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "不需提供真实手机号，接收短信和来电。"
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "立即升级"
