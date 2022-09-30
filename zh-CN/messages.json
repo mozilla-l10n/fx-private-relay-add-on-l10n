@@ -344,7 +344,7 @@
     "message": "虚拟手机号介绍"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "您可以开通虚拟手机号，在不泄露真实号码的情况下接收短信和来电。"
+    "message": "开通虚拟手机号，在不泄露真实号码的情况下接收短信和来电。"
   },
   "popupPhoneMaskingPromoBodyPremium": {
     "message": "无需提供真实手机号，接收短信和来电。"
