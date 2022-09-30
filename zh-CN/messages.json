@@ -329,6 +329,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "立即升级"
   },
+  "popupPromoNewLabel": {
+    "message": "新推出！"
+  },
   "popupSignBackInHeadline": {
     "message": "用您的马甲邮箱登录网站"
   },
