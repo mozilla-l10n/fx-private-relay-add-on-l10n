@@ -270,6 +270,10 @@
     "message": "Min.",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "Seg.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Reenvío de correo electrónico crítico"
   },
@@ -293,6 +297,63 @@
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Con Relay Premium, puedes bloquear los correos electrónicos promocionales para que no lleguen a tu bandeja de entrada mientras sigues recibiendo otros correos electrónicos como recibos o seguimiento de compras.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBundlePromoHeadline_2": {
+    "message": "Añade Mozilla VPN con $SAVINGS$ de descuento.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Plan de 1 año que incluye Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Presentamos: Plan de suscripción de Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Actualiza tu suscripción para obtener Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes. ¡Ahorra $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "Obtén VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Presentamos el enmascaramiento de números de teléfono"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Con el enmascaramiento de número de teléfono, ahora puedes crear un número de teléfono enmascarado que ayuda a que recibas textos y llamadas sin revelar tu verdadero número."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Recibe mensajes de texto y llamadas sin revelar tu verdadero número."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Actualizar ahora"
+  },
+  "popupPromoNewLabel": {
+    "message": "¡Nuevo!"
   },
   "popupSignBackInHeadline": {
     "message": "Vuelve a iniciar sesión con tus alias"
