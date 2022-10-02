@@ -65,6 +65,44 @@
   "popupSettingsTermsOfService": {
     "message": "Términos del servicio"
   },
+  "popupSettingsReportIssue": {
+    "message": "Informar de un problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Enviar informe"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Estoy teniendo problemas con este sitio web"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situación del problema"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "La máscara de correo electrónico no fue aceptada por el sitio web"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "El complemento Relay causó un problema en la visualización del sitio web",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "No he recibido un correo que estaba esperando de este sitio web"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Otros"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Por favor, proporciona detalles"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "¡Informe enviado!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "¡Gracias por ayudarnos a mejorar Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Continuar"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Te damos la bienvenida"
   },
@@ -189,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "Correos electrónicos reenviados"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Rastreadores de correo eliminados"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "¡Actualiza a Relay Premium para obtener más protección!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -206,6 +247,28 @@
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay ahora puede reenviar correos electrónicos de hasta 25 MB, incluidos los archivos adjuntos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "¡Nuestra oferta de lanzamiento finaliza pronto!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Obtén Relay Premium antes del 27 de septiembre y disfruta de enmascaramiento ilimitado a nuestro precio mensual de lanzamiento.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Actualizar ahora"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "Días",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "Horas",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "Min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Reenvío de correo electrónico crítico"
