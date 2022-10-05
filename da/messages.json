@@ -352,6 +352,9 @@
   "popupPhoneMaskingPromoCTA": {
     "message": "Opgradér nu"
   },
+  "popupPromoNewLabel": {
+    "message": "Nyt!"
+  },
   "popupSignBackInHeadline": {
     "message": "Log ind igen med dine aliasser"
   },
