@@ -308,6 +308,16 @@
       }
     }
   },
+  "popupBundlePromoHeadline_3": {
+    "message": "Ajoutez Mozilla VPN avec une réduction de $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupBundlePromoBody_2": {
     "message": "Abonnement d’un an incluant Relay Premium + Mozilla VPN pour $MONTHLY_PRICE$/mois.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
@@ -315,6 +325,16 @@
       "monthly_price": {
         "content": "$1",
         "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Obtenez un an d’alias de numéro de téléphone avec Relay Premium plus Mozilla VPN pour $MONTHLY_PRICE$/mois.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
       }
     }
   },
@@ -347,7 +367,7 @@
     "message": "Avec les alias de numéro de téléphone, vous pouvez désormais créer un alias de numéro de téléphone qui vous permet de recevoir des SMS et des appels sans révéler votre vrai numéro."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Recevez des SMS et des appels sans révéler votre vrai numéro."
+    "message": "Recevez des SMS et des appels sans révéler votre véritable numéro."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Mettre à niveau maintenant"
