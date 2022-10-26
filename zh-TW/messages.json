@@ -308,6 +308,16 @@
       }
     }
   },
+  "popupBundlePromoHeadline_3": {
+    "message": "以 $SAVINGS$ 折扣獲得 Mozilla VPN。",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupBundlePromoBody_2": {
     "message": "包含 Relay Premium + Mozilla VPN 的一年方案，僅需每月 $MONTHLY_PRICE$。",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
@@ -315,6 +325,16 @@
       "monthly_price": {
         "content": "$1",
         "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "以每月 $MONTHLY_PRICE$ 的價格獲得一年的 Relay Premium 手機門號轉接服務與 Mozilla VPN。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
       }
     }
   },
