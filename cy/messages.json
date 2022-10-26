@@ -328,6 +328,16 @@
       }
     }
   },
+  "popupBundlePromoBody_3": {
+    "message": "Cael blwyddyn o Guddio Ffôn Relay Premium ynghyd â Mozilla VPN am $MONTHLY_PRICE$/mis.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Yn cyflwyno: Cynllun tanysgrifio Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
