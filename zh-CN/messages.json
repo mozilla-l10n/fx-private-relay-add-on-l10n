@@ -328,6 +328,16 @@
       }
     }
   },
+  "popupBundlePromoBody_3": {
+    "message": "以每月 $MONTHLY_PRICE$ 的价格订阅一年的 Relay Premium 虚拟手机号和 Mozilla VPN。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "介绍：Relay + VPN 订阅方案",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
