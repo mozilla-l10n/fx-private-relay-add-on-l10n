@@ -309,7 +309,7 @@
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Voeg Mozilla VPN toe met $SAVINGS$ korting.",
+    "message": "Voeg Mozilla VPN toe voor $SAVINGS$ korting.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
@@ -329,7 +329,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Ontvang een jaar lang Relay Premium Phone Masking plus Mozilla VPN voor $MONTHLY_PRICE$/maand.",
+    "message": "Ontvang een jaar lang Relay Premium-telefoonmaskering plus Mozilla VPN voor $MONTHLY_PRICE$/maand.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
