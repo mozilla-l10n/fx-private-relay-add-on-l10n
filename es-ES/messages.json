@@ -328,6 +328,16 @@
       }
     }
   },
+  "popupBundlePromoBody_3": {
+    "message": "Obtén un año de Relay Premium con enmascaramiento de teléfono más Mozilla VPN por $MONTHLY_PRICE$ al mes.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Presentamos: Plan de suscripción de Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
