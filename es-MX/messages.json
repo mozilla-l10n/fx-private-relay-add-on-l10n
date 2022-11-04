@@ -308,6 +308,16 @@
       }
     }
   },
+  "popupBundlePromoHeadline_3": {
+    "message": "Agrega Mozilla VPN para obtener $SAVINGS$ de descuento.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupBundlePromoBody_2": {
     "message": "Plan de 1 año que incluye Relay Premium + Mozilla VPN por $MONTHLY_PRICE$/month.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
@@ -315,6 +325,16 @@
       "monthly_price": {
         "content": "$1",
         "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Obtén un año de enmascaramiento de teléfono de Relay Premium más Mozilla VPN por $MONTHLY_PRICE$/month.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
       }
     }
   },
