@@ -308,6 +308,16 @@
       }
     }
   },
+  "popupBundlePromoHeadline_3": {
+    "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupBundlePromoBody_2": {
     "message": "Paket 1 tahun termasuk Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
@@ -315,6 +325,16 @@
       "monthly_price": {
         "content": "$1",
         "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Dapatkan Relay Premium Phone Masking selama satu tahun ditambah Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
       }
     }
   },
