@@ -328,6 +328,16 @@
       }
     }
   },
+  "popupBundlePromoBody_3": {
+    "message": "Få et års maskering af telefonnummer med Relay Premium plus Mozila VPN for $MONTHLY_PRICE$ per måned.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Nyt: Relay + VPN-abonnement",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
