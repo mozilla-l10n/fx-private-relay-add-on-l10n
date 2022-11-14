@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Máscaras recentes"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Usar máscara de número de celular"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Você já criou o número máximo de endereços de redirecionamento",
     "description": "Tells the user they have already created the max number of aliases."
