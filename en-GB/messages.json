@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Recent masks"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Use phone number mask"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "You have already created the maximum number of aliases",
     "description": "Tells the user they have already created the max number of aliases."
