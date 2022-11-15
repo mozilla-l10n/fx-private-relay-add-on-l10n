@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "近期的轉寄信箱"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "使用手機轉接號碼"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "您可建立的別名數量已滿",
     "description": "Tells the user they have already created the max number of aliases."
