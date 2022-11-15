@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Legújabb maszkok"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Telefonszámmaszk használata"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Már létrehozta a maximális számú álnevet",
     "description": "Tells the user they have already created the max number of aliases."
