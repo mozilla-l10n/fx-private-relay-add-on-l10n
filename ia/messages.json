@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Mascas recente"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Usa le masca de numero de telephono"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Tu ha jam create le maxime numero de aliases",
     "description": "Tells the user they have already created the max number of aliases."
