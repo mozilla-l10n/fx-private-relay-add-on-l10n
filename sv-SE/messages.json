@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Senaste alias"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Använd telefonnummeralias"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Du har redan skapat det maximala antalet alias",
     "description": "Tells the user they have already created the max number of aliases."
