@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Arallenwau diweddar"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Defnyddio rhif ffôn ffug"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
     "description": "Tells the user they have already created the max number of aliases."
