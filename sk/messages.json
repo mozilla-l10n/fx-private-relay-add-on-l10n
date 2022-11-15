@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Nedávno použité masky"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Použiť masku telefónneho čísla"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Už ste vytvorili maximálny počet aliasov",
     "description": "Tells the user they have already created the max number of aliases."
