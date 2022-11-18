@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "近期的马甲邮箱"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "使用虚拟手机号"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "您可创建的马甲数量已满",
     "description": "Tells the user they have already created the max number of aliases."
