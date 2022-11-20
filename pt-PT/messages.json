@@ -1,6 +1,157 @@
 {
   "extensionDescription_v1": {
-    "message": "O Firefox Relay facilita a criação de e-mails virtuais que reencaminham para a sua caixa de entrada real.",
+    "message": "O Firefox Relay facilita a criação de e-mails virtuais que reencaminham para a sua caixa de entrada verdadeira.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "O Firefox Relay facilita a criação de máscaras de e-mail que reencaminham para a sua caixa de entrada verdadeira.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "allowDataCollection": {
+    "message": "Permitir a recolha de dados",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Desativar a recolha de dados",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Registar / Iniciar Sessão"
+  },
+  "popupSettingsTitle": {
+    "message": "Definições"
+  },
+  "popupSettingsReturn": {
+    "message": "Voltar ao painel principal"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Deixar comentários"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Privacidade"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Termos do serviço"
+  },
+  "popupSettingsReportIssue": {
+    "message": "Reportar problema"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Submeter relatório"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Eu estou a ter problemas com este site"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Situação do problema"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Outro"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Por favor, forneça detalhes"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Relatório enviado!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Obrigado por ajudar-nos a melhorar o Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Continuar"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Bem-vindo"
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Continuar"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Mostrar painel anterior"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Ir para painel seguinte"
+  },
+  "ManageAllAliases": {
+    "message": "Gerir todos os pseudónimos"
+  },
+  "ManageAllAliases_mask": {
+    "message": "Gerir todas as máscaras"
+  },
+  "labelManage": {
+    "message": "Gerir"
+  },
+  "labelSearch": {
+    "message": "Pesquisar"
+  },
+  "labelFromThisWebsite": {
+    "message": "Deste site",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "Todas as máscaras de e-mail",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Atualizar agora"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "Dias",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "Horas",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "Min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "Seg.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Atualizar agora"
+  },
+  "popupPromoNewLabel": {
+    "message": "Novo!"
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Ir para Firefox Relay",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Adicionar nome da conta",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Ativar novas funcionalidades"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Saber mais"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Recusar"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Permitir"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Atualização da informação de privacidade"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Ver informação de privacidade"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Ignorar"
   }
 }
