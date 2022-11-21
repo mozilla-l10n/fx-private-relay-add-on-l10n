@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Недавние псевдонимы"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Использовать псевдоним номера телефона"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Вы уже создали максимальное число псевдонимов",
     "description": "Tells the user they have already created the max number of aliases."
