@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Představujeme: společné předplatné Relay + VPN",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoCTA": {
+    "message": "Získejte VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
   "popupPhoneMaskingPromoHeadline": {
     "message": "Představujeme maskování telefonních čísel"
   },
