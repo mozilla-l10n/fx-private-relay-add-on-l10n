@@ -338,6 +338,21 @@
       }
     }
   },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Představujeme maskování telefonních čísel"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Maskování telefonního čísla vám umožní přijímat textové zprávy i hovory bez toho, abyste prozradili své skutečné telefonní číslo."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Přijímejte zprávy i hovory bez prozrazení svého vlastního čísla."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Aktualizujte"
+  },
+  "popupPromoNewLabel": {
+    "message": "Novinka!"
+  },
   "popupSignBackInHeadline": {
     "message": "Přihlaste se zpátky pomocí svých aliasů"
   },
@@ -400,6 +415,9 @@
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Naposledy použité masky"
+  },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Přidat masku telefonního čísla"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Už jste vytvořili maximální počet aliasů",
