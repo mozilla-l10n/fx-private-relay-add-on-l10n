@@ -227,6 +227,9 @@
   "popupEmailsForwarded": {
     "message": "Přeposlané e-maily"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "Odstraněné sledovací prvky z e-mailů"
+  },
   "popupUpgradeToPremiumBanner": {
     "message": "Relay Premium vám poskytne ještě větší ochranu.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -244,6 +247,32 @@
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay teď umí přeposílat e-maily až do velikosti 25 MB, včetně příloh.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Naše zaváděcí cenová nabídka brzy končí!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Pořiďte si Relay Premium do 27. září a užívejte si neomezené maskování za naši zaváděcí měsíční cenu.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Aktualizujte"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "Dnů",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "Hodin",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "Min.",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "Sek.",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Přeposílání důležitých e-mailů"
@@ -268,6 +297,46 @@
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Se službou Relay Premium můžete zabránit doručování propagačních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBundlePromoHeadline_2": {
+    "message": "Přidejte si Mozilla VPN se slevou $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoHeadline_3": {
+    "message": "Přidejte si Mozilla VPN se slevou $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Roční plán zahrnující Relay Premium + Mozilla VPN za $MONTHLY_PRICE$ měsíčně.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Získejte maskování telefonu od Relay Premium a Mozilla VPN na jeden rok za $ MONTHLY_PRICE $ měsíčně.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
   },
   "popupSignBackInHeadline": {
     "message": "Přihlaste se zpátky pomocí svých aliasů"
