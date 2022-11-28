@@ -329,7 +329,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Získejte maskování telefonu od Relay Premium a Mozilla VPN na jeden rok za $ MONTHLY_PRICE $ měsíčně.",
+    "message": "Získejte maskování telefonu od Relay Premium a Mozilla VPN na jeden rok za $MONTHLY_PRICE$ měsíčně.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
