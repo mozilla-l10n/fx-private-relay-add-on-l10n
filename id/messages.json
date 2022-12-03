@@ -438,6 +438,9 @@
   "pageInputIconRecentAliases_mask": {
     "message": "Topeng terkini"
   },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Gunakan topeng nomor telepon"
+  },
   "pageInputIconMaxAliasesError": {
     "message": "Anda sudah membuat alias sebanyak jumlah maksimum",
     "description": "Tells the user they have already created the max number of aliases."
