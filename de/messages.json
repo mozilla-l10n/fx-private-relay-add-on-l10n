@@ -1,6 +1,6 @@
 {
   "extensionDescription_v1": {
-    "message": "Firefox Relay macht es einfach, Alias-E-Mail-Adressen zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
+    "message": "Firefox Relay macht es einfach, E-Mail-Masken zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescription_mask": {
@@ -8,7 +8,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore": {
-    "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige Alias-E-Mail-Adressen generieren, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die Alias-Adresse blockieren und, sodass keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die Alias-Adresse löschen.",
+    "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige E-Mail-Masken generieren, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die E-Mail-Maske blockieren, damit keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die E-Mail-Maske löschen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -16,7 +16,7 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Sie haben das Firefox-Relay-Add-on erfolgreich installiert. Melden Sie sich zunächst mit Ihrem Firefox Account bei Relay an.",
+    "message": "Sie haben das Firefox-Relay-Add-on erfolgreich installiert. Melden Sie sich zunächst mit Ihrem Firefox-Konto bei Relay an.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
@@ -32,7 +32,7 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP": {
-    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-E-Mail-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungen-Ansicht deaktivieren.",
+    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue E-Mail-Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungen-Ansicht deaktivieren.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
@@ -107,7 +107,7 @@
     "message": "Willkommen"
   },
   "popupSignUpPanelIntro": {
-    "message": "Melden Sie sich zunächst mit Ihrem Firefox Account bei Relay an.",
+    "message": "Melden Sie sich zunächst mit Ihrem Firefox-Konto bei Relay an.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelContinue": {
