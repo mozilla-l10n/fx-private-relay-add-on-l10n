@@ -27,10 +27,6 @@
     "message": "Datensammlung deaktivieren",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
-  "firstRunPrefP": {
-    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue E-Mail-Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungen-Ansicht deaktivieren.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
-  },
   "firstRunPrefP_mask": {
     "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
