@@ -1,4 +1,8 @@
 {
+  "extensionDescription_v1": {
+    "message": "Firefox Relay erleichtert Ihnen das Erstellen von Alias-E-Mail-Adressen, die an Ihren richtigen Posteingang weitergeleitet werden.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescription_mask": {
     "message": "Firefox Relay macht es einfach, E-Mail-Masken zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -26,6 +30,10 @@
   "disableDataCollection": {
     "message": "Datensammlung deaktivieren",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in den Einstellungen deaktivieren.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
