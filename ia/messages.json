@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Gestor de contrasignos de Firefox + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Ora tu pote usar Relay directemente in le gestor de contrasignos de Firefox.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Introducente: plano de abonamento Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
