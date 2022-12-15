@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox-Passwort-Manager + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Jetzt können Sie Relay direkt in Ihrem Firefox-Passwort-Manager verwenden.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Wir stellen vor: Relay + VPN-Abonnementplan",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
