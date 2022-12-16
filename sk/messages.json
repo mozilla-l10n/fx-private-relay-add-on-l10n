@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Správca hesiel Firefoxu + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Teraz môžete použiť službu Relay priamo v Správcovi hesiel Firefoxu.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Predstavujeme: plán predplatného pre Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
