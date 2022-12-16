@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Менеджер паролів Firefox + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Відтепер ви можете використовувати Relay безпосередньо в менеджері паролів Firefox.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Представляємо: передплату Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
