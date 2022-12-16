@@ -342,6 +342,10 @@
     "message": "Firefox 密码管理器 + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
+  "popupPasswordManagerRelayBody": {
+    "message": "现在您可以直接在 Firefox 密码管理器中使用 Relay。",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "介绍：Relay + VPN 订阅方案",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
