@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox wachtwurdbehearder + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Jo kinne no Relay streekrjocht yn jo Firefox-wachtwurdbehearder brûke.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Nij: abonnemint foar Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
