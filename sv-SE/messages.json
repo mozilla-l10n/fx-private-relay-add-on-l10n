@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox lösenordshanterare + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Nu kan du använda Relay direkt i din Firefox lösenordshanterare.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Vi presenterar: Relay + VPN-prenumerationsplan",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
