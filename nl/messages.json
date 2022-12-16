@@ -338,6 +338,10 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox-wachtwoordenbeheerder + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Nieuw: abonnement voor Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
