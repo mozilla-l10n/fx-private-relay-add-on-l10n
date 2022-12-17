@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Pengelola sandi Firefox + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Sekarang Anda dapat menggunakan Relay langsung pada pengelola sandi Firefox Anda.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Memperkenalkan: Paket berlangganan Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
