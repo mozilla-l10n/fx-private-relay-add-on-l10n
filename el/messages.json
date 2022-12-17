@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Διαχείριση κωδικών πρόσβασης Firefox + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Μπορείτε πλέον να χρησιμοποιείτε το Relay απευθείας από τη Διαχείριση κωδικών πρόσβασης του Firefox.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Παρουσιάζουμε: Πακέτο συνδρομής Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
