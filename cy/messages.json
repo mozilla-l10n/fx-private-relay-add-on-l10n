@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Rheolwr cyfrineiriau Firefox + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Nawr gallwch chi ddefnyddio Relay yn uniongyrchol yn eich rheolwr cyfrinair Firefox.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Yn cyflwyno: Cynllun tanysgrifio Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
