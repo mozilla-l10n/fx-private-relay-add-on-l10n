@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox jelszókezelő + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "Most már közvetlenül a Firefox jelszókezelőjében is használhatja a Relayt.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Bemutatjuk: Relay + VPN előfizetési csomag",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
