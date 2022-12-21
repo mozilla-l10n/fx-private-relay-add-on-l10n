@@ -338,6 +338,14 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox 密碼管理員 + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "現在起，您可以直接在 Firefox 密碼管理員當中使用 Relay。",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "向您介紹：Relay + VPN 訂閱方案",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
