@@ -277,6 +277,47 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kriittinen sähköpostin edelleenlähetys"
   },
+  "popupCriticalEmailForwardingBody": {
+    "message": "Relay Premium mahdollistaa vain tärkeiden sähköpostien vastaanottamisen aliakselle. Saat sähköpostiviestejä, kuten kuitteja, mutta et markkinointiviestejä.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupCriticalEmailForwardingBody_mask": {
+    "message": "Relay Premium mahdollistaa vain tärkeiden sähköpostien vastaanottamisen maskille. Saat sähköpostiviestejä, kuten kuitteja, mutta et markkinointiviestejä.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBlockPromotionalEmailsHeadline_2": {
+    "message": "Estä mainossähköpostit"
+  },
+  "popupBlockPromotionalEmailsBody": {
+    "message": "Ota käyttöön Estä mainossähköpostit aliaksessa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
+  },
+  "popupBlockPromotionalEmailsBody_mask": {
+    "message": "Ota käyttöön Estä mainossähköpostit maskissa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Relay Premiumin avulla voit estää mainossähköpostien pääsyn postilaatikkoosi, mutta voit silti vastaanottaa sähköpostiviestejä, kuten kuitteja tai toimitustietoja.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBundlePromoBody_2": {
+    "message": "1 vuoden tilaus, mukaan lukien Relay Premium + Mozilla VPN hintaan $MONTHLY_PRICE$/kk.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Saat vuoden Relay Premiumin puhelinnumeron maskin kera ja Mozilla VPN:n hintaan $MONTHLY_PRICE$/kk.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupPasswordManagerRelayHeadline": {
     "message": "Firefoxin salasananhallinta + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
@@ -285,12 +326,29 @@
     "message": "Esittelyssä: Relay + VPN -tilaus",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Päivitä tilauksesi saadaksesi sekä Relay Premiumin että Mozilla VPN:n hintaan $MONTHLY_PRICE$/kk. Säästä $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "Hanki VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
     "message": "Esittelyssä puhelinnumeron maski"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Puhelinnumeron maskin avulla voit nyt luoda puhelinnumeromaskin, jonka avulla voit vastaanottaa tekstiviestejä ja puheluita paljastamatta todellista numeroasi."
   },
   "popupPhoneMaskingPromoBodyPremium": {
     "message": "Vastaanota tekstiviestejä ja puheluita paljastamatta oikeaa numeroasi."
@@ -300,6 +358,12 @@
   },
   "popupPromoNewLabel": {
     "message": "Uutta!"
+  },
+  "popupSignBackInHeadline": {
+    "message": "Kirjaudu takaisin sisään aliaksillasi"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "Kirjaudu takaisin sisään sähköpostimaskeillasi"
   },
   "pageInputIconSignUpText": {
     "message": "Kirjaudu sisään tai luo tili Firefox Relay -sivustolla.",
@@ -372,6 +436,16 @@
   "pageNoMasksRemaining": {
     "message": "Sinulla ei ole enää ilmaisia sähköpostimaskeja jäljellä.",
     "description": "Error message that appears when a free tier user uses all of their masks."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Kielletyt merkit: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Lisää tilin nimi",
