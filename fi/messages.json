@@ -281,9 +281,19 @@
     "message": "Firefoxin salasananhallinta + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Esittelyssä: Relay + VPN -tilaus",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
   "popupBundlePromoCTA": {
     "message": "Hanki VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Esittelyssä puhelinnumeron maski"
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Vastaanota tekstiviestejä ja puheluita paljastamatta oikeaa numeroasi."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Päivitä nyt"
@@ -330,6 +340,12 @@
     "message": "Liity Premium-odotuslistalle",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
+  "pageInputIconUseExistingAliasFromTheSite": {
+    "message": "Käytä tämän sivuston olemassa olevaa aliasta…"
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Käytä tämän sivuston olemassa olevaa maskia…"
+  },
   "pageInputIconRecentAliases": {
     "message": "Viimeisimmät aliakset"
   },
@@ -338,6 +354,14 @@
   },
   "pageInputIconInsertPhoneMask": {
     "message": "Käytä puhelinnumeromaskia"
+  },
+  "pageInputIconMaxAliasesError": {
+    "message": "Olet jo luonut enimmäismäärän aliaksia",
+    "description": "Tells the user they have already created the max number of aliases."
+  },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Olet jo luonut enimmäismäärän maskeja",
+    "description": "Tells the user they have already created the max number of masks."
   },
   "pageFillRelayAddressLimit": {
     "message": "Olet saavuttanut aliasten rajan."
