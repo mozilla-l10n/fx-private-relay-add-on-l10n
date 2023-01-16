@@ -59,6 +59,28 @@
   "popupSettingsSubmitReport": {
     "message": "Lähetä ilmoitus"
   },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Minulla on ongelmia tämän sivuston kanssa"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Ongelmatilanne"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "Verkkosivusto ei hyväksynyt sähköpostimaskia"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay-lisäosa aiheutti visuaalisen ongelman verkkosivustolla",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "En ole saanut odottamaani sähköpostia tältä sivustolta"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Muu"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Anna lisätietoja"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Ilmoitus lähetetty!"
   },
@@ -79,9 +101,160 @@
   "popupSignUpPanelContinue": {
     "message": "Jatka"
   },
+  "popupRemainingAliases_2": {
+    "message": "Aliaksia jäljellä: $REMAINING$",
+    "description": "Tells the user how many more aliases they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingAliases_2_mask": {
+    "message": "Maskeja jäljellä: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "Ilmaisia sähköpostimaskeja jäljellä:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Viimeksi käytetyt sähköpostimaskit",
+    "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases": {
+    "message": "Hanki rajattomasti aliaksia"
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Hanki rajattomasti maskeja"
+  },
+  "popupUnlimitedAliases": {
+    "message": "Aliaksia luotu: $COUNT$",
+    "description": "Tells the premium user how many aliases they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupUnlimitedAliases_mask": {
+    "message": "Maskeja luotu: $COUNT$",
+    "description": "Tells the premium user how many masks they have created.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "Näytä edellinen paneeli"
+  },
+  "popupOnboardingShowNext": {
+    "message": "Siirry seuraavaan paneeliin"
+  },
+  "ManageAllAliases": {
+    "message": "Hallitse kaikkia aliaksia"
+  },
+  "ManageAllAliases_mask": {
+    "message": "Hallitse kaikkia maskeja"
+  },
+  "labelManage": {
+    "message": "Hallitse"
+  },
+  "labelSearch": {
+    "message": "Etsi"
+  },
+  "labelFromThisWebsite": {
+    "message": "Tältä verkkosivustolta",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
   "labelAllEmailMasks": {
     "message": "Kaikki sähköpostimaskit",
     "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Ylävitonen!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Olet Firefox Relay -tehokäyttäjä!",
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupRegisterDomainButton": {
+    "message": "Rekisteröi sähköpostin verkkotunnus"
+  },
+  "popupRegisterDomainButton_mask": {
+    "message": "Rekisteröi sähköpostin aliverkkotunnus"
+  },
+  "popupAliasesUsed": {
+    "message": "Sähköpostialiaksia käytetty"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Sähköpostimaskeja käytetty"
+  },
+  "popupEmailsBlocked": {
+    "message": "Sähköposteja estetty"
+  },
+  "popupEmailsForwarded": {
+    "message": "Sähköpostit välitetty"
+  },
+  "popupEmailTrackersRemoved": {
+    "message": "Sähköpostiseuraimia poistettu"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Päivitä Relay Premiumiin saadaksesi lisää suojausta!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Maailmanlaajuinen suojaustyökalu"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay voi auttaa sinua suojaamaan sähköpostisi missä tahansa oletkin.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Liitteiden koon nosto"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay voi nyt lähettää edelleen sähköposteja, joiden koko on jopa 25 megatavua, mukaan lukien liitteet.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingCTA": {
+    "message": "Päivitä nyt"
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "Kriittinen sähköpostin edelleenlähetys"
+  },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefoxin salasananhallinta + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupBundlePromoCTA": {
+    "message": "Hanki VPN + Relay",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Päivitä nyt"
+  },
+  "popupPromoNewLabel": {
+    "message": "Uutta!"
+  },
+  "pageInputIconSignUpText": {
+    "message": "Kirjaudu sisään tai luo tili Firefox Relay -sivustolla.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Siirry Firefox Relay -palveluun",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias": {
     "message": "Luo uusi alias"
@@ -104,8 +277,34 @@
     "message": "Aiemmin käytetty tällä sivustolla",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
+  "pageInputIconGetUnlimitedAliases": {
+    "message": "Hanki rajattomasti aliaksia"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Hanki rajattomasti maskeja"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Liity Premium-odotuslistalle",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
+  "pageInputIconRecentAliases": {
+    "message": "Viimeisimmät aliakset"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Viimeisimmät maskit"
+  },
   "pageInputIconInsertPhoneMask": {
     "message": "Käytä puhelinnumeromaskia"
+  },
+  "pageFillRelayAddressLimit": {
+    "message": "Olet saavuttanut aliasten rajan."
+  },
+  "pageFillRelayAddressLimit_mask": {
+    "message": "Olet saavuttanut maskien rajan."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Sinulla ei ole enää ilmaisia sähköpostimaskeja jäljellä.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Lisää tilin nimi",
@@ -128,6 +327,9 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Tietosuojakäytännön päivitys"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Näytä tietosuojakäytäntö"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Hylkää"
