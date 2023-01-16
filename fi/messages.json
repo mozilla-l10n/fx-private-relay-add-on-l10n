@@ -1,0 +1,135 @@
+{
+  "extensionDescription_v1": {
+    "message": "Firefox Relayn avulla on helppo luoda sähköpostialiaksia, jotka ohjaavat edelleen oikeaan postilaatikkoosi.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescription_mask": {
+    "message": "Firefox Relayn avulla on helppo luoda sähköpostimaskeja, jotka ohjaavat edelleen oikeaan postilaatikkoosi.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "firstRunP": {
+    "message": "Olet asentanut Firefox Relay -lisäosan onnistuneesti. Aloita kirjautumalla Relay-palveluun Firefox-tililläsi.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Salli Mozillan kerätä tietoja tämän laajennuksen käytöstä.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "allowDataCollection": {
+    "message": "Salli tietojen keruu",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Poista tietojenkeruu käytöstä",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "Rekisteröidy tai kirjaudu sisään"
+  },
+  "popupSettingsTitle": {
+    "message": "Asetukset"
+  },
+  "popupSettingsReturn": {
+    "message": "Palaa pääpaneeliin"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Näytä Relay-kuvake verkkosivustojen sähköpostikentissä",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Salli Mozillan kerätä vuorovaikutustietoja",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Anna palautetta"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Tietosuoja"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Käyttöehdot"
+  },
+  "popupSettingsReportIssue": {
+    "message": "Ilmoita ongelmasta"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "Lähetä ilmoitus"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Ilmoitus lähetetty!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Kiitos, että autat meitä parantamaan Firefox Relay -palvelua!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "Jatka"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Tervetuloa"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Aloita kirjautumalla Relay-palveluun Firefox-tililläsi.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "Jatka"
+  },
+  "labelAllEmailMasks": {
+    "message": "Kaikki sähköpostimaskit",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "pageInputIconGenerateNewAlias": {
+    "message": "Luo uusi alias"
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Luo uusi maski"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Luo uusi satunnainen maski"
+  },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Valitse nykyisistä sähköpostimaskeista",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Muut sähköpostimaskit",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Aiemmin käytetty tällä sivustolla",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Käytä puhelinnumeromaskia"
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Lisää tilin nimi",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
+  "close": {
+    "message": "Sulje"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Ota uudet ominaisuudet käyttöön"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Lue lisää"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Hylkää"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "Salli"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Tietosuojakäytännön päivitys"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Hylkää"
+  }
+}
