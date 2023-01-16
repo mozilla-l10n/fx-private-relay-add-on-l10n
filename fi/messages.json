@@ -1,10 +1,14 @@
 {
   "extensionDescription_v1": {
-    "message": "Firefox Relayn avulla on helppo luoda sähköpostialiaksia, jotka ohjaavat edelleen oikeaan postilaatikkoosi.",
+    "message": "Firefox Relayn avulla on helppoa luoda sähköpostialiaksia, jotka ohjaavat sähköpostiviestit edelleen oikeaan postilaatikkoosi.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescription_mask": {
-    "message": "Firefox Relayn avulla on helppo luoda sähköpostimaskeja, jotka ohjaavat edelleen oikeaan postilaatikkoosi.",
+    "message": "Firefox Relayn avulla on helppoa luoda sähköpostimaskeja, jotka ohjaavat sähköpostiviestit edelleen oikeaan postilaatikkoosi.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescriptionStore": {
+    "message": "Firefox Relay auttaa sinua suojaamaan todellista sähköpostiosoitettasi – sitä, joka on läheisimmin sidottu verkkoidentiteettiisi. Relayn avulla voit luoda yksilöllisiä, satunnaisia aliaksia, joilla voit rekisteröidä tilejä, sovelluksia tai tilata uutiskirjeitä ja lähettää viestejä eteenpäin oikeaan osoitteeseesi. Jos huomaat, että jokin palvelu tai tili lähettää sähköpostiviestejä, joita et halua, tai roskapostia, voit estää aliaksen, jolloin sähköpostiviestin välitys postilaatikkoosi loppuu. Kun et enää halua kyseistä tiliä, voit poistaa aliaksen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -26,6 +30,14 @@
   "disableDataCollection": {
     "message": "Poista tietojenkeruu käytöstä",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP": {
+    "message": "Vuorovaikutustietojen kerääminen, kun esimerkiksi napsautat työkalupalkin Relay-kuvaketta tai luot uuden aliaksen, auttaa meitä ymmärtämään, mikä toimii hyvin ja missä voimme parantaa. Voit aina poistaa tämän ominaisuuden käytöstä Asetukset-paneelista.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Vuorovaikutustietojen kerääminen, kun esimerkiksi napsautat työkalupalkin Relay-kuvaketta tai luot uuden maskin, auttaa meitä ymmärtämään, mikä toimii hyvin ja missä voimme parantaa. Voit aina poistaa tämän ominaisuuden käytöstä Asetukset-paneelista.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
     "message": "Rekisteröidy tai kirjaudu sisään"
@@ -189,6 +201,14 @@
     "message": "Olet Firefox Relay -tehokäyttäjä!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupRegisterDomainHeadline": {
+    "message": "Hanki mukautettu verkkotunnus Relay-sähköpostialiaksille",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupRegisterDomainHeadline_mask": {
+    "message": "Hanki mukautettu aliverkkotunnus Relay-sähköpostimaskeille",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupRegisterDomainButton": {
     "message": "Rekisteröi sähköpostin verkkotunnus"
   },
@@ -228,8 +248,31 @@
     "message": "Firefox Relay voi nyt lähettää edelleen sähköposteja, joiden koko on jopa 25 megatavua, mukaan lukien liitteet.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "Tutustumishintatarjouksemme päättyy pian!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Hanki Relay Premium ennen 27. syyskuuta ja nauti rajattomista maskeista kuukausittaiseen tutustumishintaamme.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "Päivitä nyt"
+  },
+  "popupEndOfIntroPricingCountdownDays": {
+    "message": "pv",
+    "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownHours": {
+    "message": "t",
+    "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
+  },
+  "popupEndOfIntroPricingCountdownMinutes": {
+    "message": "min",
+    "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupEndOfIntroPricingCountdownSeconds": {
+    "message": "s",
+    "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kriittinen sähköpostin edelleenlähetys"
