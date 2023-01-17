@@ -342,6 +342,10 @@
     "message": "Firefoxin salasananhallinta + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
+  "popupPasswordManagerRelayBody": {
+    "message": "Nyt voit käyttää Relay-palvelua suoraan Firefoxin salasananhallinnassa.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "Esittelyssä: Relay + VPN -tilaus",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
@@ -384,6 +388,12 @@
   },
   "popupSignBackInHeadline_mask": {
     "message": "Kirjaudu takaisin sisään sähköpostimaskeillasi"
+  },
+  "popupSignBackInBody": {
+    "message": "Jos haluat luoda uuden aliaksen, kun sinulta kysytään sähköpostia, avaa pikavalikko (napsauta hiiren kakkospainiketta tai Ctrl-napsauta) sähköpostikentässä. Valikon kautta voit luoda uuden aliaksen ja käyttää sitä heti."
+  },
+  "popupSignBackInBody_mask_v2": {
+    "message": "Jos haluat luoda uuden maskin, kun sinulta kysytään sähköpostia, avaa pikavalikko (napsauta hiiren kakkospainiketta tai Ctrl-napsauta) sähköpostikentässä. Valikon kautta voit luoda uuden maskin ja käyttää sitä heti."
   },
   "pageInputIconSignUpText": {
     "message": "Kirjaudu sisään tai luo tili Firefox Relay -sivustolla.",
@@ -477,6 +487,14 @@
   "popupDataCollectionHeadline": {
     "message": "Ota uudet ominaisuudet käyttöön"
   },
+  "popupDataCollectionBody": {
+    "message": "Voit sallia Relayn kerätä valinnaisia tietoja, joiden avulla voimme synkronoida aliastunnisteet laitteidesi välillä niiden verkkosivustojen kanssa, joilla ne on luotu ja käytetty.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Voit sallia Relayn kerätä valinnaisia tietoja, joiden avulla voimme synkronoida maskitunnisteet laitteidesi välillä niiden verkkosivustojen kanssa, joilla ne on luotu ja käytetty.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "Lue lisää"
   },
@@ -488,6 +506,10 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Tietosuojakäytännön päivitys"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Parantaaksemme Firefox Relayn luotettavuutta siinä tapauksessa, että sähköpostia ei voida toimittaa, pidämme sähköpostin väliaikaisesti palvelimillamme, kunnes se on toimitettu. Emme koskaan säilytä sähköpostiviestiä kolmea päivää pidempään.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "Näytä tietosuojakäytäntö"
