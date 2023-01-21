@@ -1,6 +1,6 @@
 {
   "extensionDescription_v1": {
-    "message": "Firefox Relay erleichtert Ihnen das Erstellen von Alias-E-Mail-Adressen, die an Ihren richtigen Posteingang weitergeleitet werden.",
+    "message": "Firefox Relay erleichtert Ihnen das Erstellen von Alias-E-Mail-Adressen, die an Ihren echten Posteingang weitergeleitet werden.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescription_mask": {
@@ -447,7 +447,7 @@
     "message": "Neueste Masken"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Maske für Handynummern verwenden"
+    "message": "Telefonnummer-Maske verwenden"
   },
   "pageInputIconMaxAliasesError": {
     "message": "Sie haben bereits die maximale Anzahl von Alias-Adressen erstellt",
