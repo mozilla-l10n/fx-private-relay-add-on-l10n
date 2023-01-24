@@ -173,6 +173,12 @@
     "popupAliasesUsed_mask": {
         "message": "Email masks used"
     },
+    "popupTotalMasksUsed": {
+        "message": "Total email masks used"
+    },
+    "popupMasksUsedInThisWebsite": {
+        "message": "Masks used on this website"
+    },
     "popupEmailsBlocked": {
         "message": "Emails blocked"
     },
