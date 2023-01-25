@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relayn avulla on helppoa luoda sähköpostialiaksia, jotka ohjaavat sähköpostiviestit edelleen oikeaan postilaatikkoosi.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relayn avulla on helppoa luoda sähköpostimaskeja, jotka ohjaavat sähköpostiviestit edelleen oikeaan postilaatikkoosi.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay auttaa sinua suojaamaan todellista sähköpostiosoitettasi – sitä, joka on läheisimmin sidottu verkkoidentiteettiisi. Relayn avulla voit luoda yksilöllisiä, satunnaisia aliaksia, joilla voit rekisteröidä tilejä, sovelluksia tai tilata uutiskirjeitä ja lähettää viestejä eteenpäin oikeaan osoitteeseesi. Jos huomaat, että jokin palvelu tai tili lähettää sähköpostiviestejä, joita et halua, tai roskapostia, voit estää aliaksen, jolloin sähköpostiviestin välitys postilaatikkoosi loppuu. Kun et enää halua kyseistä tiliä, voit poistaa aliaksen.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay auttaa sinua suojaamaan oikeaa sähköpostiosoitettasi – sitä, joka on läheisimmin sidottu verkkoidentiteettiisi. Relayn avulla voit luoda yksilöllisiä, satunnaisia maskeja, joilla voit rekisteröidä tilejä, sovelluksia tai tilata uutiskirjeitä ja lähettää viestejä eteenpäin oikeaan osoitteeseesi. Jos huomaat, että jokin palvelu tai tili lähettää sähköpostiviestejä, joita et halua, tai roskapostia, voit estää maskin, jolloin sähköpostiviestin välitys postilaatikkoosi loppuu. Kun et enää halua kyseistä tiliä, voit poistaa maskin.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Poista tietojenkeruu käytöstä",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Vuorovaikutustietojen kerääminen, kun esimerkiksi napsautat työkalupalkin Relay-kuvaketta tai luot uuden aliaksen, auttaa meitä ymmärtämään, mikä toimii hyvin ja missä voimme parantaa. Voit aina poistaa tämän ominaisuuden käytöstä Asetukset-paneelista.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Vuorovaikutustietojen kerääminen, kun esimerkiksi napsautat työkalupalkin Relay-kuvaketta tai luot uuden maskin, auttaa meitä ymmärtämään, mikä toimii hyvin ja missä voimme parantaa. Voit aina poistaa tämän ominaisuuden käytöstä Asetukset-paneelista.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Jatka"
   },
-  "popupRemainingAliases_2": {
-    "message": "Aliaksia jäljellä: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Maskeja jäljellä: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Viimeksi käytetyt sähköpostimaskit",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Hanki rajattomasti aliaksia"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Hanki rajattomasti maskeja"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Aliaksia luotu: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Maskeja luotu: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Näytä edellinen paneeli"
   },
   "popupOnboardingShowNext": {
     "message": "Siirry seuraavaan paneeliin"
-  },
-  "ManageAllAliases": {
-    "message": "Hallitse kaikkia aliaksia"
   },
   "ManageAllAliases_mask": {
     "message": "Hallitse kaikkia maskeja"
@@ -201,10 +160,6 @@
     "message": "Olet Firefox Relay -tehokäyttäjä!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Hanki mukautettu verkkotunnus Relay-sähköpostialiaksille",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Hanki mukautettu aliverkkotunnus Relay-sähköpostimaskeille",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Rekisteröi sähköpostin aliverkkotunnus"
-  },
-  "popupAliasesUsed": {
-    "message": "Sähköpostialiaksia käytetty"
   },
   "popupAliasesUsed_mask": {
     "message": "Sähköpostimaskeja käytetty"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kriittinen sähköpostin edelleenlähetys"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium mahdollistaa vain tärkeiden sähköpostien vastaanottamisen aliakselle. Saat sähköpostiviestejä, kuten kuitteja, mutta et markkinointiviestejä.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium mahdollistaa vain tärkeiden sähköpostien vastaanottamisen maskille. Saat sähköpostiviestejä, kuten kuitteja, mutta et markkinointiviestejä.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Estä mainossähköpostit"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Ota käyttöön Estä mainossähköpostit aliaksessa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Ota käyttöön Estä mainossähköpostit maskissa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Uutta!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Kirjaudu takaisin sisään aliaksillasi"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Kirjaudu takaisin sisään sähköpostimaskeillasi"
-  },
-  "popupSignBackInBody": {
-    "message": "Jos haluat luoda uuden aliaksen, kun sinulta kysytään sähköpostia, avaa pikavalikko (napsauta hiiren kakkospainiketta tai Ctrl-napsauta) sähköpostikentässä. Valikon kautta voit luoda uuden aliaksen ja käyttää sitä heti."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Jos haluat luoda uuden maskin, kun sinulta kysytään sähköpostia, avaa pikavalikko (napsauta hiiren kakkospainiketta tai Ctrl-napsauta) sähköpostikentässä. Valikon kautta voit luoda uuden maskin ja käyttää sitä heti."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Siirry Firefox Relay -palveluun",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Luo uusi alias"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Luo uusi maski"
@@ -424,9 +356,6 @@
     "message": "Aiemmin käytetty tällä sivustolla",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Hanki rajattomasti aliaksia"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Hanki rajattomasti maskeja"
   },
@@ -434,14 +363,8 @@
     "message": "Liity Premium-odotuslistalle",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Käytä tämän sivuston olemassa olevaa aliasta…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Käytä tämän sivuston olemassa olevaa maskia…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Viimeisimmät aliakset"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Viimeisimmät maskit"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Käytä puhelinnumeromaskia"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Olet jo luonut enimmäismäärän aliaksia",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Olet jo luonut enimmäismäärän maskeja",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Olet saavuttanut aliasten rajan."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Olet saavuttanut maskien rajan."
   },
   "pageNoMasksRemaining": {
     "message": "Sinulla ei ole enää ilmaisia sähköpostimaskeja jäljellä.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Ota uudet ominaisuudet käyttöön"
-  },
-  "popupDataCollectionBody": {
-    "message": "Voit sallia Relayn kerätä valinnaisia tietoja, joiden avulla voimme synkronoida aliastunnisteet laitteidesi välillä niiden verkkosivustojen kanssa, joilla ne on luotu ja käytetty.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Voit sallia Relayn kerätä valinnaisia tietoja, joiden avulla voimme synkronoida maskitunnisteet laitteidesi välillä niiden verkkosivustojen kanssa, joilla ne on luotu ja käytetty.",
