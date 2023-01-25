@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Το Firefox Relay διευκολύνει τη δημιουργία ψευδώνυμων email που κάνουν προώθηση στα πραγματικά εισερχόμενά σας.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Το Firefox Relay διευκολύνει τη δημιουργία μασκών email που κάνουν προώθηση στα πραγματικά εισερχόμενά σας.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Το Firefox Relay σάς βοηθά να προστατεύσετε την πραγματική διεύθυνση email σας — το κυριότερο στοιχείο της διαδικτυακής σας ταυτότητας. Επιτρέπει τη δημιουργία μοναδικών, τυχαίων ψευδωνύμων που μπορείτε να χρησιμοποιήσετε για λογαριασμούς, εφαρμογές ή ενημερωτικά δελτία και προωθεί τα μηνύματα στην πραγματική σας διεύθυνση. Αν ένας λογαριασμός στέλνει ανεπιθύμητα email, μπορείτε να αποκλείσετε την αποστολή email από το ψευδώνυμο στα εισερχόμενά σας. Εάν δεν χρειάζεστε πλέον έναν λογαριασμό, μπορείτε να διαγράψετε το ψευδώνυμο.",
+  "extensionDescriptionStore_mask": {
+    "message": "Το Firefox Relay σάς βοηθά να προστατεύσετε την πραγματική διεύθυνση email σας — το κυριότερο στοιχείο της διαδικτυακής σας ταυτότητας. Επιτρέπει τη δημιουργία μοναδικών, τυχαίων μασκών που μπορείτε να χρησιμοποιήσετε για λογαριασμούς, εφαρμογές ή ενημερωτικά δελτία και προωθεί τα μηνύματα στην πραγματική σας διεύθυνση. Αν ένας λογαριασμός στέλνει ανεπιθύμητα email, μπορείτε να αποκλείσετε την αποστολή email από τη μάσκα στα εισερχόμενά σας. Εάν δεν χρειάζεστε πλέον έναν λογαριασμό, μπορείτε να διαγράψετε τη μάσκα.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Απενεργοποίηση συλλογή δεδομένων",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Τα δεδομένα αλληλεπίδρασης συλλέγονται όταν κάνετε διάφορες ενέργειες, όπως κλικ στο εικονίδιο του Relay ή δημιουργία νέου ψευδωνύμου. Μας βοηθούν να δούμε τι λειτουργεί σωστά και τι μπορούμε να βελτιώσουμε. Μπορείτε πάντα να απενεργοποιήσετε τη συλλογή από τον πίνακα ρυθμίσεων.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Τα δεδομένα αλληλεπίδρασης συλλέγονται όταν κάνετε διάφορες ενέργειες, όπως κλικ στο εικονίδιο του Relay ή δημιουργία νέας μάσκας. Μας βοηθούν να δούμε τι λειτουργεί σωστά και τι μπορούμε να βελτιώσουμε. Μπορείτε πάντα να απενεργοποιήσετε τη συλλογή από τον πίνακα ρυθμίσεων.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
   },
-  "popupRemainingAliases_2": {
-    "message": "Υπολειπόμενα ψευδώνυμα: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Υπολειπόμενες μάσκες: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Πρόσφατες μάσκες email",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Απόκτηση απεριόριστων ψευδωνύμων"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Απόκτηση απεριόριστων μασκών"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Ψευδώνυμα χρήστη: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Μάσκες χρήστη: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Εμφάνιση προηγούμενου πίνακα"
   },
   "popupOnboardingShowNext": {
     "message": "Μετάβαση στον επόμενο πίνακα"
-  },
-  "ManageAllAliases": {
-    "message": "Διαχείριση όλων των ψευδωνύμων"
   },
   "ManageAllAliases_mask": {
     "message": "Διαχείριση όλων των μασκών"
@@ -201,10 +160,6 @@
     "message": "Αξιοποιείτε το Firefox Relay στο έπακρό του!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Απόκτηση προσαρμοσμένου τομέα για ψευδώνυμα email Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Απόκτηση προσαρμοσμένου υποτομέα για μάσκες email του Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Καταχώρηση υποτομέα email"
-  },
-  "popupAliasesUsed": {
-    "message": "Ψευδώνυμα email σε χρήση"
   },
   "popupAliasesUsed_mask": {
     "message": "Μάσκες email σε χρήση"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Προώθηση κρίσιμων email"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Το Relay Premium σάς επιτρέπει να λαμβάνετε μόνο τα κρίσιμα email που αποστέλλονται σε ένα ψευδώνυμο. Θα λαμβάνετε email, όπως αποδείξεις, αλλά όχι διαφημιστικά email.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Το Relay Premium σάς επιτρέπει να λαμβάνετε μόνο τα κρίσιμα email που αποστέλλονται σε μια μάσκα. Θα λαμβάνετε email, όπως αποδείξεις, αλλά όχι διαφημιστικά email.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Φραγή διαφημιστικών email"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε ένα ψευδώνυμο για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε μια μάσκα για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Νέο!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Συνδεθείτε ξανά με τα ψευδώνυμά σας"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Συνδεθείτε ξανά με τις μάσκες email σας"
-  },
-  "popupSignBackInBody": {
-    "message": "Για να δημιουργήσετε ένα νέο ψευδώνυμο όταν σας ζητείται το email σας, ανοίξτε το μενού επιλογών (με δεξί κλικ ή control-κλικ) σε ένα πεδίο email. Από εκεί, μπορείτε να δημιουργήσετε και να χρησιμοποιήσετε άμεσα ένα νέο ψευδώνυμο."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Για να δημιουργήσετε μια νέα μάσκα email όταν σας ζητείται το email σας, ανοίξτε το μενού επιλογών (με δεξί κλικ ή control-κλικ) σε ένα πεδίο email. Από εκεί, μπορείτε να δημιουργήσετε και να χρησιμοποιήσετε άμεσα μια νέα μάσκα."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Μετάβαση στο Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Δημιουργία νέου ψευδωνύμου"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Δημιουργία νέας μάσκας"
@@ -424,9 +356,6 @@
     "message": "Προηγούμενες μάσκες ιστοτόπου",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Απόκτηση απεριόριστων ψευδώνυμων"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Απόκτηση απεριόριστων μασκών"
   },
@@ -434,14 +363,8 @@
     "message": "Εγγραφή στη λίστα αναμονής του Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Χρήση υπάρχοντος ψευδωνύμου από τον ιστότοπο…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Χρήση υπάρχουσας μάσκας από τον ιστότοπο…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Πρόσφατα ψευδώνυμα"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Πρόσφατες μάσκες"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Χρήση μάσκας αριθμού τηλεφώνου"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Έχετε ήδη δημιουργήσει τον μέγιστο αριθμό ψευδωνύμων",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Έχετε ήδη δημιουργήσει τον μέγιστο αριθμό μασκών",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Έχετε φτάσει το όριο ψευδωνύμων."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Έχετε φτάσει το όριο μασκών."
   },
   "pageNoMasksRemaining": {
     "message": "Δεν έχετε άλλες δωρεάν μάσκες email.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Ενεργοποίηση νέων λειτουργιών"
-  },
-  "popupDataCollectionBody": {
-    "message": "Μπορείτε να επιτρέψετε στο Relay τη συλλογή προαιρετικών δεδομένων που μας επιτρέπουν να συγχρονίζουμε τις ετικέτες των ψευδωνύμων σας στις συσκευές σας με τους ιστοτόπους όπου δημιουργήθηκαν και χρησιμοποιήθηκαν.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Μπορείτε να επιτρέψετε στο Relay τη συλλογή προαιρετικών δεδομένων που μας επιτρέπουν να συγχρονίζουμε τις ετικέτες των μασκών σας στις συσκευές σας με τους ιστοτόπους όπου δημιουργήθηκαν και χρησιμοποιήθηκαν.",
