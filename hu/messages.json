@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "A Firefox Relay megkönnyíti az e-mail álnevek létrehozását, amelyek a valódi postaládájába továbbítják a leveleket.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "A Firefox Relay megkönnyíti az e-mail-maszkok létrehozását, amelyek a valódi postaládájába továbbítják a leveleket.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "A Firefox Relay segít megvédeni valódi e-mail címét – amely a legszorosabban kötődik online személyazonosságához. Lehetővé teszi az egyedi, véletlenszerű álnevek létrehozását, melyek segítségével fiókokat, alkalmazásokat vagy hírleveleket regisztrálhat, és az üzeneteket a valós címére továbbítja. Ha úgy találja, hogy egy fiók nem kívánt e-maileket vagy levélszemetet küld, akkor letilthatja az álnevet, és az többé nem küld e-maileket a beérkező levelek mappájába. Ha már nem szeretne egy fiókot, akkor törölheti az álnevet.",
+  "extensionDescriptionStore_mask": {
+    "message": "A Firefox Relay segít megvédeni valódi e-mail címét – amely a legszorosabban kötődik online személyazonosságához. Lehetővé teszi az egyedi, véletlenszerű maszkok létrehozását, melyek segítségével fiókokat, alkalmazásokat vagy hírleveleket regisztrálhat, és az üzeneteket a valós címére továbbítja. Ha úgy találja, hogy egy fiók nem kívánt e-maileket vagy levélszemetet küld, akkor letilthatja a maszkot, és az többé nem küld e-maileket a beérkező levelek mappájába. Ha már nem szeretne egy fiókot, akkor törölheti a maszkot.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Adatgyűjtés letiltása",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Az interakciós adatok gyűjtése, amikor a Relay ikonra kattint az eszköztáron vagy egy új álnevet hoz létre, segítenek megtudnunk, hogy mi működik jól, és hol fejleszthetünk. Ezt bármikor kikapcsolhatja a Beállítások panelen.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Az interakciós adatok gyűjtése, amikor a Relay ikonra kattint az eszköztáron vagy egy új maszkot hoz létre, segítenek megtudnunk, hogy mi működik jól, és hol fejleszthetünk. Ezt bármikor kikapcsolhatja a Beállítások panelen.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Folytatás"
   },
-  "popupRemainingAliases_2": {
-    "message": "Hátralévő álnevek: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Hátralévő maszkok: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Nemrég használt e-mail-maszkok",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Szerezzen korlátlan számú álnevet"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Szerezzen korlátlan számú maszkot"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Létrehozott álnevek: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Létrehozott maszkok: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Előző panel megjelenítése"
   },
   "popupOnboardingShowNext": {
     "message": "Ugrás a következő panelre"
-  },
-  "ManageAllAliases": {
-    "message": "Összes álnév kezelése"
   },
   "ManageAllAliases_mask": {
     "message": "Összes maszk kezelése"
@@ -201,10 +160,6 @@
     "message": "Ön egy komoly Firefox Relay felhasználó!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Szerezzen egyéni domaint a Relay e-mail álnevekhez",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Szerezzen egyéni aldomaint a Relay e-mail-maszkokhoz",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "E-mail aldomain regisztrálása"
-  },
-  "popupAliasesUsed": {
-    "message": "Használt e-mail álnevek"
   },
   "popupAliasesUsed_mask": {
     "message": "Használt e-mail-maszkok"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kritikus e-mailek továbbítása"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "A Relay Premium lehetővé teszi, hogy csak az álnévre küldött kritikus e-maileket fogadja. Meg fogja kapni például nyugtákat, de marketing e-maileket nem.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "A Relay Premium lehetővé teszi, hogy csak a maszkra küldött kritikus e-maileket fogadja. Meg fogja kapni például nyugtákat, de marketing e-maileket nem.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Promóciós e-mailek blokkolása"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Engedélyezze a Promóciós e-mailek letiltását egy álnéven, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Engedélyezze a Promóciós e-mailek letiltását egy maszkon, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Új!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Jelentkezzen be újra az álneveivel"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Jelentkezzen be újra az e-mail-maszkjaival"
-  },
-  "popupSignBackInBody": {
-    "message": "Ha új álnevet szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új álnevet."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Ha új e-mail-maszkot szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új maszkot."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Ugrás a Firefox Relayhez",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Új alias létrehozása"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Új maszk előállítása"
@@ -424,9 +356,6 @@
     "message": "Korábban ezen a weboldalon használt",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Szerezzen korlátlan számú álnevet"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Szerezzen korlátlan számú maszkot"
   },
@@ -434,14 +363,8 @@
     "message": "Csatlakozzon a Premium várólistához",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Meglévő álnév használata erről a webhelyről…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Meglévő maszk használata erről a webhelyről…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Legutóbbi álnevek"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Legújabb maszkok"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Telefonszámmaszk használata"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Már létrehozta a maximális számú álnevet",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Már létrehozta a maximális számú maszkot",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Elérte az álnevek korlátját."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Elérte a maszkok korlátját."
   },
   "pageNoMasksRemaining": {
     "message": "Nincs több ingyenes e-mail-maszkja.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Új funkciók engedélyezése"
-  },
-  "popupDataCollectionBody": {
-    "message": "Engedélyezheti a Relay számára, hogy nem kötelező adatokat gyűjtsön, amely lehetővé teszik számunkra, hogy szinkronizáljuk a webhelyekhez létrehozott és használt álnévcímkéit az eszközei között.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Engedélyezheti a Relay számára, hogy nem kötelező adatokat gyűjtsön, ami lehetővé teszik számunkra, hogy szinkronizáljuk a webhelyekhez létrehozott és használt maszkcímkéit az eszközei között.",
