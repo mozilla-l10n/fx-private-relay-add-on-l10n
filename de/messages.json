@@ -1,13 +1,9 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay erleichtert Ihnen das Erstellen von Alias-E-Mail-Adressen, die an Ihren echten Posteingang weitergeleitet werden.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay macht es einfach, E-Mail-Masken zu erstellen, die E-Mails an Ihren echten Posteingang weiterleiten.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
+  "extensionDescriptionStore_mask": {
     "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige E-Mail-Masken generieren, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die E-Mail-Maske blockieren, damit keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die E-Mail-Maske löschen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Datensammlung deaktivieren",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Alias-Adresse erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in den Einstellungen deaktivieren.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Das Sammeln von Interaktionsdaten, wenn Sie beispielsweise auf das Relay-Symbol in Ihrer Symbolleiste klicken oder eine neue Maske erstellen, hilft uns zu verstehen, was gut funktioniert und wo wir uns verbessern können. Sie können dies jederzeit in der Einstellungsansicht deaktivieren.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Weiter"
   },
-  "popupRemainingAliases_2": {
-    "message": "Verbleibende Alias-Adressen: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Verbleibende Masken: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Kürzlich verwendete E-Mail-Masken",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Unbegrenzt viele Alias-Adressen erhalten"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Unbegrenzt viele E-Mail-Masken erhalten"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Erstellte Alias-Adressen: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Erstellte Masken: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Vorherige Ansicht anzeigen"
   },
   "popupOnboardingShowNext": {
     "message": "Zur nächsten Ansicht gehen"
-  },
-  "ManageAllAliases": {
-    "message": "Alle Alias-E-Mail-Adressen verwalten"
   },
   "ManageAllAliases_mask": {
     "message": "Alle Masken verwalten"
@@ -201,10 +160,6 @@
     "message": "Sie sind ein Firefox-Relay-Power-User!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Holen Sie sich eine benutzerdefinierte Domain für Alias-E-Mail-Adressen bei Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Eine benutzerdefinierte Subdomain für Relay-E-Mail-Masken erhalten",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "E-Mail-Subdomain registrieren"
-  },
-  "popupAliasesUsed": {
-    "message": "Verwendete Alias-E-Mail-Adressen"
   },
   "popupAliasesUsed_mask": {
     "message": "Verwendete E-Mail-Masken"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Weiterleitung wichtiger E-Mails"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Alias-E-Mail-Adresse gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Mit Relay Premium haben Sie die Möglichkeit, nur wichtige E-Mails zu empfangen, die an eine Maske gesendet wurden. Sie erhalten E-Mails wie Quittungen, aber keine Werbe-E-Mails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Werbe-E-Mails blockieren"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Aktivieren Sie bei einer Alias-E-Mail-Adresse die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Aktivieren Sie bei einer Maske die Funktion „Werbe-E-Mails blockieren“, um zu verhindern, dass Werbe-E-Mails Ihren Posteingang erreichen."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Neu!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Melden Sie sich mit Ihren Alias-E-Mail-Adressen wieder an"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Melden Sie sich mit Ihren E-Mail-Masken wieder an"
-  },
-  "popupSignBackInBody": {
-    "message": "Um eine neue Alias-E-Mail-Adresse zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Alias-E-Mail-Adresse erstellen und verwenden."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Um eine neue E-Mail-Maske zu erstellen, wenn Sie nach einer E-Mail-Adresse gefragt werden, öffnen Sie das Kontextmenü (Rechtsklick oder Strg + Klick) in einem E-Mail-Adressfeld. Von dort können Sie sofort eine neue Maske erstellen und verwenden."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Firefox Relay besuchen",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Neue Alias-Adresse erzeugen"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Neue Maske erzeugen"
@@ -424,9 +356,6 @@
     "message": "Bisher auf dieser Website verwendet",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Unbegrenzt viele Alias-Adressen erhalten"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Unbegrenzt viele E-Mail-Masken erhalten"
   },
@@ -434,14 +363,8 @@
     "message": "Auf Premium-Warteliste eintragen",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Vorhandene Alias-E-Mail-Adresse von dieser Website verwenden…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Vorhandene Maske von dieser Website verwenden…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Kürzlich verwendete Alias-E-Mail-Adressen"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Neueste Masken"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Telefonnummer-Maske verwenden"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Sie haben bereits die maximale Anzahl von Alias-Adressen erstellt",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Sie haben bereits die maximale Anzahl an Masken erstellt",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Sie haben die Grenze für Alias-Adressen erreicht."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Sie haben die Grenze für Masken erreicht."
   },
   "pageNoMasksRemaining": {
     "message": "Sie haben keine kostenlosen E-Mail-Masken mehr.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Neue Funktionen aktivieren"
-  },
-  "popupDataCollectionBody": {
-    "message": "Sie können Relay erlauben, optionale Daten zu sammeln, die es uns ermöglichen, Ihre Alias-Beschriftungen über Ihre Geräte hinweg mit den Websites zu synchronisieren, auf denen sie erstellt und verwendet werden.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Sie können Relay erlauben, optionale Daten zu sammeln, die es uns ermöglichen, Ihre Masken-Beschriftungen über Ihre Geräte hinweg mit den Websites zu synchronisieren, auf denen sie erstellt und verwendet werden.",
