@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay rende facile crear aliases de e-mail que inultra a tu real cassa de ingresso.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay rende facile crear mascas email que inultra a tu real cassa de ingresso.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay te adjuta a proteger tu real adresse e-mail, le major parte del los intimemente ligate a tu identitate online. Illo te permitte de generar unic, aliases aleatori que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e inultra messages a tu real adresse. Si tu trova que un conto invia indesirate e-mail o SPAM, tu pote blocar le alias e illo stoppara le invio de e-mail a tu cassa de ingresso. Un vice tu non plus vole un conto, tu pote deler le alias.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay te adjuta a proteger tu ver adresse email, illo que es le plus intimemente ligate a tu identitate online. Illo te permitte de generar mascas unic, aleatori, que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e inultrar messages a tu ver adresse. Si tu trova que un conto invia email indesirate o spam, tu pote blocar le masca e illo stoppara le invio de email a tu cassa de ingresso. Un vice que tu non vole plus un conto, tu pote deler le masca.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Disactivar le collection de datos",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Colliger datos de interaction quando tu face cosas como cliccar le icone de Relay in tu barra del instrumentos o crear un nove alias adjuta nos a apprender lo que functiona ben e ubi nos pote meliorar. Tu pote sempre disactivar isto in le quadro del parametros.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Colliger datos de interaction quando tu face cosas como cliccar le icone de Relay in tu barra del instrumentos o crear un nove masca adjuta nos a apprender lo que functiona ben e ubi nos pote meliorar. Tu pote sempre disactivar isto in le quadro del parametros.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
-  "popupRemainingAliases_2": {
-    "message": "Aliases restante: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Mascas restante: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Mascas email recentemente usate",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Obtene aliases illimitate"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Obtener mascas illimitate"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Aliases create: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Mascas create: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Monstrar le quadro previe"
   },
   "popupOnboardingShowNext": {
     "message": "Ir a quadro successive"
-  },
-  "ManageAllAliases": {
-    "message": "Gerer tote le Aliases"
   },
   "ManageAllAliases_mask": {
     "message": "Gerer tote le mascas"
@@ -201,10 +160,6 @@
     "message": "Tu es un usator de potentia de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Obtene un dominio personal pro le aliases de e-mail de Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Obtene un subdominio personal pro le mascas email de Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Registrar un subdominio email"
-  },
-  "popupAliasesUsed": {
-    "message": "Un instrumento de protection universal"
   },
   "popupAliasesUsed_mask": {
     "message": "Mascas email usate"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Inultramento de e-mail critic"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium te permitte de reciper solo e-mails critic inviate a un alias. Tu recipera e-mails tal como quitantias, ma non e-mails de marketing.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium te permitte de reciper solo emails critic inviate a un masca. Tu recipera emails como quitantias, ma non emails de marketing.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blocar e-mails promotional"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Activar le blocada del e-mails promotional sur un alias pro stoppar le e-mails de marketing de attinger tu cassa de ingresso."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Activar le blocada de emails promotional sur un masca pro stoppar emails de marketing que attinge tu cassa de ingresso."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Nove!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Re-accesso per proprie aliases"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Re-accesso per proprie mascas email"
-  },
-  "popupSignBackInBody": {
-    "message": "Pro crear un nove alias quando te es requirite tu e-mail, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove alias immediatemente."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Pro crear un nove masca email quando te es requirite tu email, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove masca immediatemente."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Ir a Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Generar nove alias"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Generar un nove masca"
@@ -424,9 +356,6 @@
     "message": "Previemente usate sur iste sito web",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Obtene aliases illimitate"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Obtener mascas illimitate"
   },
@@ -434,14 +363,8 @@
     "message": "Junge te al lista de attendentia premio",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Usar alias existente ab iste sito…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Usar un masca existente ab iste sito…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Aliases recente"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Mascas recente"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Usa le masca de numero de telephono"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Tu ha jam create le maxime numero de aliases",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Tu ha jam create le maxime numero de mascas",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Tu ha attingite le limite de alias."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Tu ha attingite le limite de mascas."
   },
   "pageNoMasksRemaining": {
     "message": "Tu non ha altere mascas gratuite.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Activar nove functiones"
-  },
-  "popupDataCollectionBody": {
-    "message": "Tu pote permitter a Relay de colliger datos optional pro nos consentir de synchronisar tu etiquettas alias inter apparatos con le sitos web ubi illos ha essite create e es usate.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Tu pote permitter a Relay de colliger datos optional pro nos consentir de synchronisar tu etiquettas de masca inter apparatos con le sitos web ubi illos ha essite create e es usate.",
