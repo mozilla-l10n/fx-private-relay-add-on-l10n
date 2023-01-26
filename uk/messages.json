@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay дає змогу легко створювати псевдоадреси електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay дає змогу легко створювати маски електронної пошти, які пересилають листи у вашу справжню скриньку «Вхідні».",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay допомагає вам захистити вашу справжню адресу електронної пошти — ту, яка найтісніше пов’язана з вашою особою в інтернеті. Служба дає змогу генерувати унікальні випадкові псевдоадреси, які можна використовувати для реєстрації в облікових записах, застосунках або інформаційних бюлетенях, а також пересилає повідомлення на вашу справжню адресу. Якщо ви виявите, що обліковий запис надсилає небажану електронну пошту або спам, ви можете заблокувати псевдоадресу, і вона припинить надсилання електронної пошти у вашу теку «Вхідні». Якщо ви більше не потребуєте цього облікового запису, ви можете видалити псевдоадресу.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay допомагає вам захистити вашу справжню адресу електронної пошти — ту, яка найтісніше пов’язана з вашою особою в інтернеті. Служба дає змогу генерувати унікальні випадкові маски, які можна використовувати для реєстрації в облікових записах, застосунках або інформаційних бюлетенях, а також пересилає повідомлення на вашу справжню адресу. Якщо ви виявите, що обліковий запис надсилає небажану електронну пошту або спам, ви можете заблокувати маску, і вона припинить надсилання електронної пошти у вашу теку «Вхідні». Якщо ви більше не потребуєте цього облікового запису, ви можете видалити маску.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Вимкнути збір даних",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Збір даних про взаємодію, коли ви робите такі дії, як-от натискання піктограми Relay на панелі інструментів або створення нової псевдоадреси е-пошти, допомагає нам дізнатися, що працює добре і що ми можемо вдосконалити. Ви завжди можете вимкнути це на панелі налаштувань.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Збір даних про взаємодію, коли ви робите такі дії, як-от натискання піктограми Relay на панелі інструментів або створення нової маски адреси електронної пошти, допомагає нам дізнатися, що працює добре і що ми можемо вдосконалити. Ви завжди можете вимкнути це на панелі налаштувань.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Продовжити"
   },
-  "popupRemainingAliases_2": {
-    "message": "Залишилося псевдоадрес: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Залишилось масок: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Нещодавно використані маски електронної пошти",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Отримати необмежену кількість псевдоадрес"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Отримати необмежену кількість масок"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Створено псевдоадрес: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Створено масок: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Показати попередню панель"
   },
   "popupOnboardingShowNext": {
     "message": "Перейти до наступної панелі"
-  },
-  "ManageAllAliases": {
-    "message": "Керувати всіма псевдоадресами"
   },
   "ManageAllAliases_mask": {
     "message": "Керувати всіма масками"
@@ -201,10 +160,6 @@
     "message": "Ви — активний користувач Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Отримайте власний домен для псевдоадрес е-пошти Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Отримайте власний субдомен для масок адрес електронної пошти Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Зареєструвати субдомен е-пошти"
-  },
-  "popupAliasesUsed": {
-    "message": "Використовувані псевдоадреси е-пошти"
   },
   "popupAliasesUsed_mask": {
     "message": "Використовувані маски електронної пошти"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Пересилання важливих листів"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium дозволяє отримувати лише важливі електронні листи, надіслані на псевдоадресу. Ви отримуватимете електронні листи, як-от квитанції, але не рекламу.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium дозволяє отримувати лише важливі електронні листи, надіслані на маску. Ви отримуватимете електронні листи, як-от квитанції, але не рекламу.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Блокуйте промоційні листи"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Увімкніть блокування промоційних електронних листів псевдоадресою, щоб маркетингові листи не надходили до вашої теки вхідних."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Увімкніть блокування промоційних електронних листів маскою, щоб маркетингові листи не надходили до вашої теки вхідних."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Новинка!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Увійдіть використовуючи свої псевдоадреси"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Увійдіть використовуючи свої маски електронної пошти"
-  },
-  "popupSignBackInBody": {
-    "message": "Щоб створити нову псевдоадресу, коли вас попросять ввести електронну пошту, відкрийте контекстне меню (клацніть правою кнопкою миші або клацніть, утримуючи клавішу Control) у полі електронної пошти. Звідти ви можете відразу створити та використовувати нову псевдоадресу."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Щоб створити нову маску електронної пошти, коли вас попросять ввести електронну пошту, відкрийте контекстне меню (клацніть правою кнопкою миші або клацніть, утримуючи клавішу Control) у полі електронної пошти. Звідти ви можете відразу створити та використовувати нову маску."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Перейти до Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Створити нову псевдоадресу"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Створити нову маску"
@@ -424,9 +356,6 @@
     "message": "Раніше використані на цьому вебсайті",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Отримати необмежену кількість псевдоадрес"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Отримати необмежену кількість масок"
   },
@@ -434,14 +363,8 @@
     "message": "Приєднатися до списку очікування Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Використовувати наявну псевдоадресу з цього сайту…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Використовувати наявну маску з цього сайту…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Останні псевдоадреси"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Останні маски"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Використати маску номера телефону"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Ви вже створили максимальну кількість псевдоадрес",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Ви вже створили максимальну кількість масок",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Ви досягли обмеження кількості псевдоадрес."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Ви досягли обмеження кількості масок."
   },
   "pageNoMasksRemaining": {
     "message": "У вас більше немає безплатних масок електронної пошти.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Увімкнути нові функції"
-  },
-  "popupDataCollectionBody": {
-    "message": "Ви можете дозволити Relay збирати додаткові дані, які дозволяють нам синхронізувати ваші псевдоадреси на ваших пристроях із вебсайтами, де вони створюються та використовуються.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Ви можете дозволити Relay збирати додаткові дані, які дозволяють нам синхронізувати ваші маски на ваших пристроях із вебсайтами, де вони створюються та використовуються.",
