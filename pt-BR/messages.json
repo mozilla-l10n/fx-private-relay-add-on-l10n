@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "O Firefox Relay facilita criar endereços de redirecionamento de email, que encaminham mensagens para sua caixa de entrada real.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "O Firefox Relay facilita criar máscaras de email, que encaminham mensagens para sua caixa de entrada real.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "O Firefox Relay te ajuda a proteger seu endereço de email real, aquele mais intimamente ligado à sua identidade online. Ele permite gerar endereços de redirecionamento únicos e aleatórios, que você pode usar para criar contas ou se inscrever em aplicativos e boletins informativos. As mensagens são encaminhadas para seu endereço real. Se perceber que uma conta está enviando emails indesejados ou spam, você pode bloquear o endereço de redirecionamento e ele deixará de enviar emails para sua caixa de entrada. Quando não quiser mais uma conta, você pode excluir o endereço de redirecionamento.",
+  "extensionDescriptionStore_mask": {
+    "message": "O Firefox Relay ajuda a proteger seu endereço de email verdadeiro, aquele mais intimamente ligado à sua identidade online. Ele permite gerar máscaras únicas e aleatórias, que você pode usar para criar contas ou se inscrever em aplicativos e boletins informativos. As mensagens são encaminhadas para seu endereço verdadeiro. Se perceber que uma conta está enviando emails indesejados ou spam, você pode bloquear a máscara e ela deixará de enviar emails para sua caixa de entrada. Quando não quiser mais uma conta, você pode excluir a máscara.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Desativar coleta de dados",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Coletar dados de interação quando você fizer coisas como clicar no ícone do Relay na barra de ferramentas ou criar um endereço de redirecionamento, nos ajuda a saber o que está funcionando bem e onde podemos melhorar. Você sempre pode desativar isso no painel de configurações.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Coletar dados de interação quando você fizer coisas como clicar no ícone do Relay na barra de ferramentas ou criar uma máscara nos ajuda a saber o que está funcionando bem e onde podemos melhorar. Você sempre pode desativar isso no painel de configurações.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Avançar"
   },
-  "popupRemainingAliases_2": {
-    "message": "Endereços restantes: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Máscaras restantes: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Máscaras de email usadas recentemente",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Tenha endereços de redirecionamento ilimitados"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Tenha máscaras ilimitadas"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Endereços de redirecionamento criados: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Máscaras criadas: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Exibir painel anterior"
   },
   "popupOnboardingShowNext": {
     "message": "Ir para o próximo painel"
-  },
-  "ManageAllAliases": {
-    "message": "Gerenciar endereços de redirecionamento"
   },
   "ManageAllAliases_mask": {
     "message": "Gerenciar todas as máscaras"
@@ -201,10 +160,6 @@
     "message": "Você é um usuário avançado do Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Tenha um domínio personalizado de endereços de redirecionamento de email no Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Tenha um subdomínio personalizado de máscaras de email no Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Registrar subdomínio de emails"
-  },
-  "popupAliasesUsed": {
-    "message": "Endereços de redirecionamento de email usados"
   },
   "popupAliasesUsed_mask": {
     "message": "Máscaras de email usadas"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Encaminhamento de emails críticos"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "O Relay Premium permite que você receba apenas emails críticos enviados para um endereço de redirecionamento. Você receberá emails como recibos, mas não emails de propaganda.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "O Relay Premium permite que você receba apenas emails críticos enviados para uma máscara. Você recebe emails como recibos, mas não emails de propaganda.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Bloquear emails promocionais"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Ative o bloqueio de emails promocionais em um endereço de redirecionamento para impedir que emails de marketing cheguem à sua caixa de entrada."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Ative o bloqueio de emails promocionais em uma máscara para impedir que emails de marketing cheguem à sua caixa de entrada."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Novidade!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Cadastre-se novamente com seus endereços de redirecionamento"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Cadastre-se novamente com suas máscaras de email"
-  },
-  "popupSignBackInBody": {
-    "message": "Para criar um novo endereço de redirecionamento quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente um novo endereço de redirecionamento."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Para criar uma nova máscara quando pedirem seu email, abra o menu de contexto (clique com o botão direito do mouse ou clique com a tecla control pressionada) em um campo de email. A partir dali, você pode criar e usar diretamente uma nova máscara."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Ir para o Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Gerar novo endereço de redirecionamento"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Gerar nova máscara"
@@ -424,9 +356,6 @@
     "message": "Usado anteriormente neste site",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Tenha endereços de redirecionamento ilimitados"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Tenha máscaras ilimitadas"
   },
@@ -434,14 +363,8 @@
     "message": "Entrar na lista de espera do Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Usar um endereço de redirecionamento existente neste site…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Usar máscara existente deste site…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Endereços de redirecionamento recentes"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Máscaras recentes"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Usar máscara de número de celular"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Você já criou o número máximo de endereços de redirecionamento",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Você já criou o número máximo de máscaras",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Você atingiu o limite de endereços de redirecionamento."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Você atingiu o limite de máscaras."
   },
   "pageNoMasksRemaining": {
     "message": "Você não tem mais máscaras de email gratuitas.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Ativar novos recursos"
-  },
-  "popupDataCollectionBody": {
-    "message": "Você pode permitir que o Relay colete dados opcionais que nos permitem sincronizar seus rótulos de endereços de redirecionamento em seus dispositivos, com os sites onde são criados e usados.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Você pode permitir que o Relay colete dados opcionais que nos permitem sincronizar seus rótulos de máscaras em seus dispositivos, com informação dos sites onde são criados e usados.",
