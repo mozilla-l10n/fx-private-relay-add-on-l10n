@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay gør det nemt at oprette mail-aliaser, der videresendes til din rigtige indbakke.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay gør det nemt at oprette mail-masker, der videresender til din rigtige indbakke.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay hjælper dig med at beskytte din rigtige mailadresse - den, der er tættest knyttet til din online identitet. Tjenesten lader dig oprette unikke, tilfældige aliasser, du kan bruge til at tilmelde dig konti, apps eller nyhedsbreve - og videresender så beskeder til din rigtige adresse. Hvis du opdager, at en konto sender uønskede mails eller spam, kan du blokere aliasset, og tjenesten vil stoppe med at sende mails til din indbakke. Når du ikke længere vil have en konto, kan du slette aliasset.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay hjælper dig med at beskytte din rigtige mailadresse - den, der er tættest knyttet til din online identitet. Tjenesten lader dig oprette unikke, tilfældige masker, du kan bruge til at tilmelde dig konti, apps eller nyhedsbreve - og videresender så beskeder til din rigtige adresse. Hvis du opdager, at en konto sender uønskede mails eller spam, kan du blokere masken, og tjenesten vil stoppe med at sende mails til din indbakke. Når du ikke længere vil have en konto, kan du slette masken.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Deaktiver dataindsamling",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Indsamling af interaktionsdata, når du gør ting som at klikke på Relay-ikonet på din værktøjslinje eller oprette et nyt alias, hjælper os med at lære, hvad der fungerer godt, og hvor vi kan forbedre os. Du kan altid slå dette fra i panelet Indstillinger.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Indsamling af interaktionsdata, når du gør ting som at klikke på Relay-ikonet på din værktøjslinje eller oprette en ny maske, hjælper os med at lære, hvad der fungerer godt, og hvor vi kan forbedre os. Du kan altid slå dette fra i panelet Indstillinger.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Fortsæt"
   },
-  "popupRemainingAliases_2": {
-    "message": "Resterende aliaser: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Resterende masker: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Senest brugte mail-masker",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Få ubegrænsede mail-masker"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Få ubegrænsede masker"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Aliaser oprettet: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Masker oprettet: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Vis forrige panel"
   },
   "popupOnboardingShowNext": {
     "message": "Gå til næste panel"
-  },
-  "ManageAllAliases": {
-    "message": "Administrer alle aliaser"
   },
   "ManageAllAliases_mask": {
     "message": "Administrer alle masker"
@@ -201,10 +160,6 @@
     "message": "Du er en Firefox Relay superbruger!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Få et tilpasset domæne til Relay-mailaliasser",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Få et tilpasset subdomæne til Relay-mail-masker",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Registrer mail-subdomæne"
-  },
-  "popupAliasesUsed": {
-    "message": "Mail-aliasser brugt"
   },
   "popupAliasesUsed_mask": {
     "message": "Mail-masker brugt"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Videresendelse af vigtige mails"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium giver dig mulighed for kun at modtage vigtige mails sendt til en maske. Du modtager mails som fx kvitteringer, men ikke marketing-mails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium giver dig mulighed for kun at modtage vigtige mails sendt til en maske. Du modtager mails som fx kvitteringer, men ikke marketing-mails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Bloker reklamemails"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Aktivér Bloker reklamemails på et alias for at forhindre, at marketingmails når din indbakke."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Aktivér Bloker reklamemails på en maske for at forhindre, at marketingmails når din indbakke."
@@ -375,14 +316,8 @@
   "popupPromoNewLabel": {
     "message": "Nyt!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Log ind igen med dine aliasser"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Log ind igen med dine mail-masker"
-  },
-  "popupSignBackInBody": {
-    "message": "For at oprette et nyt alias, når du bliver bedt om din e-mail, skal du åbne kontekstmenuen (højreklik eller kontrol-klik) i et e-mail-felt. Derfra kan du oprette og bruge et nyt alias med det samme."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "For at oprette en ny mail-maske, når du bliver bedt om din mailadresse, skal du åbne genvejsmenuen (højreklik eller kontrol-klik) i et mail-felt. Derfra kan du oprette og bruge en ny maske med det samme."
@@ -394,9 +329,6 @@
   "pageInputIconSignUpButton": {
     "message": "Gå til Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Generer nyt alias"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Opret ny maske"
@@ -416,9 +348,6 @@
     "message": "Tidligere brugt på dette websted",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Få ubegrænsede aliaser"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Få ubegrænsede masker"
   },
@@ -426,14 +355,8 @@
     "message": "Tilmeld dig Premium-venteliste",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Brug eksisterende alias fra dette websted…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Brug eksisterende maske fra dette websted…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Seneste aliaser"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Seneste masker"
@@ -441,19 +364,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Brug telefonnummer-maske"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Du har allerede oprettet det maksimale antal aliaser",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Du har allerede oprettet det maksimale antal masker",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Du har nået aliasgrænsen."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Du har nået grænsen for antal masker."
   },
   "pageNoMasksRemaining": {
     "message": "Du har ikke flere gratis mail-masker.",
@@ -478,10 +391,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Aktiver nye funktioner"
-  },
-  "popupDataCollectionBody": {
-    "message": "Du kan give Relay tilladelse til at indsamle valgfri data, der gør det muligt for os at synkronisere dine aliasetiketter på tværs af dine enheder med de websteder, hvor de er oprettet og brugt.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Du kan give Relay tilladelse til at indsamle valgfri data, der giver os mulighed for at synkronisere dine maske-etiketter på tværs af dine enheder med de websteder, hvor de er oprettet og brugt.",
