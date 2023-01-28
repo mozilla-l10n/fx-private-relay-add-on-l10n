@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay позволяет легко создавать псевдонимы электронной почты, которые перенаправляют почту на ваш настоящий почтовый ящик.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay позволяет легко создавать псевдонимы электронной почты, которые перенаправляют почту на ваш настоящий почтовый ящик.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay поможет вам защитить ваш реальный адрес электронной почты — адрес, наиболее тесно связанный с вашей личностью в Интернете. Он позволяет создавать уникальные случайные псевдонимы, которые вы можете использовать для регистрации учетных записей, приложений или информационных бюллетеней, и перенаправляет сообщения на ваш реальный адрес. Если вы обнаружите, что учётная запись отправляет нежелательную электронную почту или спам, вы можете заблокировать псевдоним, и он перестанет отправлять электронную почту в ваш почтовый ящик. Если вам больше не нужна учётная запись, вы можете удалить псевдоним.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay поможет вам защитить ваш настоящий адрес электронной почты — адрес, наиболее тесно связанный с вашей личностью в сети. Он позволяет создавать уникальные случайные псевдонимы, которые вы можете использовать для регистрации учётных записей, приложений или информационных рассылок, и перенаправлять сообщения на ваш настоящий адрес. Если вы обнаружите, что учётная запись отправляет нежелательную электронную почту или спам, вы можете заблокировать псевдоним, и он перестанет отправлять электронную почту в ваш почтовый ящик. Как только учётная запись перестанет быть вам нужна, вы можете удалить псевдоним.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Отключить сбор данных",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Сбор данных о взаимодействии, когда вы выполняете такие действия, как нажатие значка Relay на панели инструментов или создание нового псевдонима, помогает нам понять, что работает хорошо, а что можно улучшить. Вы всегда можете отключить это на панели настроек.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Сбор данных о взаимодействии, когда вы выполняете такие действия, как нажатие значка Relay на панели инструментов или создание нового псевдонима, помогает нам понять, что работает хорошо, а что можно улучшить. Вы всегда можете отключить это на панели настроек.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Продолжить"
   },
-  "popupRemainingAliases_2": {
-    "message": "Осталось псевдонимов: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Осталось псевдонимов: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Недавно использованные псевдонимы электронной почты",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Получите неограниченное число псевдонимов"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Получите неограниченное число псевдонимов"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Создано псевдонимов: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Создано псевдонимов: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Показать предыдущую панель"
   },
   "popupOnboardingShowNext": {
     "message": "Перейти на следующую панель"
-  },
-  "ManageAllAliases": {
-    "message": "Управление всеми псевдонимами"
   },
   "ManageAllAliases_mask": {
     "message": "Управление всеми псевдонимами"
@@ -201,10 +160,6 @@
     "message": "Вы — опытный пользователь Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Получите собственный домен для псевдонимов электронной почты Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Получите собственный поддомен для псевдонимов электронной почты Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Зарегистрировать почтовый поддомен"
-  },
-  "popupAliasesUsed": {
-    "message": "Псевдонимов электронной почты использовано"
   },
   "popupAliasesUsed_mask": {
     "message": "Псевдонимов электронной почты использовано"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Переадресация важных писем"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium позволяет получать только важные электронные письма, отправленные на псевдоним. Вы будете получать такие письма, как квитанции, но не рекламные письма.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium позволяет получать только важные электронные письма, отправленные на псевдоним. Вы будете получать такие письма, как квитанции, но не рекламные письма.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Блокировка рекламных писем"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Включите блокировку рекламных писем для псевдонима, чтобы такие электронные письма не попадали в ваш почтовый ящик."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Включите блокировку рекламных писем для псевдонима, чтобы такие электронные письма не попадали в ваш почтовый ящик."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Новинка!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Войдите снова, используя псевдонимы"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Войдите снова, используя почтовые псевдонимы"
-  },
-  "popupSignBackInBody": {
-    "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши, или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Перейти в Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Создать новый псевдоним"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Создать новый псевдоним"
@@ -424,9 +356,6 @@
     "message": "Ранее использованные на этом сайте",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Получить неограниченное число псевдонимов"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Получите неограниченное число псевдонимов"
   },
@@ -434,14 +363,8 @@
     "message": "Присоединиться к списку ожидания Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Использовать существующий псевдоним с этого сайта…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Использовать существующий псевдоним с этого сайта…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Последние псевдонимы"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Недавние псевдонимы"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Использовать псевдоним номера телефона"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Вы уже создали максимальное число псевдонимов",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Вы уже создали максимальное число псевдонимов",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Вы достигли предела числа псевдонимов."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Вы достигли предела числа псевдонимов."
   },
   "pageNoMasksRemaining": {
     "message": "У вас больше нет бесплатных почтовых псевдонимов.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Включить новые функции"
-  },
-  "popupDataCollectionBody": {
-    "message": "Вы можете разрешить Relay собирать дополнительные данные, позволяющие нам синхронизировать метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Вы можете разрешить Relay собирать дополнительные данные, позволяющие нам синхронизировать метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
