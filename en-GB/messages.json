@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay makes it easy to create email aliases that forward to your real inbox.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay makes it easy to create email masks that forward to your true inbox.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay helps you protect your real email address — the one most closely tied to your online identity. It lets you generate unique, random aliases you can use to sign up for accounts, apps, or newsletters, and forwards messages to your real address. If you find that an account is sending unwanted email or spam, you can block the alias and it will stop sending email to your inbox. Once you no longer want an account, you can delete the alias.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay helps you protect your true email address — the one most closely tied to your online identity. It lets you generate unique, random masks you can use to sign up for accounts, apps, or newsletters, and forwards messages to your true address. If you find that an account is sending unwanted email or spam, you can block the mask and it will stop sending email to your inbox. Once you no longer want an account, you can delete the mask.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Disable data collection",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Collecting interaction data when you do things like click the Relay icon in your toolbar or create a new alias helps us learn what is working well and where we can improve. You can always turn this off in the Settings panel.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Collecting interaction data when you do things like click the Relay icon in your toolbar or create a new mask helps us learn what is working well and where we can improve. You can always turn this off in the Settings panel.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Continue"
   },
-  "popupRemainingAliases_2": {
-    "message": "Remaining aliases: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Remaining masks: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Recently used email masks",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Get unlimited aliases"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Get unlimited masks"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Aliases created: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Masks created: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Show previous panel"
   },
   "popupOnboardingShowNext": {
     "message": "Go to next panel"
-  },
-  "ManageAllAliases": {
-    "message": "Manage All Aliases"
   },
   "ManageAllAliases_mask": {
     "message": "Manage all masks"
@@ -201,10 +160,6 @@
     "message": "You’re a Firefox Relay power user!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Get a custom domain for Relay email aliases",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Get a custom subdomain for Relay email masks",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Register email subdomain"
-  },
-  "popupAliasesUsed": {
-    "message": "Email aliases used"
   },
   "popupAliasesUsed_mask": {
     "message": "Email masks used"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Critical email forwarding"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium allows you to receive only critical emails sent to an alias. You’ll receive emails like receipts but not marketing emails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium allows you to receive only critical emails sent to a mask. You’ll receive emails like receipts but not marketing emails.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Block promotional emails"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Enable Block Promotional Emails on an alias to stop marketing emails from reaching your inbox."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Enable Block Promotional Emails on a mask to stop marketing emails from reaching your inbox."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "New!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Sign back in with your aliases"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Sign back in with your email masks"
-  },
-  "popupSignBackInBody": {
-    "message": "To create a new alias when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new alias right away."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Go to Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Generate New Alias"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Generate new mask"
@@ -424,9 +356,6 @@
     "message": "Previously used on this web site",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Get Unlimited Aliases"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Get unlimited masks"
   },
@@ -434,14 +363,8 @@
     "message": "Join Premium waiting list",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Use Existing Alias from this Site…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Use existing mask from this site…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Recent Aliases"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Recent masks"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Use phone number mask"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "You have already created the maximum number of aliases",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "You have already created the maximum number of masks",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "You’ve reached the alias limit."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "You’ve reached the mask limit."
   },
   "pageNoMasksRemaining": {
     "message": "You have no more free email masks.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Enable new features"
-  },
-  "popupDataCollectionBody": {
-    "message": "You can allow Relay to collect optional data that allows us to synchronise your alias labels across your devices with the web sites where they’re created and used.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "You can allow Relay to collect optional data that allows us to sync your mask labels across your devices with the web sites where they’re created and used.",
