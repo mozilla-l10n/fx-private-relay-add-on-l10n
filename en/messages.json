@@ -367,7 +367,7 @@
     },
     "pageInputIconJoinPremiumWaitlist": {
         "message": "Join Premium waitlist",
-        "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+        "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is ess."
     },
     "pageInputIconUseExistingAliasFromTheSite_mask": {
         "message": "Use existing mask from this site…"
@@ -431,5 +431,33 @@
     },
     "popupPrivacyNoticeUpdateButtonDismiss": {
         "message": "Dismiss"
+    },
+    "popupFreeMasksAvailable": {
+        "message": "$REMAINING$/$MAXIMUM$ masks available.",
+        "description": "Tells the user how many more masks they can make.",
+        "placeholders": {
+            "REMAINING": {
+                "content": "$1",
+                "example": "1"
+            },
+            "MAXIMUM": {
+                "content": "$2",
+                "example": "5"
+            }
+        }
+    },
+    "popupNoMasksCreatedHeadline": {
+        "message": "Protect your real email address"
+    },
+    "popupNoMasksCreatedBody": {
+        "message": "Use Relay masks to keep your identity private and get only the emails you want in your inbox.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupUpgradeBtnGetMoreProtection": {
+        "message": "Get more protection"
+    },
+    "popupNavButtonLaunchRelay": {
+        "message": "Launch Relay",
+        "description": "DO NOT TRANSLATE \"Relay\"."
     }
 }
