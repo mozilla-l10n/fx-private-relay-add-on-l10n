@@ -153,6 +153,10 @@
     "labelSearch": {
         "message": "Search"
     },
+    "labelMaskCreated": {
+        "message": "Mask created",
+        "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+    },
     "labelFromThisWebsite": {
         "message": "From this website",
         "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
