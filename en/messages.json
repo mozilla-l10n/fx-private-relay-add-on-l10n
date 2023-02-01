@@ -45,6 +45,10 @@
     "popupSettingsTitle": {
         "message": "Settings"
     },
+    "popupNewsTitle": {
+        "message": "What’s new in Relay",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
     "popupSettingsReturn": {
         "message": "Return to main panel"
     },
