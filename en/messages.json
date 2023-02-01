@@ -446,6 +446,16 @@
             }
         }
     },
+    "popupFreeMasksLimitReached": {
+        "message": "You’ve used all $MAXIMUM$ of your free masks.",
+        "description": "Tells the user they've created the maxmimum free masks",
+        "placeholders": {
+            "MAXIMUM": {
+                "content": "$1",
+                "example": "5"
+            }
+        }
+    },
     "popupNoMasksCreatedHeadline": {
         "message": "Protect your real email address"
     },
@@ -459,5 +469,11 @@
     "popupNavButtonLaunchRelay": {
         "message": "Launch Relay",
         "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupCopyMaskButtonAlt": {
+        "message": "Click to copy"
+    },
+    "popupCopyMaskButtonCopied": {
+        "message": "Copied!"
     }
 }
