@@ -121,6 +121,9 @@
     "popupSignUpPanelContinue": {
         "message": "Continue"
     },
+    "popupSignUpPanelSignIn": {
+        "message": "Sign in"
+    },
     "popupRemainingAliases_2": {
         "message": "Remaining aliases: $REMAINING$",
         "description": "Tells the user how many more aliases they can make.",
