@@ -1,14 +1,10 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay memudahkan Anda buat alias surel yang memindahkan pesan ke kotak pesan asli Anda.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay mempermudah Anda membuat topeng surel yang meneruskan kotak masuk Anda yang sebenarnya.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "extensionDescriptionStore": {
-    "message": "Firefox Relay membantu Anda melindungi alamat surel Anda yang sebenarnya — yang paling terkait dengan identitas daring Anda. Fitur ini memungkinkan Anda menghasilkan alias acak unik yang dapat Anda gunakan untuk mendaftar akun, aplikasi, atau nawala, dan meneruskan pesan ke alamat asli Anda. Jika Anda menemukan bahwa sebuah akun mengirim surel atau spam yang tidak diinginkan, Anda dapat memblokir alias dan akun tersebut akan berhenti mengirim surel ke kotak masuk Anda. Setelah tidak lagi menginginkan akun, Anda dapat menghapus alias.",
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay membantu Anda melindungi alamat surel Anda yang sebenarnya — yang paling terkait dengan identitas daring Anda. Fitur ini memungkinkan Anda menghasilkan topeng acak unik yang dapat Anda gunakan untuk mendaftar akun, aplikasi, atau nawala, dan meneruskan pesan ke alamat asli Anda. Jika Anda menemukan bahwa sebuah akun mengirim surel atau spam yang tidak diinginkan, Anda dapat memblokir topeng dan akun tersebut akan berhenti mengirim surel ke kotak masuk Anda. Setelah tidak lagi menginginkan akun, Anda dapat menghapus topeng.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -30,10 +26,6 @@
   "disableDataCollection": {
     "message": "Matikan pengumpulan data",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
-  },
-  "firstRunPrefP": {
-    "message": "Mengumpulkan data interaksi ketika Anda melakukan hal-hal seperti mengklik ikon Relay pada bilah alat atau membuat alias baru bantu kami mempelajari apa yang berfungsi baik dan di mana kami dapat meningkatkannya. Anda dapat selalu mematikannya di panel Pengaturan.",
-    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunPrefP_mask": {
     "message": "Mengumpulkan data interaksi ketika Anda melakukan hal-hal seperti mengklik ikon Relay di bilah alat Anda atau membuat topeng baru membantu kami mempelajari apa yang bekerja dengan baik dan di mana kami dapat meningkatkan. Anda dapat mematikan fitur ini di panel Pengaturan.",
@@ -113,15 +105,6 @@
   "popupSignUpPanelContinue": {
     "message": "Lanjutkan"
   },
-  "popupRemainingAliases_2": {
-    "message": "Alias yang tersisa: $REMAINING$",
-    "description": "Tells the user how many more aliases they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
-  },
   "popupRemainingAliases_2_mask": {
     "message": "Sisa topeng: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -144,38 +127,14 @@
     "message": "Topeng surel yang baru saja digunakan",
     "description": "Label for list of most recently used masks."
   },
-  "popupGetUnlimitedAliases": {
-    "message": "Dapatkan alias tanpa batas"
-  },
   "popupGetUnlimitedAliases_mask": {
     "message": "Dapatkan topeng tak terbatas"
-  },
-  "popupUnlimitedAliases": {
-    "message": "Alias yang dibuat: $COUNT$",
-    "description": "Tells the premium user how many aliases they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "popupUnlimitedAliases_mask": {
-    "message": "Topeng dibuat: $COUNT$",
-    "description": "Tells the premium user how many masks they have created.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
   },
   "popupOnboardingShowPrevious": {
     "message": "Tampilkan panel sebelumnya"
   },
   "popupOnboardingShowNext": {
     "message": "Ke panel selanjutnya"
-  },
-  "ManageAllAliases": {
-    "message": "Kelola Semua Alias"
   },
   "ManageAllAliases_mask": {
     "message": "Kelola semua topeng"
@@ -201,10 +160,6 @@
     "message": "Anda seorang pengguna Firefox Relay yang cakap!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline": {
-    "message": "Dapatkan domain kustom untuk alias surel Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
   "popupRegisterDomainHeadline_mask": {
     "message": "Dapatkan subdomain khusus untuk topeng surel Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -214,9 +169,6 @@
   },
   "popupRegisterDomainButton_mask": {
     "message": "Daftar subdomain surel"
-  },
-  "popupAliasesUsed": {
-    "message": "Alias surel digunakan"
   },
   "popupAliasesUsed_mask": {
     "message": "Topeng surel digunakan"
@@ -277,19 +229,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Penerusan surel penting"
   },
-  "popupCriticalEmailForwardingBody": {
-    "message": "Relay Premium memungkinkan Anda menerima hanya surel penting yang dikirim ke alias. Anda akan menerima surel seperti tanda terima tetapi bukan surel pemasaran.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
-  "popupCriticalEmailForwardingBody_mask": {
-    "message": "Relay Premium memungkinkan Anda menerima hanya surel penting yang dikirim ke topeng. Anda akan menerima surel seperti tanda terima tetapi bukan surel pemasaran.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\"."
-  },
   "popupBlockPromotionalEmailsHeadline_2": {
     "message": "Blokir surel promosi"
-  },
-  "popupBlockPromotionalEmailsBody": {
-    "message": "Aktifkan Blokir Surel Promosi pada alias untuk menghentikan surel pemasaran mencapai kotak masuk Anda."
   },
   "popupBlockPromotionalEmailsBody_mask": {
     "message": "Aktifkan Blokir Surel Promosi pada topeng untuk menghentikan surel pemasaran mencapai kotak masuk Anda."
@@ -383,14 +324,8 @@
   "popupPromoNewLabel": {
     "message": "Baru!"
   },
-  "popupSignBackInHeadline": {
-    "message": "Masuk kembali dengan alias Anda"
-  },
   "popupSignBackInHeadline_mask": {
     "message": "Masuk kembali dengan topeng surel Anda"
-  },
-  "popupSignBackInBody": {
-    "message": "Untuk membuat alias baru saat ditanya tentang email Anda, buka menu konteks (klik kanan atau kontrol-klik) pada bidang email. Dari sana Anda dapat membuat dan menggunakan alias baru segera."
   },
   "popupSignBackInBody_mask_v2": {
     "message": "Untuk membuat topeng surel baru saat Anda diminta untuk surel Anda, buka menu konteks (klik kanan atau klik-kanan) pada bidang surel. Dari sana Anda dapat membuat dan segera menggunakan topeng baru."
@@ -402,9 +337,6 @@
   "pageInputIconSignUpButton": {
     "message": "Buka Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "pageInputIconGenerateNewAlias": {
-    "message": "Buat Alias Baru"
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Buat topeng baru"
@@ -424,9 +356,6 @@
     "message": "Sebelumnya digunakan di situs web ini",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
-  "pageInputIconGetUnlimitedAliases": {
-    "message": "Dapatkan Alias Tanpa Batas"
-  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "Dapatkan topeng tak terbatas"
   },
@@ -434,14 +363,8 @@
     "message": "Gabung ke daftar tunggu Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
-  "pageInputIconUseExistingAliasFromTheSite": {
-    "message": "Gunakan Alias yang Sudah Ada dari Situs ini…"
-  },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
     "message": "Gunakan topeng yang ada dari situs ini…"
-  },
-  "pageInputIconRecentAliases": {
-    "message": "Alias Terakhir"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Topeng terkini"
@@ -449,19 +372,9 @@
   "pageInputIconInsertPhoneMask": {
     "message": "Gunakan topeng nomor telepon"
   },
-  "pageInputIconMaxAliasesError": {
-    "message": "Anda sudah membuat alias sebanyak jumlah maksimum",
-    "description": "Tells the user they have already created the max number of aliases."
-  },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Anda telah membuat topeng sebanyak jumlah maksimal",
     "description": "Tells the user they have already created the max number of masks."
-  },
-  "pageFillRelayAddressLimit": {
-    "message": "Anda sudah mencapai batas jumlah alias."
-  },
-  "pageFillRelayAddressLimit_mask": {
-    "message": "Anda telah mencapai batas topeng maksimal."
   },
   "pageNoMasksRemaining": {
     "message": "Anda tidak memiliki topeng surel gratis lagi.",
@@ -486,10 +399,6 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Aktifkan fitur baru"
-  },
-  "popupDataCollectionBody": {
-    "message": "Anda dapat mengizinkan Relay untuk mengumpulkan data opsional yang memungkinkan kami menyinkronkan label alias Anda di seluruh perangkat Anda dengan situs web tempat label tersebut dibuat dan digunakan.",
-    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionBody_mask": {
     "message": "Anda dapat mengizinkan Relay untuk mengumpulkan data opsional yang memungkinkan kami untuk menyinkronkan label topeng Anda di seluruh perangkat Anda dengan situs web di mana mereka dibuat dan digunakan.",
