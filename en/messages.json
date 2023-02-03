@@ -113,6 +113,9 @@
     "popupSignUpPanelContinue": {
         "message": "Continue"
     },
+    "popupSignUpPanelSignIn": {
+        "message": "Sign in"
+    },
     "popupRemainingAliases_2_mask": {
         "message": "Remaining masks: $REMAINING$",
         "description": "Tells the user how many more masks they can make.",
