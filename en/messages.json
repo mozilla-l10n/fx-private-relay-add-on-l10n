@@ -216,19 +216,9 @@
         "message": "You’re a Firefox Relay power user!",
         "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
     },
-    "popupRegisterDomainHeadline": {
-        "message": "Get a custom domain for Relay email aliases",
+    "popupGetDomainButton": {
+        "message": "Get a unique Relay email domain",
         "description": "DO NOT TRANSLATE \"Relay\"."
-    },
-    "popupRegisterDomainHeadline_mask": {
-        "message": "Get a custom subdomain for Relay email masks",
-        "description": "DO NOT TRANSLATE \"Relay\"."
-    },
-    "popupRegisterDomainButton": {
-        "message": "Register email domain"
-    },
-    "popupRegisterDomainButton_mask": {
-        "message": "Register email subdomain"
     },
     "popupAliasesUsed": {
         "message": "Email aliases used"
