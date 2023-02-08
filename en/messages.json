@@ -406,6 +406,37 @@
     "popupSignBackInBody_mask_v2": {
         "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
     },
+    "popupCreateCustomMaskTitle": {
+        "message": "Create a new custom mask"
+    },
+    "popupCreateCustomMaskBody": {
+        "message": "All you need to do is make up and share a unique mask that uses your custom subdomain — the mask will be generated automatically. Try “shop@customsubdomain.mozmail.com” next time you shop online, for example."
+    },
+    "popupCreateCustomFormMaskInputLabel": {
+        "message": "Enter email mask prefix"
+    },
+    "popupCreateCustomFormMaskInputPlaceholder": {
+        "message": "e.g. “coffee”"
+    },
+    "popupCreateCustomFormMaskInputDescription": {
+        "message": "@$SUBDOMAIN$.mozmail.com",
+        "description": "",
+        "placeholders": {
+            "subdomain": {
+                "content": "$1",
+                "example": "example )"
+            }
+        }        
+    },
+    "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+        "message": "Block promotional emails"      
+    },
+    "popupCreateCustomFormMaskBlockSubmitButton": {
+        "message": "Generate Mask"      
+    },
+    "popupCreateCustomFormError": {
+        "message": "The mask could not be created. Please try again."
+    },
     "pageInputIconSignUpText": {
         "message": "Visit the Firefox Relay website to sign in or create an account.",
         "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -422,6 +453,12 @@
     },
     "pageInputIconGenerateNewRandomMask": {
         "message": "Generate new random mask"
+    },
+    "pageInputIconGenerateRandomMask": {
+        "message": "Generate random mask"
+    },
+    "pageInputIconGenerateCustomMask": {
+        "message": "Generate custom mask"
     },
     "pageInputIconSelectFromYourCurrentEmailMasks": {
         "message": "Select from your current email masks",
