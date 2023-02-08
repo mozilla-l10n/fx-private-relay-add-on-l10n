@@ -608,5 +608,14 @@
     },
     "popupCopyMaskButtonCopied": {
         "message": "Copied!"
+    },
+    "popupPromoBlockingButtonTitle": {
+        "message": "Block promotional emails"
+    },
+    "popupPromoBlockingButtonCopy": {
+        "message": "Enable Block Promotional Emails on a mask to stop marketing emails from reaching your inbox."
+    },
+    "popupPromoBlockingButtonLearnMore": {
+        "message": "Learn More"
     }
 }
