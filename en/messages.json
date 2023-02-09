@@ -406,6 +406,33 @@
     "popupSignBackInBody_mask_v2": {
         "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
     },
+    "popupManageMaskTitle": {
+        "message": "Manage mask"
+    },
+    "popupManageMaskPromoBlockingTitle": {
+        "message": "What emails do you want to block?"
+    },
+    "popupManageMaskPromoBlockingOptionNone": {
+        "message": "None"
+    },
+    "popupManageMaskPromoBlockingOptionPromotional": {
+        "message": "Promotional"
+    },
+    "popupManageMaskPromoBlockingOptionAll": {
+        "message": "All"
+    },
+    "popupManageMaskPromoBlockingOptionNoneDesc": {
+        "message": "Relay is not blocking any emails for this mask.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupManageMaskPromoBlockingOptionPromotionalDesc": {
+        "message": "Relay will attempt to block promotional emails while still forwarding emails like receipts and shipping information.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupManageMaskPromoBlockingOptionAllDesc": {
+        "message": "Relay is not blocking any emails for this mask.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
     "popupCreateCustomMaskTitle": {
         "message": "Create a new custom mask"
     },
