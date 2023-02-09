@@ -416,7 +416,7 @@
     },
     "pageInputIconJoinPremiumWaitlist": {
         "message": "Join Premium waitlist",
-        "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is ess."
+        "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
     },
     "pageInputIconUseExistingAliasFromTheSite_mask": {
         "message": "Use existing mask from this site…"
