@@ -105,6 +105,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Iniciar sesión"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Máscaras restantes: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +148,10 @@
   "labelSearch": {
     "message": "Buscar"
   },
+  "labelMaskCreated": {
+    "message": "Máscara creada",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "De este sitio web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -159,16 +166,6 @@
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "¡Eres un usuario avanzado de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Obtén un subdominio personalizado para correos enmascarados de Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registra domino de e-mail"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrar subdominio de correo"
   },
   "popupAliasesUsed_mask": {
     "message": "Correos enmascarados usados"
@@ -327,9 +324,6 @@
   "popupSignBackInHeadline_mask": {
     "message": "Vuelve a iniciar sesión con tus correos enmascarados"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Para crear una nueva máscara de correo electrónico cuando se te solicite tu correo electrónico, abre el menú contextual (clic derecho o control-clic) en un campo de correo electrónico. Desde allí, puedes crear y usar una nueva máscara de inmediato."
-  },
   "pageInputIconSignUpText": {
     "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -425,5 +419,11 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Descartar"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Clic para copiar"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "¡Copiado!"
   }
 }
