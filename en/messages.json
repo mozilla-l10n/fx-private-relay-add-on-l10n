@@ -179,9 +179,6 @@
         "message": "Get a unique Relay email domain",
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
-    "popupAliasesUsed": {
-        "message": "Email aliases used"
-    },
     "popupAliasesUsed_mask": {
         "message": "Email masks used"
     },
@@ -345,9 +342,6 @@
     "popupSignBackInHeadline_mask": {
         "message": "Sign back in with your email masks"
     },
-    "popupSignBackInBody_mask_v2": {
-        "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
-    },
     "popupCreateCustomMaskTitle": {
         "message": "Create a new custom mask"
     },
@@ -374,7 +368,7 @@
         "message": "Block promotional emails"      
     },
     "popupCreateCustomFormMaskBlockSubmitButton": {
-        "message": "Generate Mask"      
+        "message": "Generate mask"      
     },
     "popupCreateCustomFormError": {
         "message": "The mask could not be created. Please try again."
