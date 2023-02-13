@@ -37,6 +37,10 @@
   "popupSettingsTitle": {
     "message": "Configuración"
   },
+  "popupNewsTitle": {
+    "message": "Novedades en Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Regresar al panel principal"
   },
@@ -169,6 +173,12 @@
   },
   "popupAliasesUsed_mask": {
     "message": "Correos enmascarados usados"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Total de máscaras de correo electrónico usadas"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Máscaras usadas en este sitio web"
   },
   "popupEmailsBlocked": {
     "message": "E-mails bloqueados"
@@ -324,6 +334,21 @@
   "popupSignBackInHeadline_mask": {
     "message": "Vuelve a iniciar sesión con tus correos enmascarados"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "Crear una nueva máscara personalizada"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Ingresa el prefijo del correo enmascarado"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "p.ej. “café”"
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Bloquear correos electrónicos promocionales"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Generar máscara"
+  },
   "pageInputIconSignUpText": {
     "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -337,6 +362,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Generar nueva máscara aleatoria"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Generar máscara aleatoria"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Genera una máscara personalizada"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Selecciona entre tus máscaras de correo actuales",
@@ -419,6 +450,40 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Descartar"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ máscaras disponibles.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Has usado todas las $MAXIMUM$ de tus máscaras gratuitas.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Protege tu verdadera dirección de correo electrónico"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Obtén más protección"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Iniciar Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "Clic para copiar"
