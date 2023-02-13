@@ -1,8 +1,4 @@
 {
-  "extensionDescription_v1": {
-    "message": "Firefox Relay を使えば、実在する受信トレイに転送されるメールエイリアスを簡単に作成できます。",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "Firefox Relay を使用すると、本当の受信トレイに転送されるメールマスクを簡単に作成できます。",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -15,6 +11,10 @@
     "message": "Firefox Relay アドオンが正常にインストールされました。開始するには、Firefox アカウントで Relay にログインします。",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla がこの拡張機能の使用方法に関する情報を収集することを許可します。",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "データ収集を許可する",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -22,6 +22,10 @@
   "disableDataCollection": {
     "message": "データ収集を無効にする",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunPrefP_mask": {
+    "message": "ツールバーの Relay アイコンをクリックしたり新しいマスクを作成したりする時に収集される対話データは、うまく動作している部分や改善すべき点を知るのに役立ちます。これは、設定パネルでいつでもオフにできます。",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
     "message": "登録 / ログイン"
@@ -52,6 +56,29 @@
   "popupSettingsReportIssue": {
     "message": "問題を報告する"
   },
+  "popupSettingsSubmitReport": {
+    "message": "報告を送信"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "報告を送信しました!"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Firefox Relay の改善にご協力いただきありがとうございます！",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupReportIssueSuccessContinue": {
+    "message": "続ける"
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "ようこそ"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Firefox アカウントで Relay にログインして始めましょう。",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "続ける"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "残りのマスク数: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -73,6 +100,15 @@
   "popupRecentlyUsedMasks": {
     "message": "最近使用したメールマスク",
     "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "無制限のマスクを入手する"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "前のパネルを表示"
+  },
+  "popupOnboardingShowNext": {
+    "message": "次のパネルに移動"
   },
   "ManageAllAliases_mask": {
     "message": "すべてのマスクを管理する"
