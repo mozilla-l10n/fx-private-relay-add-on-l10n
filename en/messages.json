@@ -360,7 +360,7 @@
         "placeholders": {
             "subdomain": {
                 "content": "$1",
-                "example": "example )"
+                "example": "example"
             }
         }        
     },
