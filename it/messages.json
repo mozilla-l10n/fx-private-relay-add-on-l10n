@@ -41,6 +41,10 @@
     "message": "Statistiche",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsTitle": {
+    "message": "Novità di Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Ritorna al pannello principale"
   },
@@ -152,6 +156,10 @@
   "labelSearch": {
     "message": "Cerca"
   },
+  "labelMaskCreated": {
+    "message": "Alias creato",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Da questo sito web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -167,8 +175,18 @@
     "message": "Sei un utente esperto di Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "Ottieni un dominio Relay univoco per le tue email",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Alias utilizzati"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Totale degli alias email utilizzati"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Alias utilizzati su questo sito"
   },
   "popupEmailsBlocked": {
     "message": "Messaggi bloccati"
@@ -471,8 +489,29 @@
       }
     }
   },
+  "popupFreeMasksLimitReached": {
+    "message": "Hai utilizzato tutti i $MAXIMUM$ alias gratuiti a tua disposizione.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Proteggi il tuo indirizzo email reale"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Utilizza gli alias Relay per mantenere la tua identità privata e ricevere nella tua casella di posta solo le email che desideri.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Ottieni una maggiore protezione"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Apri Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "Fai clic per copiare"
