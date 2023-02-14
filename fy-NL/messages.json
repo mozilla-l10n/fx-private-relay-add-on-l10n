@@ -488,5 +488,35 @@
         "example": "5"
       }
     }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Jo hawwe al jo $MAXIMUM$ fergeze maskers brûkt.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Beskermje jo echte e-mailadres"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Brûk Relay-maskers om jo identiteit privee te hâlden en allinnich de e-mailberjochten te ûntfangen dy’t jo wolle yn jo Postfek YN.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Mear beskerming ûntfange"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Relay starte",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Klikje om te kopiearjen"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Kopiearre!"
   }
 }
