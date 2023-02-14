@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Inställningar"
   },
+  "popupStatsTitle": {
+    "message": "Statistik",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Vad är nytt i Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Återgå till huvudpanelen"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Fortsätt"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Logga in"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Återstående alias: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Sök"
   },
+  "labelMaskCreated": {
+    "message": "Alias skapad",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Från den här webbplatsen",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,15 +175,9 @@
     "message": "Du är en Firefox Relay power-användare!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Skaffa en anpassad underdomän för Relay e-postalias",
+  "popupGetDomainButton": {
+    "message": "Skaffa en unik e-postdomän för Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registrera e-postdomän"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrera underdomän för e-post"
   },
   "popupAliasesUsed_mask": {
     "message": "E-postalias som används"
@@ -326,9 +335,6 @@
   },
   "popupSignBackInHeadline_mask": {
     "message": "Logga in igen med dina e-postalias"
-  },
-  "popupSignBackInBody_mask_v2": {
-    "message": "För att skapa ett nytt alias när du blir ombedd att ange din e-post, öppna snabbmenyn (högerklicka eller kontroll-klicka) i ett e-postfält. Därifrån kan du skapa och använda ett nytt alias direkt."
   },
   "pageInputIconSignUpText": {
     "message": "Besök Firefox Relay-webbplatsen för att logga in eller skapa ett konto.",
