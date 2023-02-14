@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Ynstellingen"
   },
+  "popupStatsTitle": {
+    "message": "Statistiken",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Wat is der nij yn Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Werom nei haadpaniel"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Trochgean"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Oanmelde"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Restearjende maskers: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Sykje"
   },
+  "labelMaskCreated": {
+    "message": "Masker oanmakke",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Fan dizze website",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Jo binne in yntinsive brûker fan Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "In oanpast subdomein krije foar Relay-e-mailmaskers",
+  "popupGetDomainButton": {
+    "message": "Untfang in unyk Relay-e-maildomein",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "E-maildomein registrearje"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "E-mailsubdomein registrearje"
   },
   "popupAliasesUsed_mask": {
     "message": "Brûkte e-mailmaskers"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Totaal oantal brûkte e-mailmaskers"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Op dizze website brûkte maskers"
   },
   "popupEmailsBlocked": {
     "message": "E-mailberjochten blokkearre"
@@ -327,8 +342,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Opnij oanmelde mei jo e-mailmaskers"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Iepenje om in nij e-mailmasker oan te meitsjen as jo frege wurdt om jo e-mailadres, it kontekstmenu (rjochtermûsknop of control-klik) yn in e-mailfjild. Fan hjir út kinne jo daliks in nij masker oanmeitsje en brûke."
+  "popupCreateCustomMaskTitle": {
+    "message": "In nije oanpast masker oanmeitsje"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "It iennige dat jo hoege te dwaan, is in unyk masker betinke en diele dy’t jo oanpaste domein brûkt – it masker wurdt automatysk oanmakke. Probearje bygelyks de folgjende kear dat jo online winkelje ‘winkel@oanpastsubdomein.mozmail.com’."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Fier maskerfoarfoegsel yn"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "byg. ‘kofje’"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Reklameberjochten blokkearje"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Masker oanmeitsje"
+  },
+  "popupCreateCustomFormError": {
+    "message": "It masker kin net oanmakke wurde. Probearje it opnij."
   },
   "pageInputIconSignUpText": {
     "message": "Besykje de Firefox Relay-website om jo oan te melden of in account oan te meitsjen.",
@@ -343,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Willekeurich nij masker oanmeitsje"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Willekeurich masker oanmeitsje"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Oanpast masker oanmeitsje"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Selektearje út jo aktuele e-mailmaskers",
@@ -425,5 +474,19 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Slute"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "Noch $REMAINING$/$MAXIMUM$ maskers beskikber.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
   }
 }
