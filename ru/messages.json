@@ -37,6 +37,10 @@
   "popupSettingsTitle": {
     "message": "Настройки"
   },
+  "popupNewsTitle": {
+    "message": "Что нового в Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Вернуться на главную панель"
   },
@@ -105,6 +109,9 @@
   "popupSignUpPanelContinue": {
     "message": "Продолжить"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Войти"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Осталось псевдонимов: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -159,16 +166,6 @@
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Вы — опытный пользователь Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Получите собственный поддомен для псевдонимов электронной почты Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Зарегистрировать домен электронной почты"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Зарегистрировать почтовый поддомен"
   },
   "popupAliasesUsed_mask": {
     "message": "Псевдонимов электронной почты использовано"
@@ -327,8 +324,20 @@
   "popupSignBackInHeadline_mask": {
     "message": "Войдите снова, используя почтовые псевдонимы"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Чтобы создать новый псевдоним, когда вас просят ввести электронную почту, откройте контекстное меню (щёлкните правой кнопкой мыши, или щёлкните, удерживая клавишу Control) в соответствующем поле. Оттуда вы сможете создать и сразу использовать новый псевдоним."
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Введите префикс псевдонима электронной почты"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "например, «coffee»"
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Блокировать рекламные письма"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Создать псевдоним"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Не удалось создать псевдоним. Пожалуйста, попробуйте ещё раз."
   },
   "pageInputIconSignUpText": {
     "message": "Посетите веб-сайт Firefox Relay, чтобы войти или создать учётную запись.",
@@ -343,6 +352,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Создать новый случайный псевдоним"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Создать случайный псевдоним"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Создать собственный псевдоним"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Выберите из ваших текущих почтовых псевдонимов",
@@ -425,5 +440,28 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Убрать"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "Доступно $REMAINING$ из $MAXIMUM$ псевдонимов.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Защитите свой настоящий адрес электронной почты"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Нажмите, чтобы скопировать"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Скопировано!"
   }
 }
