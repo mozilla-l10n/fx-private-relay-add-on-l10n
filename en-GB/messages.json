@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Settings"
   },
+  "popupStatsTitle": {
+    "message": "Stats",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "What’s new in Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Return to main panel"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continue"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Sign in"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Remaining masks: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Search"
   },
+  "labelMaskCreated": {
+    "message": "Mask created",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "From this web site",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "You’re a Firefox Relay power user!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Get a custom subdomain for Relay email masks",
+  "popupGetDomainButton": {
+    "message": "Get a unique Relay email domain",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Register email domain"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Register email subdomain"
   },
   "popupAliasesUsed_mask": {
     "message": "Email masks used"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Total email masks used"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Masks used on this web site"
   },
   "popupEmailsBlocked": {
     "message": "Emails blocked"
@@ -327,8 +342,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Sign back in with your email masks"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "To create a new email mask when you’re asked for your email, open the context menu (right-click or control-click) in an email field. From there you can create and use a new mask right away."
+  "popupCreateCustomMaskTitle": {
+    "message": "Create a new custom mask"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "All you need to do is make up and share a unique mask that uses your custom subdomain — the mask will be generated automatically. Try “shop@customsubdomain.mozmail.com” next time you shop online, for example."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Enter email mask prefix"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "e.g. “coffee”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Block promotional emails"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Generate mask"
+  },
+  "popupCreateCustomFormError": {
+    "message": "The mask could not be created. Please try again."
   },
   "pageInputIconSignUpText": {
     "message": "Visit the Firefox Relay web site to sign in or create an account.",
@@ -343,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Generate new random mask"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Generate random mask"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Generate custom mask"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Select from your current email masks",
@@ -425,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Dismiss"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ masks available.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "You’ve used all $MAXIMUM$ of your free masks.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Protect your real email address"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Use Relay masks to keep your identity private and get only the emails you want in your inbox.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Get more protection"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Launch Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Click to copy"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copied!"
   }
 }
