@@ -474,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Fermer"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$ alias disponibles sur $MAXIMUM$.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Vous avez utilisé vos $MAXIMUM$ alias gratuits.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Protégez votre véritable adresse e-mail"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Utilisez les alias Relay pour garder votre identité privée et obtenir uniquement les e-mails que vous voulez dans votre boîte de réception.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Obtenez encore plus de protection"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Lancer Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Cliquer pour copier"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copié"
   }
 }
