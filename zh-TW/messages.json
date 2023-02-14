@@ -156,6 +156,10 @@
   "labelSearch": {
     "message": "搜尋"
   },
+  "labelMaskCreated": {
+    "message": "已產生轉寄信箱",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "來自此網站",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -171,8 +175,18 @@
     "message": "您是 Firefox Relay 大師！",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "獲得獨特的 Relay 郵件網域",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "已用的轉寄信箱"
+  },
+  "popupTotalMasksUsed": {
+    "message": "使用的轉寄信箱總數"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "在此網站使用過的轉寄信箱"
   },
   "popupEmailsBlocked": {
     "message": "封信已封鎖"
@@ -328,6 +342,18 @@
   "popupSignBackInHeadline_mask": {
     "message": "使用您的轉寄信箱登入網站"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "建立新自訂轉寄信箱"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "您只要建立一組獨特而使用您自訂子網域名稱的轉寄信箱。例如在網購時改用「shop@customsubdomain.mozmail.com」就會自動產生。"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "輸入轉寄信箱前綴"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "例如「coffee」"
+  },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
     "description": "",
@@ -463,8 +489,22 @@
       }
     }
   },
+  "popupFreeMasksLimitReached": {
+    "message": "您已經產生完 $MAXIMUM$ 組免費轉寄信箱。",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
   "popupNoMasksCreatedHeadline": {
     "message": "保護您的實際電子郵件地址"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "使用 Relay 的轉寄信箱，幫助您保護身分安全，只讓您想收的信進到收件匣。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "獲得更多保護"
