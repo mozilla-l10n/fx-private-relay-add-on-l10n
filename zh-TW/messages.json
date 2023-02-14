@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "設定"
   },
+  "popupStatsTitle": {
+    "message": "統計",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Relay 有什麼新鮮事",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "回到主面板"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "繼續"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "登入"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "剩餘轉寄信箱: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -159,16 +170,6 @@
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "您是 Firefox Relay 大師！",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "用自訂子網域名稱建立 Relay 轉寄信箱",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "註冊郵件網域"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "註冊郵件子網域"
   },
   "popupAliasesUsed_mask": {
     "message": "已用的轉寄信箱"
@@ -327,8 +328,24 @@
   "popupSignBackInHeadline_mask": {
     "message": "使用您的轉寄信箱登入網站"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "遇到網站向您要求輸入信箱時，可以對欄位點滑鼠右鍵（或按住 Control + 滑鼠點擊）直接建立轉寄信箱，方便又快速。"
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "封鎖行銷郵件"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "產生轉寄信箱"
+  },
+  "popupCreateCustomFormError": {
+    "message": "無法建立此轉寄信箱，請再試一次。"
   },
   "pageInputIconSignUpText": {
     "message": "到 Firefox Relay 網站登入或註冊帳號。",
@@ -343,6 +360,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "產生新隨機轉寄信箱"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "產生隨機轉寄信箱"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "建立自訂轉寄信箱"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "選擇您目前的轉寄信箱",
@@ -425,5 +448,35 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "知道了！"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "最多 $MAXIMUM$ 個，剩餘 $REMAINING$ 個轉寄信箱可用。",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "保護您的實際電子郵件地址"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "獲得更多保護"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "開啟 Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "點擊複製"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "已複製！"
   }
 }
