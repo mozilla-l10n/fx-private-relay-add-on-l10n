@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Paramètres"
   },
+  "popupStatsTitle": {
+    "message": "Statistiques",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Nouveautés de Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Retour au panneau principal"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continuer"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Connexion"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Alias restants : $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Rechercher"
   },
+  "labelMaskCreated": {
+    "message": "Alias créé",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Depuis ce site web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Vous maîtrisez Firefox Relay sur le bout des doigts !",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Obtenez un sous-domaine personnalisé pour les alias de messagerie Relay",
+  "popupGetDomainButton": {
+    "message": "Obtenez un domaine de messagerie Relay unique",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Enregistrer le domaine de messagerie"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Enregistrer le sous-domaine de messagerie"
   },
   "popupAliasesUsed_mask": {
     "message": "Alias utilisés"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Total des alias de messagerie utilisés"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Alias utilisés sur ce site"
   },
   "popupEmailsBlocked": {
     "message": "Messages bloqués"
@@ -327,8 +342,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Reconnectez-vous avec vos alias"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Pour créer un nouvel alias de messagerie lorsque l’on vous demande votre adresse e-mail, ouvrez le menu contextuel (clic droit ou ctrl+clic) depuis le champ de saisie de l’e-mail. À partir de là, vous pouvez créer et utiliser un nouvel alias immédiatement."
+  "popupCreateCustomMaskTitle": {
+    "message": "Créer un nouvel alias personnalisé"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Tout ce que vous avez à faire est de créer et de partager un alias unique qui utilise votre sous-domaine personnalisé — l’alias sera généré automatiquement. Essayez « marchand@monsousdomaine.mozmail.com » la prochaine fois que vous effectuez des achats en ligne, par exemple."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Saisissez le préfixe de l’alias de messagerie"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "par exemple, « café »"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Bloquer les e-mails promotionnels"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Générer l’alias"
+  },
+  "popupCreateCustomFormError": {
+    "message": "L’alias n’a pas pu être créé. Veuillez réessayer."
   },
   "pageInputIconSignUpText": {
     "message": "Visitez le site web Firefox Relay pour vous connecter ou créer un compte.",
@@ -343,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Générer un nouvel alias aléatoire"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Générer un alias aléatoire"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Générer un alias personnalisé"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Choisir parmi vos alias de messagerie actuels",
