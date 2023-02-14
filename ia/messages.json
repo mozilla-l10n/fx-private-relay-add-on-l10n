@@ -37,6 +37,10 @@
   "popupSettingsTitle": {
     "message": "Parametros"
   },
+  "popupStatsTitle": {
+    "message": "Statistica",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
   "popupSettingsReturn": {
     "message": "Retornar a quadro principal"
   },
@@ -105,6 +109,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Aperir session"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Mascas restante: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +152,10 @@
   "labelSearch": {
     "message": "Cercar"
   },
+  "labelMaskCreated": {
+    "message": "Masca create",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Ab iste sito web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +171,14 @@
     "message": "Tu es un usator de potentia de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Obtene un subdominio personal pro le mascas email de Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registrar tu dominio e-mail"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrar un subdominio email"
-  },
   "popupAliasesUsed_mask": {
     "message": "Mascas email usate"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Mascas email usate total"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Mascas usate in iste sito web"
   },
   "popupEmailsBlocked": {
     "message": "E-mails blocate"
@@ -327,8 +334,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Re-accesso per proprie mascas email"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Pro crear un nove masca email quando te es requirite tu email, aperi le menu contextual (clic dextre o control + clic) in un campo email. De illac tu pote crear e usar un nove masca immediatemente."
+  "popupCreateCustomMaskTitle": {
+    "message": "Crear un nove masca personalisate"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Toto lo que tu debe facer es crear e compartir un unic masca que usa tu subdominio personal, le masca sera generate automaticamente. Per exemplo proba “shop@customsubdomain.mozmail.com” le proxime vice que tu compra online."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Insere un prefixo de masca email"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "e.g. “caffe”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Blocar emails promotional"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Generar masca"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Impossibile crear le masca. Retenta."
   },
   "pageInputIconSignUpText": {
     "message": "Visita le sito web de Firefox Relay pro acceder o crear un conto.",
@@ -343,6 +378,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Generar un nove masca aleatori"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Generar un masca aleatori"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Generar masca personalisate"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Elige ab tu actual mascas email",
@@ -425,5 +466,21 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Dimitter"
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Protege tu real adresse email"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Obtener plus protection"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Lancear Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Clicca pro copiar"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copiate!"
   }
 }
