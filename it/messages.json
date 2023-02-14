@@ -37,6 +37,10 @@
   "popupSettingsTitle": {
     "message": "Impostazioni"
   },
+  "popupStatsTitle": {
+    "message": "Statistiche",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
   "popupSettingsReturn": {
     "message": "Ritorna al pannello principale"
   },
@@ -105,6 +109,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continua"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Accedi"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Alias restanti: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -159,16 +166,6 @@
   "popupOnboardingMaxAliasesPanelBody": {
     "message": "Sei un utente esperto di Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Ottieni un sottodominio personalizzato per gli alias email di Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registra dominio email"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registra sottodominio email"
   },
   "popupAliasesUsed_mask": {
     "message": "Alias utilizzati"
@@ -327,8 +324,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Registrati direttamente con i tuoi alias"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Per creare un nuovo alias quando viene richiesta la tua email, apri il menu contestuale (clic con il tasto destro del mouse o control + clic) in un campo email. Da lì puoi creare e utilizzare subito un nuovo alias."
+  "popupCreateCustomMaskTitle": {
+    "message": "Crea un nuovo alias personalizzato"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Tutto ciò che devi fare è inventare e condividere un alias univoco che utilizzi il tuo sottodominio personalizzato. L’alias verrà generato automaticamente. Ad esempio, la prossima volta che fai shopping online prova con “shop@miodominio.mozmail.com”."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Inserire un prefisso per l’alias"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "ad es. “ristorante”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Blocco delle email pubblicitarie"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Genera alias"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Impossibile creare l’alias. Riprova."
   },
   "pageInputIconSignUpText": {
     "message": "Visita il sito web di Firefox Relay per accedere o creare un account.",
@@ -343,6 +368,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Genera un nuovo alias casuale"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Genera alias casuale"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Genera alias personalizzato"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Seleziona dagli alias di posta esistenti",
@@ -425,5 +456,28 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Chiudi"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ alias disponibili.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Ottieni una maggiore protezione"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Fai clic per copiare"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copiato"
   }
 }
