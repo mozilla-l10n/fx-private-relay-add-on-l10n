@@ -182,6 +182,12 @@
   "popupAliasesUsed_mask": {
     "message": "E-postalias som används"
   },
+  "popupTotalMasksUsed": {
+    "message": "Totalt använda e-postalias"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Alias som används på denna webbplats"
+  },
   "popupEmailsBlocked": {
     "message": "E-postmeddelanden blockerade"
   },
@@ -336,6 +342,37 @@
   "popupSignBackInHeadline_mask": {
     "message": "Logga in igen med dina e-postalias"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "Skapa ett nytt anpassat e-postalias"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Allt du behöver göra är att skapa och dela ett unikt alias som använder din anpassade underdomän — alias genereras automatiskt. Testa \"shop@customsubdomain.mozmail.com\" nästa gång du handlar online, till exempel."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Ange prefix för e-postalias"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "t.ex. \"kaffe\""
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Blockera e-postreklam"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Generera alias"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Alias kunde inte skapas. Var god försök igen."
+  },
   "pageInputIconSignUpText": {
     "message": "Besök Firefox Relay-webbplatsen för att logga in eller skapa ett konto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -349,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Skapa ett nytt slumpmässigt alias"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Skapa slumpmässigt alias"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Skapa anpassat alias"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Välj från dina nuvarande e-postalias",
@@ -431,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Ignorera"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ alias tillgängliga.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Du har använt alla $MAXIMUM$ av dina gratisalias.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Skydda din riktiga e-postadress"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Använd Relay-alias för att hålla din identitet privat och få bara de e-postmeddelanden du vill ha i din inkorg.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Få mer skydd"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Starta Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Klicka för att kopiera"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Kopierad!"
   }
 }
