@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Налаштування"
   },
+  "popupStatsTitle": {
+    "message": "Статистика",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Що нового в Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Повернутися на головну панель"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Продовжити"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Увійти"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Залишилось масок: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Пошук"
   },
+  "labelMaskCreated": {
+    "message": "Маска створена",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "З цього вебсайту",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Ви — активний користувач Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Отримайте власний субдомен для масок адрес електронної пошти Relay",
+  "popupGetDomainButton": {
+    "message": "Отримайте унікальний домен електронної пошти Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Зареєструвати домен е-пошти"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Зареєструвати субдомен е-пошти"
   },
   "popupAliasesUsed_mask": {
     "message": "Використовувані маски електронної пошти"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Загальна кількість використаних масок електронної пошти"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Маски, які використовуються на цьому сайті"
   },
   "popupEmailsBlocked": {
     "message": "Заблоковані електронні листи"
@@ -327,8 +342,33 @@
   "popupSignBackInHeadline_mask": {
     "message": "Увійдіть використовуючи свої маски електронної пошти"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Щоб створити нову маску електронної пошти, коли вас попросять ввести електронну пошту, відкрийте контекстне меню (клацніть правою кнопкою миші або клацніть, утримуючи клавішу Control) у полі електронної пошти. Звідти ви можете відразу створити та використовувати нову маску."
+  "popupCreateCustomMaskTitle": {
+    "message": "Створіть нову власну маску"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Введіть префікс маски адреси електронної пошти"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "напр. “coffee”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Блокуйте промоційні листи"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Згенерувати маску"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Не вдалося створити маску. Повторіть спробу."
   },
   "pageInputIconSignUpText": {
     "message": "Перейдіть на вебсайт Firefox Relay, щоб увійти або створити обліковий запис.",
@@ -343,6 +383,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Створити нову випадкову маску"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Згенерувати випадкову маску"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Згенерувати власну маску"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Вибрати з ваших поточних масок електронної пошти",
@@ -425,5 +471,45 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Сховати"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "Доступно $REMAINING$/$MAXIMUM$ масок.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Ви використали $MAXIMUM$ своїх безплатних масок.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Захистіть свою справжню електронну адресу"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Використовуйте маски Relay, щоб зберегти приватність своєї особи та отримувати лише ті електронні листи, які вам потрібні.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Отримайте більше захисту"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Клацніть, щоб скопіювати"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Скопійовано!"
   }
 }
