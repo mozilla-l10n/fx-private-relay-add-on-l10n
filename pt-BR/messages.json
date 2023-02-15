@@ -348,6 +348,28 @@
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Digite o prefixo da máscara de email"
   },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "por exemplo, \"loja\""
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Bloquear emails promocionais"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Gerar máscara"
+  },
+  "popupCreateCustomFormError": {
+    "message": "A máscara não pôde ser criada. Tente novamente."
+  },
   "pageInputIconSignUpText": {
     "message": "Visite o site do Firefox Relay para entrar ou criar uma conta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -361,6 +383,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Gerar nova máscara aleatória"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Gerar máscara aleatória"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Gerar máscara personalizada"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Selecione uma de suas máscaras de email atuais",
@@ -443,5 +471,32 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Descartar"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ máscaras disponíveis.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Você usou todas as suas $MAXIMUM$ máscaras gratuitas.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Proteja seu endereço de email verdadeiro"
   }
 }
