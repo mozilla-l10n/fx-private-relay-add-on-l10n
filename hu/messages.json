@@ -370,6 +370,9 @@
   "popupCreateCustomFormMaskBlockSubmitButton": {
     "message": "Maszk előállítása"
   },
+  "popupCreateCustomFormError": {
+    "message": "A maszk létrehozása nem sikerült. Próbálja újra."
+  },
   "pageInputIconSignUpText": {
     "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -383,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Új véletlenszerű maszk előállítása"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Véletlenszerű maszk előállítása"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Egyéni maszk előállítása"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Válasszon a jelenlegi e-mail-maszkjai közül",
@@ -465,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Eltüntetés"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ maszk áll rendelkezésre.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Felhasználta mind az $MAXIMUM$ ingyenes maszkot.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Védje meg a valódi e-mail-címét"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Használjon Relay maszkokat, hogy megőrizze személyazonosságát, és csak a kívánt e-maileket kapja meg a postaládájában.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Szerezzen nagyobb védelmet"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "A Relay indítása",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Kattintson a másoláshoz"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Másolva!"
   }
 }
