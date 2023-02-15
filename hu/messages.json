@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Beállítások"
   },
+  "popupStatsTitle": {
+    "message": "Statisztika",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Mik a Relay újdonságai?",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Vissza a fő panelre"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Folytatás"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Bejelentkezés"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Hátralévő maszkok: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Keresés"
   },
+  "labelMaskCreated": {
+    "message": "Maszk létrehozva",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Erről a weboldalról",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Ön egy komoly Firefox Relay felhasználó!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Szerezzen egyéni aldomaint a Relay e-mail-maszkokhoz",
+  "popupGetDomainButton": {
+    "message": "Szerezzen egyedi Relay e-mail-domaint",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "E-mail domain regisztrálása"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "E-mail aldomain regisztrálása"
   },
   "popupAliasesUsed_mask": {
     "message": "Használt e-mail-maszkok"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Összes használt e-mail-maszk"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Ezen a weboldalon használt maszkok"
   },
   "popupEmailsBlocked": {
     "message": "Blokkolt e-mailek"
@@ -327,8 +342,33 @@
   "popupSignBackInHeadline_mask": {
     "message": "Jelentkezzen be újra az e-mail-maszkjaival"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Ha új e-mail-maszkot szeretne létrehozni, amikor a rendszer kéri az e-mail-címét, akkor nyissa meg a helyi menüt (jobb gombbal vagy Control+kattintással) egy e-mail-cím mezőben. Innen azonnal létrehozhat és használhat egy új maszkot."
+  "popupCreateCustomMaskTitle": {
+    "message": "Új egyéni maszk létrehozása"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Mindössze annyit kell tennie, hogy létrehoz és megoszt egy egyedi maszkot, amely az Ön egyéni aldomainjét használja – a maszk automatikusan létrejön. Próbálja ki például a „vasarlas@egyenialdomain.mozmail.com” címet legközelebb, amikor online vásárol."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Írja be az e-mail-maszk előtagját"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "például „kave”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Promóciós e-mailek blokkolása"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Maszk előállítása"
   },
   "pageInputIconSignUpText": {
     "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
