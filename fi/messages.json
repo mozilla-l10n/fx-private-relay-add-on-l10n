@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Asetukset"
   },
+  "popupStatsTitle": {
+    "message": "Tilastot",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Mitä uutta Relay sisältää",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Palaa pääpaneeliin"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Jatka"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Kirjaudu sisään"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Maskeja jäljellä: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Etsi"
   },
+  "labelMaskCreated": {
+    "message": "Maski luotu",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Tältä verkkosivustolta",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,14 @@
     "message": "Olet Firefox Relay -tehokäyttäjä!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Hanki mukautettu aliverkkotunnus Relay-sähköpostimaskeille",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Rekisteröi sähköpostin verkkotunnus"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Rekisteröi sähköpostin aliverkkotunnus"
-  },
   "popupAliasesUsed_mask": {
     "message": "Sähköpostimaskeja käytetty"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Sähköpostimaskeja käytetty yhteensä"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Tällä sivustolla käytettyjä maskeja"
   },
   "popupEmailsBlocked": {
     "message": "Sähköposteja estetty"
@@ -327,8 +338,14 @@
   "popupSignBackInHeadline_mask": {
     "message": "Kirjaudu takaisin sisään sähköpostimaskeillasi"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Jos haluat luoda uuden maskin, kun sinulta kysytään sähköpostia, avaa pikavalikko (napsauta hiiren kakkospainiketta tai Ctrl-napsauta) sähköpostikentässä. Valikon kautta voit luoda uuden maskin ja käyttää sitä heti."
+  "popupCreateCustomMaskTitle": {
+    "message": "Luo uusi mukautettu maski"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Luo maski"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Maskia ei voitu luoda. Yritä uudelleen."
   },
   "pageInputIconSignUpText": {
     "message": "Kirjaudu sisään tai luo tili Firefox Relay -sivustolla.",
@@ -343,6 +360,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Luo uusi satunnainen maski"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Luo satunnainen maski"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Luo mukautettu maski"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Valitse nykyisistä sähköpostimaskeista",
@@ -425,5 +448,14 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Hylkää"
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Suojaa todellinen sähköpostiosoitteesi"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Napsauta kopioidaksesi"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Kopioitu!"
   }
 }
