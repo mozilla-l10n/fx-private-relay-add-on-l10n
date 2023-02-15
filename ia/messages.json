@@ -175,6 +175,10 @@
     "message": "Tu es un usator de potentia de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "Recipe un unic dominio email Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Mascas email usate"
   },
