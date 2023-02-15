@@ -498,5 +498,22 @@
   },
   "popupNoMasksCreatedHeadline": {
     "message": "Proteja seu endereço de email verdadeiro"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Use máscaras do Relay para manter sua identidade privativa e receber apenas os emails que quiser em sua caixa de entrada.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Tenha mais proteção"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Iniciar Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Clique para copiar"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copiado!"
   }
 }
