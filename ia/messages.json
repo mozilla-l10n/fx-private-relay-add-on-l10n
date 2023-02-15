@@ -42,7 +42,7 @@
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsTitle": {
-    "message": "Qual novas in Relay",
+    "message": "Qual es le novas in Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
@@ -176,7 +176,7 @@
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Recipe un unic dominio email Relay",
+    "message": "Recipe un dominio email Relay unic",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
@@ -475,8 +475,36 @@
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Dimitter"
   },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$ mascas disponibile sur $MAXIMUM$.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Tu ha usate tote tu $MAXIMUM$ mascas gratuite.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
   "popupNoMasksCreatedHeadline": {
     "message": "Protege tu real adresse email"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Usa le mascas Relay pro tener private tu identitate e reciper solo le emails que tu vole in tu cassa de ingresso.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Obtener plus protection"
