@@ -345,6 +345,9 @@
   "popupCreateCustomMaskTitle": {
     "message": "Створіть нову власну маску"
   },
+  "popupCreateCustomMaskBody": {
+    "message": "Усе, що вам потрібно зробити, це створити та поділитися унікальною маскою, яка використовує ваш спеціальний субдомен — маска генерується автоматично. Наприклад, спробуйте “shop@customsubdomain.mozmail.com” наступного разу, коли будете робити покупки онлайн."
+  },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Введіть префікс маски адреси електронної пошти"
   },
@@ -505,6 +508,10 @@
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Отримайте більше захисту"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Запустити Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "Клацніть, щоб скопіювати"
