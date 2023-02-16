@@ -354,6 +354,16 @@
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "p.ej. “café”"
   },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Bloquear correos electrónicos promocionales"
   },
