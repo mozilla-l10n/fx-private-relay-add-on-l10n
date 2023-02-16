@@ -349,6 +349,33 @@
     "popupSignBackInHeadline_mask": {
         "message": "Sign back in with your email masks"
     },
+    "popupManageMaskTitle": {
+        "message": "Manage mask"
+    },
+    "popupManageMaskPromoBlockingTitle": {
+        "message": "What emails do you want to block?"
+    },
+    "popupManageMaskPromoBlockingOptionNone": {
+        "message": "None"
+    },
+    "popupManageMaskPromoBlockingOptionPromotional": {
+        "message": "Promotional"
+    },
+    "popupManageMaskPromoBlockingOptionAll": {
+        "message": "All"
+    },
+    "popupManageMaskPromoBlockingOptionNoneDesc": {
+        "message": "Relay is not blocking any emails for this mask.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupManageMaskPromoBlockingOptionPromotionalDesc": {
+        "message": "Relay will attempt to block promotional emails while still forwarding emails like receipts and shipping information.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupManageMaskPromoBlockingOptionAllDesc": {
+        "message": "Relay is not blocking any emails for this mask.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
     "popupCreateCustomMaskTitle": {
         "message": "Create a new custom mask"
     },
