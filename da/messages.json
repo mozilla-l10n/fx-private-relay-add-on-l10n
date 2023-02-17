@@ -345,6 +345,12 @@
   "popupCreateCustomMaskTitle": {
     "message": "Opret en ny brugerdefineret maske"
   },
+  "popupCreateCustomMaskBody": {
+    "message": "Det eneste du skal gøre er at lave og dele en unik maske, der bruger dit brugerdefinerede underdomæne — masken oprettes automatisk. Prøv fx “shop@customsubdomain.mozmail.com”, næste gang du handler på nettet."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Indtast præfiks til mail-maske"
+  },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "fx “kaffe”"
   },
@@ -495,6 +501,10 @@
   },
   "popupNoMasksCreatedHeadline": {
     "message": "Beskyt din rigtige mailadresse"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Brug Relay-masker til at holde din identitet privat, og modtag kun de mails i din indbakke, du gerne vil have.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Få mere beskyttelse"
