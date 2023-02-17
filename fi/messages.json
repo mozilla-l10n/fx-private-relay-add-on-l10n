@@ -175,6 +175,10 @@
     "message": "Olet Firefox Relay -tehokäyttäjä!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "Hanki yksilöllinen Relay-sähköpostiverkkotunnus",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Sähköpostimaskeja käytetty"
   },
@@ -341,6 +345,28 @@
   "popupCreateCustomMaskTitle": {
     "message": "Luo uusi mukautettu maski"
   },
+  "popupCreateCustomMaskBody": {
+    "message": "Sinun tarvitsee vain luoda ja jakaa yksilöllinen maski, joka käyttää mukautettua aliverkkotunnustasi – maski luodaan automaattisesti. Kokeile esimerkiksi “kauppa@customsubdomain.mozmail.com” seuraavan kerran, kun teet ostoksia verkossa."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Anna sähköpostimaskin etuliite"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "esim. “kahvi”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Estä mainossähköpostit"
+  },
   "popupCreateCustomFormMaskBlockSubmitButton": {
     "message": "Luo maski"
   },
@@ -449,8 +475,43 @@
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Hylkää"
   },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ maskia käytettävissä.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Olet käyttänyt kaikki $MAXIMUM$ ilmaista maskia.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
   "popupNoMasksCreatedHeadline": {
     "message": "Suojaa todellinen sähköpostiosoitteesi"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Käytä Relay-maskeja pitääksesi henkilöytesi yksityisenä, vastaanota vain haluamasi sähköpostit postilaatikkoosi.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Hanki lisää suojaa"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Käynnistä Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "Napsauta kopioidaksesi"
