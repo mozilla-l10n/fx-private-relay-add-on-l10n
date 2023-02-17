@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Indstillinger"
   },
+  "popupStatsTitle": {
+    "message": "Statistik",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Nyheder i Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Vend tilbage til hovedpanelet"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Fortsæt"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Log ind"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Resterende masker: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Søg"
   },
+  "labelMaskCreated": {
+    "message": "Maske oprettet",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Fra dette websted",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Du er en Firefox Relay superbruger!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Få et tilpasset subdomæne til Relay-mail-masker",
+  "popupGetDomainButton": {
+    "message": "Få et unikt Rely-mail-domæne",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registrer mail-domæne"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrer mail-subdomæne"
   },
   "popupAliasesUsed_mask": {
     "message": "Mail-masker brugt"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Samlet antal brugte mail-masker"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Masker brugt på dette websted"
   },
   "popupEmailsBlocked": {
     "message": "Mails blokeret"
@@ -327,8 +342,30 @@
   "popupSignBackInHeadline_mask": {
     "message": "Log ind igen med dine mail-masker"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "For at oprette en ny mail-maske, når du bliver bedt om din mailadresse, skal du åbne genvejsmenuen (højreklik eller kontrol-klik) i et mail-felt. Derfra kan du oprette og bruge en ny maske med det samme."
+  "popupCreateCustomMaskTitle": {
+    "message": "Opret en ny brugerdefineret maske"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "fx “kaffe”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Bloker reklamemails"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Opret maske"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Masken kunne ikke oprettes. Prøv igen."
   },
   "pageInputIconSignUpText": {
     "message": "Besøg Firefox Relays websted for at logge ind eller oprette en konto.",
@@ -343,6 +380,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Opret ny tilfældig maske"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Opret tilfældig maske"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Opret brugerdefineret maske"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Vælg mellem dine nuværende mail-masker",
@@ -425,5 +468,45 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Afvis"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ masker tilgængelige.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Du har brugt alle $MAXIMUM$ af dine gratis masker.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Beskyt din rigtige mailadresse"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Få mere beskyttelse"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Start Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Klik for at kopiere"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Kopieret!"
   }
 }
