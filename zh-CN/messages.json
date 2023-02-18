@@ -384,6 +384,9 @@
   "pageInputIconGenerateRandomMask": {
     "message": "生成随机马甲"
   },
+  "pageInputIconGenerateCustomMask": {
+    "message": "生成自定义马甲"
+  },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "选择现有的马甲邮箱",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
@@ -465,5 +468,32 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "知道了"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "最多可用 $MAXIMUM$ 个马甲，剩余 $REMAINING$ 个。",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "$MAXIMUM$ 个免费马甲已用完。",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "保护您的真实邮箱地址"
   }
 }
