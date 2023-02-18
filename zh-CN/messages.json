@@ -182,6 +182,12 @@
   "popupAliasesUsed_mask": {
     "message": "已用的马甲邮箱"
   },
+  "popupTotalMasksUsed": {
+    "message": "已使用的马甲总数"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "此网站使用过的马甲"
+  },
   "popupEmailsBlocked": {
     "message": "封邮件已拦截"
   },
@@ -410,7 +416,7 @@
     "message": "使用此网站已有的马甲…"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "近期的马甲邮箱"
+    "message": "近期的马甲"
   },
   "pageInputIconInsertPhoneMask": {
     "message": "使用虚拟手机号"
@@ -495,5 +501,22 @@
   },
   "popupNoMasksCreatedHeadline": {
     "message": "保护您的真实邮箱地址"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "使用 Relay 保护您的身份隐私，把那些“不速之客”统统挡在邮箱外面。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "获得更多保护"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "打开 Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "点击复制"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "已复制！"
   }
 }
