@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "设置"
   },
+  "popupStatsTitle": {
+    "message": "统计",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Relay 新版变化",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "返回主面板"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "继续"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "登录"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "剩余马甲数量：$REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "搜索"
   },
+  "labelMaskCreated": {
+    "message": "马甲创建成功",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "来自此网站",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,15 +175,9 @@
     "message": "您是 Firefox Relay 大师！",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "用自定义子域名创建 Relay 马甲邮箱",
+  "popupGetDomainButton": {
+    "message": "获取专属自己的 Relay 电子邮件域名",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "注册邮箱域名"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "注册邮箱子域名"
   },
   "popupAliasesUsed_mask": {
     "message": "已用的马甲邮箱"
@@ -327,8 +336,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "用您的马甲邮箱登录网站"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "遇到网站要求您输入电子邮件地址时，可以通过右键菜单（或 Control + 鼠标左键）直接创建马甲邮箱。"
+  "popupCreateCustomMaskTitle": {
+    "message": "新建自定义马甲"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "您需要做的就是用自定义子域名构造一个独特的马甲邮箱。例如，下次网购时可以直接使用 “shop@customsubdomain.mozmail.com”，这个马甲即会自动生成。"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "输入马甲邮箱前缀"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "例如“coffee”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "屏蔽营销邮件"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "生成马甲"
+  },
+  "popupCreateCustomFormError": {
+    "message": "无法创建马甲，请重试。"
   },
   "pageInputIconSignUpText": {
     "message": "访问 Firefox Relay 网站登录或创建账户。",
@@ -343,6 +380,9 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "生成随机新马甲"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "生成随机马甲"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "选择现有的马甲邮箱",
