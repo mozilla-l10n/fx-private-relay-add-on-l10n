@@ -63,7 +63,7 @@
     "message": "Privacy"
   },
   "popupSettingsTermsOfService": {
-    "message": "Termini di servizio"
+    "message": "Condizioni di utilizzo del servizio"
   },
   "popupSettingsReportIssue": {
     "message": "Segnala un problema"
@@ -165,7 +165,7 @@
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "Tutti gli alias",
+    "message": "Tutti gli alias email",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
@@ -180,7 +180,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Alias utilizzati"
+    "message": "Alias email utilizzati"
   },
   "popupTotalMasksUsed": {
     "message": "Totale degli alias email utilizzati"
@@ -340,7 +340,7 @@
     "message": "Nuovo!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Registrati direttamente con i tuoi alias"
+    "message": "Registrati direttamente con i tuoi alias email"
   },
   "popupCreateCustomMaskTitle": {
     "message": "Crea un nuovo alias personalizzato"
@@ -349,7 +349,7 @@
     "message": "Tutto ciò che devi fare è inventare e condividere un alias univoco che utilizzi il tuo sottodominio personalizzato. L’alias verrà generato automaticamente. Ad esempio, la prossima volta che fai shopping online prova con “shop@miodominio.mozmail.com”."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Inserire un prefisso per l’alias"
+    "message": "Inserire un prefisso per l’alias email"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "ad es. “ristorante”"
@@ -394,11 +394,11 @@
     "message": "Genera alias personalizzato"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Seleziona dagli alias di posta esistenti",
+    "message": "Seleziona dagli alias email esistenti",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Altri alias",
+    "message": "Altri alias email",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
@@ -426,7 +426,7 @@
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Non sono disponibili ulteriori alias gratuiti.",
+    "message": "Non sono disponibili ulteriori alias di posta elettronica gratuiti.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
