@@ -474,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Zavrieť"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "Masky k dispozícii: $REMAINING$/$MAXIMUM$.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Použili ste všetky vaše bezplatné masky (celkom $MAXIMUM$).",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Chráňte svoju skutočnú e-mailovú adresu"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Použite masky služby Relay, aby ste zachovali svoju identitu v súkromí a do doručenej pošty dostávali iba tie e-maily, ktoré chcete.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Získajte väčšiu ochranu"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Spustiť Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Kliknutím skopírujete"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Skopírované!"
   }
 }
