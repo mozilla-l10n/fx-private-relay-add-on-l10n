@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Nastavenia"
   },
+  "popupStatsTitle": {
+    "message": "Štatistiky",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Čo je nové v Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Vrátiť sa na hlavný panel"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Pokračovať"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Prihlásiť sa"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Zostávajúce masky: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Hľadať"
   },
+  "labelMaskCreated": {
+    "message": "Maska bola vytvorená",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Z tejto stránky",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,8 +175,18 @@
     "message": "Ste skúseným používateľom služby Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "Získajte jedinečnú e-mailovú doménu Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Použité e-mailové masky"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Celkový počet použitých e-mailových masiek"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Masky používané na tejto webovej stránke"
   },
   "popupEmailsBlocked": {
     "message": "Zablokované e-maily"
@@ -317,6 +342,37 @@
   "popupSignBackInHeadline_mask": {
     "message": "Znova sa prihláste pomocou svojich e-mailových masiek"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "Vytvoriť novú vlastnú masku"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Všetko, čo musíte urobiť, je vytvoriť a zdieľať jedinečnú masku, ktorý používa vašu vlastnú subdoménu – maska sa vygeneruje automaticky. Keď budete nabudúce nakupovať cez internet, skúste zadať napríklad “nakupy@vlastnasubdomena.mozmail.com”."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Zadajte predponu masky e-mailu"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "napr. “hracky”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Blokovať marketingové e-maily"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Vytvoriť masku"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Masku nebolo možné vytvoriť. Prosím skúste znova."
+  },
   "pageInputIconSignUpText": {
     "message": "Navštívte webovú stránku Firefox Relay a prihláste sa alebo si vytvorte účet.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -330,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Vytvoriť novú náhodnú masku"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Vytvoriť náhodnú masku"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Vytvoriť vlastnú masku"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Vyberte si z vašich aktuálnych e-mailových masiek",
