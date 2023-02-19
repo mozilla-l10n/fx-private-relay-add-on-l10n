@@ -160,16 +160,6 @@
     "message": "Ste skúseným používateľom služby Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Získajte vlastnú subdoménu pre e-mailové masky služby Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registrovať e-mailovú doménu"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrovať e-mailovú subdoménu"
-  },
   "popupAliasesUsed_mask": {
     "message": "Použité e-mailové masky"
   },
@@ -327,9 +317,6 @@
   "popupSignBackInHeadline_mask": {
     "message": "Znova sa prihláste pomocou svojich e-mailových masiek"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Ak chcete vytvoriť novú masku, keď sa zobrazí výzva na zadanie e-mailu, otvorte kontextovú ponuku (kliknutím pravým tlačidlom myši alebo stlačením klávesu Control) v poli s e-mailom. Odtiaľ môžete okamžite vytvoriť novú masku a použiť ju."
-  },
   "pageInputIconSignUpText": {
     "message": "Navštívte webovú stránku Firefox Relay a prihláste sa alebo si vytvorte účet.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -414,14 +401,14 @@
     "message": "Povoliť"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Aktualizácia oznámenia o ochrane osobných údajov"
+    "message": "Aktualizácia Vyhlásenia o ochrane osobných údajov"
   },
   "popupPrivacyNoticeUpdateBody": {
     "message": "Aby sme zvýšili spoľahlivosť služby Firefox Relay v prípade, že e-mail nebude možné doručiť, dočasne ho ponecháme na našich serveroch, kým nebude doručený. Nikdy to však nebude dlhšie ako tri dni.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Zobraziť oznámenie o ochrane osobných údajov"
+    "message": "Zobraziť Vyhlásenie o ochrane osobných údajov"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Zavrieť"
