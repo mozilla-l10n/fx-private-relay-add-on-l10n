@@ -394,7 +394,7 @@
     "message": "Gerar máscara personalizada"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Selecione uma de suas máscaras de email atuais",
+    "message": "Selecione uma de suas máscaras de email",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
