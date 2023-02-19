@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Ajustes"
   },
+  "popupStatsTitle": {
+    "message": "Estadísticas",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Novedades en Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Volver al panel principal"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Iniciar sesión"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Máscaras restantes: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Buscar"
   },
+  "labelMaskCreated": {
+    "message": "Máscara creada",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "De este sitio web",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,15 @@
     "message": "¡Eres un usuario avanzado de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Obtén un subdominio personalizado para las máscaras de correo electrónico de Relay",
+  "popupGetDomainButton": {
+    "message": "Obtén un dominio único de Relay para tu correo electrónico",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Registrar dominio de correo electrónico"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Registrar subdominio de correo electrónico"
   },
   "popupAliasesUsed_mask": {
     "message": "Máscaras de correo electrónico utilizadas"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Total de máscaras de correo usadas"
   },
   "popupEmailsBlocked": {
     "message": "Correos electrónicos bloqueados"
@@ -326,9 +338,6 @@
   },
   "popupSignBackInHeadline_mask": {
     "message": "Vuelve a iniciar sesión con tus máscaras"
-  },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Para crear una nueva máscara cuando se te solicite tu correo electrónico, abre el menú contextual (clic derecho o control-clic) en un campo de correo electrónico. Desde allí, puedes crear y usar una nueva máscara de inmediato."
   },
   "pageInputIconSignUpText": {
     "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
