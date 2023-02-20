@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Gosodiadau"
   },
+  "popupStatsTitle": {
+    "message": "Ystadegau",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Beth sy’n newydd yn Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Nôl i'r prif banel"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Parhau"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Mewngofnodi"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Arallenwau sy'n weddill: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Chwilio"
   },
+  "labelMaskCreated": {
+    "message": "Arallenw wedi'i greu",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "O'r wefan hon",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Rydych chi'n uwch-ddefnyddiwr Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Cael parth personol ar gyfer arallenwau e-bost Relay",
+  "popupGetDomainButton": {
+    "message": "Cael parth e-bost Relay unigryw",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Cofrestru parth e-bost"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Cofrestru parth e-bost"
   },
   "popupAliasesUsed_mask": {
     "message": "Arallenwau e-bost wedi'u defnyddio"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Cyfanswm yr arallenwau e-bost a ddefnyddiwyd"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Arallenwau wedi'u defnyddio ar y wefan hon"
   },
   "popupEmailsBlocked": {
     "message": "E-byst wedi'u rhwystro"
@@ -327,8 +342,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Mewngofnodwch eto gyda'ch arallenwau"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "I greu arallenw newydd pan fydd gofyn i chi ddarparu e-bost, agorwch y ddewislen cyd-destun (cliciwch ar y dde neu control-clic) mewn maes e-bost. Oddi yno gallwch greu a defnyddio arallenw newydd ar unwaith."
+  "popupCreateCustomMaskTitle": {
+    "message": "Crëwch arallenw cyfaddas newydd"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Y cyfan sy'n rhaid i chi ei wneud yw creu a rhannu arallenw unigryw sy'n defnyddio'ch parth cyfaddas - bydd yr arallenw'n cael ei gynhyrchu'n awtomatig. Rhowch gynnig ar “shop@customsubdomain.mozmail.com” y tro nesaf y byddwch chi'n siopa ar-lein, er enghraifft."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Rhowch ragosodiad arallenw e-bost"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "e.e. “coffi”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Rhwystro e-byst hyrwyddo"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Cynhyrchu arallenw"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Nid oedd modd creu'r arallenw. Ceisiwch eto, os gwelwch yn dda."
   },
   "pageInputIconSignUpText": {
     "message": "Ewch i wefan Firefox Relay i fewngofnodi neu greu cyfrif.",
@@ -343,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Cynhyrchu arallenw ar hap newydd"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Cynhyrchu arallenw newydd ar hap"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Cynhyrchu arallenw cyfaddas"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Dewiswch o'ch arallenwau e-bost cyfredol",
@@ -425,5 +474,39 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Cau"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ arallenw ar gael.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Rydych chi wedi defnyddio $MAXIMUM$ o'ch arallenwau rhad ac am ddim.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Diogelwch eich cyfeiriad e-bost go iawn"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Defnyddiwch arallenwau Relay i gadw'ch hunaniaeth yn breifat a chael dim ond y negeseuon e-bost rydych chi eu heisiau yn eich blwch derbyn.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Cael rhagor o ddiogelwch"
   }
 }
