@@ -508,5 +508,15 @@
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Cael rhagor o ddiogelwch"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Agor Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Clicio i'w gopïo"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Copïwyd!"
   }
 }
