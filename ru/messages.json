@@ -37,6 +37,10 @@
   "popupSettingsTitle": {
     "message": "Настройки"
   },
+  "popupStatsTitle": {
+    "message": "Статистика",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
   "popupNewsTitle": {
     "message": "Что нового в Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -152,6 +156,10 @@
   "labelSearch": {
     "message": "Поиск"
   },
+  "labelMaskCreated": {
+    "message": "Псевдоним создан",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "С этого веб-сайта",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -167,8 +175,18 @@
     "message": "Вы — опытный пользователь Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "Получите уникальный почтовый домен Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Псевдонимов электронной почты использовано"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Общее число использованных псевдонимов эл. почты"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Псевдонимы, используемые на этом сайте"
   },
   "popupEmailsBlocked": {
     "message": "Писем заблокировано"
@@ -324,11 +342,27 @@
   "popupSignBackInHeadline_mask": {
     "message": "Войдите снова, используя почтовые псевдонимы"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "Создайте новый собственный псевдоним"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Всё, что вам нужно сделать, — это придумать уникальный псевдоним с собственным поддоменом и воспользоваться им.  Создание произойдёт автоматически. Попробуйте, например, «shop@customsubdomain.mozmail.com» в следующий раз, когда будете делать покупки в Интернете."
+  },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Введите префикс псевдонима электронной почты"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "например, «coffee»"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Блокировать рекламные письма"
@@ -455,8 +489,25 @@
       }
     }
   },
+  "popupFreeMasksLimitReached": {
+    "message": "Вы использовали все $MAXIMUM$ ваших бесплатных псевдонимов.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
   "popupNoMasksCreatedHeadline": {
     "message": "Защитите свой настоящий адрес электронной почты"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Используйте псевдонимы Relay, чтобы сохранить конфиденциальность вашей личности, и получать в свой почтовый ящик только те письма, которые вы хотите видеть.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Получить больше защиты"
   },
   "popupCopyMaskButtonAlt": {
     "message": "Нажмите, чтобы скопировать"
