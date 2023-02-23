@@ -509,6 +509,10 @@
   "popupUpgradeBtnGetMoreProtection": {
     "message": "Получить больше защиты"
   },
+  "popupNavButtonLaunchRelay": {
+    "message": "Запустить Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupCopyMaskButtonAlt": {
     "message": "Нажмите, чтобы скопировать"
   },
