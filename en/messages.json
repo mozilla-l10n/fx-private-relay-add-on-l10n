@@ -450,6 +450,9 @@
     "close": {
         "message": "Close"
     },
+    "returnToPreviousPanel": {
+        "message": "Return to previous panel"
+    },
     "popupDataCollectionHeadline": {
         "message": "Enable new features"
     },
