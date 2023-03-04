@@ -37,6 +37,14 @@
   "popupSettingsTitle": {
     "message": "Nastavení"
   },
+  "popupStatsTitle": {
+    "message": "Statistiky",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsTitle": {
+    "message": "Co je ve službě Relay nového",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Zpět na hlavní panel"
   },
@@ -105,6 +113,9 @@
   "popupSignUpPanelContinue": {
     "message": "Pokračovat"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Přihlásit se"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Zbývá dostupných masek: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -145,6 +156,10 @@
   "labelSearch": {
     "message": "Vyhledat"
   },
+  "labelMaskCreated": {
+    "message": "Maska byla vytvořena",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "Z tohoto webu",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
@@ -160,18 +175,18 @@
     "message": "Jste zdatný uživatel služby Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Získejte vlastní subdoménu pro e-mailové masky služby Relay",
+  "popupGetDomainButton": {
+    "message": "Získat jedinečnou e-mailovou doménu Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Zaregistrovat doménu pro e-maily"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Zaregistrovat subdoménu pro e-maily"
   },
   "popupAliasesUsed_mask": {
     "message": "Používané e-mailové masky"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Celkový počet používaných e-mailových masek"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Masky používané na tomto webu"
   },
   "popupEmailsBlocked": {
     "message": "Zablokované e-maily"
@@ -327,8 +342,36 @@
   "popupSignBackInHeadline_mask": {
     "message": "Přihlaste se zpátky pomocí svých e-mailových masek"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Novou masku můžete vytvořit otevřením kontextové nabídky (klepnutím pravým tl. myši) pole pro zadání e-mailové adresy."
+  "popupCreateCustomMaskTitle": {
+    "message": "Vytvoření nové vlastní masky"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Vše, co musíte udělat, je vymyslet a sdílet jedinečnou masku, která používá vaši vlastní subdoménu – maska se vygeneruje automaticky. Až budete příště nakupovat přes internet, zkuste použít například „nakupy@vlastni-subdomena.mozmail.com“."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Zadejte předponu e-mailové masky"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "např. „kafe“"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Blokování propagačních e-mailů"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Vytvořit masku"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Masku se nepodařilo vytvořit. Zkuste to prosím znovu."
   },
   "pageInputIconSignUpText": {
     "message": "Navštivte web služby Firefox Relay a přihlaste se nebo si vytvořte účet.",
@@ -343,6 +386,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Vygenerovat novou náhodnou masku"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Vygenerovat náhodnou masku"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Vytvořit vlastní masku"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Vyberte svou existující e-mailovou masku",
@@ -425,5 +474,49 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Zavřít"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "K dispozici máte $REMAINING$ z max. počtu $MAXIMUM$ masek.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Použili jste už všech $MAXIMUM$ svých bezplatných masek.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Chraňte svou skutečnou e-mailovou adresu"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Používejte masky služby Relay a udržujte tak svou identitu v tajnosti a do své e-mailové schránky dostávejte jen ty e-maily, které chcete.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Získejte větší ochranu"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Spustit službu Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Klepnutím zkopírujete do schránky"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Zkopírováno!"
   }
 }
