@@ -41,6 +41,10 @@
     "message": "Statistica",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Novas",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Qual es le novas in Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Inultramento de e-mail critic"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Blocar e-mails promotional"
+  "popupPromoBlockingButtonTitle": {
+    "message": "Blocar emails promotional"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "Activar le blocada de emails promotional sur un masca pro stoppar emails de marketing que attinge tu cassa de ingresso."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Saper plus"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Con Relay Premium, tu pote blocar e-mails promotional de attinger tu cassa de ingresso durante que ancora te es permittite reciper e-mails como quitantias o informationes de expedition.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Clauder"
+  },
+  "returnToPreviousPanel": {
+    "message": "Retornar al previe pannello"
   },
   "popupDataCollectionHeadline": {
     "message": "Activar nove functiones"
