@@ -248,11 +248,14 @@
     "popupCriticalEmailForwardingHeadline": {
         "message": "Critical email forwarding"
     },
-    "popupBlockPromotionalEmailsHeadline_2": {
+    "popupPromoBlockingButtonTitle": {
         "message": "Block promotional emails"
     },
-    "popupBlockPromotionalEmailsBody_mask": {
+    "popupPromoBlockingButtonCopy": {
         "message": "Enable Block Promotional Emails on a mask to stop marketing emails from reaching your inbox."
+    },
+    "popupPromoBlockingButtonLearnMore": {
+        "message": "Learn more"
     },
     "popupBlockPromotionalEmailsBodyNonPremium": {
         "message": "With Relay Premium, you can block promotional emails from reaching your inbox while still allowing you to receive emails like receipts or shipping information.",
