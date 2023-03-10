@@ -37,6 +37,18 @@
   "popupSettingsTitle": {
     "message": "Ρυθμίσεις"
   },
+  "popupStatsTitle": {
+    "message": "Στατιστικά",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsLink": {
+    "message": "Ειδήσεις",
+    "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Τι νέο υπάρχει στο Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "Επιστροφή στον κύριο πίνακα"
   },
@@ -105,6 +117,9 @@
   "popupSignUpPanelContinue": {
     "message": "Συνέχεια"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "Σύνδεση"
+  },
   "popupRemainingAliases_2_mask": {
     "message": "Υπολειπόμενες μάσκες: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
@@ -160,18 +175,11 @@
     "message": "Αξιοποιείτε το Firefox Relay στο έπακρό του!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Απόκτηση προσαρμοσμένου υποτομέα για μάσκες email του Relay",
-    "description": "DO NOT TRANSLATE \"Relay\"."
-  },
-  "popupRegisterDomainButton": {
-    "message": "Εγγραφή τομέα email"
-  },
-  "popupRegisterDomainButton_mask": {
-    "message": "Καταχώρηση υποτομέα email"
-  },
   "popupAliasesUsed_mask": {
     "message": "Μάσκες email σε χρήση"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Σύνολο μασκών email σε χρήση"
   },
   "popupEmailsBlocked": {
     "message": "Αποκλεισμένα email"
@@ -229,11 +237,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Προώθηση κρίσιμων email"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Φραγή διαφημιστικών email"
-  },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε μια μάσκα για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Μάθετε περισσότερα"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Με το Relay Premium, μπορείτε να αποκλείσετε τα διαφημιστικά email από τα εισερχόμενά σας, ενώ επιτρέπεται ακόμα η λήψη email, όπως αποδείξεις ή στοιχεία αποστολής.",
@@ -327,8 +332,33 @@
   "popupSignBackInHeadline_mask": {
     "message": "Συνδεθείτε ξανά με τις μάσκες email σας"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "Για να δημιουργήσετε μια νέα μάσκα email όταν σας ζητείται το email σας, ανοίξτε το μενού επιλογών (με δεξί κλικ ή control-κλικ) σε ένα πεδίο email. Από εκεί, μπορείτε να δημιουργήσετε και να χρησιμοποιήσετε άμεσα μια νέα μάσκα."
+  "popupCreateCustomMaskTitle": {
+    "message": "Δημιουργία νέας προσαρμοσμένης μάσκας"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Χρειάζεται μόνο να δημιουργήσετε και να μοιραστείτε μια μοναδική μάσκα που να χρησιμοποιεί τον προσαρμοσμένο υποτομέα σας — η μάσκα θα δημιουργηθεί αυτόματα. Δοκιμάστε για παράδειγμα το «katasthma@onomaupotomea.mozmail.com» την επόμενη φορά που θα κάνετε αγορές στο διαδίκτυο."
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "π.χ. «coffee»"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Φραγή διαφημιστικών email"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Δημιουργία μάσκας"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Δεν ήταν δυνατή η δημιουργία της μάσκας. Παρακαλώ δοκιμάστε ξανά."
   },
   "pageInputIconSignUpText": {
     "message": "Επισκεφθείτε τον ιστότοπο του Firefox Relay για σύνδεση ή δημιουργία λογαριασμού.",
@@ -343,6 +373,12 @@
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Δημιουργία νέας τυχαίας μάσκας"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Δημιουργία τυχαίας μάσκας"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Δημιουργία προσαρμοσμένης μάσκας"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Επιλέξτε από τις τρέχουσες μάσκες email σας",
@@ -425,5 +461,39 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Απόρριψη"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ διαθέσιμες μάσκες.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "Έχετε χρησιμοποιήσει και τις $MAXIMUM$ δωρεάν μάσκες σας.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Εκκίνηση του Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Κάντε κλικ για αντιγραφή"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Αντιγράφηκε!"
   }
 }
