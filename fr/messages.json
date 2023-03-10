@@ -41,6 +41,10 @@
     "message": "Statistiques",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Nouveautés",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Nouveautés de Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Transfert des e-mails critiques"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Blocage des e-mails promotionnels"
+  "popupPromoBlockingButtonTitle": {
+    "message": "Bloquer les e-mails promotionnels"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "Activez le blocage des e-mails promotionnels pour un alias afin d’empêcher la réception des messages des campagnes publicitaires dans votre boîte de réception."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "En savoir plus"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Grâce à Relay Premium, vous pouvez empêcher les e-mails promotionnels d’arriver dans votre boîte de réception tout en autorisant la réception des messages tels que les reçus ou les avis d’expédition.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Fermer"
+  },
+  "returnToPreviousPanel": {
+    "message": "Revenir au panneau précédent"
   },
   "popupDataCollectionHeadline": {
     "message": "Activer les nouvelles fonctionnalités"
