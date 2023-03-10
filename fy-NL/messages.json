@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay makket it maklik om e-mailmaskers te meitsjen dy’t nei jo echte Postfek YN trochstjoerd wurde.",
+    "message": "Firefox Relay makket it maklik om e-mailmaskers te meitsjen dy’t nei jo wiere Postfek YN trochstjoerd wurde.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay helpt jo jo echte e-mailadres te beskermjen – it adres dat it meast deun ferbân hâldt mei jo online-identiteit. Jo kinne der unike, maskers mei oanmeitsje, dy’t jo brûke kinne om jo yn te skriuwen by accounts, apps of nijsbrieven, en stjoert berjochten troch nei jo echte adres. As jo ûntdekke dat in account jo net-winske berjochten of spam stjoert, kinne jo it masker blokkearje en ferstjoert dizze gjin berjochten mear nei jo Postfek YN. As jo in account net mear brûke wolle, kinne jo it masker fuortsmite.",
+    "message": "Firefox Relay helpt jo jo wiere e-mailadres te beskermjen – it adres dat it meast deun ferbân hâldt mei jo online-identiteit. Jo kinne der unike, maskers mei oanmeitsje, dy’t jo brûke kinne om jo yn te skriuwen by accounts, apps of nijsbrieven, en stjoert berjochten troch nei jo wiere adres. As jo ûntdekke dat in account jo net-winske berjochten of spam stjoert, kinne jo it masker blokkearje en ferstjoert dizze gjin berjochten mear nei jo Postfek YN. As jo in account net mear brûke wolle, kinne jo it masker fuortsmite.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -335,10 +335,10 @@
     "message": "Nij: telefoannûmermaskearing"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Mei telefoannûmermaskearing kinne jo no in telefoannûmermasker oanmeitsje dat jo helpt sms’kes en oproppen te ûntfangen sûnder jo echte nûmer priis te jaan."
+    "message": "Mei telefoannûmermaskearing kinne jo no in telefoannûmermasker oanmeitsje dat jo helpt sms’kes en oproppen te ûntfangen sûnder jo wiere nûmer priis te jaan."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Untfang sms’kes en oproppen sûnder jo echte nûmer te toanen."
+    "message": "Untfang sms’kes en oproppen sûnder jo wiere nûmer te toanen."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "No opwurdearje"
@@ -510,7 +510,7 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "Beskermje jo echte e-mailadres"
+    "message": "Beskermje jo wiere e-mailadres"
   },
   "popupNoMasksCreatedBody": {
     "message": "Brûk Relay-maskers om jo identiteit privee te hâlden en allinnich de e-mailberjochten te ûntfangen dy’t jo wolle yn jo Postfek YN.",
