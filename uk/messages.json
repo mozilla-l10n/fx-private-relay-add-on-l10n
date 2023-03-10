@@ -41,6 +41,10 @@
     "message": "Статистика",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Новини",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Що нового в Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Пересилання важливих листів"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "Блокуйте промоційні листи"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "Увімкніть блокування промоційних електронних листів маскою, щоб маркетингові листи не надходили до вашої теки вхідних."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Докладніше"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "За допомогою Relay Premium ви можете блокувати надходження промоційних листів до вашої теки «Вхідні», при цьому дозволяючи вам отримувати електронні листи, як-от квитанції або інформацію про доставлення.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Закрити"
+  },
+  "returnToPreviousPanel": {
+    "message": "Повернутися до попередньої панелі"
   },
   "popupDataCollectionHeadline": {
     "message": "Увімкнути нові функції"
