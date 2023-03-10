@@ -41,6 +41,10 @@
     "message": "Tilastot",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Uutiset",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Mitä uutta Relay sisältää",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kriittinen sähköpostin edelleenlähetys"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "Estä mainossähköpostit"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Ota käyttöön Estä mainossähköpostit maskissa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
+  "popupPromoBlockingButtonCopy": {
+    "message": "Ota käyttöön \"Estä mainossähköpostit\" maskissa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Lue lisää"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Relay Premiumin avulla voit estää mainossähköpostien pääsyn postilaatikkoosi, mutta voit silti vastaanottaa sähköpostiviestejä, kuten kuitteja tai toimitustietoja.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Sulje"
+  },
+  "returnToPreviousPanel": {
+    "message": "Paluu edelliseen näkymään"
   },
   "popupDataCollectionHeadline": {
     "message": "Ota uudet ominaisuudet käyttöön"
