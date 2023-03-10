@@ -41,6 +41,10 @@
     "message": "統計",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "新聞",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Relay 有什麼新鮮事",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "轉寄重要郵件"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "封鎖行銷郵件"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "對轉寄信箱開啟「封鎖行銷郵件」功能，即可不讓行銷郵件進入收件匣。"
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "了解更多"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "關閉"
+  },
+  "returnToPreviousPanel": {
+    "message": "回到先前的面板"
   },
   "popupDataCollectionHeadline": {
     "message": "開啟全新功能"
