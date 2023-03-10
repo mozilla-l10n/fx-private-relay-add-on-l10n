@@ -237,6 +237,12 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Προώθηση κρίσιμων email"
   },
+  "popupPromoBlockingButtonTitle": {
+    "message": "Φραγή διαφημιστικών email"
+  },
+  "popupPromoBlockingButtonCopy": {
+    "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε μια μάσκα για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
+  },
   "popupPromoBlockingButtonLearnMore": {
     "message": "Μάθετε περισσότερα"
   },
@@ -338,6 +344,9 @@
   "popupCreateCustomMaskBody": {
     "message": "Χρειάζεται μόνο να δημιουργήσετε και να μοιραστείτε μια μοναδική μάσκα που να χρησιμοποιεί τον προσαρμοσμένο υποτομέα σας — η μάσκα θα δημιουργηθεί αυτόματα. Δοκιμάστε για παράδειγμα το «katasthma@onomaupotomea.mozmail.com» την επόμενη φορά που θα κάνετε αγορές στο διαδίκτυο."
   },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "Εισαγάγετε πρόθεμα μάσκας email"
+  },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "π.χ. «coffee»"
   },
@@ -433,6 +442,9 @@
   "close": {
     "message": "Κλείσιμο"
   },
+  "returnToPreviousPanel": {
+    "message": "Επιστροφή στον προηγούμενο πίνακα"
+  },
   "popupDataCollectionHeadline": {
     "message": "Ενεργοποίηση νέων λειτουργιών"
   },
@@ -485,6 +497,9 @@
         "example": "5"
       }
     }
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Περισσότερη προστασία"
   },
   "popupNavButtonLaunchRelay": {
     "message": "Εκκίνηση του Relay",
