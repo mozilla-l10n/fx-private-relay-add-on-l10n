@@ -41,6 +41,10 @@
     "message": "Statistik",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Nyheter",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Vad är nytt i Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kritisk vidarebefordran av e-post"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Blockera reklammeddelanden"
+  "popupPromoBlockingButtonTitle": {
+    "message": "Blockera e-postreklam"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Aktivera blockera reklammeddelanden för ett alias för att hindra marknadsföringsmeddelanden från att nå din inkorg."
+  "popupPromoBlockingButtonCopy": {
+    "message": "Aktivera Blockera e-postreklam för ett alias för att hindra marknadsföringse-post från att nå din inkorg."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Läs mer"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Med Relay Premium kan du blockera reklammeddelanden från att nå din inkorg samtidigt som du kan ta emot e-postmeddelanden som kvitton eller leveransinformation.",
