@@ -244,11 +244,8 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Preposielanie kritických e-mailov"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Blokovanie marketingových e-mailov"
-  },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Povoľte možnosť Blokovať marketingové e-maily na maske, aby ste zabránili tomu, aby sa marketingové e-maily dostávali do vašej doručenej pošty."
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Ďalšie informácie"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "So službou Relay Premium môžete blokovať doručenie marketingových e-mailov do vašej doručenej pošty, a zároveň prijímať e-maily, ako sú potvrdenia o prečítaní či informácie o dodaní vašich objednávok.",
