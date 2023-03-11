@@ -453,6 +453,9 @@
   "close": {
     "message": "Stäng"
   },
+  "returnToPreviousPanel": {
+    "message": "Återgå till föregående panel"
+  },
   "popupDataCollectionHeadline": {
     "message": "Aktivera nya funktioner"
   },
