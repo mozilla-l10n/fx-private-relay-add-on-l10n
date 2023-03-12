@@ -41,6 +41,10 @@
     "message": "Štatistiky",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Novinky",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Čo je nové v Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,6 +248,12 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Preposielanie kritických e-mailov"
   },
+  "popupPromoBlockingButtonTitle": {
+    "message": "Blokovanie marketingových e-mailov"
+  },
+  "popupPromoBlockingButtonCopy": {
+    "message": "Povoliť možnosť Blokovať marketingové e-maily na maske, aby ste zabránili tomu, aby sa marketingové e-maily dostávali do vašej doručenej pošty."
+  },
   "popupPromoBlockingButtonLearnMore": {
     "message": "Ďalšie informácie"
   },
@@ -442,6 +452,9 @@
   },
   "close": {
     "message": "Zavrieť"
+  },
+  "returnToPreviousPanel": {
+    "message": "Návrat na predchádzajúci panel"
   },
   "popupDataCollectionHeadline": {
     "message": "Povolenie nových funkcií"
