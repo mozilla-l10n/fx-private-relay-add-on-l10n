@@ -41,6 +41,10 @@
     "message": "统计",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "新闻",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Relay 新版变化",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "转发重要邮件"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "屏蔽营销邮件"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "启用马甲邮箱的“屏蔽营销邮件”功能，即会停止转发营销邮件至收件箱。"
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "详细了解"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "使用 Relay Premium 可阻止营销邮件转发至您的收件箱，但您仍可收到收据和物流信息等电子邮件。",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "关闭"
+  },
+  "returnToPreviousPanel": {
+    "message": "返回上层面板"
   },
   "popupDataCollectionHeadline": {
     "message": "启用新功能"
