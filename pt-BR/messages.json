@@ -251,6 +251,12 @@
   "popupPromoBlockingButtonTitle": {
     "message": "Bloquear emails promocionais"
   },
+  "popupPromoBlockingButtonCopy": {
+    "message": "Ative o bloqueio de emails promocionais em uma máscara para impedir que emails de propaganda cheguem à sua caixa de entrada."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Saiba mais"
+  },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Com o Relay Premium, você pode impedir que emails promocionais cheguem à sua caixa de entrada, mas permitir receber emails como recibos ou informações de frete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -446,6 +452,9 @@
   },
   "close": {
     "message": "Fechar"
+  },
+  "returnToPreviousPanel": {
+    "message": "Retornar ao painel anterior"
   },
   "popupDataCollectionHeadline": {
     "message": "Ativar novos recursos"
