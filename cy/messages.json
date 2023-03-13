@@ -41,6 +41,10 @@
     "message": "Ystadegau",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Newyddion",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Beth sy’n newydd yn Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Anfon ymlaen e-bost hollbwysig"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "Rhwystro e-byst hyrwyddo"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "Galluogi Rhwystro E-byst Hyrwyddo ar arallenw i rwystro e-byst marchnata rhag cyrraedd eich blwch derbyn."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Dysgu rhagor"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Gyda Relay Premium, gallwch rwystro e-byst hyrwyddo rhag cyrraedd eich blwch derbyn tra'n parhau i ganiatáu i chi dderbyn e-byst fel derbynebau neu fanylion cludo.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Cau"
+  },
+  "returnToPreviousPanel": {
+    "message": "Nôl i'r panel diwethaf"
   },
   "popupDataCollectionHeadline": {
     "message": "Galluogi nodweddion newydd"
