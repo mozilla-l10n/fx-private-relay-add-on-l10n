@@ -41,6 +41,10 @@
     "message": "Statistik",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Nyheder",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Nyheder i Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,11 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Videresendelse af vigtige mails"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "Bloker reklamemails"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Aktivér Bloker reklamemails på en maske for at forhindre, at marketingmails når din indbakke."
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Læs mere"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Med Relay Premium kan du forhindre reklamemails i at nå din indbakke, men stadig modtage mails som fx kvitteringer eller forsendelsesoplysninger.",
@@ -445,6 +449,9 @@
   },
   "close": {
     "message": "Luk"
+  },
+  "returnToPreviousPanel": {
+    "message": "Tilbage til forrige panel"
   },
   "popupDataCollectionHeadline": {
     "message": "Aktiver nye funktioner"
