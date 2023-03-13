@@ -41,6 +41,10 @@
     "message": "Statisztika",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Hírek",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Mik a Relay újdonságai?",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,11 +248,14 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Kritikus e-mailek továbbítása"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
+  "popupPromoBlockingButtonTitle": {
     "message": "Promóciós e-mailek blokkolása"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
+  "popupPromoBlockingButtonCopy": {
     "message": "Engedélyezze a Promóciós e-mailek letiltását egy maszkon, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "További tudnivalók"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "A Relay Premium segítségével letilthatja a promóciós e-maileket, hogy ne jussanak el a postaládájába, miközben továbbra is lehetővé teszi a nyugtákat vagy szállítási információkat tartalmazó e-mailek fogadását.",
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Bezárás"
+  },
+  "returnToPreviousPanel": {
+    "message": "Vissza az előző panelhez"
   },
   "popupDataCollectionHeadline": {
     "message": "Új funkciók engedélyezése"
