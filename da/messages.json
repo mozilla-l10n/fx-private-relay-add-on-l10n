@@ -251,6 +251,9 @@
   "popupPromoBlockingButtonTitle": {
     "message": "Bloker reklamemails"
   },
+  "popupPromoBlockingButtonCopy": {
+    "message": "Aktivér blokering af reklamemails på en maske for at forhindre, at marketingmails når din indbakke."
+  },
   "popupPromoBlockingButtonLearnMore": {
     "message": "Læs mere"
   },
