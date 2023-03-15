@@ -302,11 +302,11 @@
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox-Passwort-Manager + Relay",
+    "message": "Firefox-Passwortverwaltung + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Jetzt können Sie Relay direkt in Ihrem Firefox-Passwort-Manager verwenden.",
+    "message": "Jetzt können Sie Relay direkt in Ihrer Firefox-Passwortverwaltung verwenden.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
