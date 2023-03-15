@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige E-Mail-Masken generieren, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die E-Mail-Maske blockieren, damit keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die E-Mail-Maske löschen.",
+    "message": "Firefox Relay hilft Ihnen, Ihre echte E-Mail-Adresse zu schützen – diejenige, die am engsten mit Ihrer Online-Identität verbunden ist. Damit können Sie eindeutige, zufällige E-Mail-Masken erzeugen, die Sie verwenden können, um sich für Konten, Apps oder Newsletter anzumelden; Nachrichten werden an Ihre echte Adresse weitergeleitet. Wenn Sie feststellen, dass ein Konto unerwünschte E-Mails oder Spam sendet, können Sie die E-Mail-Maske blockieren, damit keine weiteren E-Mails an Ihren Posteingang gesendet werden. Sobald Sie kein Konto mehr möchten, können Sie die E-Mail-Maske löschen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -353,7 +353,7 @@
     "message": "Neue benutzerdefinierte Maske erstellen"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Sie müssen nur eine eindeutige Maske erfinden und weitergeben, die Ihre benutzerdefinierte Domain verwendet – die Maske wird automatisch generiert. Versuchen Sie es zum Beispiel mit „shop@meinedomain.mozmail.com“, wenn Sie das nächste Mal online einkaufen."
+    "message": "Sie müssen nur eine eindeutige Maske erfinden und weitergeben, die Ihre benutzerdefinierte Domain verwendet – die Maske wird automatisch erzeugt. Versuchen Sie es zum Beispiel mit „shop@meinedomain.mozmail.com“, wenn Sie das nächste Mal online einkaufen."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Präfix für E-Mail-Maske eingeben"
@@ -395,7 +395,7 @@
     "message": "Neue zufällige Maske erzeugen"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "Zufällige Maske generieren"
+    "message": "Zufällige Maske erzeugen"
   },
   "pageInputIconGenerateCustomMask": {
     "message": "Benutzerdefinierte Maske erzeugen"
