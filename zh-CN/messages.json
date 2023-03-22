@@ -328,7 +328,7 @@
     }
   },
   "popupBundlePromoCTA": {
-    "message": "下载 VPN + Relay",
+    "message": "获取 VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
