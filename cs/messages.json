@@ -41,6 +41,10 @@
     "message": "Statistiky",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
+  "popupNewsLink": {
+    "message": "Novinky",
+    "description": "The title of the navigation link for the News panel"
+  },
   "popupNewsTitle": {
     "message": "Co je ve službě Relay nového",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -244,14 +248,17 @@
   "popupCriticalEmailForwardingHeadline": {
     "message": "Přeposílání důležitých e-mailů"
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "Blokování propagačních e-mailů"
+  "popupPromoBlockingButtonTitle": {
+    "message": "Blokování reklamních e-mailů"
   },
-  "popupBlockPromotionalEmailsBody_mask": {
-    "message": "Zapnutím blokování propagačních e-mailů zaslaných na vaší masku zabráníte jejich doručování do vaší e-mailové schránky."
+  "popupPromoBlockingButtonCopy": {
+    "message": "Zapnutím blokování reklamních e-mailů zaslaných na vaší masku zabráníte jejich doručování do vaší e-mailové schránky."
+  },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Zjistit více"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Se službou Relay Premium můžete zabránit doručování propagačních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
+    "message": "Se službou Relay Premium můžete zabránit doručování reklamních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
@@ -365,7 +372,7 @@
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "Blokování propagačních e-mailů"
+    "message": "Blokování reklamních e-mailů"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
     "message": "Vytvořit masku"
@@ -445,6 +452,9 @@
   },
   "close": {
     "message": "Zavřít"
+  },
+  "returnToPreviousPanel": {
+    "message": "Zpět na předchozí panel"
   },
   "popupDataCollectionHeadline": {
     "message": "Nové funkce"
