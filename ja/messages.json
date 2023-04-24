@@ -33,6 +33,18 @@
   "popupSettingsTitle": {
     "message": "設定"
   },
+  "popupStatsTitle": {
+    "message": "統計",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsLink": {
+    "message": "ニュース",
+    "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Relay の新機能",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsReturn": {
     "message": "メインパネルに戻る"
   },
@@ -59,6 +71,12 @@
   "popupSettingsSubmitReport": {
     "message": "報告を送信"
   },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "このウェブサイトで問題が起こります"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "問題の発生状況"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "報告を送信しました!"
   },
@@ -78,6 +96,9 @@
   },
   "popupSignUpPanelContinue": {
     "message": "続ける"
+  },
+  "popupSignUpPanelSignIn": {
+    "message": "ログイン"
   },
   "popupRemainingAliases_2_mask": {
     "message": "残りのマスク数: $REMAINING$",
@@ -130,12 +151,17 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "その調子です！"
   },
-  "popupRegisterDomainHeadline_mask": {
-    "message": "Relay メールマスクのカスタムサブドメインを取得する",
-    "description": "DO NOT TRANSLATE \"Relay\"."
+  "popupTotalMasksUsed": {
+    "message": "使用したメールマスクの合計"
   },
-  "popupRegisterDomainButton": {
-    "message": "メールドメインを登録する"
+  "popupMasksUsedInThisWebsite": {
+    "message": "このウェブサイトで使用しているマスク"
+  },
+  "popupEmailsBlocked": {
+    "message": "ブロックされたメール"
+  },
+  "popupEmailsForwarded": {
+    "message": "転送されたメール"
   },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "添付ファイル最大サイズの増加"
@@ -144,8 +170,8 @@
     "message": "Firefox Relay は添付ファイルを含め、最大 25MB のメールを転送できるようになりました。",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
-  "popupBlockPromotionalEmailsHeadline_2": {
-    "message": "宣伝メールをブロックする"
+  "popupPromoBlockingButtonTitle": {
+    "message": "広告メールをブロック"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Relay Premium を使用すると、領収書や配送情報などのメールを受信しつつ、宣伝メールが受信トレイに届かないようにできます。",
@@ -154,8 +180,8 @@
   "popupSignBackInHeadline_mask": {
     "message": "メールマスクで再ログイン"
   },
-  "popupSignBackInBody_mask_v2": {
-    "message": "メールアドレスの入力を求められたときに新しいメールマスクを作成するには、メールフィールドでコンテキストメニューを (右クリックまたは Control キーを押しながらクリックして) 開きます。そこから、すぐに新しいマスクを作成して使用できます。"
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "広告メールをブロック"
   },
   "pageInputIconSignUpText": {
     "message": "Firefox Relay のウェブサイトにアクセスしてログインするか、アカウントを作成してください。",
@@ -198,5 +224,29 @@
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "プライバシー通知を表示する"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$MAXIMUM$ 個のうち残り $REMAINING$ 個のマスクが作成できます。",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Relay を開く",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "クリックしてコピー"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "コピーしました"
   }
 }
