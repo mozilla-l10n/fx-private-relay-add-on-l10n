@@ -46,7 +46,7 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Apa yang baru di Relay",
+    "message": "Yang baru di Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
@@ -350,10 +350,10 @@
     "message": "Masuk kembali dengan topeng surel Anda"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "Buat topeng kustom baru"
+    "message": "Buat topeng khusus baru"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Yang perlu Anda lakukan hanyalah membuat dan membagikan topeng unik yang menggunakan subdomain kustom Anda — topeng akan dibuat secara otomatis. Misalnya, dengan menggunakan “shop@customsubdomain.mozmail.com” saat berbelanja secara daring."
+    "message": "Yang perlu Anda lakukan hanyalah membuat dan membagikan topeng unik yang menggunakan subdomain khusus Anda — topeng akan dibuat secara otomatis. Misalnya, dengan menggunakan “shop@customsubdomain.mozmail.com” saat berbelanja secara daring."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Masukkan awalan topeng surel"
@@ -398,7 +398,7 @@
     "message": "Buat topeng acak"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "Buat topeng kustom"
+    "message": "Buat topeng khusus"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
     "message": "Pilih dari topeng surel Anda saat ini",
@@ -513,7 +513,7 @@
     "message": "Lindungi alamat surel asli Anda"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Gunakan topeng Relay untuk menjaga identitas Anda tetap pribadi dan hanya mendapatkan surel yang Anda inginkan di kotak masuk Anda.",
+    "message": "Gunakan topeng Relay untuk menjaga identitas Anda tetap pribadi dan hanya mendapatkan surel yang diinginkan di kotak masuk Anda.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
@@ -527,6 +527,6 @@
     "message": "Klik untuk menyalin"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "Tersalin!"
+    "message": "Disalin"
   }
 }
