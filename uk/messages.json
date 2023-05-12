@@ -389,10 +389,10 @@
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "Створити нову маску"
+    "message": "Згенерувати нову маску"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Створити нову випадкову маску"
+    "message": "Згенерувати нову випадкову маску"
   },
   "pageInputIconGenerateRandomMask": {
     "message": "Згенерувати випадкову маску"
