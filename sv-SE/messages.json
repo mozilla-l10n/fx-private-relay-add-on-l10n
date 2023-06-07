@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopierad!"
+  },
+  "popupSurveyLink": {
+    "message": "Hjälp oss att förbättra Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Hur nöjd är du med din upplevelse av Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Väldigt missnöjd"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Missnöjd"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Neutral"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Nöjd"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Väldigt nöjd"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Tack för din feedback!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Vi vill veta mer om hur vi kan bli bättre. Skulle du vara villig att svara på en enkät på två minuter?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Ignorera"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Gör undersökningen"
   }
 }
