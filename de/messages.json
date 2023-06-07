@@ -554,5 +554,14 @@
   },
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "Vielen Dank für Ihre Rückmeldung!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Wir möchten gerne wissen, wie wir besser werden können. Wären Sie bereit, an einer zweiminütigen Umfrage teilzunehmen?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Schließen"
+  },
+  "popupCsatSurveyLink": {
+    "message": "An Umfrage teilnehmen"
   }
 }
