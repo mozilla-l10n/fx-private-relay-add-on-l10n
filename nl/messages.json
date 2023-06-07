@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Gekopieerd!"
+  },
+  "popupSurveyLink": {
+    "message": "Help ons Relay te verbeteren",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Hoe tevreden bent u met uw Firefox Relay-ervaring?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Zeer ontevreden"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Ontevreden"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Gemiddeld"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Tevreden"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Zeer tevreden"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Bedankt voor uw feedback!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "We willen graag meer weten over hoe we het beter kunnen doen. Bent u bereid om een enquête van twee minuten in te vullen?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Sluiten"
+  },
+  "popupCsatSurveyLink": {
+    "message": "De enquête invullen"
   }
 }
