@@ -528,5 +528,34 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Skopírované!"
+  },
+  "popupSurveyLink": {
+    "message": "Pomôžte nám zlepšiť Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Ako ste spokojný so službou Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Veľmi nespokojný"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Nespokojný"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Neutrálne"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Spokojný"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Veľmi spokojný"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Ďakujeme za vašu spätnú väzbu."
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Radi by sme sa dozvedeli viac o tom, ako sa môžeme zlepšiť. Boli by ste ochotní zúčastniť sa dvojminútového prieskumu?"
   }
 }
