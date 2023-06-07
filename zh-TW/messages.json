@@ -530,11 +530,11 @@
     "message": "已複製！"
   },
   "popupSurveyLink": {
-    "message": "幫助我們改善 Relay",
+    "message": "協助我們改善 Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "您對 Firefox Relay 的使用體驗有多滿意",
+    "message": "您對 Firefox Relay 的使用體驗有多滿意？",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
@@ -553,10 +553,10 @@
     "message": "非常滿意"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "感謝您的意見回饋"
+    "message": "感謝您的意見回饋！"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "我們想更加了解如何可以做得更好。您願意做個兩分鐘的問卷嗎"
+    "message": "我們想更加了解如何可以做得更好。您願意填寫一份兩分鐘的問卷嗎？"
   },
   "popupCsatSurveyDismiss": {
     "message": "知道了！"
