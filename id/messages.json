@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Disalin"
+  },
+  "popupSurveyLink": {
+    "message": "Bantu kami meningkatkan Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Seberapa puaskah Anda dengan pengalaman Firefox Relay Anda?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Sangat tidak puas"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Tidak puas"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Netral"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Puas"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Sangat puas"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Terima kasih atas tanggapan Anda!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Kami ingin mempelajari lebih lanjut tentang bagaimana kami dapat melakukan yang lebih baik. Apakah Anda bersedia mengikuti survei dua menit?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Tutup"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Isilah survei"
   }
 }
