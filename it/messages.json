@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Copiato"
+  },
+  "popupSurveyLink": {
+    "message": "Aiutaci a migliorare Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Quanto sei soddisfatto della tua esperienza con Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Molto insoddisfatto"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Insoddisfatto"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Indifferente"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Soddisfatto"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Molto soddisfatto"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Grazie per aver condiviso la tua opinione."
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Vogliamo capire in che modo possiamo migliorare. Sei disponibile per partecipare a un sondaggio di due minuti?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Chiudi"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Partecipa al sondaggio"
   }
 }
