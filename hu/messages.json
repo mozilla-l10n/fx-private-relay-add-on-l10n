@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Másolva!"
+  },
+  "popupSurveyLink": {
+    "message": "Segítsen a Relay fejlesztésében",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Mennyire elégedett a Firefox Relay tapasztalatával?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Nagyon elégedetlen"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Elégedetlen"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Semleges"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Elégedett"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Nagyon elégedett"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Köszönjük visszajelzését."
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Szeretnénk többet megtudni arról, hogyan lehetünk jobbak. Hajlandó lenne kitölteni egy kétperces felmérést?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Eltüntetés"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Kérdőív kitöltése"
   }
 }
