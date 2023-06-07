@@ -528,5 +528,31 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopiert!"
+  },
+  "popupSurveyLink": {
+    "message": "Helfen Sie uns, Relay zu verbessern",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Wie zufrieden sind Sie mit Ihrem Firefox-Relay-Erlebnis?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Sehr unzufrieden"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Unzufrieden"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Neutral"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Zufrieden"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Sehr zufrieden"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Vielen Dank für Ihre Rückmeldung!"
   }
 }
