@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopiearre!"
+  },
+  "popupSurveyLink": {
+    "message": "Help ús Relay te ferbetterjen",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Hoe tefreden binne jo mei jo ûnderfining fan Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Hiel ûntefreden"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Untefreden"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Gemiddeld"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Tefreden"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Hiel tefreden"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Tank foar jo kommentaar!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Wy wolle graach mear leare oer hoe’t wy it better dwaan kinne. Wolle jo in enkête fan twa minuten ynfolje?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Slute"
+  },
+  "popupCsatSurveyLink": {
+    "message": "De enkête starte"
   }
 }
