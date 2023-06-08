@@ -530,11 +530,11 @@
     "message": "Másolva!"
   },
   "popupSurveyLink": {
-    "message": "Segítsen a Relay fejlesztésében",
+    "message": "Segítsen a Relay tökéletesítésében",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Mennyire elégedett a Firefox Relay tapasztalatával?",
+    "message": "Mennyire elégedett a Firefox Relay-jel kapcsolatos tapasztalataival?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
