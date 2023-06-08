@@ -557,5 +557,11 @@
   },
   "popupCsatSurveyChoiceMadeBody": {
     "message": "Radi by sme sa dozvedeli viac o tom, ako sa môžeme zlepšiť. Boli by ste ochotní zúčastniť sa dvojminútového prieskumu?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Zavrieť"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Zúčastniť sa prieskumu"
   }
 }
