@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopieret!"
+  },
+  "popupSurveyLink": {
+    "message": "Hjælp os med at forbedre Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Hvor tilfreds er du med din oplevelse af Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Meget utilfreds"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Utilfreds"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Ved ikke"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Tilfreds"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Meget tilfreds"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Tak for din feedback!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Vi vil gerne vide mere om, hvordan vi kan gøre det bedre. Vil du deltage i en to-minutters undersøgelse?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Afvis"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Deltag i undersøgelsen"
   }
 }
