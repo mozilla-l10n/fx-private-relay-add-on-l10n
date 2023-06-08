@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopioitu!"
+  },
+  "popupSurveyLink": {
+    "message": "Auta meitä parantamaan Relay-palvelua",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Kuinka tyytyväinen olet Firefox Relay -kokemukseesi?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Hyvin tyytymätön"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Tyytymätön"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Neutraali"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Tyytyväinen"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Hyvin tyytyväinen"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Kiitos palautteesta!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Haluamme ymmärtää, kuinka voimme suoriutua aiempaa paremmin. Oletko valmis vastaamaan kahden minuutin kyselyyn?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Hylkää"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Vastaa kyselyyn"
   }
 }
