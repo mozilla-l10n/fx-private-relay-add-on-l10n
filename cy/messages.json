@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Copïwyd!"
+  },
+  "popupSurveyLink": {
+    "message": "Helpwch ni i wella Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Pa mor fodlon ydych chi o'ch profiadau gyda Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Anfodlon iawn"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Anfodlon"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Niwtral"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Bodlon"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Bodlon iawn"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Diolch am eich adborth!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Hoffen ni ddysgu rhagor am sut y gallwn ni wneud yn well. A fyddech chi'n fodlon cymryd arolwg dwy funud?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Cau"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Llanw'r arolwg"
   }
 }
