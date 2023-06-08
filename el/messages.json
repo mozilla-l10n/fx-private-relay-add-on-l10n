@@ -528,5 +528,8 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Αντιγράφηκε!"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Απόρριψη"
   }
 }
