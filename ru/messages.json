@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "Скопировано!"
+  },
+  "popupSurveyLink": {
+    "message": "Помогите нам улучшить Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Насколько вы довольны использованием Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Очень недоволен"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Недоволен"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Нейтрален"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Доволен"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Очень доволен"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Спасибо за ваш отзыв!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Мы хотели бы узнать больше, как мы можем работать лучше. Не могли бы вы пройти двухминутный опрос?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Пропустить"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Пройти опрос"
   }
 }
