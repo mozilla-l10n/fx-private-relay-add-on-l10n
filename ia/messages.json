@@ -555,6 +555,9 @@
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "Gratias pro tu commentario!"
   },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Nos amarea saper plus re como nos pote facer melio. Vole tu responder a un questionario de duo minutas?"
+  },
   "popupCsatSurveyDismiss": {
     "message": "Dimitter"
   },
