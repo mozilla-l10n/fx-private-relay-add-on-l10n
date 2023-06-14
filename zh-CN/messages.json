@@ -528,5 +528,40 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "已复制！"
+  },
+  "popupSurveyLink": {
+    "message": "帮助我们改进 Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "您对 Firefox Relay 使用体验的满意度如何？",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "非常不满意"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "不满意"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "无感"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "满意"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "非常满意"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "感谢您的反馈！"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "我们想知道如何才能做得更好。您愿意抽出两分钟时间参与问卷调查吗？"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "算了"
+  },
+  "popupCsatSurveyLink": {
+    "message": "填写问卷"
   }
 }
