@@ -196,7 +196,7 @@
     "message": "E-mails blocate"
   },
   "popupEmailsForwarded": {
-    "message": "Messages reexpedite"
+    "message": "E-mails retransmittite"
   },
   "popupEmailTrackersRemoved": {
     "message": "Traciatores de email rmovite"
@@ -216,7 +216,7 @@
     "message": "Accrescimento del dimension del annexo"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay pote ora inultrar e-mails usque 25MB, includite annexos.",
+    "message": "Firefox Relay ora pote retransmitter e-mails usque 25MB, includite annexos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
