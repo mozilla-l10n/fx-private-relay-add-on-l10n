@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay rende facile crear mascas email que inultra a tu real cassa de ingresso.",
+    "message": "Firefox Relay rende facile crear mascas email que retransmitte a tu real cassa de ingresso.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay te adjuta a proteger tu ver adresse email, illo que es le plus intimemente ligate a tu identitate online. Illo te permitte de generar mascas unic, aleatori, que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e inultrar messages a tu ver adresse. Si tu trova que un conto invia email indesirate o spam, tu pote blocar le masca e illo stoppara le invio de email a tu cassa de ingresso. Un vice que tu non vole plus un conto, tu pote deler le masca.",
+    "message": "Firefox Relay te adjuta a proteger tu ver adresse email, illo que es le plus intimemente ligate a tu identitate online. Illo te permitte de generar mascas unic, aleatori, que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e retransmitter messages a tu ver adresse. Si tu trova que un conto invia email indesirate o spam, tu pote blocar le masca e illo stoppara le invio de email a tu cassa de ingresso. Un vice que tu non vole plus un conto, tu pote deler le masca.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -246,7 +246,7 @@
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "Inultramento de e-mail critic"
+    "message": "Retransmission de e-mail critic"
   },
   "popupPromoBlockingButtonTitle": {
     "message": "Blocar emails promotional"
