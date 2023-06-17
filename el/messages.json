@@ -529,7 +529,24 @@
   "popupCopyMaskButtonCopied": {
     "message": "Αντιγράφηκε!"
   },
+  "popupSurveyLink": {
+    "message": "Βοηθήστε μας να βελτιώσουμε το Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Πόσο ικανοποιημένοι είστε με την εμπειρία σας στο Firefox Relay;",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Ευχαριστούμε για τα σχόλιά σας!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Θα θέλαμε να μάθουμε περισσότερα για το πώς μπορούμε να βελτιωθούμε. Θα θέλατε να συμμετάσχετε σε μια έρευνα δύο λεπτών;"
+  },
   "popupCsatSurveyDismiss": {
     "message": "Απόρριψη"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Συμμετοχή στην έρευνα"
   }
 }
