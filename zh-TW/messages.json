@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "填寫問卷"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "現在可以使用無限量轉寄信箱"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium 已經在您的國家推出。設定無限量的轉寄信箱保護您的收件匣並獲得獨特的 Relay 郵件網域讓您隨時隨地也能簡單安全地建立轉寄信箱。",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "訂閱 Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
