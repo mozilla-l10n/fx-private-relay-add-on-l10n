@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Isilah survei"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Topeng tak terbatas sekarang tersedia"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium kini tersedia di negara Anda. Lindungi kotak masuk Anda dengan topeng surel tanpa batas, dan dapatkan domain surel Relay unik untuk membuat topeng saat bepergian menjadi mudah dan aman.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Dapatkan Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
