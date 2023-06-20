@@ -548,5 +548,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Συμμετοχή στην έρευνα"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Απεριόριστες μάσκες τώρα διαθέσιμες"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Το Firefox Relay Premium είναι πλέον διαθέσιμο στη χώρα σας. Προστατέψτε τα εισερχόμενά σας με απεριόριστες μάσκες email και αποκτήστε έναν μοναδικό τομέα email στο Relay για να κάνετε τη δημιουργία μασκών εν κινήσει εύκολη και ασφαλή.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Απόκτηση του Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
