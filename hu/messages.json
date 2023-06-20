@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Kérdőív kitöltése"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Most már korlátlan számú maszk érhető el"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "A Firefox Relay Premium mostantól elérhető az országában. Védje meg a postaládáját a korlátlan számú e-mail-maszkokkal, és kapjon egy egyedi Relay e-mail domaint, hogy a maszkok létrehozása egyszerű és biztonságos legyen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Szerezze be a Relay Premiumot",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
