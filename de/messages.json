@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "An Umfrage teilnehmen"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Unbegrenzt viele Masken jetzt verfügbar"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium ist jetzt in Ihrem Land verfügbar. Schützen Sie Ihren Posteingang mit unbegrenzt vielen E-Mail-Masken und holen Sie sich eine einzigartige Relay-E-Mail-Domain, mit der die Erstellung von Masken unterwegs einfach und sicher ist.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Holen Sie sich Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
