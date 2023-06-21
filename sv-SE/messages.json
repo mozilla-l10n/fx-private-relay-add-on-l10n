@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Gör undersökningen"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Obegränsat med alias nu tillgängligt"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium är nu tillgängligt i ditt land. Skydda din inkorg med obegränsade e-postalias och få en unik Relay-e-postdomän för att göra det enkelt och säkert att skapa alias på språng.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Skaffa Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
