@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Взяти участь в опитуванні"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Відтепер доступна необмежена кількість масок"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium відтепер доступний у вашій країні. Захистіть свою теку \"Вхідні\" за допомогою необмеженої кількості масок електронної пошти та отримайте унікальний домен електронної пошти Relay, щоб легко та безпечно створювати маски на ходу.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Отримайте Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
