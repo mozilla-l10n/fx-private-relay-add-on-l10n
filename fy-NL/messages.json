@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "De enkête starte"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Unbeheinde maskers no beskikber"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium is no beskikber yn jo lân. Beskermje jo Postfek YN mei ûnbeheinde e-mailmaskers, en ûntfang in unyk Relay-e-maildomein om it meitsjen fan maskers ûnderweis maklik en feilich te meitsjen.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Relay Premium krije",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
