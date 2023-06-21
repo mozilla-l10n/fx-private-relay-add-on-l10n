@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "De enquête invullen"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Onbeperkte maskers nu beschikbaar"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium is nu beschikbaar in uw land. Bescherm uw Postvak IN met onbeperkte e-mailmaskers en ontvang een uniek Relay-e-maildomein om het maken van maskers onderweg gemakkelijk en veilig te maken.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Relay Premium verkrijgen",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
