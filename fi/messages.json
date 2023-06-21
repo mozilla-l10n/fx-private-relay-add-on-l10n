@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Vastaa kyselyyn"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Nyt saatavilla rajattomasti maskeja"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium on nyt saatavilla maassasi. Suojaa postilaatikkosi rajoittamattomilla sähköpostimaskeilla ja hanki ainutlaatuinen Relay-sähköpostiverkkotunnus, jonka avulla maskien luominen on helppoa ja turvallista.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Hanki Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
