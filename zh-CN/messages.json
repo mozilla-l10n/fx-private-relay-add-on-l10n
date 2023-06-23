@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "填写问卷"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "无限量马甲登场"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium 已在您的地区推出。订阅后，即可用无限量的马甲来保护自己的收件箱，还能获得专属的邮箱域名，让您随时随地、安全便捷地创建马甲。",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "订阅 Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
