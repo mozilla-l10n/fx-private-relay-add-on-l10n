@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Пройти опрос"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Теперь доступно неограниченное количество псевдонимов"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium теперь доступен в вашей стране. Защитите свой почтовый ящик с помощью неограниченного количества псевдонимов электронной почты и получите уникальный домен электронной почты Relay, чтобы сделать создание псевдонимов на ходу простым и безопасным.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Получить Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
