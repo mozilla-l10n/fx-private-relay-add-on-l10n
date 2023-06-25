@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Zúčastniť sa prieskumu"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Teraz je k dispozícii neobmedzené množstvo masiek"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium je teraz k dispozícii vo vašej krajine. Chráňte svoju doručenú poštu vďaka neobmedzenému počtu e-mailových masiek a získajte jedinečnú e-mailovú doménu služby Relay, vďaka ktorej bude vytváranie masiek ešte jednoduchšie a bezpečnejšie.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Získajte Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
