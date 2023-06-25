@@ -563,5 +563,12 @@
   },
   "popupCsatSurveyLink": {
     "message": "Realizar la encuesta"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Máscaras ilimitadas ahora disponibles"
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Obtén Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
