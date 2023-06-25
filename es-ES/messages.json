@@ -567,6 +567,10 @@
   "popupEuCountryExpansionHeadline": {
     "message": "Máscaras ilimitadas ahora disponibles"
   },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium ya está disponible en tu país. Protege tu bandeja de entrada con máscaras de correo electrónico ilimitadas y obtén un dominio de correo electrónico único de Relay para que la creación de máscaras sobre la marcha sea fácil y segura.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "popupEuCountryExpansionPromoCTA": {
     "message": "Obtén Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
