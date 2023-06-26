@@ -537,6 +537,21 @@
     "message": "Πόσο ικανοποιημένοι είστε με την εμπειρία σας στο Firefox Relay;",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Πολύ δυσαρεστημένος/-η"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Δυσαρεστημένος/-η"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Ουδέτερος/-η"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Ικανοποιημένος/-η"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Πολύ ικανοποιημένος/-η"
+  },
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "Ευχαριστούμε για τα σχόλιά σας!"
   },
