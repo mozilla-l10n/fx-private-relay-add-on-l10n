@@ -563,5 +563,12 @@
   },
   "popupCsatSurveyLink": {
     "message": "Deltag i undersøgelsen"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Ubegrænsede masker er nu tilgængelige"
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Hent Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
