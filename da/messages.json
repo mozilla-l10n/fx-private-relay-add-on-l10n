@@ -567,6 +567,10 @@
   "popupEuCountryExpansionHeadline": {
     "message": "Ubegrænsede masker er nu tilgængelige"
   },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium er nu tilgængelig i dit land. Beskyt din indbakke med ubegrænsede mail-masker, og få et unikt Relay-mail-domæne, så du nemt og sikkert kan oprette masker på farten.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "popupEuCountryExpansionPromoCTA": {
     "message": "Hent Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
