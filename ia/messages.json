@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Participar al questionario"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Mascas illimitate ora disponibile"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium es ora disponibile in tu pais. Protege tu cassa de ingresso con mascas email illimitate, e obtene un dominio Relay unic pro render le creation al volo de mascas facile e secur.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Abonar se a Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
