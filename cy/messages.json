@@ -563,5 +563,16 @@
   },
   "popupCsatSurveyLink": {
     "message": "Llanw'r arolwg"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Arallenwau diderfyn ar gael nawr"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Mae Firefox Relay Premium bellach ar gael yn eich gwlad. Diogelwch eich blwch derbyn gyda masgiau e-bost diderfyn, a chael parth e-bost Relay unigryw i wneud creu arallenwau wrth fynd yn hawdd ac yn ddiogel.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Cael Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
