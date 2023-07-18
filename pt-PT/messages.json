@@ -1,15 +1,23 @@
 {
-  "extensionDescription_v1": {
-    "message": "O Firefox Relay facilita a criação de e-mails virtuais que reencaminham para a sua caixa de entrada verdadeira.",
-    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
-  },
   "extensionDescription_mask": {
     "message": "O Firefox Relay facilita a criação de máscaras de e-mail que reencaminham para a sua caixa de entrada verdadeira.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescriptionStore_mask": {
+    "message": "O Firefox Relay ajuda a proteger o seu verdadeiro endereço de e-mail — aquele que está mais intimamente ligado à sua identidade online. Este permite gerar máscaras únicas e aleatórias que pode utilizar para se registar em contas, aplicações ou newsletters, e encaminha as mensagens para o seu verdadeiro endereço. Se descobrir que uma conta está a enviar mensagens indesejadas ou spam, pode bloquear a máscara e esta deixará de enviar mensagens para a sua caixa de entrada. Quando não quiser mais uma conta, poderá eliminar a máscara.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "firstRunP": {
+    "message": "Instalou com sucesso o complemento Firefox Relay. Para começar, inicie sessão no Relay com a sua conta Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Permitir que a Mozilla recolha informações sobre como utiliza esta extensão.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
     "message": "Permitir a recolha de dados",
@@ -19,11 +27,27 @@
     "message": "Desativar a recolha de dados",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP_mask": {
+    "message": "A recolha de dados de interação quando realiza ações como clicar no ícone do Relay na sua barra de ferramentas ou quando cria uma máscara, ajuda-nos a perceber o que está a funcionar bem e onde podemos melhorar. Pode sempre desativar esta opção no painel das Definições.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "Registar / Iniciar Sessão"
   },
   "popupSettingsTitle": {
     "message": "Definições"
+  },
+  "popupStatsTitle": {
+    "message": "Estatísticas",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsLink": {
+    "message": "Novidades",
+    "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Novidades do Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
     "message": "Voltar ao painel principal"
@@ -76,9 +100,6 @@
   },
   "popupOnboardingShowNext": {
     "message": "Ir para painel seguinte"
-  },
-  "ManageAllAliases": {
-    "message": "Gerir todos os pseudónimos"
   },
   "ManageAllAliases_mask": {
     "message": "Gerir todas as máscaras"
