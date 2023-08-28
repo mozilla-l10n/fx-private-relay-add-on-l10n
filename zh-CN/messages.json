@@ -416,7 +416,7 @@
     "message": "获得无限量马甲"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "加入 Premium 预约名单",
+    "message": "预约 Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
