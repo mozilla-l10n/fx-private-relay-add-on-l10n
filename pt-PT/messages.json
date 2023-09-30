@@ -252,13 +252,13 @@
     "message": "Bloquear mensagens promocionais"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Ative o Bloqueio de e-mails promocionais numa máscara para impedir que as mensagens de marketing cheguem à sua caixa de entrada."
+    "message": "Ative o Bloqueio de mensagens promocionais numa máscara para impedir que as mensagens de marketing cheguem à sua caixa de entrada."
   },
   "popupPromoBlockingButtonLearnMore": {
     "message": "Saber mais"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Com o Relay Premium, pode bloquear as mensagens promocionais de chegarem à sua caixa de entrada e ao mesmo tempo permitir que receba mensagens tais como recibos ou informação de envio.",
+    "message": "Com o Relay Premium, pode bloquear mensagens promocionais e impedir que estas cheguem à sua caixa de entrada, permitindo ainda assim, que receba mensagens tais como recibos ou informação de remessas.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
@@ -272,7 +272,7 @@
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Adicione a Mozilla VPN com um donativo de $SAVINGS$.",
+    "message": "Adicione a Mozilla VPN para um desconto de $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "savings": {
@@ -282,7 +282,7 @@
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "Plano de 1 ano incluindo Relay Premium + Mozilla VPN por $Monthly_Price$/mês.",
+    "message": "Plano de 1 ano que inclui o Relay Premium + a Mozilla VPN por $MONTHLY_PRICE$/mês.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
@@ -292,7 +292,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Obtenha um ano de Relay Premium Mobile Masking mais a Mozilla VPN por $Monthly_Price$/mês.",
+    "message": "Obtenha um ano de Relay Premium Mobile Masking mais a Mozilla VPN por $MONTHLY_PRICE$/mês.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "monthly_price": {
@@ -314,7 +314,7 @@
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Atualize a sua subscrição para obter o Relay Premium + Mozilla VPN por $Monthly_Price$/mês. Poupe $SAVINGS$!",
+    "message": "Atualize a sua subscrição para obter o Relay Premium + a Mozilla VPN por $MONTHLY_PRICE$/mês. Poupe $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
       "monthly_price": {
@@ -332,10 +332,10 @@
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "A apresentar a máscara do número de telefone"
+    "message": "A apresentar a máscara de número de telefone"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Com a máscara de número de telefone, agora pode criar uma máscara de número de telefone que o ajuda a receber mensagens de texto e chamadas sem revelar o seu número real."
+    "message": "Com a máscara de número de telefone, pode agora criar uma máscara de número de telefone que ajuda a receber mensagens de texto e chamadas, sem revelar o seu número real."
   },
   "popupPhoneMaskingPromoBodyPremium": {
     "message": "Receba mensagens de texto e ligações sem revelar o seu número real."
@@ -347,22 +347,22 @@
     "message": "Novo!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Volte a autenticar-se com as suas máscaras de e-mail"
+    "message": "Volte a iniciar sessão com as suas máscaras de e-mail"
   },
   "popupCreateCustomMaskTitle": {
     "message": "Criar uma nova máscara personalizada"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Tudo o que precisa de fazer é criar e partilhar uma máscara única que utiliza o seu subdomínio personalizado — a máscara será gerada automaticamente. Experimente “shop@customsubdomain.mozmail.com” da próxima vez que fizer compras online, por exemplo."
+    "message": "Tudo o que precisa de fazer é criar e partilhar uma máscara única que utiliza o seu subdomínio personalizado — a máscara será gerada automaticamente. Experimente “compras@subdominiopersonalizado.mozmail.com” da próxima vez que fizer compras online, por exemplo."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Inserir prefixo da máscara de e-mail"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "e.g. “cafe”"
+    "message": "por exemplo, “café”"
   },
   "popupCreateCustomFormMaskInputDescription": {
-    "message": "@$SUPDOMAIN$.mozmail.com",
+    "message": "@$SUBDOMAIN$.mozmail.com",
     "description": "",
     "placeholders": {
       "subdomain": {
@@ -378,10 +378,10 @@
     "message": "Gerar máscara"
   },
   "popupCreateCustomFormError": {
-    "message": "A máscara não pôde ser criada. Por favor, tente novamente."
+    "message": "A máscara não pôde ser criada. Tente novamente."
   },
   "pageInputIconSignUpText": {
-    "message": "Visite o website do Firefox Relay para iniciar sessão ou criar uma conta.",
+    "message": "Visite o site do Firefox Relay para iniciar sessão ou criar uma conta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
@@ -409,7 +409,7 @@
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "Anteriormente utilizado neste website",
+    "message": "Anteriormente utilizadas neste site",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
@@ -426,7 +426,7 @@
     "message": "Máscaras recentes"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Usar máscara de número de telefone"
+    "message": "Utilizar máscara de número de telefone"
   },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Já criou o número máximo de máscaras",
