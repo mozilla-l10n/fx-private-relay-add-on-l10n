@@ -513,7 +513,7 @@
     "message": "Proteja o seu endereço de e-mail real"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Utilize as máscaras Relay para manter a sua identidade privada e obter apenas os e-mails que pretende na sua caixa de entrada.",
+    "message": "Utilize as máscaras do Relay para manter a sua identidade privada e obter apenas as mensagens que quer na sua caixa de entrada.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
@@ -527,14 +527,14 @@
     "message": "Clique para copiar"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "Copiado!"
+    "message": "Copiada!"
   },
   "popupSurveyLink": {
     "message": "Ajude-nos a melhorar o Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Quão satisfeito está com a sua experiência com o Firefox Relay?",
+    "message": "Qual o seu grau de satisfação da sua experiência com o Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
@@ -556,19 +556,19 @@
     "message": "Obrigado pela sua opinião!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Gostaríamos de saber mais sobre como podemos fazer melhor. Estaria disposto(a) a responder a um questionário de dois minutos?"
+    "message": "Gostaríamos de saber mais sobre como podemos fazer melhor. Tem disponibilidade para responder a um questionário de dois minutos?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Dispensar"
   },
   "popupCsatSurveyLink": {
-    "message": "Preencha o inquérito"
+    "message": "Preencher o inquérito"
   },
   "popupEuCountryExpansionHeadline": {
     "message": "Máscaras ilimitadas agora disponíveis"
   },
   "popupEuCountryExpansionBody": {
-    "message": "O Firefox Relay Premium está agora disponível no seu país. Proteja a sua caixa de entrada com máscaras de correio eletrónico ilimitadas e obtenha um domínio de e-mail Relay único para tornar a criação de máscaras em viagem fácil e segura.",
+    "message": "O Firefox Relay Premium está agora disponível no seu país. Proteja a sua caixa de entrada com máscaras de correio eletrónico ilimitadas e obtenha um domínio de e-mail Relay único para tornar a criação de máscaras, fácil e segura.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
