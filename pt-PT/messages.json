@@ -437,7 +437,7 @@
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "Caractere(s) não permitido(s): $CHARacters$",
+    "message": "Caractere(s) não permitido(s): $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "characters": {
@@ -460,7 +460,7 @@
     "message": "Ativar novas funcionalidades"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Pode permitir que o Relay recolha dados opcionais que nos permitem sincronizar as suas etiquetas de máscara nos seus dispositivos com os sites onde as mesmas são criadas e utilizadas.",
+    "message": "Pode permitir que o Relay recolha dados opcionais que nos permitem sincronizar as suas etiquetas de máscaras nos seus dispositivos com os sites onde as mesmas são criadas e utilizadas.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
@@ -476,7 +476,7 @@
     "message": "Atualização da informação de privacidade"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Para melhorar a confiabilidade do Firefox Relay no evento de um email não poder ser entregue, iremos manter temporariamente o email nos nossos servidores até que este seja entregue. Nunca o reteremos por mais do que três dias.",
+    "message": "Para melhorar a fiabilidade do Firefox Relay, na eventualidade de não ser possível entregar um e-mail, iremos manter temporariamente a mensagem nos nossos servidores até que a mesma seja entregue. Nunca será retida mais do que três dias.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
@@ -486,7 +486,7 @@
     "message": "Ignorar"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMum$ máscaras disponíveis.",
+    "message": "$REMAINING$/$MAXIMUM$ máscaras disponíveis.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -500,7 +500,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Utilizou todas as $MAXIMum$ das suas máscaras gratuitas.",
+    "message": "Utilizou todas as $MAXIMUM$ das suas máscaras gratuitas.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
