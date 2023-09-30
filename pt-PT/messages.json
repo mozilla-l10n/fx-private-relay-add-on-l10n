@@ -209,7 +209,7 @@
     "message": "Uma ferramenta de proteção global"
   },
   "popupEducationalComponent1Body": {
-    "message": "O Relay pode ajudar-lhe a proteger o seu correio eletrónico, não importando onde esteja.",
+    "message": "O Relay pode ajudar a proteger o seu correio eletrónico, independentemente de onde esteja.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
@@ -252,7 +252,7 @@
     "message": "Bloquear mensagens promocionais"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Ative o Bloquear e-mails promocionais numa máscara para impedir que as mensagens de marketing cheguem à sua caixa de entrada."
+    "message": "Ative o Bloqueio de e-mails promocionais numa máscara para impedir que as mensagens de marketing cheguem à sua caixa de entrada."
   },
   "popupPromoBlockingButtonLearnMore": {
     "message": "Saber mais"
