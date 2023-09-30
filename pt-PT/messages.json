@@ -53,7 +53,7 @@
     "message": "Voltar ao painel principal"
   },
   "popupSettingsShowIcon": {
-    "message": "Mostrar ícone do Relay nos campos de correio dos sites",
+    "message": "Mostrar ícone do Relay nos campos de e-mail dos sites",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -89,7 +89,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "Não recebi um e-mail deste site que estava à espera"
+    "message": "Estava à espera de um e-mail deste site que não recebi"
   },
   "popupReportIssueCaseOther": {
     "message": "Outro"
@@ -196,7 +196,7 @@
     "message": "E-mails bloqueados"
   },
   "popupEmailsForwarded": {
-    "message": "Emails encaminhados"
+    "message": "E-mails encaminhados"
   },
   "popupEmailTrackersRemoved": {
     "message": "Rastreadores de e-mail removidos"
