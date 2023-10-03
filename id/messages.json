@@ -15,6 +15,10 @@
     "message": "Anda telah berhasil memasang pengaya Firefox Relay. Untuk mulai, gunakan akun Firefox Anda untuk masuk ke Relay.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Anda telah berhasil memasang pengaya Firefox Relay. Untuk memulai, masuk ke Relay dengan akun Anda.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Izinkan Mozilla untuk mengumpulkan informasi tentang cara Anda memakai ekstensi ini.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -113,6 +117,10 @@
   "popupSignUpPanelIntro": {
     "message": "Mulailah gunakan Relay dengan masuk menggunakan akun Firefox Anda.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Mulailah dengan masuk ke Relay dengan akun Anda.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Lanjutkan"
