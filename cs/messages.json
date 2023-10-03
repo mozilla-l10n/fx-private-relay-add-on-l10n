@@ -15,6 +15,10 @@
     "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Povolit Mozille sbírat data, jak toto rozšíření používáte.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -113,6 +117,10 @@
   "popupSignUpPanelIntro": {
     "message": "Přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Začněte přihlášením do služby Relay pomocí svého účtu.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Pokračovat"
