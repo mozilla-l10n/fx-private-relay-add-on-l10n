@@ -15,6 +15,10 @@
     "message": "Instalou com sucesso o complemento Firefox Relay. Para começar, inicie sessão no Relay com a sua conta Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Instalou com sucesso o complemento Firefox Relay. Para começar, inicie sessão no Relay com a sua conta.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Permitir que a Mozilla recolha informações sobre como utiliza esta extensão.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -113,6 +117,10 @@
   "popupSignUpPanelIntro": {
     "message": "Comece por iniciar sessão no Relay com a sua conta Firefox.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Comece por iniciar sessão no Relay com a sua conta.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Continuar"
