@@ -15,6 +15,10 @@
     "message": "Rydych wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Rydych wedi gosod yr ychwanegyn Firefox Relay yn llwyddiannus. I gychwyn arni, mewngofnodwch i Relay gyda'ch cyfrif Firefox.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Caniatáu i Mozilla gasglu gwybodaeth am sut rydych chi'n defnyddio'r estyniad hwn.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -113,6 +117,10 @@
   "popupSignUpPanelIntro": {
     "message": "Dechreuwch trwy fewngofnodi i Relay gyda'ch cyfrif Firefox.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Dechreuwch arni trwy fewngofnodi i Relay gyda'ch cyfrif.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Parhau"
