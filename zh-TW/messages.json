@@ -16,7 +16,7 @@
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "您已成功安裝 Firefox Relay 附加元件。請使用您的帳號登入 Relay 以開始使用。",
+    "message": "您已成功安裝 Firefox Relay 附加元件，使用帳號登入 Relay 即可開始使用。",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
@@ -119,7 +119,7 @@
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "首先使用您的帳號登入 Relay。",
+    "message": "首先，請使用您的帳號登入 Relay。",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
