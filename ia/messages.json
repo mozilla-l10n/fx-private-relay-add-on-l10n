@@ -484,7 +484,7 @@
     "message": "Actualisation del aviso de confidentialitate"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Pro meliorar le fidabilitate de Firefox Relay in caso que un e-mail non pote esser livrate, nos temporarimente mantenera le e-mail sur nostre servitores usque illo ha essite livrate. Nos jammais lo tenera illac plus que tres dies.",
+    "message": "Pro meliorar le soliditate de Firefox Relay in caso que un e-mail non pote esser livrate, nos temporarimente mantenera le message de e-mail sur nostre servitores usque illo ha essite livrate. Nos non lo retenera jammais plus de tres dies.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
