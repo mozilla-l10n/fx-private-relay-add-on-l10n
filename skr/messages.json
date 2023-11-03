@@ -17,6 +17,12 @@
     "message": "ریلے وچ کیا نواں ہے؟",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupSettingsReturn": {
+    "message": "مین پینل تے واپس ون٘ڄو"
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "فیڈبیک ݙیوو"
+  },
   "popupSettingsPrivacy": {
     "message": "رازداری"
   },
@@ -29,14 +35,38 @@
   "popupReportIssueSuccessContinue": {
     "message": "جاری"
   },
+  "popupSignUpPanelWelcome": {
+    "message": "ست بسم اللہ"
+  },
   "popupSignUpPanelContinue": {
     "message": "جاری"
   },
   "popupSignUpPanelSignIn": {
     "message": "سائن ان"
   },
+  "labelManage": {
+    "message": "بندوبست کرو"
+  },
   "labelSearch": {
     "message": "ڳولو"
+  },
+  "labelMaskCreated": {
+    "message": "ماسک تخلیق تھیا",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
+  "labelFromThisWebsite": {
+    "message": "ایں ویب سائٹ کنوں",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "سارے ای میل ماسک",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupEmailsBlocked": {
+    "message": "بلاک تھیاں ای میلاں"
+  },
+  "popupEmailsForwarded": {
+    "message": "اڳوں تے پٹھیاں ای میلاں"
   },
   "popupEndOfIntroPricingCTA": {
     "message": "ہݨ اپ گریڈ کرو"
@@ -78,6 +108,12 @@
   "pageInputIconGenerateNewAlias_mask": {
     "message": "نواں ماسک جنریٹ کرو"
   },
+  "pageInputIconRecentAliases_mask": {
+    "message": "حالیہ ماسک"
+  },
+  "pageInputIconInsertPhoneMask": {
+    "message": "فون نمبر ماسک ورتو"
+  },
   "close": {
     "message": "بند کرو"
   },
@@ -92,5 +128,52 @@
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "رازداری نوٹس اپ ڈیٹ"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "ای میل ڈیلیور نہ تھیوݨ دی صورت وِچ فائرفوکس ریلے دے اعتماد کوں بہتر بݨاوݨ کیتے، اساں عارضی طور تے ای میل کوں اپݨے سرورز تے اوں وقت تائیں رکھیسوں جے تائیں ایہ ڈیلیور ہ تھی ونڄے۔ اساں اینکوں ترائے ݙینہہ کنوں زیادہ کݙاہیں نہ رکھیسو۔",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "رازداری نوٹس ݙیکھو"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "فارغ کرو"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "ٻئی وی حفاظت گھنو"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "نقل کرݨ کیتے کلک کرو"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "نقل تھی ڳیا!"
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "ݙاڈھا غیرتسلی بخش"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "غیر تسلی بخش"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "غیر جانبدار"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "تسلی بخش"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "ݙاڈھا تسلی بخش"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "فارغ کرو"
+  },
+  "popupCsatSurveyLink": {
+    "message": "سروے وچ حصہ گھنو"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "ہݨ بے شمار ماسک دستیاب ہن"
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Relay Premium گھنو",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
