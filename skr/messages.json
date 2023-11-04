@@ -1,4 +1,12 @@
 {
+  "allowDataCollection": {
+    "message": "ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "ڈیٹا کٹھا کرݨ غیرفعال کرو",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
   "firstRunSignInButton": {
     "message": "سائن اپ/ ان"
   },
@@ -109,6 +117,16 @@
   "popupEmailsForwarded": {
     "message": "اڳوں تے پٹھیاں ای میلاں"
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "نتھی سائز ودھارا"
+  },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "ہݨ فائرفوکس ریلے ٢٥ ایم بی تائیں ای میلاں اڳوں تے پٹھ سڳدے، بشمول نتھیاں۔",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "ساݙی تعارفی قیمتاں دی پیش کش ٻہوں جلدی مُک ویسی!"
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "ہݨ اپ گریڈ کرو"
   },
@@ -137,6 +155,28 @@
   "popupPromoNewLabel": {
     "message": "نواں!"
   },
+  "popupCreateCustomMaskTitle": {
+    "message": "نواں کسٹم ماسک  بݨاؤ"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "تہاکوں صرف ہک نویکلا ماسک بݨاوݨ تے شیئر کرݨ دی ضرورت ہے جیڑھا تہاݙی حسب ضرورت ذیلی ڈومین استعمال کریندا ہے — ماسک آپوں ڄاݨ تیار تھی ویسے۔ مثال دے طور تے اڳلی واری جݙاں تساں آن لائن خریداری کرو تاں shop@customsubdomain.mozmail.com کوں ازماؤ۔"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "ای میل ماسک سابقہ درج کرو"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "مثال دے طور تے “کافی“"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "مشہوری ای میلاں بلاک کرو"
   },
@@ -148,6 +188,9 @@
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "نواں ماسک جنریٹ کرو"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "کسٹم ماسک جنریٹ کرو"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "حالیہ ماسک"
