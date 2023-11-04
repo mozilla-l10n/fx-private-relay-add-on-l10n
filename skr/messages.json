@@ -20,6 +20,10 @@
   "popupSettingsReturn": {
     "message": "مین پینل تے واپس ون٘ڄو"
   },
+  "popupSettingsCollectData": {
+    "message": "موزلا کوں باہمی تعامل ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "popupSettingsLeaveFeedback": {
     "message": "فیڈبیک ݙیوو"
   },
