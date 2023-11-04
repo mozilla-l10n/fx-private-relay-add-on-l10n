@@ -1,4 +1,8 @@
 {
+  "labelRelayPremium": {
+    "message": "فائرفوکس رِیلے پریمیئم",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "allowDataCollection": {
     "message": "ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -186,11 +190,28 @@
   "popupCreateCustomFormError": {
     "message": "ماسک تخلیق کائنی تھی سڳیا۔ سوہݨا، ولدا کوشش کرو۔"
   },
+  "pageInputIconSignUpButton": {
+    "message": "Firefox Relay تے ون٘ڄو",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "نواں ماسک جنریٹ کرو"
   },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "نواں بے ترتیبا ماسک جنریٹ کرو"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "بے ترتیبا ماسک جنریٹ کرو"
+  },
   "pageInputIconGenerateCustomMask": {
     "message": "کسٹم ماسک جنریٹ کرو"
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "وادھوں ای میل ماسک",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "بے انت ماسک گھنو"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "حالیہ ماسک"
@@ -198,8 +219,18 @@
   "pageInputIconInsertPhoneMask": {
     "message": "فون نمبر ماسک ورتو"
   },
+  "profilePageDefaulAliasLabelText": {
+    "message": "کھاتہ ناں شامل کرو",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
   "close": {
     "message": "بند کرو"
+  },
+  "returnToPreviousPanel": {
+    "message": "پچھلے پینل  تے واپس ون٘ڄو"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "نویاں خصوصیات فعال کرو"
   },
   "popupDataCollectionButtonLearnMore": {
     "message": "ٻیا سِکھو"
@@ -239,6 +270,10 @@
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "ٻئی وی حفاظت گھنو"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Relay لان٘چ کرو",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "نقل کرݨ کیتے کلک کرو"
