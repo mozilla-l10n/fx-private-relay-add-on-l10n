@@ -33,8 +33,23 @@
   "popupSettingsTermsOfService": {
     "message": "خدمت دیاں شرطاں"
   },
+  "popupSettingsReportIssue": {
+    "message": "مسئلہ رپورٹ کرو"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "رپورٹ جمع کرواؤ"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "ایں ویب سائٹ نال میکوں مسئلے ہن"
+  },
   "popupReportIssueCaseOther": {
     "message": "ٻیا"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "سوہݨا، تفصیلاں فراہم کرو"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "رپورٹ بھیڄ ݙتی!"
   },
   "popupReportIssueSuccessContinue": {
     "message": "جاری"
@@ -47,6 +62,22 @@
   },
   "popupSignUpPanelSignIn": {
     "message": "سائن ان"
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "حالیہ ورتیل ای میل ماسک",
+    "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "بے انت ماسک گھنو"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "پچھلا پینل ݙکھاؤ"
+  },
+  "popupOnboardingShowNext": {
+    "message": "اڳلے پینل تے ون٘ڄو"
+  },
+  "ManageAllAliases_mask": {
+    "message": "سارے ماسک منیج کرو"
   },
   "labelManage": {
     "message": "بندوبست کرو"
@@ -65,6 +96,12 @@
   "labelAllEmailMasks": {
     "message": "سارے ای میل ماسک",
     "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupAliasesUsed_mask": {
+    "message": "ورتیل ای میل ماسک"
+  },
+  "popupTotalMasksUsed": {
+    "message": "کل ورتیل ای میل ماسک"
   },
   "popupEmailsBlocked": {
     "message": "بلاک تھیاں ای میلاں"
@@ -142,6 +179,20 @@
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "فارغ کرو"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ ماسک دستیاب۔",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
   },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "ٻئی وی حفاظت گھنو"
