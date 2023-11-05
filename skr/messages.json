@@ -213,11 +213,25 @@
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "بے انت ماسک گھنو"
   },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "پریمیئم تانگھ تندیر نال رلت کرو",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
   "pageInputIconRecentAliases_mask": {
     "message": "حالیہ ماسک"
   },
   "pageInputIconInsertPhoneMask": {
     "message": "فون نمبر ماسک ورتو"
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "انہاں حروف دی اجازت کائنی: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "کھاتہ ناں شامل کرو",
