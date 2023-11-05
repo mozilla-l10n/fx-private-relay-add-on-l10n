@@ -161,6 +161,10 @@
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "پنج ودھائے!"
   },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "تساں Firefox Relay پاور ورتݨ آلے ہو!",
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupGetDomainButton": {
     "message": "ہک نویکلی Relay ای میل ڈومین گھنو",
     "description": "DO NOT TRANSLATE \"Relay\"."
@@ -255,6 +259,10 @@
       }
     }
   },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox پاس ورڈ منیجر + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "متعارف کراوݨ:  VPN + Relay سبسکرپشن منصوبہ",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
@@ -265,6 +273,9 @@
   },
   "popupPhoneMaskingPromoHeadline": {
     "message": "فون نمبر ماسکنگ متعارف کرواوݨ"
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "آپݨاں درست نمبر ظاہر کیتے ٻاجھ ٹیکسٹ تے فون کالاں گھنو۔"
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "ہݨ اپ گریڈ کرو"
@@ -417,6 +428,16 @@
       },
       "MAXIMUM": {
         "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "تساں آپݨے سارے $MAXIMUM$ مفت ماسک ورتا گھدے ہن۔",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
         "example": "5"
       }
     }
