@@ -334,6 +334,9 @@
   "popupPhoneMaskingPromoHeadline": {
     "message": "فون نمبر ماسکنگ متعارف کرواوݨ"
   },
+  "popupPhoneMaskingPromoBody": {
+    "message": "فون نمبر ماسکنگ نال  ہݨ تساں فون نمبر ماسک تخلیق کر سڳدے ہو جہڑا تہاکوں صحیح نمبر ظاہر کیتے ٻاجھ ٹیکسٹ تے فون کالاں وصول کرݨ وچ تہاݙی مدد کرے۔"
+  },
   "popupPhoneMaskingPromoBodyPremium": {
     "message": "آپݨاں درست نمبر ظاہر کیتے ٻاجھ ٹیکسٹ تے فون کالاں گھنو۔"
   },
@@ -563,6 +566,10 @@
   },
   "popupEuCountryExpansionHeadline": {
     "message": "ہݨ بے شمار ماسک دستیاب ہن"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium ہݨ تہاݙے ملک وچ دستیاب ہے۔ بے شمار ماسکاں نال آپݨی ای میل دی حفاظت کرو۔ تے گو تے سوکھے تے محفوظ ماسک بݨاوݨ کیتے نویکلی Relay  ای میل ڈومین گھنو۔",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
     "message": "Relay Premium گھنو",
