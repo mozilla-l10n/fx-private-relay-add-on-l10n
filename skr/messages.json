@@ -146,6 +146,9 @@
   "popupEmailsForwarded": {
     "message": "اڳوں تے پٹھیاں ای میلاں"
   },
+  "popupEmailTrackersRemoved": {
+    "message": "ای میل ٹریکر ہٹ ڳئے"
+  },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "نتھی سائز ودھارا"
   },
@@ -188,11 +191,34 @@
     "message": "Relay Premium  نال، تساں پروموشنل ای میلز کوں اپݨے ان باکس تائیں پُڄݨ کنوں روک سڳدے ہو پر رسیداں یا شپنگ دیاں معلومات جیہاں ای میل وصول کرݨ دی تہاکوں اجازت ہوسی۔",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "$SAVINGS$ گھٹ  تے Mozilla VPN شامل کرو۔",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoHeadline_3": {
+    "message": "$SAVINGS$ گھٹ کیتے Mozilla VPN شامل کرو۔",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "ہݨ اپ گریڈ کرو"
   },
   "popupPromoNewLabel": {
     "message": "نواں!"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "آپݨے ای میل ماسکاں نال ولدا سائن ان تھیوو"
   },
   "popupCreateCustomMaskTitle": {
     "message": "نواں کسٹم ماسک  بݨاؤ"
