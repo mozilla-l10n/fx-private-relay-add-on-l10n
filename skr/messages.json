@@ -281,6 +281,10 @@
   "popupCopyMaskButtonCopied": {
     "message": "نقل تھی ڳیا!"
   },
+  "popupCsatSurveyText": {
+    "message": "تساں آپݨے Firefox Relay تجربے نال چوکھے مطمئن ہو؟",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
     "message": "ݙاڈھا غیرتسلی بخش"
   },
@@ -295,6 +299,9 @@
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
     "message": "ݙاڈھا تسلی بخش"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "تہاݙے فیڈبیک تے تھورائت ہیں!"
   },
   "popupCsatSurveyDismiss": {
     "message": "فارغ کرو"
