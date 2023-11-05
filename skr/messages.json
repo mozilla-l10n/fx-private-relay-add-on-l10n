@@ -147,6 +147,9 @@
   "popupTotalMasksUsed": {
     "message": "کل ورتیل ای میل ماسک"
   },
+  "popupMasksUsedInThisWebsite": {
+    "message": "ایں ویب سائٹ تے ورتیل ماسک"
+  },
   "popupEmailsBlocked": {
     "message": "بلاک تھیاں ای میلاں"
   },
@@ -274,6 +277,10 @@
   "pageInputIconGenerateCustomMask": {
     "message": "کسٹم ماسک جنریٹ کرو"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "آپݨے موجودہ ای میل ماسکاں وچوں چݨو",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
   "pageInputIconAdditionalEmailMasks": {
     "message": "وادھوں ای میل ماسک",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
@@ -290,6 +297,10 @@
   },
   "pageInputIconInsertPhoneMask": {
     "message": "فون نمبر ماسک ورتو"
+  },
+  "pageNoMasksRemaining": {
+    "message": "تہاݙے کول ٻئے مفت ای میل ماسک کائنی۔",
+    "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "انہاں حروف دی اجازت کائنی: $CHARACTERS$",
