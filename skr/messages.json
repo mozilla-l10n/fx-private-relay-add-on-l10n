@@ -456,6 +456,10 @@
   "popupDataCollectionHeadline": {
     "message": "نویاں خصوصیات فعال کرو"
   },
+  "popupDataCollectionBody_mask": {
+    "message": "تساں Relay کوں اختیاری ڈیٹا کٹھا کرݨ دی اجازت ݙے سڳدے ہو جہڑی ساکوں تہاݙیاں ساریاں ڈیوائساں تے تہاݙے ماسک لیبلز کوں انہاں ویب سائٹاں نال  ہم وقت کرݨ دی اجازت ݙیندا ہے جتھاں او ٻݨے تے ورتے ڳئے ہن۔",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "ٻیا سِکھو"
   },
@@ -505,6 +509,10 @@
   "popupNoMasksCreatedHeadline": {
     "message": "اپݨے اصل ای میل پتے دی حفاظت کرو"
   },
+  "popupNoMasksCreatedBody": {
+    "message": "آپݨی سُن٘ڄاݨ کوں نجی رکھݨ کیتے Relay ماسک ورتو تے آپݨے انباکس وچ صرف اوہے ای میلاں گھنو جہڑیاں تساں چاہندے ہو۔",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "ٻئی وی حفاظت گھنو"
   },
@@ -543,6 +551,9 @@
   },
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "تہاݙے فیڈبیک تے تھورائت ہیں!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "اساں ایں بارے ٻیا ڄاݨݨ چاہندے ہیں جو اساں بہتر کین٘ویں کر سڳدے ہیں۔  بھلا تساں ݙو منٹ دے سروے کیتے تیار ہوسو؟"
   },
   "popupCsatSurveyDismiss": {
     "message": "فارغ کرو"
