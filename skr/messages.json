@@ -150,8 +150,18 @@
     "message": "سیکنڈ",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
+  "popupPromoBlockingButtonTitle": {
+    "message": "مشہوری ای میلاں بلاک کرو"
+  },
+  "popupPromoBlockingButtonCopy": {
+    "message": "مارکیٹنگ ای میلاں کوں آپݨے ان باکس تائیں پہنچݨ کنوں روکݨ کیتے ماسک تے پروموشنل ای میلاں بلاک کرݨ  فعال کرو۔"
+  },
   "popupPromoBlockingButtonLearnMore": {
     "message": "ٻیا سِکھو"
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Relay Premium  نال، تساں پروموشنل ای میلز کوں اپݨے ان باکس تائیں پُڄݨ کنوں روک سڳدے ہو پر رسیداں یا شپنگ دیاں معلومات جیہاں ای میل وصول کرݨ دی تہاکوں اجازت ہوسی۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "ہݨ اپ گریڈ کرو"
@@ -282,6 +292,9 @@
       }
     }
   },
+  "popupNoMasksCreatedHeadline": {
+    "message": "اپݨے اصل ای میل پتے دی حفاظت کرو"
+  },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "ٻئی وی حفاظت گھنو"
   },
@@ -294,6 +307,10 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "نقل تھی ڳیا!"
+  },
+  "popupSurveyLink": {
+    "message": "Relay کوں چنگا بݨاوݨ کیتے ساݙی مدد کرو",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
     "message": "تساں آپݨے Firefox Relay تجربے نال چوکھے مطمئن ہو؟",
