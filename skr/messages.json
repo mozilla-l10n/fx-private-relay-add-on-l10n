@@ -32,6 +32,10 @@
   "popupSettingsReturn": {
     "message": "مین پینل تے واپس ون٘ڄو"
   },
+  "popupSettingsShowIcon": {
+    "message": "ویب سائٹاں تے ای میل خانیاں وچ Relay آئیکان ݙکھاؤ",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsCollectData": {
     "message": "موزلا کوں باہمی تعامل ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -54,6 +58,9 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "ایں ویب سائٹ نال میکوں مسئلے ہن"
   },
+  "popupReportIssueCaseOne": {
+    "message": "ویب سائٹ ولوں ای میل ماسک قبول کائناں تھیا ہائی"
+  },
   "popupReportIssueCaseOther": {
     "message": "ٻیا"
   },
@@ -74,6 +81,24 @@
   },
   "popupSignUpPanelSignIn": {
     "message": "سائن ان"
+  },
+  "popupRemainingAliases_2_mask": {
+    "message": "ماسکاں دا ناں وٹاوݨ: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "مفت ای میل ماسکاں دا ناں وٹاوݨ: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
   },
   "popupRecentlyUsedMasks": {
     "message": "حالیہ ورتیل ای میل ماسک",
