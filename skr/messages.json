@@ -159,6 +159,9 @@
   "popupEmailTrackersRemoved": {
     "message": "ای میل ٹریکر ہٹ ڳئے"
   },
+  "popupEducationalComponent1Headline": {
+    "message": "کل جگ حفاظت رَچھ"
+  },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "نتھی سائز ودھارا"
   },
@@ -187,6 +190,9 @@
   "popupEndOfIntroPricingCountdownSeconds": {
     "message": "سیکنڈ",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
+  },
+  "popupCriticalEmailForwardingHeadline": {
+    "message": "خاص ای میل اڳوں تے بھیڄݨ"
   },
   "popupPromoBlockingButtonTitle": {
     "message": "مشہوری ای میلاں بلاک کرو"
@@ -220,6 +226,14 @@
         "example": "40%"
       }
     }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "متعارف کراوݨ:  VPN + Relay سبسکرپشن منصوبہ",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoCTA": {
+    "message": " VPN + Relay گھنو",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "ہݨ اپ گریڈ کرو"
@@ -297,6 +311,10 @@
   },
   "pageInputIconInsertPhoneMask": {
     "message": "فون نمبر ماسک ورتو"
+  },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "تساں پہلے ہی ودھ ودھ تعداد وچ ماسک تخلیق کر گھدے ہن",
+    "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
     "message": "تہاݙے کول ٻئے مفت ای میل ماسک کائنی۔",
