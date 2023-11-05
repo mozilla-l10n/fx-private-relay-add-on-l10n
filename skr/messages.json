@@ -80,6 +80,14 @@
   "popupSignUpPanelWelcome": {
     "message": "ست بسم اللہ"
   },
+  "popupSignUpPanelIntro": {
+    "message": "آپݨے Firefox کھاتے نال  Relay وچ سائن ان تھیوݨ نال شروع کرو۔",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "آپݨے  کھاتے نال  Relay وچ سائن ان تھیوݨ نال شروع کرو۔",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
+  },
   "popupSignUpPanelContinue": {
     "message": "جاری"
   },
