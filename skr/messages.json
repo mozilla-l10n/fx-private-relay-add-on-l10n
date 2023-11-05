@@ -70,6 +70,10 @@
   "popupReportIssueSuccessHeadline": {
     "message": "رپورٹ بھیڄ ݙتی!"
   },
+  "popupReportIssueSuccessBody": {
+    "message": "Firefox Relay کوں چنگیرا بݨاوݨ کیتے ساݙی مدد کرݨ تے تہاݙا شکریہ!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupReportIssueSuccessContinue": {
     "message": "جاری"
   },
@@ -281,6 +285,10 @@
   },
   "popupCreateCustomFormError": {
     "message": "ماسک تخلیق کائنی تھی سڳیا۔ سوہݨا، ولدا کوشش کرو۔"
+  },
+  "pageInputIconSignUpText": {
+    "message": "سائن ان کیتے یا کھاتہ بݨاوݨ کیتے Firefox Relay تے ون٘ڄو۔",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
     "message": "Firefox Relay تے ون٘ڄو",
