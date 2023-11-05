@@ -3,6 +3,10 @@
     "message": "فائرفوکس رِیلے پریمیئم",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
+  "firstRunCollectDataLabel": {
+    "message": "ایہ ایکسٹنشن ورتݨ دے طریقے بارے معلومات کٹھیاں کرݨ کیتے Mozilla کوں اجازت ݙیوو۔",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
