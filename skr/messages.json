@@ -3,6 +3,14 @@
     "message": "فائرفوکس رِیلے پریمیئم",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
+  "firstRunP": {
+    "message": "تساں کامیابی نال Firefox Relay ایڈ آن انسٹال کر گھدا ہے۔ شروع کرݨ کیتے آپݨے Firefox کھاتے نال Relay  وچ سائن ان تھیوو۔",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunP2": {
+    "message": "تساں کامیابی نال Firefox Relay ایڈ آن انسٹال کر گھدا ہے۔ شروع کرݨ کیتے آپݨے کھاتے نال Relay  وچ سائن ان تھیوو۔",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "ایہ ایکسٹنشن ورتݨ دے طریقے بارے معلومات کٹھیاں کرݨ کیتے Mozilla کوں اجازت ݙیوو۔",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
