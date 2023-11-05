@@ -3,6 +3,10 @@
     "message": "Firefox Relay ای میل ماسک خلقݨ کوں سوکھا بݨیندے جہڑا تہاڈے اصلی انباکس وچ بھیڄ ݙیندے ہن۔",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay تہاݙے اصلی ای میل پتے دی حفاظت کیتے تہاݙی مدد کریندے — جہڑا تہاݙی آن لائن سُن٘ڄاݨ نال سبھ کنوں ودھ جُڑا ہویا ہے۔ ایہ تہاکوں نویکلے تے بے ترتیبے ماسک جنریٹ کرݨ ݙیندے، جنہاں کوں تساں کھاتیاں، ایپاں یا خبرنامیاں کیتے سائن اپ کرݨ کیتے ورت سڳدے ہو۔ تے سنہیاں کوں آپݨے اصلی پتے تے پٹھ سڳدے ہو۔ جے تہاکوں پتہ لڳدے جو کوئی کھاتہ اݨ بھاندیاں  ای میل یا سپیم بھیڄیندا پئے تساں ماسک کوں بلاک کر سڳدے ہو تے ایہ تہاݙے ابناکس وچ ای میل بھیڄݨ روک ݙیسی۔ ہک واری جے تساں مزید کھاتہ نہوے رکھݨ چاہندے تاں تساں ماسک کوں مٹا سڳدے ہو۔",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "فائرفوکس رِیلے پریمیئم",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
