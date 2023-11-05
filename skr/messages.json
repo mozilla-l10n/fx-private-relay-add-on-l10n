@@ -134,6 +134,13 @@
     "message": "سارے ای میل ماسک",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "پنج ودھائے!"
+  },
+  "popupGetDomainButton": {
+    "message": "ہک نویکلی Relay ای میل ڈومین گھنو",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "ورتیل ای میل ماسک"
   },
