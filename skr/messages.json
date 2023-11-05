@@ -27,6 +27,10 @@
     "message": "ڈیٹا کٹھا کرݨ غیرفعال کرو",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP_mask": {
+    "message": "جہڑے ویلے تساں آپݨے ٹول بار وچ Relay آئیکان تے  کلک کرݨ یا نواں ماسک بݨاوݨ جیہے کم کریندے ہو تاں تعامل دا ڈیٹا کٹھا کرݨ ساکوں ایہ ڄاݨݨ وچ مدد کریندا ہے جو کیا چنگا کم کریندا پئے تے  اساں کتھ بہتر بݨا سڳدے ہیں۔ تساں ایں کوں ہمیشہ ترتیباں دے پینل وچ بند کر سڳدے ہو۔",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "سائن اپ/ ان"
   },
