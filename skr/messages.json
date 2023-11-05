@@ -208,6 +208,10 @@
   "popupEducationalComponent1Headline": {
     "message": "کل جگ حفاظت رَچھ"
   },
+  "popupEducationalComponent1Body": {
+    "message": "بھان٘ویں تساں کتھاہیں وی ہوو، Relay  تہاڈے ای میل دی حفاظت وچ مدد کر سڳدے۔",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "نتھی سائز ودھارا"
   },
@@ -217,6 +221,10 @@
   },
   "popupEndOfIntroPricingHeadline": {
     "message": "ساݙی تعارفی قیمتاں دی پیش کش ٻہوں جلدی مُک ویسی!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "Relay Premium ستاویہ ستمبر کنوں پہلے گھنو تے ساݙی تعارفی ماہانہ قیمت تے بے شمار ماسکنگ دے مزے گھنو۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
     "message": "ہݨ اپ گریڈ کرو"
