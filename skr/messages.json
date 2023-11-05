@@ -1,4 +1,8 @@
 {
+  "extensionDescription_mask": {
+    "message": "Firefox Relay ای میل ماسک خلقݨ کوں سوکھا بݨیندے جہڑا تہاڈے اصلی انباکس وچ بھیڄ ݙیندے ہن۔",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "فائرفوکس رِیلے پریمیئم",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
@@ -75,6 +79,10 @@
   },
   "popupReportIssueCaseOne": {
     "message": "ویب سائٹ ولوں ای میل ماسک قبول کائناں تھیا ہائی"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "ویب سائٹ نال Relay ایڈ آن ہک بصری مسئلہ کیتے",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
     "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ای میلاں وصول کائنی کیتیاں"
