@@ -159,6 +159,10 @@
   "popupEmailTrackersRemoved": {
     "message": "ای میل ٹریکر ہٹ ڳئے"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "زیادہ حفاظت کیتے Relay Premium تے اپ گریڈ کرو!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEducationalComponent1Headline": {
     "message": "کل جگ حفاظت رَچھ"
   },
@@ -235,6 +239,9 @@
     "message": " VPN + Relay گھنو",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "فون نمبر ماسکنگ متعارف کرواوݨ"
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "ہݨ اپ گریڈ کرو"
   },
@@ -299,12 +306,19 @@
     "message": "وادھوں ای میل ماسک",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "ایں ویب سائٹ تے پہلے ورتیل",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "بے انت ماسک گھنو"
   },
   "pageInputIconJoinPremiumWaitlist": {
     "message": "پریمیئم تانگھ تندیر نال رلت کرو",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "ایں سائٹ کنوں موجود ماسک ورتو۔۔۔"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "حالیہ ماسک"
