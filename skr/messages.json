@@ -281,6 +281,26 @@
       }
     }
   },
+  "popupBundlePromoBody_2": {
+    "message": "$MONTHLY_PRICE$/month نال 1 سال دا منصوبہ بشمول  Relay Premium + Mozilla VPN۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "$MONTHLY_PRICE$/month نال ہک سال کیتے Relay Premium فون ماسکنگ تے Mozilla VPN گھنو۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupPasswordManagerRelayHeadline": {
     "message": "Firefox پاس ورڈ منیجر + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
@@ -292,6 +312,20 @@
   "popupBundlePromoHeadlineFreePlan": {
     "message": "متعارف کراوݨ:  VPN + Relay سبسکرپشن منصوبہ",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "$MONTHLY_PRICE$/month نال ݙون٘ہیں Relay Premium + Mozilla VPN گھنݨ کیتے آپی تھیت اپ گریڈ کرو۔ $SAVINGS$ بچاؤ!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
   },
   "popupBundlePromoCTA": {
     "message": " VPN + Relay گھنو",
