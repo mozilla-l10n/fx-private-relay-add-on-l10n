@@ -15,6 +15,10 @@
     "message": "Du har installeret Firefox Relay-tilføjelsen. For at komme i gang skal du logge ind på Relay med din Firefox-konto.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Du har installeret Firefox Relay-tilføjelsen. For at komme i gang skal du logge ind på Relay med din konto.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Tillad Mozilla at indsamle oplysninger om, hvordan du bruger denne udvidelse.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -113,6 +117,10 @@
   "popupSignUpPanelIntro": {
     "message": "Kom i gang ved at logge ind på Relay med din Firefox-konto.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Kom i gang ved at logge ind på Relay med din konto.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Fortsæt"
