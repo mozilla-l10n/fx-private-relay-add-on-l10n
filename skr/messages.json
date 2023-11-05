@@ -70,8 +70,14 @@
   "popupReportIssueSiteLabelHeadline": {
     "message": "ایں ویب سائٹ نال میکوں مسئلے ہن"
   },
+  "popupReportIssueSituationHeadline": {
+    "message": "مسئلے دی صورت حال"
+  },
   "popupReportIssueCaseOne": {
     "message": "ویب سائٹ ولوں ای میل ماسک قبول کائناں تھیا ہائی"
+  },
+  "popupReportIssueCaseThree": {
+    "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ای میلاں وصول کائنی کیتیاں"
   },
   "popupReportIssueCaseOther": {
     "message": "ٻیا"
@@ -262,6 +268,10 @@
   "popupPasswordManagerRelayHeadline": {
     "message": "Firefox پاس ورڈ منیجر + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "تساں ہݨ آپݨے Firefox پاس ورڈ منءجر وچ براہ راست Relay ورت سڳدے ہو۔",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
     "message": "متعارف کراوݨ:  VPN + Relay سبسکرپشن منصوبہ",
