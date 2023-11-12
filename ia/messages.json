@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay rende facile crear mascas email que retransmitte a tu real cassa de ingresso.",
+    "message": "Firefox Relay rende facile crear mascas de e-mail que reexpedi le messages recipite a tu real cassa de entrata.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay te adjuta a proteger tu ver adresse email, illo que es le plus intimemente ligate a tu identitate online. Illo te permitte de generar mascas unic, aleatori, que tu pote usar pro inscriber te a contos, apps, o bulletines de novas, e retransmitter messages a tu ver adresse. Si tu trova que un conto invia email indesirate o spam, tu pote blocar le masca e illo stoppara le invio de email a tu cassa de ingresso. Un vice que tu non vole plus un conto, tu pote deler le masca.",
+    "message": "Firefox Relay te adjuta a proteger tu ver adresse de e-mail – le adresse que es le plus intimemente ligate a tu identitate in linea. Illo te permitte de generar mascas unic e aleatori que tu pote usar pro inscriber te a contos, applicationes, o bulletines de novas, e reexpedi le messages a tu ver adresse. Si tu trova que un conto invia e-mail indesirate o spam, tu pote blocar le masca e illo stoppara le invio de e-mail a tu cassa de entrata. Un vice que tu non vole plus un conto, tu pote deler le masca.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -224,7 +224,7 @@
     "message": "Accrescimento del dimension del annexo"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay ora pote retransmitter e-mails usque 25MB, includite annexos.",
+    "message": "Firefox Relay pote ora reexpedir messages de e-mail usque a 25MB, includite annexos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
