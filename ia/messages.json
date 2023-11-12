@@ -521,7 +521,7 @@
     "message": "Protege tu real adresse email"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Usa le mascas Relay pro tener private tu identitate e reciper solo le emails que tu vole in tu cassa de ingresso.",
+    "message": "Usa le mascas de Relay pro mantener tu identitate private e reciper solmente le emails que tu vole in tu cassa de entrata.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
@@ -576,7 +576,7 @@
     "message": "Mascas illimitate ora disponibile"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium es ora disponibile in tu pais. Protege tu cassa de ingresso con mascas email illimitate, e obtene un dominio Relay unic pro render le creation al volo de mascas facile e secur.",
+    "message": "Firefox Relay Premium es ora disponibile in tu pais. Protege tu cassa de entrata con un numero illimitate de mascas de e-mail, e obtene un dominio Relay unic pro render le creation immediate de mascas facile e secur.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
