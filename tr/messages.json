@@ -1,0 +1,326 @@
+{
+  "extensionDescription_mask": {
+    "message": "Firefox Relay, gelen kutunuza ileten e-posta maskeleri oluşturmanızı kolaylaştırır.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "extensionDescriptionStore_mask": {
+    "message": "Firefox Relay, çevrimiçi kimliğinizle en yakından ilişkili e-posta adresinizi korumanıza yardımcı olur. Hesaplara, uygulamalara ve bültenlere kaydolmak için kullanabileceğiniz benzersiz, rastgele maskeler oluşturmanızı sağlar ve iletileri gerçek adresinize yönlendirir. Bir hesabın istenmeyen e-posta veya spam gönderdiğini tespit ederseniz maskeyi engelleyebilirsiniz; maske gelen kutunuza e-posta göndermeyi durdurur. Artık hesap açmak istemiyorsanız maskeyi silebilirsiniz.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "firstRunP": {
+    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için Relay'e Firefox hesabınızla giriş yapın.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunP2": {
+    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için hesabınızla Relay'e giriş yapın.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla’nın bu uzantıyı nasıl kullandığınız hakkında bilgi toplamasına izin verin.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "firstRunPrefP_mask": {
+    "message": "Araç çubuğunuzdaki İlet simgesine tıklamak veya yeni bir maske oluşturmak gibi şeyler yaptığınızda etkileşim verisi toplamak, nelerin işe yaradığını ve neleri geliştirebileceğimizi öğrenmemize yardımcı olur. Bunu istediğiniz zaman Ayarlar panelinden kapatabilirsiniz.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPromoBlockingButtonCopy": {
+    "message": "Pazarlama e-postalarının gelen kutunuza ulaşmasını engellemek için maskelerde Tanıtım e-postalarını engelle'yi etkinleştirin."
+  },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Relay Premium ile tanıtım e-postalarının gelen kutunuza ulaşmasını engelleyebilir, öte yandan fatura veya gönderim bilgisi gibi e-postaların size ulaşmasını sağlayabilirsiniz.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupBundlePromoHeadline_2": {
+    "message": "Mozilla VPN ekleme için $SAVINGS$ tasarruf edin.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoHeadline_3": {
+    "message": "Mozilla VPN eklemede $SAVINGS$ indirim.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "1 yıllık plan: Relay Premium + Mozilla VPN dahil olmak üzere AYM AYLIK ₺290.00'a.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Bir yıllık Relay Premium Telefon Maskeleme ve Mozilla VPN'de AYLIK AYLIK_PRICE $'a ödeme yapın.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "Karşınızda: Relay + VPN abonelik planı",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Ayda AYRICA YABANCI YATAK TAKSİTİ'ne Relay Premium ve Mozilla VPN'e sahip olmak için aboneliğinizi yükseltin. $SAVINGS$ tasarruf edin!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoCTA": {
+    "message": "VPN + Relay’i edinin",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "Telefon numarası maskeleme ile artık gerçek numaranızı vermeden kısa mesajları ve aramaları yanıtlamanızı sağlayan bir telefon numarası maskesi oluşturabilirsiniz."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Gerçek telefon numaranızı sormadan SMS alın."
+  },
+  "popupPhoneMaskingPromoCTA": {
+    "message": "Şimdi yükselt"
+  },
+  "popupPromoNewLabel": {
+    "message": "Yeni!"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "E-posta maskelerinizle tekrar giriş yapın"
+  },
+  "popupCreateCustomMaskTitle": {
+    "message": "Yeni bir özel maske oluştur"
+  },
+  "popupCreateCustomMaskBody": {
+    "message": "Tek yapmanız gereken özel alt alan adınızı kullanan benzersiz bir maske oluşturmak ve paylaşmak. Maske otomatik olarak oluşturulacaktır. Örneğin bir sonraki alışverişlerinizde “shop@customsubdomain.mozmail.com” adresini deneyin."
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "E-posta maskesi ön ekini girin"
+  },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "örn. “Kahve”"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
+  "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
+    "message": "Reklam e-postalarını engelleme"
+  },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Maske oluştur"
+  },
+  "popupCreateCustomFormError": {
+    "message": "Maske oluşturulamadı. Lütfen tekrar deneyin."
+  },
+  "pageInputIconSignUpText": {
+    "message": "Giriş yapmak veya hesap oluşturmak için Firefox Relay web sitesini ziyaret edin.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Firefox Relay’e git",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "Yeni maske oluştur"
+  },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "Yeni rastgele maske oluştur"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "Rastgele maske oluştur"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "Özel maske oluştur"
+  },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "Mevcut e-posta maskelerinizden birini seçin",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
+  "pageInputIconAdditionalEmailMasks": {
+    "message": "Ek e-posta maskeleri",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "Bu web sitesinde daha önce kullanılmış",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "Sınırsız maske edinin"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Premium bekleme listesine katılın",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Bu sitedeki maskeyi kullan…"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "Son kullanılan maskeler"
+  },
+  "pageInputIconInsertPhoneMask": {
+    "message": "Telefon numarası maskesini kullan"
+  },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "Zaten maksimum sayıda maske oluşturdunuz",
+    "description": "Tells the user they have already created the max number of masks."
+  },
+  "pageNoMasksRemaining": {
+    "message": "Başka ücretsiz e-posta maskeniz yok.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "Karakter(ler)e izin verilmiyor: $CHARACTRS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
+  },
+  "profilePageDefaulAliasLabelText": {
+    "message": "Hesap adı ekle",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "returnToPreviousPanel": {
+    "message": "Önceki panele dön"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Yeni özellikleri etkinleştirin"
+  },
+  "popupDataCollectionBody_mask": {
+    "message": "Maske etiketlerinizi cihazlarınız arasında oluşturuldukları ve kullanıldıkları web siteleriyle eşitlememize olanak tanıyacak verileri Relay’in toplamasına izin verebilirsiniz.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Daha fazla bilgi al"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "Reddet"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "İzin ver"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "Gizlilik Bildirimi Güncellemesi"
+  },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Firefox Relay’in güvenilirliğini artırmak için bir e-postanın teslim edilemediği durumlarda e-postayı teslim edilene kadar geçici olarak sunucularımızda tutacağız. Bunu asla üç günden fazla tutmayacağız.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "Gizlilik Bildirimini Görüntüle"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Kapat"
+  },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ maske mevcut.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "$MAXIMUM$ ücretsiz maskenizin tamamını kullandınız.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "Gerçek e-posta adresinizi koruyun"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Kimliğinizi gizli tutmak ve gelen kutunuza yalnızca istediğiniz e-postaları almak için geçiş maskelerini kullanın.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "Daha fazla koruma"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Relay’i başlat",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "Kopyalamak için tıklayın"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "Kopyalandı!"
+  },
+  "popupSurveyLink": {
+    "message": "Relay’i geliştirmemize yardım edin",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "Firefox Relay deneyiminizden ne kadar memnunsunuz?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Hiç memnun değilim"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Tatmin etmiyor"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Normal"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Tatmin ediyor"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Çok memnunum"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "Geri bildiriminiz için teşekkür ederiz!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Nasıl daha iyisini yapabileceğimizi öğrenmek isteriz. İki dakikalık bir ankete katılmaya hazır mısınız?"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Sınırsız maske mevcut"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium artık ülkenizde de kullanılabilir. Sınırsız e-posta maskesiyle gelen kutunuzu koruyun. Yolda maske oluşturmayı kolay ve güvenli hale getiren benzersiz bir Relay e-posta alan adı edinin.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  }
+}
