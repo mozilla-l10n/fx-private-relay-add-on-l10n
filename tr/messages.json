@@ -7,6 +7,10 @@
     "message": "Firefox Relay, çevrimiçi kimliğinizle en yakından ilişkili e-posta adresinizi korumanıza yardımcı olur. Hesaplara, uygulamalara ve bültenlere kaydolmak için kullanabileceğiniz benzersiz, rastgele maskeler oluşturmanızı sağlar ve iletileri gerçek adresinize yönlendirir. Bir hesabın istenmeyen e-posta veya spam gönderdiğini tespit ederseniz maskeyi engelleyebilirsiniz; maske gelen kutunuza e-posta göndermeyi durdurur. Artık hesap açmak istemiyorsanız maskeyi silebilirsiniz.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "firstRunP": {
     "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için Relay'e Firefox hesabınızla giriş yapın.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
@@ -19,9 +23,99 @@
     "message": "Mozilla’nın bu uzantıyı nasıl kullandığınız hakkında bilgi toplamasına izin verin.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
+  "allowDataCollection": {
+    "message": "Veri toplamaya izin ver",
+    "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
+  },
+  "disableDataCollection": {
+    "message": "Veri toplamayı devre dışı bırak",
+    "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
   "firstRunPrefP_mask": {
     "message": "Araç çubuğunuzdaki İlet simgesine tıklamak veya yeni bir maske oluşturmak gibi şeyler yaptığınızda etkileşim verisi toplamak, nelerin işe yaradığını ve neleri geliştirebileceğimizi öğrenmemize yardımcı olur. Bunu istediğiniz zaman Ayarlar panelinden kapatabilirsiniz.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsTitle": {
+    "message": "Ayarlar"
+  },
+  "popupStatsTitle": {
+    "message": "İstatistikler",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsLink": {
+    "message": "Haberler",
+    "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Relay’deki yenilikler",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsReturn": {
+    "message": "Ana panele dön"
+  },
+  "popupSettingsShowIcon": {
+    "message": "Web sitelerindeki e-posta alanlarında Relay simgesini göster",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Mozilla’nın etkileşim verilerini toplamasına izin ver",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "Görüş bildir"
+  },
+  "popupSettingsPrivacy": {
+    "message": "Gizlilik"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "Hizmet Koşulları"
+  },
+  "popupSettingsReportIssue": {
+    "message": "Sorun bildir"
+  },
+  "popupReportIssueSiteLabelHeadline": {
+    "message": "Bu web sitesiyle ilgili sorun yaşıyorum"
+  },
+  "popupReportIssueSituationHeadline": {
+    "message": "Sorun durumu"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "E-posta maskesi web sitesi tarafından kabul edilmedi"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay eklentisi web sitesinde görsel bir soruna neden oldu",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "Bu web sitesinden beklediğim bir e-posta gelmedi"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Diğer"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "Rapor gönderildi"
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Firefox Relay’i geliştirmemize yardımcı olduğunuz için teşekkür ederiz!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupSignUpPanelWelcome": {
+    "message": "Hoş geldiniz"
+  },
+  "popupSignUpPanelIntro": {
+    "message": "Firefox hesabınızla Relay’e giriş yaparak başlayın.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Hesabınızla Relay’e giriş yaparak başlayın.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
+  },
+  "popupSignUpPanelSignIn": {
+    "message": "Giriş yap"
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Son kullanılan e-posta maskeleri",
+    "description": "Label for list of most recently used masks."
   },
   "popupPromoBlockingButtonCopy": {
     "message": "Pazarlama e-postalarının gelen kutunuza ulaşmasını engellemek için maskelerde Tanıtım e-postalarını engelle'yi etkinleştirin."
