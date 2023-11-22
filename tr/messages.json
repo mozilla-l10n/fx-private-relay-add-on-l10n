@@ -12,15 +12,15 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için Relay'e Firefox hesabınızla giriş yapın.",
+    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için Relay’e Firefox hesabınızla giriş yapın.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için hesabınızla Relay'e giriş yapın.",
+    "message": "Firefox Relay eklentisini başarıyla yüklediniz. Başlamak için hesabınızla Relay’e giriş yapın.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Mozilla’nın bu uzantıyı nasıl kullandığınız hakkında bilgi toplamasına izin verin.",
+    "message": "Mozilla’nın bu uzantıyı nasıl kullandığım hakkında bilgi toplamasına izin veriyorum.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
@@ -76,6 +76,9 @@
   "popupSettingsReportIssue": {
     "message": "Sorun bildir"
   },
+  "popupSettingsSubmitReport": {
+    "message": "Rapor gönder"
+  },
   "popupReportIssueSiteLabelHeadline": {
     "message": "Bu web sitesiyle ilgili sorun yaşıyorum"
   },
@@ -102,6 +105,9 @@
     "message": "Firefox Relay’i geliştirmemize yardımcı olduğunuz için teşekkür ederiz!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupReportIssueSuccessContinue": {
+    "message": "İleri"
+  },
   "popupSignUpPanelWelcome": {
     "message": "Hoş geldiniz"
   },
@@ -112,6 +118,9 @@
   "popupSignUpPanelIntro2": {
     "message": "Hesabınızla Relay’e giriş yaparak başlayın.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
+  },
+  "popupSignUpPanelContinue": {
+    "message": "İleri"
   },
   "popupSignUpPanelSignIn": {
     "message": "Giriş yap"
@@ -138,6 +147,9 @@
     "message": "Son kullanılan e-posta maskeleri",
     "description": "Label for list of most recently used masks."
   },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Sınırsız maske alın"
+  },
   "popupOnboardingShowPrevious": {
     "message": "Önceki paneli göster"
   },
@@ -149,6 +161,9 @@
   },
   "labelManage": {
     "message": "Yönet"
+  },
+  "labelSearch": {
+    "message": "Ara"
   },
   "labelMaskCreated": {
     "message": "Maske oluşturuldu",
@@ -162,11 +177,34 @@
     "message": "Tüm e-posta maskeleri",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "Çak beşlik!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "Siz bir Firefox Relay uzmanısınız!",
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupGetDomainButton": {
+    "message": "Kendi Relay e-posta alan adınızı alın",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "Kullanılan e-posta maskeleri"
   },
   "popupTotalMasksUsed": {
     "message": "Kullanılan toplam e-posta maskesi"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Bu web sitesinde kullanılan maske"
+  },
+  "popupEmailsBlocked": {
+    "message": "Engellenen e-posta"
+  },
+  "popupEmailsForwarded": {
+    "message": "İletilen e-posta"
+  },
+  "popupEmailTrackersRemoved": {
+    "message": "Kaldırılan e-posta takip kodu"
   },
   "popupUpgradeToPremiumBanner": {
     "message": "Daha fazla koruma için Relay Premium’a geçin!",
@@ -179,8 +217,16 @@
     "message": "Relay, nerede olursanız olun e-postanızı korumanıza yardımcı olur.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "Firefox Relay artık ekler dahil olmak üzere 25 MB'ye kadar olan e-postaları iletebiliyor.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupEndOfIntroPricingHeadline": {
     "message": "Tanıtım fiyatı teklifimiz yakında bitiyor!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "27 Eylül'den önce Relay Premium'u edinin ve başlangıç fiyatıyla sınırsız maskelemenin keyfini çıkarın.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
     "message": "Şimdi yükselt"
@@ -210,6 +256,9 @@
   "popupPromoBlockingButtonCopy": {
     "message": "Pazarlama e-postalarının gelen kutunuza ulaşmasını engellemek için maskelerde Tanıtım e-postalarını engelle'yi etkinleştirin."
   },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Daha fazla bilgi alın"
+  },
   "popupBlockPromotionalEmailsBodyNonPremium": {
     "message": "Relay Premium ile tanıtım e-postalarının gelen kutunuza ulaşmasını engelleyebilir, öte yandan fatura veya gönderim bilgisi gibi e-postaların size ulaşmasını sağlayabilirsiniz.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
@@ -230,8 +279,11 @@
     "message": "VPN + Relay’i edinin",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "Telefon numarası maskelemeyle tanışın"
+  },
   "popupPhoneMaskingPromoBody": {
-    "message": "Telefon numarası maskeleme ile artık gerçek numaranızı vermeden kısa mesajları ve aramaları yanıtlamanızı sağlayan bir telefon numarası maskesi oluşturabilirsiniz."
+    "message": "Telefon numarası maskeleme ile artık gerçek numaranızı vermeden SMS’leri ve aramaları yanıtlamanızı sağlayan bir telefon numarası maskesi oluşturabilirsiniz."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Şimdi yükselt"
