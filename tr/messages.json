@@ -269,6 +269,26 @@
     "message": "Relay Premium ile tanıtım e-postalarının gelen kutunuza ulaşmasını engelleyebilir, öte yandan fatura veya gönderim bilgisi gibi e-postaların size ulaşmasını sağlayabilirsiniz.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupBundlePromoHeadline_2": {
+    "message": "$SAVINGS$ indirimle Mozilla VPN’i de ekleyin.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
+  },
+  "popupBundlePromoHeadline_3": {
+    "message": "$SAVINGS$ indirimle Mozilla VPN’i de ekleyin.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "savings": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
+  },
   "popupPasswordManagerRelayHeadline": {
     "message": "Firefox parola yöneticisi + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
@@ -369,6 +389,9 @@
   "pageInputIconJoinPremiumWaitlist": {
     "message": "Premium bekleme listesine katılın",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
+  },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "Bu siteye ait mevcut maskeyi kullan…"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Son maskeler"
