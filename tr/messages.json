@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay, çevrimiçi kimliğinizle en yakından ilişkili e-posta adresinizi korumanıza yardımcı olur. Hesaplara, uygulamalara ve bültenlere kaydolmak için kullanabileceğiniz benzersiz, rastgele maskeler oluşturmanızı sağlar ve iletileri gerçek adresinize yönlendirir. Bir hesabın istenmeyen e-posta veya spam gönderdiğini tespit ederseniz maskeyi engelleyebilirsiniz; maske gelen kutunuza e-posta göndermeyi durdurur. Artık hesap açmak istemiyorsanız maskeyi silebilirsiniz.",
+    "message": "Firefox Relay gerçek e-posta adresinizi korumanıza yardımcı olur. Hesaplara, uygulamalara ve bültenlere kaydolurken kullanabileceğiniz benzersiz, rastgele maskeler oluşturarak iletileri gerçek adresinize yönlendirir. Bir hesabın istenmeyen e-posta veya spam gönderdiğini tespit ederseniz maskeyi engelleyebilirsiniz. Bu durumda maske size e-posta göndermeyi durdurur. Artık o hesaba ihtiyacınız kalmadıysa maskeyi tamamen silebilirsiniz.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -32,7 +32,7 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Araç çubuğunuzdaki İlet simgesine tıklamak veya yeni bir maske oluşturmak gibi şeyler yaptığınızda etkileşim verisi toplamak, nelerin işe yaradığını ve neleri geliştirebileceğimizi öğrenmemize yardımcı olur. Bunu istediğiniz zaman Ayarlar panelinden kapatabilirsiniz.",
+    "message": "Araç çubuğunuzdaki Relay simgesine tıklama, yeni maske oluşturmak gibi şeyler yaptığınızda bu etkileşim verilerini toplayarak nelerin iyi çalıştığını ve neleri geliştirebileceğimizi daha iyi anlayabiliriz. Bunu istediğiniz zaman Ayarlar panelinden kapatabilirsiniz.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
