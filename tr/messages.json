@@ -266,7 +266,7 @@
     "message": "Daha fazla bilgi alın"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Relay Premium ile tanıtım e-postalarının gelen kutunuza ulaşmasını engelleyebilir, öte yandan fatura veya gönderim bilgisi gibi e-postaların size ulaşmasını sağlayabilirsiniz.",
+    "message": "Relay Premium ile tanıtım e-postalarının gelen kutunuza ulaşmasını engellerken fatura, kargo bilgisi gibi e-postaların size ulaşmasını sağlayabilirsiniz.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
@@ -289,6 +289,26 @@
       }
     }
   },
+  "popupBundlePromoBody_2": {
+    "message": "1 yıllık Relay Premium + Mozilla VPN paketi aylık $MONTHLY_PRICE$.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "Bir yıllık Relay Premium Telefon Maskeleme ve Mozilla VPN aylık $MONTHLY_PRICE$.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
+  },
   "popupPasswordManagerRelayHeadline": {
     "message": "Firefox parola yöneticisi + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
@@ -301,6 +321,20 @@
     "message": "Karşınızda Relay + VPN abonelik paketi",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "Aboneliğinizi yükselterek Relay Premium + Mozilla VPN'e aylık $MONTHLY_PRICE$ fiyatla sahip olun. $SAVINGS$ tasarruf edin!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
+  },
   "popupBundlePromoCTA": {
     "message": "VPN + Relay’i edinin",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
@@ -310,6 +344,9 @@
   },
   "popupPhoneMaskingPromoBody": {
     "message": "Telefon numarası maskeleme ile artık gerçek numaranızı vermeden SMS’leri ve aramaları yanıtlamanızı sağlayan bir telefon numarası maskesi oluşturabilirsiniz."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "Gerçek telefon numaranızı vermeden SMS ve arama alın."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Şimdi yükselt"
@@ -324,7 +361,7 @@
     "message": "Yeni özel maske oluştur"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Tek yapmanız gereken özel alt alan adınızı kullanan benzersiz bir maske oluşturmak ve paylaşmak. Maske otomatik olarak oluşturulacaktır. Örneğin bir sonraki alışverişlerinizde “shop@customsubdomain.mozmail.com” adresini deneyin."
+    "message": "Tek yapmanız gereken, özel alt alan adınızı kullanan bir maske kullanıcı adı uydurmak. Uydurduğunuz maske otomatik olarak oluşturulacaktır. Örneğin, bir sonraki alışverişlerinizde “magazaadi@altalanadiniz.mozmail.com” adresini deneyebilirsiniz."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "E-posta maskesi ön ekini girin"
@@ -431,7 +468,7 @@
     "message": "Yeni özellikleri etkinleştir"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Maske etiketlerinizi cihazlarınız arasında oluşturuldukları ve kullanıldıkları web siteleriyle eşitlememize olanak tanıyacak verileri Relay’in toplamasına izin verebilirsiniz.",
+    "message": "Relay’in isteği bağlı verileri toplamasına izin verirseniz maske etiketlerinizi, nerede oluşturulduklarını ve nerede kullanıldıklarını cihazlarınız arasında senkronize edebiliriz.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
@@ -527,7 +564,7 @@
     "message": "Geri bildiriminiz için teşekkür ederiz!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Nasıl daha iyisini yapabileceğimizi öğrenmek isteriz. İki dakikalık bir ankete katılmaya hazır mısınız?"
+    "message": "Neleri daha iyisi yapabileceğimizi öğrenmek isteriz. İki dakikalık bir ankete katılmak ister misiniz?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Kapat"
