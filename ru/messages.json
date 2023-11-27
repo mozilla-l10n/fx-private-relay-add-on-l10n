@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Получить Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Получите скидку 20% на Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "В этот праздничный сезон получите скидку 20% на 1 год подписки Relay Premium. Просто введите промокод «HOLIDAY20» при оформлении заказа. Предложение заканчивается 31 декабря 2023 г.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Получите 1 год Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
