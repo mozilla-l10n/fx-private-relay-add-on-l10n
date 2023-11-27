@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Skaffa Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Få 20% rabatt på Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Denna semesterperiod får du 20% rabatt på priset för 1 års Relay Premium. Ange bara kampanjkoden \"HOLIDAY20\" i kassan. Erbjudandet upphör 31 december 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Få 1 års Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
