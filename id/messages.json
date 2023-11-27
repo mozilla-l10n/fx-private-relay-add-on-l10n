@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Dapatkan Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Dapatkan diskon 20% untuk Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Musim liburan ini, dapatkan diskon 20% dari harga 1 tahun Relay Premium. Cukup masukkan kode promo “HOLIDAY20” saat checkout. Penawaran berakhir pada 31 Des 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Dapatkan 1 tahun Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
