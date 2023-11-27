@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "訂閱 Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Relay Premium 可享八折折扣",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "這個假日銷售 Relay Premium 可享 1 年八折折扣。只要在結帳時輸入折扣碼「假日 20」。優惠至 2023 年 12 月 31 日。",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "訂閱 1 年 Relay Premium 方案",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
