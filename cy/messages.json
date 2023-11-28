@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Cael Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Cael 20% oddi ar Relay Premiwm",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Y tymor gwyliau hwn, cewch 20% oddi ar pris Relay Premiwn 1 flwyddyn. Rhowch y cod hyrwyddo “HOLIDAY20” wrth y ddesg dalu. Daw’r cynnig i ben ar 31 Rhagfyr, 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Cael 1 flwyddyn o Relay Premiwm",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
