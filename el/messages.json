@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Απόκτηση του Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Λάβετε έκπτωση 20% για το Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Αυτές τις γιορτές, λάβετε έκπτωση 20% στην τιμή του Relay Premium για ένα έτος. Εισαγάγετε απλώς τον κωδικό «HOLIDAY20» κατά την πληρωμή. Η προσφορά λήγει στις 31 Δεκεμβρίου 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Αποκτήστε ένα χρόνο Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
