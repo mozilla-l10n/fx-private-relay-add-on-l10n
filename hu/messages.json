@@ -584,15 +584,15 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "20% Relay Premium kedvezmény",
+    "message": "Kapjon 20% kedvezményt a Relay Premium árából",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Ebben az ünnepi időszakban 20% kedvezményt kaphat az 1 évnyi Relay Premium árából. Csak írja be a „HOLIDAY20” promóciós kódot vásárláskor. Az ajánlat 2023. december 31-én jár le.",
+    "message": "Ebben az ünnepi időszakban 20% kedvezményt kaphat az 1 évnyi Relay Premium árából. Csak írja be a „HOLIDAY20” promóciós kódot vásárláskor. Az ajánlat 2023. december 31-ig érvényes.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Kapjon 1 év Relay Prémiumot",
+    "message": "Kapjon 1 évnyi Relay Premiumot",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
