@@ -582,5 +582,13 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Obtenha o Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Ganhe 20% de desconto no Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Ganhe 1 ano de Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
