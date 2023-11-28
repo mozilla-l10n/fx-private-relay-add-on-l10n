@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Relay Premium krije",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Untfang 20% koarting op Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Untfang dizze feestdagen 20% koarting op de priis fan 1 jier Relay Premium. Fier gewoan de promoasjekoade ‘HOLIDAY20’ yn by it ôfrekkenjen. Oanbieding einiget op 31 desimber 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Untfang 1 jier Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
