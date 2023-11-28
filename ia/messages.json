@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Abonar se a Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Sparnia le 20% sur Relay Premio",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Iste saison de vacantia, sparnia le 20% sur le precio de 1 anno de Relay Premium. Justo insere le codice de promotion “HOLIDAY20” al momento del pagamento. Le offerta expira le 31 decembre 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Obtene 1 anno de Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
