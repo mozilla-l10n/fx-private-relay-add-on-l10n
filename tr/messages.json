@@ -588,11 +588,11 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Bu yılbaşı döneminde 1 yıllık Relay Premium fiyatına %20 indirim alın. Ödeme sırasında “HOLIDAY20” promosyon kodunu girmeniz yeterli. Teklif 31 Aralık 2023’te sona erecektir.",
+    "message": "Bu yılbaşı döneminde 1 yıllık Relay Premium %20 indirimli. Ödeme sırasında “HOLIDAY20” promosyon kodunu girmeniz yeterli. Teklif 31 Aralık 2023’te sona erecektir.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "1 yıllık Relay Premium",
+    "message": "1 yıllık Relay Premium alın",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
