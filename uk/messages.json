@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Отримайте Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Отримайте знижку 20% на Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "У цей святковий сезон отримайте знижку розміром 20% на 1 рік Relay Premium. Просто введіть промокод “HOLIDAY20” під час оформлення замовлення. Пропозиція діє до 31 грудня 2023 року.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Отримати 1 рік Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
