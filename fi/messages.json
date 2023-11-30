@@ -582,5 +582,13 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Hanki Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Saat 20 % alennuksen Relay Premiumista",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Saat Relay Premiumin 1 vuodeksi",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
