@@ -587,6 +587,10 @@
     "message": "Saat 20 % alennuksen Relay Premiumista",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupHolidayPromo2023Body": {
+    "message": "Tänä lomakaudella saat 20 prosentin alennuksen yhden vuoden Relay Premiumin hinnasta. Syötä vain tarjouskoodi \"HOLIDAY20\" kassalla. Tarjous päättyy 31.12.2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupHolidayPromo2023CTA": {
     "message": "Saat Relay Premiumin 1 vuodeksi",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
