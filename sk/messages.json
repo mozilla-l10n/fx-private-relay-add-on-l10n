@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Získajte Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Získajte 20 % zľavu z Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Počas týchto sviatkov získate zľavu 20 % z ceny ročného predplatného Relay Premium. Stačí zadať promo kód “HOLIDAY20” pri pokladni. Ponuka končí 31. decembra 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Získajte Relay Premium na 1 rok",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
