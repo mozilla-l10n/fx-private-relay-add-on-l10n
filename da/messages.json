@@ -582,5 +582,13 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Hent Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Få 20 % rabat på Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Få 1 års Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
