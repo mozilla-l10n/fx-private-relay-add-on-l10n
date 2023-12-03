@@ -582,5 +582,17 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Obtén Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Obtén un 20% de descuento en Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "Estas fiestas obtén un 20% de descuento al comprar 1 año de Relay Premium. Solo introduce el código de promoción “HOLIDAY20” al finalizar la compra. La oferta finaliza el 31 de diciembre de 2023.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Obtén 1 año de Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
