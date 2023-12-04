@@ -582,5 +582,9 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Získat Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Získejte Relay Premium na 1 rok",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
