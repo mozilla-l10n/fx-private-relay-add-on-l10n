@@ -1,4 +1,8 @@
 {
+  "extensionDescription_mask": {
+    "message": "Firefox Relay consente di creare facilmente alias di posta elettronica in grado di inoltrare messaggi al tuo indirizzo reale.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "extensionDescriptionStore_mask": {
     "message": "Firefox Relay ti aiuta a proteggere il tuo indirizzo email reale, quello più strettamente legato alla tua identità online. Ti consente di generare alias casuali univoci che puoi utilizzare per nuovi account, app o newsletter e inoltrare messaggi email al tuo indirizzo reale. Se scopri che un servizio sta inviando email indesiderate o spam, puoi bloccare l’alias interrompendo in questo modo l’invio di email alla tua casella di posta. Quando non desideri più utilizzare un account, puoi semplicemente eliminare l’alias.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
