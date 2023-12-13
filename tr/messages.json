@@ -468,7 +468,7 @@
     "message": "Yeni özellikleri etkinleştir"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Relay’in isteği bağlı verileri toplamasına izin verirseniz maske etiketlerinizi, nerede oluşturulduklarını ve nerede kullanıldıklarını cihazlarınız arasında senkronize edebiliriz.",
+    "message": "Relay’in isteğe bağlı verileri toplamasına izin verirseniz maske etiketlerinizi, nerede oluşturulduklarını ve nerede kullanıldıklarını cihazlarınız arasında senkronize edebiliriz.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
@@ -564,7 +564,7 @@
     "message": "Geri bildiriminiz için teşekkür ederiz!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Neleri daha iyisi yapabileceğimizi öğrenmek isteriz. İki dakikalık bir ankete katılmak ister misiniz?"
+    "message": "Neleri daha iyi yapabileceğimizi öğrenmek isteriz. İki dakikalık bir ankete katılmak ister misiniz?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Kapat"
