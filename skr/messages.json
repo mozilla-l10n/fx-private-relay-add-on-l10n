@@ -582,5 +582,13 @@
   "popupEuCountryExpansionPromoCTA": {
     "message": "Relay Premium گھنو",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "20 فیصد رعائت نال Relay Premium گھنو",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "1سال کیتے Relay Premium گھنو",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
