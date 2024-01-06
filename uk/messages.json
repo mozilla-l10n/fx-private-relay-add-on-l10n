@@ -71,7 +71,7 @@
     "message": "Приватність"
   },
   "popupSettingsTermsOfService": {
-    "message": "Умови надання послуги"
+    "message": "Умови надання послуг"
   },
   "popupSettingsReportIssue": {
     "message": "Повідомити про проблему"
@@ -481,14 +481,14 @@
     "message": "Дозволити"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Оновлення повідомлення про приватність"
+    "message": "Оновлення Положення про приватність"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Щоб підвищити надійність Firefox Relay у разі неможливості доставлення електронного листа, ми тимчасово зберігатимемо електронну пошту на наших серверах, доки вона не буде доставлена. Ми ніколи не протримаємо його більше ніж три дні.",
+    "message": "Щоб підвищити надійність Firefox Relay у разі неможливості доставлення електронного листа, ми тимчасово зберігатимемо електронну пошту на наших серверах, доки вона не буде доставлена. Ми ніколи не зберігатимемо його більш як три дні.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Переглянути повідомлення про приватності"
+    "message": "Переглянути Положення про приватність"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Сховати"
