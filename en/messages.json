@@ -656,5 +656,17 @@
     },
     "seeStatsText": {
         "message": "See stats"
+    },
+    "phoneRemainingMinutes": {
+        "message": "Remaining minutes"
+    },
+    "phoneRemainingTexts": {
+        "message": "Remaining texts"
+    }, 
+    "phoneForwardedCallsTexts": {
+       "message": "Calls and texts forwarded"
+    },
+    "phoneBlockedCallsTexts": {
+        "message": "Calls and texts blocked"
     }
 }
