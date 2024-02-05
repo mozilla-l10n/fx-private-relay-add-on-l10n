@@ -640,5 +640,17 @@
     },
     "popUpPhoneMasksNotAvailableCta": {
         "message": "Join the waitlist"
+    },
+    "phonesTabText": {
+        "message": "Phone"
+    }, 
+    "emailsTabText": {
+        "message": "Email"
+    },
+    "goBackText": {
+        "message": "Go back"
+    },
+    "seeStatsText": {
+        "message": "See stats"
     }
 }
