@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Få 1 års Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay vidarebefordrar för närvarande alla telefonsamtal och textmeddelanden till ditt riktiga telefonnummer.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay blockerar alla telefonsamtal och textmeddelanden — du får inget från ditt telefonnummeralias.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Vidarebefordra till:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registrerad:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Vidarebefordrar"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blockerar"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktivera ditt telefonalias"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Som Relay Premium-abonnent kan du få sms och telefonsamtal utan att avslöja ditt riktiga nummer. Börja med att välja ett nummer att använda som telefonnummeralias. Det tar bara 5 minuter.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktivera telefonalias"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Maskera ditt telefonnummer också"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Med Relay Premium telefonnummermaskering kan du skydda ditt riktiga telefonnummer och fortfarande ta emot och svara på sms och samtal.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Få telefonmaskering"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Inte tillgängligt i ditt land ännu"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Med Relay Premium-telefonnummermaskering kommer du att kunna dölja ditt riktiga telefonnummer precis som din e-postadress. Läs mer på Relays webbplats och registrera dig för uppdateringar.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Ställ dig i väntelistan"
+  },
+  "phonesTabText": {
+    "message": "Telefon"
+  },
+  "emailsTabText": {
+    "message": "E-post"
+  },
+  "goBackText": {
+    "message": "Gå tillbaka"
+  },
+  "seeStatsText": {
+    "message": "Se statistik"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Återstående minuter"
+  },
+  "phoneRemainingTexts": {
+    "message": "Återstående meddelanden"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Samtal och sms vidarekopplade"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Samtal och sms blockerade"
   }
 }
