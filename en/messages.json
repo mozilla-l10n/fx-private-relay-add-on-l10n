@@ -604,10 +604,12 @@
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupPhoneMasksMetaForwardTo": {
-        "message": "Forward to:"
+        "message": "Forward to:",
+        "description": "The number that messages from the phone mask are being forwarded to."
     },
     "popupPhoneMasksMetaRegistered": {
-        "message": "Registered:"
+        "message": "Registered:",
+        "description": "Tells the user the date their phone mask was created."
     },
     "popupPhoneMasksForwardingButton": {
         "message": "Forwarding"
