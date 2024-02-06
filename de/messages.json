@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Holen Sie sich ein Jahr Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay leitet derzeit alle Anrufe und Textnachrichten an Ihre echte Telefonnummer weiter.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay blockiert alle Anrufe und Textnachrichten – von Ihrer Telefonnummer-Maske wird nichts weitergeleitet.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Weiterleiten an:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registriert:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Weiterleiten"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blockieren"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktivieren Sie Ihre Telefonnummer-Maske"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Als Relay- Premium-Abonnent können Sie Textnachrichten und Anrufe erhalten, ohne Ihre echte Nummer preiszugeben. Wählen Sie zunächst eine Nummer aus, die Sie als Ihre Telefonnummer-Maske verwenden möchten. Es dauert nur 5 Minuten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Telefonnummer-Maske aktivieren"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Maskieren Sie auch Ihre Telefonnummer"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Mit der Telefonnummer-Maskierung von Relay Premium können Sie Ihre echte Telefonnummer schützen und weiterhin Textnachrichten und Anrufe empfangen und beantworten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Holen Sie sich Telefonnummer-Masken"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "In Ihrem Land noch nicht verfügbar"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Mit der Telefonnummer-Maskierung von Relay Premium können Sie Ihre echte Telefonnummer genau wie Ihre E-Mail-Adresse verbergen. Erfahren Sie mehr auf der Relay-Website und abonnieren Sie Neuigkeiten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Auf Warteliste setzen"
+  },
+  "phonesTabText": {
+    "message": "Telefonnummer"
+  },
+  "emailsTabText": {
+    "message": "E-Mail-Adresse"
+  },
+  "goBackText": {
+    "message": "Zurück"
+  },
+  "seeStatsText": {
+    "message": "Statistiken ansehen"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Verbleibende Minuten"
+  },
+  "phoneRemainingTexts": {
+    "message": "Verbleibende Textnachrichten"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Weitergeleitete Anrufe und Textnachrichten"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Blockierte Anrufe und Textnachrichten"
   }
 }
