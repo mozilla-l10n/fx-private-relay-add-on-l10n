@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Dapatkan 1 tahun Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay saat ini meneruskan semua panggilan telepon dan pesan teks ke nomor telepon Anda yang sebenarnya.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay memblokir semua panggilan telepon dan pesan teks — Anda tidak akan menerima apa pun dari topeng nomor telepon Anda.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Teruskan ke:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Terdaftar:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Penerusan"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Memblokir"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktifkan topeng ponsel Anda"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Sebagai pelanggan Relay Premium, Anda bisa mendapatkan pesan teks dan panggilan telepon tanpa mengungkapkan nomor asli Anda. Mulailah dengan memilih nomor untuk digunakan sebagai topeng nomor telepon Anda. Hanya membutuhkan waktu 5 menit.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktifkan topeng ponsel"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Tutupi nomor telepon Anda juga"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Dengan penyembunyian nomor telepon Relay Premium, Anda dapat melindungi nomor telepon asli Anda dan tetap menerima dan membalas teks dan panggilan.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Dapatkan penyamaran ponsel"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Belum tersedia di negara Anda"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Dengan penyamaran nomor telepon Relay Premium, Anda akan dapat menyembunyikan nomor telepon asli Anda seperti alamat surel Anda. Pelajari lebih lanjut di situs Relay dan daftar untuk pembaruan.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Bergabunglah dalam daftar tunggu"
+  },
+  "phonesTabText": {
+    "message": "Telepon"
+  },
+  "emailsTabText": {
+    "message": "Surel"
+  },
+  "goBackText": {
+    "message": "Kembali"
+  },
+  "seeStatsText": {
+    "message": "Lihat statistik"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Sisa menit"
+  },
+  "phoneRemainingTexts": {
+    "message": "Teks yang tersisa"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Panggilan dan SMS diteruskan"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Panggilan dan SMS diblokir"
   }
 }
