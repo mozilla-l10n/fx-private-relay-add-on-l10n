@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Kapjon 1 évnyi Relay Premiumot",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "A Relay jelenleg az összes telefonhívást és SMS-t a valódi telefonszámára továbbít.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "A Relay minden telefonhívást és SMS-t blokkol – nem kap semmit a telefonszámmaszkból.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Továbbítás:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Regisztrálva:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Továbbítás"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blokkolás"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktiválja a telefonmaszkját"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Relay Prémium előfizetőként anélkül kaphat szöveges üzeneteket és telefonhívásokat, hogy felfedné valódi számát. Kezdje azzal, hogy válasszon egy számot telefonszámmaszkként. Csak 5 perc.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Telefonmaszk aktiválása"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Rejtse el a telefonszámát is"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "A Relay Premium telefonszám-maszkolás segítségével megvédheti valódi telefonszámát, és továbbra is fogadhat és válaszolhat SMS-ek és hívások.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Szerezzen telefonmaszkot"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Még nem érhető el az országában"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "A Relay Premium telefonszám-maszkolás segítségével az e-mail-címéhez hasonlóan elrejtheti a valódi telefonszámát. Tudjon meg többet a Relay oldalán, és iratkozzon fel a frissítésekre.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Csatlakozás a várólistához"
+  },
+  "phonesTabText": {
+    "message": "Telefon"
+  },
+  "emailsTabText": {
+    "message": "E-mail"
+  },
+  "goBackText": {
+    "message": "Ugrás vissza"
+  },
+  "seeStatsText": {
+    "message": "Statisztika megtekintése"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Hátralévő percek"
+  },
+  "phoneRemainingTexts": {
+    "message": "Fennmaradó szövegek"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Hívások és SMS-ek továbbítva"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Hívások és SMS-ek blokkolva"
   }
 }
