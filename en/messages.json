@@ -595,15 +595,19 @@
         "message": "Get 1 year of Relay Premium",
         "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
-    "popupPhoneMasksMetaDescription": {
-        "message": "Relay is currently forwarding all phone calls and text messages to your real phone number.",
+    "popupPhoneMasksMetaForwardingDescription": {
+        "message": "Relay is currently forwarding all phone calls and text messages to your true phone number.",
+        "description": "DO NOT TRANSLATE \"Relay\"."
+    },
+    "popupPhoneMasksMetaBlockingDescription": {
+        "message": "Relay is blocking all phone calls and text messages—you will not receive anything from your phone number mask.",
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupPhoneMasksMetaForwardTo": {
         "message": "Forward to:"
     },
-    "popupPhoneMasksMetaCreated": {
-        "message": "Created:"
+    "popupPhoneMasksMetaRegistered": {
+        "message": "Registered:"
     },
     "popupPhoneMasksForwardingButton": {
         "message": "Forwarding"
@@ -636,7 +640,7 @@
     },
     "popUpPhoneMasksNotAvailableBody": {
         "message": "With Relay Premium phone number masking, you’ll be able to hide your real phone number just like your email address. Learn more on the Relay site and sign up for updates.",
-        "description": "DO NOT TRANSLATE \"Relay Premium\". DO NOT TRANSLATE \"Relay\"."
+        "description": "DO NOT TRANSLATE \"Relay Premium\"."
     },
     "popUpPhoneMasksNotAvailableCta": {
         "message": "Join the waitlist"
