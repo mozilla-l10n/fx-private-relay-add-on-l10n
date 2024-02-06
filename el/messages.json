@@ -594,5 +594,24 @@
   "popupHolidayPromo2023CTA": {
     "message": "Αποκτήστε ένα χρόνο Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Προώθηση σε:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Προώθηση"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Φραγή"
+  },
+  "phonesTabText": {
+    "message": "Τηλέφωνο"
+  },
+  "emailsTabText": {
+    "message": "Email"
+  },
+  "goBackText": {
+    "message": "Επιστροφή"
   }
 }
