@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Bénéficiez d’un an de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay transfère actuellement tous les appels téléphoniques et SMS vers votre véritable numéro de téléphone.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay bloque tous les appels téléphoniques et SMS, vous ne recevrez rien depuis votre alias de numéro de téléphone.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Transférer à :",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Enregistré :",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Transfert activé"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Bloqués"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Activer votre alias de numéro de téléphone"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "En tant qu’abonné·e à Relay Premium, vous pouvez recevoir des SMS et des appels sans révéler votre véritable numéro. Commencez par sélectionner un numéro à utiliser comme alias de numéro de téléphone. Cela ne prend que 5 minutes.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Activer l’alias de numéro de téléphone"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Masquez également votre numéro de téléphone"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Avec les alias de numéro de téléphone Relay Premium, vous pouvez protéger votre véritable numéro de téléphone tout en recevant et en répondant aux SMS et aux appels.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Obtenir les alias de numéro de téléphone"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Pas encore disponible dans votre pays"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Avec les alias de numéro de téléphone Relay Premium, vous pourrez masquer votre véritable numéro de téléphone tout comme votre adresse e-mail. Apprenez-en plus sur le site de Relay et inscrivez-vous pour recevoir des informations.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Rejoindre la liste d’attente"
+  },
+  "phonesTabText": {
+    "message": "Téléphone"
+  },
+  "emailsTabText": {
+    "message": "Adresse électronique"
+  },
+  "goBackText": {
+    "message": "Retour"
+  },
+  "seeStatsText": {
+    "message": "Voir les statistiques"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minutes restantes"
+  },
+  "phoneRemainingTexts": {
+    "message": "SMS restants"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Appels et SMS transférés"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Appels et SMS bloqués"
   }
 }
