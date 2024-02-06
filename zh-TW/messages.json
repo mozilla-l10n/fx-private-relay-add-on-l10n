@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "訂閱 1 年 Relay Premium 方案",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay 目前正將所有來電與簡訊轉寄到您實際的手機號碼。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay 將封鎖所有來電與簡訊您將不會收到從您的轉寄信箱轉來的任何東西。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "轉寄到:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "註冊於:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "轉寄中"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "封鎖"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "啟用您的轉寄信箱"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "作為 Relay Premium 訂閱者您不需輸入您的實際電話號碼即可接聽電話與簡訊。請先選擇要用作轉接號碼的號碼。只需五分鐘。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "啟用虛擬手機號碼"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "也將您的手機號碼隱藏起來"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "透過 Relay Premium 電話號碼轉接功能您可以在保護實際手機號碼的同時還能接聽簡訊、來電。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "取得虛擬手機號碼轉接"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "尚未在您的國家可用"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "透過 Relay Premium 電話號碼轉接功能您將可以像隱藏電子郵件地址一樣隱藏實際的電話號碼。到 Relay 網站了解更多資訊並訂閱最新消息。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "加入候補名單"
+  },
+  "phonesTabText": {
+    "message": "電話"
+  },
+  "emailsTabText": {
+    "message": "電子郵件"
+  },
+  "goBackText": {
+    "message": "回上一頁"
+  },
+  "seeStatsText": {
+    "message": "檢視統計資訊"
+  },
+  "phoneRemainingMinutes": {
+    "message": "剩餘分鐘數"
+  },
+  "phoneRemainingTexts": {
+    "message": "剩余文字"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "已轉寄來電與簡訊"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "封鎖電話與簡訊"
   }
 }
