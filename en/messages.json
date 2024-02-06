@@ -600,7 +600,7 @@
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupPhoneMasksMetaBlockingDescription": {
-        "message": "Relay is blocking all phone calls and text messages—you will not receive anything from your phone number mask.",
+        "message": "Relay is blocking all phone calls and text messages — you will not receive anything from your phone number mask.",
         "description": "DO NOT TRANSLATE \"Relay\"."
     },
     "popupPhoneMasksMetaForwardTo": {
