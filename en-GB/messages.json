@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Get 1 year of Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay is currently forwarding all phone calls and text messages to your true phone number.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay is blocking all phone calls and text messages — you will not receive anything from your phone number mask.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Forward to:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registered:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Forwarding"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blocking"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Activate your phone mask"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "As a Relay Premium subscriber, you can get text messages and phone calls without revealing your real number. Start by selecting a number to use as your phone number mask. It only takes 5 minutes.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Activate phone mask"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Mask your phone number too"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "With Relay Premium phone number masking, you can protect your real phone number and still receive and reply to texts and calls.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Get phone masking"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Not available in your country yet"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "With Relay Premium phone number masking, you’ll be able to hide your real phone number just like your email address. Learn more on the Relay site and sign up for updates.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Join the waiting list"
+  },
+  "phonesTabText": {
+    "message": "Phone"
+  },
+  "emailsTabText": {
+    "message": "Email"
+  },
+  "goBackText": {
+    "message": "Go back"
+  },
+  "seeStatsText": {
+    "message": "See stats"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Remaining minutes"
+  },
+  "phoneRemainingTexts": {
+    "message": "Remaining texts"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Calls and texts forwarded"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Calls and texts blocked"
   }
 }
