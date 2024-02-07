@@ -608,20 +608,20 @@
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Enregistré :",
+    "message": "Enregistré le :",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
     "message": "Transfert activé"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "Bloqués"
+    "message": "Bloquer"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Activer votre alias de numéro de téléphone"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "En tant qu’abonné·e à Relay Premium, vous pouvez recevoir des SMS et des appels sans révéler votre véritable numéro. Commencez par sélectionner un numéro à utiliser comme alias de numéro de téléphone. Cela ne prend que 5 minutes.",
+    "message": "En tant qu’abonné·e à Relay Premium, vous pouvez recevoir des SMS et des appels sans révéler votre véritable numéro. Commencez par sélectionner un numéro à utiliser comme alias de numéro de téléphone. Cela ne prend que 5 minutes.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
@@ -635,7 +635,7 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Obtenir les alias de numéro de téléphone"
+    "message": "Obtenir un alias de numéro de téléphone"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Pas encore disponible dans votre pays"
@@ -651,7 +651,7 @@
     "message": "Téléphone"
   },
   "emailsTabText": {
-    "message": "Adresse électronique"
+    "message": "Adresse e-mail"
   },
   "goBackText": {
     "message": "Retour"
