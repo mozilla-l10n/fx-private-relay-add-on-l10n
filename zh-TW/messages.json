@@ -596,11 +596,11 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay 目前正將所有來電與簡訊轉寄到您實際的手機號碼。",
+    "message": "Relay 目前會將所有來電與簡訊轉接到您實際的手機門號。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay 將封鎖所有來電與簡訊您將不會收到從您的轉寄信箱轉來的任何東西。",
+    "message": "Relay 會封鎖所有來電與簡訊 — 轉寄門號不會轉發任何東西。",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -663,12 +663,12 @@
     "message": "剩餘分鐘數"
   },
   "phoneRemainingTexts": {
-    "message": "剩余文字"
+    "message": "剩餘簡訊數"
   },
   "phoneForwardedCallsTexts": {
-    "message": "已轉寄來電與簡訊"
+    "message": "轉接的來電與簡訊"
   },
   "phoneBlockedCallsTexts": {
-    "message": "封鎖電話與簡訊"
+    "message": "封鎖的來電與簡訊"
   }
 }
