@@ -596,11 +596,11 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "A Relay jelenleg az összes telefonhívást és SMS-t a valódi telefonszámára továbbít.",
+    "message": "A Relay jelenleg az összes telefonhívást és SMS-t a valódi telefonszámára továbbítja.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "A Relay minden telefonhívást és SMS-t blokkol – nem kap semmit a telefonszámmaszkból.",
+    "message": "A Relay minden telefonhívást és SMS-t blokkol – semmit sem fogad a telefonszámmaszktól.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -621,7 +621,7 @@
     "message": "Aktiválja a telefonmaszkját"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Relay Prémium előfizetőként anélkül kaphat szöveges üzeneteket és telefonhívásokat, hogy felfedné valódi számát. Kezdje azzal, hogy válasszon egy számot telefonszámmaszkként. Csak 5 perc.",
+    "message": "Relay Prémium előfizetőként anélkül kaphat szöveges üzeneteket és telefonhívásokat, hogy felfedné valódi számát. Kezdje azzal, hogy választ egy számot telefonszámmaszkként. Csak 5 percébe kerül.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
@@ -631,7 +631,7 @@
     "message": "Rejtse el a telefonszámát is"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "A Relay Premium telefonszám-maszkolás segítségével megvédheti valódi telefonszámát, és továbbra is fogadhat és válaszolhat SMS-ek és hívások.",
+    "message": "A Relay Premium telefonszám-maszkolás segítségével megvédheti valódi telefonszámát, és továbbra is fogadhatja a hívásokat és válaszolhat az SMS-ekre.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
@@ -641,7 +641,7 @@
     "message": "Még nem érhető el az országában"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "A Relay Premium telefonszám-maszkolás segítségével az e-mail-címéhez hasonlóan elrejtheti a valódi telefonszámát. Tudjon meg többet a Relay oldalán, és iratkozzon fel a frissítésekre.",
+    "message": "A Relay Premium telefonszám-maszkolás segítségével az e-mail-címéhez hasonlóan elrejtheti a valódi telefonszámát. Tudjon meg többet a Relay oldalán, és iratkozzon fel a hírekre.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
@@ -663,7 +663,7 @@
     "message": "Hátralévő percek"
   },
   "phoneRemainingTexts": {
-    "message": "Fennmaradó szövegek"
+    "message": "Hátralévő SMS-ek"
   },
   "phoneForwardedCallsTexts": {
     "message": "Hívások és SMS-ek továbbítva"
