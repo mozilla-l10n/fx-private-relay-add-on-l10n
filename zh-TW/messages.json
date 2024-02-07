@@ -618,14 +618,14 @@
     "message": "封鎖"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "啟用您的轉寄信箱"
+    "message": "啟用您的轉接門號"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
     "message": "作為 Relay Premium 訂閱者您不需輸入您的實際電話號碼即可接聽電話與簡訊。請先選擇要用作轉接號碼的號碼。只需五分鐘。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "啟用虛擬手機號碼"
+    "message": "啟用虛擬轉接門號"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "也將您的手機號碼隱藏起來"
@@ -638,7 +638,7 @@
     "message": "取得虛擬手機號碼轉接"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "尚未在您的國家可用"
+    "message": "尚未在您的國家推出"
   },
   "popUpPhoneMasksNotAvailableBody": {
     "message": "透過 Relay Premium 電話號碼轉接功能您將可以像隱藏電子郵件地址一樣隱藏實際的電話號碼。到 Relay 網站了解更多資訊並訂閱最新消息。",
