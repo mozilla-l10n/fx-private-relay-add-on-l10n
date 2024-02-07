@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "订阅 1 年 Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay 目前会将所有来电和文字信息转移或转发给您的真实手机号。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay 已拦截所有来电和文本信息，您将不会收到由虚拟手机号转移或转发来的内容。",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "转发至：",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "注册日期：",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "正在转发"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "正在拦截"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "激活虚拟手机号"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "您已订阅 Relay Premium。从此您无需提供真实号码，也能收到他人发来的文字信息及打来的电话。首先请选择一个号码作为您的虚拟手机号，过程只需要 5 分钟。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "激活虚拟手机号"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "也为手机号穿件马甲"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "借助 Relay Premium 提供的虚拟手机号，您可以保护自己的真实手机号，同时不妨碍收发信息和接听来电。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "获取虚拟手机号"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "暂未在您所在的国家/地区提供"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "借助 Relay Premium 提供的虚拟手机号，您可以像隐藏邮箱地址一样，隐藏自己的真实手机号。欢迎在 Relay 网站上详细了解，并订阅最新消息。",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "预约"
+  },
+  "phonesTabText": {
+    "message": "电话"
+  },
+  "emailsTabText": {
+    "message": "邮件"
+  },
+  "goBackText": {
+    "message": "返回"
+  },
+  "seeStatsText": {
+    "message": "查看统计信息"
+  },
+  "phoneRemainingMinutes": {
+    "message": "剩余分钟数"
+  },
+  "phoneRemainingTexts": {
+    "message": "剩余信息数量"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "转移的通话和信息"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "拦截的通话和信息"
   }
 }
