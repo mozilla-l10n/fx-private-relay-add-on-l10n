@@ -594,5 +594,36 @@
   "popupHolidayPromo2023CTA": {
     "message": "Cael 1 flwyddyn o Relay Premiwm",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Mae Relay yn rhwystro pob galwad ffôn a neges destun - fyddwch chi ddim yn derbyn unrhyw beth o'ch rhif ffôn ffug.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Ymlaen at:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Wedi cofrestru:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Anfon ymlaen"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Rhwystro"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Agor eich rhif ffôn ffug"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Fel tanysgrifiwr Relay Premium, gallwch gael negeseuon testun a galwadau ffôn heb ddatgelu'ch rhif go iawn. Cychwynnwch trwy ddewis rhif i'w ddefnyddio fel eich rhif ffôn ffug. Dim ond 5 munud y mae'n ei gymryd.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Agor eich rhif ffôn ffug"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Cuddiwch eich rhif ffôn hefyd"
   }
 }
