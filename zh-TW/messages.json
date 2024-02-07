@@ -604,15 +604,15 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "轉寄到:",
+    "message": "轉接到：",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "註冊於:",
+    "message": "註冊於：",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "轉寄中"
+    "message": "轉接中"
   },
   "popupPhoneMasksBlockingButton": {
     "message": "封鎖"
