@@ -595,6 +595,10 @@
     "message": "Cael 1 flwyddyn o Relay Premiwm",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Ar hyn o bryd mae Relay yn anfon pob galwad ffôn a neges destun ymlaen i'ch gwir rif ffôn.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaBlockingDescription": {
     "message": "Mae Relay yn rhwystro pob galwad ffôn a neges destun - fyddwch chi ddim yn derbyn unrhyw beth o'ch rhif ffôn ffug.",
     "description": "DO NOT TRANSLATE \"Relay\"."
