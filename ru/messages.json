@@ -594,5 +594,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Получите 1 год Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay в настоящее время перенаправляет все телефонные звонки и текстовые сообщения на ваш настоящий номер телефона.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay блокирует все телефонные звонки и текстовые сообщения — вы ничего не получите со своего псевдонима номера телефона.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Переслать на:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Зарегистрирован:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Переадресация"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Блокировка"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Активируйте псевдоним телефона"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Как подписчик Relay Premium, вы можете получать текстовые сообщения и телефонные звонки, не раскрывая свой настоящий номер. Начните с выбора номера, который будет использоваться в качестве псевдонима номера телефона. Это займёт всего 5 минут.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Включить псевдоним телефона"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Скройте и свой номер телефона"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "С маскированием телефонного номера Relay Premium вы можете защитить свой реальный номер телефона и по-прежнему получать текстовые сообщения и звонки и отвечать на них.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Получить псевдоним телефона"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Пока недоступно в вашей стране"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "С маскировкой телефонного номера Relay Premium вы сможете скрыть свой реальный номер телефона, так же как и свой адрес электронной почты. Узнайте больше о сайте Relay и подпишитесь на обновления.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Присоединяйтесь к списку ожидания"
+  },
+  "phonesTabText": {
+    "message": "Телефон"
+  },
+  "emailsTabText": {
+    "message": "Эл. почта"
+  },
+  "goBackText": {
+    "message": "Вернуться назад"
+  },
+  "seeStatsText": {
+    "message": "Посмотреть статистику"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Оставшиеся минуты"
+  },
+  "phoneRemainingTexts": {
+    "message": "Оставшиеся сообщения"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Вызовы и текстовые сообщения переадресованы"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Вызовы и текстовые сообщения заблокированы"
   }
 }
