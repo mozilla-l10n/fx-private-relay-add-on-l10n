@@ -595,7 +595,30 @@
     "message": "Obtene 1 anno de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Inultrar a:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registrate:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Inultrar"
+  },
   "popupPhoneMasksBlockingButton": {
     "message": "Blocada"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Junge te al lista de attendentia"
+  },
+  "phonesTabText": {
+    "message": "Telephono"
+  },
+  "emailsTabText": {
+    "message": "Email"
+  },
+  "goBackText": {
+    "message": "Retornar"
   }
 }
