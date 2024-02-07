@@ -621,7 +621,7 @@
     "message": "啟用您的轉接門號"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "作為 Relay Premium 訂閱者您不需輸入您的實際電話號碼即可接聽電話與簡訊。請先選擇要用作轉接號碼的號碼。只需五分鐘。",
+    "message": "作為 Relay Premium 訂閱者，您不需將實際電話號碼提供出去，即可透過轉接門號來接聽電話與簡訊。請選擇要用作轉接門號的號碼，這個流程僅需 5 分鐘。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
@@ -631,17 +631,17 @@
     "message": "也將您的手機號碼隱藏起來"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "透過 Relay Premium 電話號碼轉接功能您可以在保護實際手機號碼的同時還能接聽簡訊、來電。",
+    "message": "透過 Relay Premium 的電話轉接門號，您可以在保護實際手機門號的同時還能接聽簡訊、來電。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "取得虛擬手機號碼轉接"
+    "message": "取得虛擬手機轉接門號"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "尚未在您的國家推出"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "透過 Relay Premium 電話號碼轉接功能您將可以像隱藏電子郵件地址一樣隱藏實際的電話號碼。到 Relay 網站了解更多資訊並訂閱最新消息。",
+    "message": "透過 Relay Premium 的電話轉接號碼，您可以像隱藏電子郵件地址一樣隱藏實際的電話號碼。歡迎到 Relay 網站了解更多資訊並訂閱最新消息。",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
