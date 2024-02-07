@@ -625,5 +625,46 @@
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Cuddiwch eich rhif ffôn hefyd"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Gyda ffugio'ch rhif ffôn Relay Premium, gallwch ddiogelu eich rhif ffôn go iawn a dal i dderbyn ac ateb negeseuon testun a galwadau.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Cael rhif ffôn ffug"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Nid yw ar gael yn eich gwlad eto"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Gyda ffugio rhif ffôn Relay Premium, byddwch yn gallu cuddio'ch rhif ffôn go iawn yn union fel eich cyfeiriad e-bost. Dysgwch fwy ar wefan Relay a chofrestrwch i gael diweddariadau.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Ymunwch â'r rhestr aros"
+  },
+  "phonesTabText": {
+    "message": "Ffôn"
+  },
+  "emailsTabText": {
+    "message": "E-bost"
+  },
+  "goBackText": {
+    "message": "Mynd nôl"
+  },
+  "seeStatsText": {
+    "message": "Gweld yr ystadegau"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Munudau sy'n weddill"
+  },
+  "phoneRemainingTexts": {
+    "message": "Negeseuon testun sy'n weddill"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Galwadau a negeseuon testun wedi'u hanfon ymlaen"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Galwadau a negeseuon testun wedi'u rhwystro"
   }
 }
