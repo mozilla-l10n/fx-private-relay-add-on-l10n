@@ -602,5 +602,73 @@
   "popupPhoneMasksMetaBlockingDescription": {
     "message": "Relay blokkeert alle oproepen en sms-berichten – u ontvangt niets van uw telefoonnummermasker.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Doorsturen naar:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Geregistreerd:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Doorsturen"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blokkeren"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Uw telefoonmasker activeren"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Als Relay Premium-abonnee kunt u sms-berichten en oproepen ontvangen zonder uw echte nummer prijs te geven. Selecteer om te beginnen een nummer dat u als telefoonnummermasker wilt gebruiken. Het duurt slechts 5 minuten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Telefoonmasker activeren"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Maskeer ook uw telefoonnummer"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Met Relay Premium-telefoonnummermaskering kunt u uw echte telefoonnummer beschermen en nog steeds sms’jes en oproepen ontvangen en beantwoorden.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Ontvang telefoonmaskering"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Nog niet in uw land beschikbaar"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Met Relay Premium-telefoonnummermaskering kunt u uw echte telefoonnummer verbergen, net als uw e-mailadres. Lees meer op de Relay-website en schrijf u in voor updates.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Op de wachtlijst plaatsen"
+  },
+  "phonesTabText": {
+    "message": "Telefoonnummer"
+  },
+  "emailsTabText": {
+    "message": "E-mailadres"
+  },
+  "goBackText": {
+    "message": "Terug"
+  },
+  "seeStatsText": {
+    "message": "Statistieken bekijken"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Resterende minuten"
+  },
+  "phoneRemainingTexts": {
+    "message": "Resterende sms’jes"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Oproepen en sms’jes doorgestuurd"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Oproepen en sms’jes geblokkeerd"
   }
 }
