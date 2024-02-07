@@ -594,5 +594,9 @@
   "popupHolidayPromo2023CTA": {
     "message": "Untfang 1 jier Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay stjoert op dit stuit alle oproppen en sms-berjochten troch nei jo wiere telefoannûmer.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   }
 }
