@@ -594,5 +594,8 @@
   "popupHolidayPromo2023CTA": {
     "message": "Obtene 1 anno de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blocada"
   }
 }
