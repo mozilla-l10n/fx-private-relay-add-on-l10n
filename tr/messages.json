@@ -594,5 +594,62 @@
   "popupHolidayPromo2023CTA": {
     "message": "1 yıllık Relay Premium alın",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay şu anda tüm telefon aramalarını ve SMS’leri gerçek telefon numaranıza yönlendiriyor.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Yönlendirilen numara:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Kayıt tarihi:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Yönlendiriliyor"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Engelleniyor"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Telefon maskenizi etkinleştirin"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Telefon maskesini etkinleştir"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Telefon numaranızı da maskeleyin"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Telefon maskelemeyi kullanın"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Henüz ülkenizde kullanılamıyor"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Bekleme listesine katılın"
+  },
+  "phonesTabText": {
+    "message": "Telefon"
+  },
+  "emailsTabText": {
+    "message": "E-posta"
+  },
+  "goBackText": {
+    "message": "Geri dön"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Kalan dakika"
+  },
+  "phoneRemainingTexts": {
+    "message": "Kalan SMS"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Yönlendirilen aramalar ve SMS’ler"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Engellenen aramalar ve SMS’ler"
   }
 }
