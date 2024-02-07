@@ -598,5 +598,58 @@
   "popupPhoneMasksMetaForwardingDescription": {
     "message": "Relay stjoert op dit stuit alle oproppen en sms-berjochten troch nei jo wiere telefoannûmer.",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Trochstjoere nei:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registrearre:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Trochstjoere"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blokkearje"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Jo telefoanmasker aktivearje"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Telefoanmasker aktivearje"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Maskearje ek jo telefoannûmer"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Untfang telefoanmaskearring"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Op de wachtlist pleatse"
+  },
+  "phonesTabText": {
+    "message": "Telefoannûmer"
+  },
+  "emailsTabText": {
+    "message": "E-mailadres"
+  },
+  "goBackText": {
+    "message": "Tebek"
+  },
+  "seeStatsText": {
+    "message": "Statistiken besjen"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Restearjende minuten"
+  },
+  "phoneRemainingTexts": {
+    "message": "Restearjende sms’kes"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Oproppen en sms’kes trochstjoerd"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Oproppen en sms’kes blokkearre"
   }
 }
