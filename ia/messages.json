@@ -609,6 +609,15 @@
   "popupPhoneMasksBlockingButton": {
     "message": "Blocada"
   },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Activa tu masca de telephono"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Activa masca de telephono"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Alsi masca tu numero de telephono"
+  },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Junge te al lista de attendentia"
   },
