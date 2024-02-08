@@ -595,15 +595,39 @@
     "message": "Αποκτήστε ένα χρόνο Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Το Relay προωθεί όλες τις κλήσεις και τα μηνύματα κειμένου στον πραγματικό αριθμό τηλεφώνου σας.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Το Relay αποκλείει όλες τις κλήσεις και τα μηνύματα κειμένου, επομένως δεν θα λαμβάνετε τίποτα από τη μάσκα αριθμού τηλεφώνου σας.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Προώθηση σε:",
     "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Καταχώρηση:",
+    "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
     "message": "Προώθηση"
   },
   "popupPhoneMasksBlockingButton": {
     "message": "Φραγή"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Ενεργοποιήστε τη μάσκα τηλεφώνου σας"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Ενεργοποίηση μάσκας τηλεφώνου"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Δεν διατίθεται ακόμα στη χώρα σας"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Εγγραφή στη λίστα αναμονής"
   },
   "phonesTabText": {
     "message": "Τηλέφωνο"
@@ -613,5 +637,20 @@
   },
   "goBackText": {
     "message": "Επιστροφή"
+  },
+  "seeStatsText": {
+    "message": "Προβολή στατιστικών"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Υπολειπόμενα λεπτά"
+  },
+  "phoneRemainingTexts": {
+    "message": "Υπολειπόμενα μηνύματα"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Οι κλήσεις και τα μηνύματα προωθούνται"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Οι κλήσεις και τα μηνύματα αποκλείονται"
   }
 }
