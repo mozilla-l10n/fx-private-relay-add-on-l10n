@@ -595,6 +595,10 @@
     "message": "Obtene 1 anno de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay transfere actualmente tote le appellos telephonic e SMS verso tu ver numero de telephono.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Inultrar a:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -618,6 +622,12 @@
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Alsi masca tu numero de telephono"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Obtene le mascas de telephono"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Non ancora disponibile in tu pais"
+  },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Junge te al lista de attendentia"
   },
@@ -629,5 +639,20 @@
   },
   "goBackText": {
     "message": "Retornar"
+  },
+  "seeStatsText": {
+    "message": "Vider le statisticas"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minutas restante"
+  },
+  "phoneRemainingTexts": {
+    "message": "Texto restante"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Appellos e textos inultrate"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Appellos e textos blocate"
   }
 }
