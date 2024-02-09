@@ -594,5 +594,21 @@
   "popupHolidayPromo2023CTA": {
     "message": "Ganhe 1 ano de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Encaminhar para:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Encaminhamento ativado"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Bloqueando"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Ative sua máscara de celular"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Ativar máscara de celular"
   }
 }
