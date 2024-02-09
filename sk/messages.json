@@ -594,5 +594,27 @@
   "popupHolidayPromo2023CTA": {
     "message": "Získajte Relay Premium na 1 rok",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay momentálne presmerováva všetky telefónne hovory a textové správy na vaše skutočné telefónne číslo.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relé blokuje všetky telefónne hovory a textové správy — z masky telefónneho čísla nič nedostanete.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Presmerovať na:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registrovaná:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Presmerováva"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blokuje sa"
   }
 }
