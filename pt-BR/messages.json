@@ -640,6 +640,10 @@
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Ainda não está disponível em seu país"
   },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Com uma máscara de número de celular do Relay Premium, você pode ocultar seu número de telefone verdadeiro, assim como seu endereço de email. Saiba mais no site do Relay e inscreva-se para receber novidades.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Entrar na lista de espera"
   },
