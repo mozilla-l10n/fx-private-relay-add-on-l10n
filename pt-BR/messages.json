@@ -595,9 +595,21 @@
     "message": "Ganhe 1 ano de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "O Relay está encaminhando todas as chamadas e mensagens de texto para seu número de celular verdadeiro.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "O Relay está bloqueando todas as chamadas e mensagens de texto. Você não recebe nada da sua máscara de número de celular.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Encaminhar para:",
     "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Cadastrado em:",
+    "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
     "message": "Encaminhamento ativado"
@@ -608,7 +620,51 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Ative sua máscara de celular"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Como assinante do Relay Premium, você pode receber mensagens de texto e chamadas sem revelar seu número verdadeiro. Comece selecionando um número para usar como máscara de número de celular. Leva apenas 5 minutos.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Ativar máscara de celular"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Oculte também seu número de celular"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Com uma máscara de número de celular do Relay Premium, você pode proteger seu número de celular verdadeiro e ainda receber e responder a chamadas e mensagens de texto.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Obter máscara de nº de celular"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ainda não está disponível em seu país"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Entrar na lista de espera"
+  },
+  "phonesTabText": {
+    "message": "Celular"
+  },
+  "emailsTabText": {
+    "message": "Email"
+  },
+  "goBackText": {
+    "message": "Voltar"
+  },
+  "seeStatsText": {
+    "message": "Ver estatísticas"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minutos restantes"
+  },
+  "phoneRemainingTexts": {
+    "message": "Mensagens de texto restantes"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Chamadas e mensagens encaminhadas"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Chamadas e mensagens bloqueadas"
   }
 }
