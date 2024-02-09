@@ -616,5 +616,59 @@
   },
   "popupPhoneMasksBlockingButton": {
     "message": "Blokuje sa"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktivujte si masku telefónneho čísla"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Ako predplatiteľ služby Relay Premium môžete prijímať textové správy a telefonovať bez toho, aby ste prezradili svoje skutočné číslo. Začnite výberom čísla, ktoré chcete použiť ako masku telefónneho čísla. Trvá to len 5 minút.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktivovať masku telefónneho čísla"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Zamaskujte aj svoje telefónne číslo"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "S maskovaním telefónneho čísla službou Relay Premium môžete chrániť svoje skutočné telefónne číslo a stále prijímať a odpovedať na textové správy a hovory.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Získajte maskovanie telefónneho čísla"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Zatiaľ nie je k dispozícii vo vašej krajine"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "S maskovaním telefónneho čísla službou Relay Premium budete môcť skryť svoje skutočné telefónne číslo rovnako ako svoju e‑mailovú adresu. Ďalšie informácie nájdete na stránke služby Relay, kde sa môžete prihlásiť aj na odber noviniek.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Pridať sa na zoznam čakateľov"
+  },
+  "phonesTabText": {
+    "message": "Telefónne číslo"
+  },
+  "emailsTabText": {
+    "message": "E‑mailová adresa"
+  },
+  "goBackText": {
+    "message": "Prejsť naspäť"
+  },
+  "seeStatsText": {
+    "message": "Pozrite si štatistiky"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Zostávajúce minúty"
+  },
+  "phoneRemainingTexts": {
+    "message": "Zostávajúce textové správy"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Presmerované hovory a SMS"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Zablokované hovory a SMS"
   }
 }
