@@ -594,5 +594,29 @@
   "popupHolidayPromo2023CTA": {
     "message": "Saat Relay Premiumin 1 vuodeksi",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktivoi puhelinmaski"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktivoi puhelinmaski"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Peitä myös puhelinnumerosi"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Liity odotuslistalle"
+  },
+  "phonesTabText": {
+    "message": "Puhelin"
+  },
+  "emailsTabText": {
+    "message": "Sähköposti"
+  },
+  "goBackText": {
+    "message": "Takaisin"
+  },
+  "seeStatsText": {
+    "message": "Katso tilastot"
   }
 }
