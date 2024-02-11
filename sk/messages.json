@@ -600,7 +600,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relé blokuje všetky telefónne hovory a textové správy — z masky telefónneho čísla nič nedostanete.",
+    "message": "Relay blokuje všetky telefónne hovory a textové správy — z masky telefónneho čísla nič nedostanete.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
