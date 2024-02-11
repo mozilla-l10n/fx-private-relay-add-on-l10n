@@ -594,5 +594,71 @@
   "popupHolidayPromo2023CTA": {
     "message": "Ottieni 1 anno di Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay sta inoltrando tutte le telefonate e i messaggi al tuo numero di telefono reale.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Inoltra a:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Data creazione:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Inoltra"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blocca"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Attiva l’alias per numeri di telefono"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "In qualità di utente abbonato a Relay Premium, puoi ricevere messaggi e telefonate senza rivelare il tuo numero reale. Inizia selezionando un numero da utilizzare come alias per il tuo numero di telefono. Ci vogliono solo 5 minuti.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Nascondi anche il tuo numero di telefono"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Con l’alias per numeri di telefono di Relay Premium puoi proteggere il tuo numero di telefono reale e allo stesso tempo ricevere e rispondere a messaggi e chiamate.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Non ancora disponibile nel tuo Paese"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Con l’alias per numeri di telefono di Relay Premium potrai nascondere il tuo numero di telefono reale proprio come il tuo indirizzo email. Scopri di più sul sito di Relay e registrati per ricevere aggiornamenti.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Iscriviti alla lista d’attesa"
+  },
+  "phonesTabText": {
+    "message": "Telefono"
+  },
+  "emailsTabText": {
+    "message": "Email"
+  },
+  "goBackText": {
+    "message": "Torna indietro"
+  },
+  "seeStatsText": {
+    "message": "Statistiche"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minuti rimanenti"
+  },
+  "phoneRemainingTexts": {
+    "message": "Messaggi rimanenti"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Chiamate e messaggi inoltrati"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Chiamate e messaggi bloccati"
   }
 }
