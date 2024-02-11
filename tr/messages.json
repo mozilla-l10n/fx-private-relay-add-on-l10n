@@ -628,6 +628,10 @@
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Henüz ülkenizde kullanılamıyor"
   },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Relay Premium telefon numarası maskeleme özelliği sayesinde gerçek telefon numaranızı e-posta adresiniz gibi gizleyebilirsiniz. Relay sitesinden daha fazla bilgi alabilir ve güncellemelere kaydolabilirsiniz.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Bekleme listesine katılın"
   },
@@ -639,6 +643,9 @@
   },
   "goBackText": {
     "message": "Geri dön"
+  },
+  "seeStatsText": {
+    "message": "İstatistikleri görüntüle"
   },
   "phoneRemainingMinutes": {
     "message": "Kalan dakika"
