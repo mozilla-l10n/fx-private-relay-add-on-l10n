@@ -599,6 +599,10 @@
     "message": "Relay sta inoltrando tutte le telefonate e i messaggi al tuo numero di telefono reale.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay sta bloccando tutte le telefonate e i messaggi: non riceverai nulla dal tuo alias telefonico.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Inoltra a:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -614,11 +618,14 @@
     "message": "Blocca"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Attiva l’alias per numeri di telefono"
+    "message": "Attiva il tuo alias telefonico"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
     "message": "In qualità di utente abbonato a Relay Premium, puoi ricevere messaggi e telefonate senza rivelare il tuo numero reale. Inizia selezionando un numero da utilizzare come alias per il tuo numero di telefono. Ci vogliono solo 5 minuti.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Attiva alias telefonico"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Nascondi anche il tuo numero di telefono"
@@ -626,6 +633,9 @@
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
     "message": "Con l’alias per numeri di telefono di Relay Premium puoi proteggere il tuo numero di telefono reale e allo stesso tempo ricevere e rispondere a messaggi e chiamate.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Ottieni un alias telefonico"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Non ancora disponibile nel tuo Paese"
