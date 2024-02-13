@@ -594,5 +594,35 @@
   "popupHolidayPromo2023CTA": {
     "message": "Získejte Relay Premium na 1 rok",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktivovat masku telefonního čísla"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Zamaskujte si své telefonní číslo"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Získejte maskování telefonního čísla"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ve vaší zemi zatím není k dispozici"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Přidat se na čekací listinu"
+  },
+  "phonesTabText": {
+    "message": "Telefon"
+  },
+  "emailsTabText": {
+    "message": "E-mail"
+  },
+  "goBackText": {
+    "message": "Zpátky"
+  },
+  "seeStatsText": {
+    "message": "Zobrazit statistiky"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Zbývající minuty"
   }
 }
