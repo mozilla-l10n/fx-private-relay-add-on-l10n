@@ -611,6 +611,12 @@
     "message": "Registreret:",
     "description": "Tells the user the date their phone mask was created."
   },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Viderestiller"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Blokerer"
+  },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Aktiver din telefon-maske"
   },
