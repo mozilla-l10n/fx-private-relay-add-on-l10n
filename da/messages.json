@@ -594,5 +594,71 @@
   "popupHolidayPromo2023CTA": {
     "message": "Få 1 års Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay viderestiller i øjeblikket alle telefonopkald og SMS-beskeder til dit rigtige telefonnummer.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay blokerer alle telefonopkald og SMS-beskeder — du vil ikke modtage noget fra din telefonnummer-maske.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Viderestil til:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registreret:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Aktiver din telefon-maske"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Som abonnent på Relay Premium kan du modtage SMS'er og telefonopkald uden at afsløre dit rigtige nummer. Start med at vælge et nummer, der skal bruges som din telefonnummer-maske. Det tager kun 5 minutter.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Aktiver telefon-maske"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Maskér også dit telefonnummer"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Få telefon-maskering"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ikke tilgængeligt i dit land endnu"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Med Relay Premiums maskering af telefonnummer kan du skjule dit rigtige telefonnummer præcis som du kan med din mailadresse. Læs mere på Relays websted og tilmeld dig for at modtage nyheder.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Tilmeld dig ventelisten"
+  },
+  "phonesTabText": {
+    "message": "Telefonnummer"
+  },
+  "emailsTabText": {
+    "message": "Mailadresse"
+  },
+  "goBackText": {
+    "message": "Gå tilbage"
+  },
+  "seeStatsText": {
+    "message": "Se statistik"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Resterende minutter"
+  },
+  "phoneRemainingTexts": {
+    "message": "Resterende SMS-beskeder"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Viderestillede opkald og SMS-beskeder"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Blokerede opkald og SMS-beskeder"
   }
 }
