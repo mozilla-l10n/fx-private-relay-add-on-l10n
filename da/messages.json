@@ -624,6 +624,10 @@
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Maskér også dit telefonnummer"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Med Relay Premiums maskering af telefonnumre kan du beskytte dit rigtige telefonnummer og stadig modtage og svare på SMS'er og opkald.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Få telefon-maskering"
   },
