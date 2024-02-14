@@ -620,11 +620,26 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Ενεργοποιήστε τη μάσκα τηλεφώνου σας"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Ως συνδρομητής του Relay Premium, μπορείτε να λαμβάνετε μηνύματα και τηλεφωνικές κλήσεις χωρίς να αποκαλύψετε τον πραγματικό σας αριθμό. Ξεκινήστε επιλέγοντας έναν αριθμό για χρήση ως μάσκα αριθμού τηλεφώνου. Χρειάζονται μόνο 5 λεπτά.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Ενεργοποίηση μάσκας τηλεφώνου"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Αποκρύψτε και τον αριθμό τηλεφώνου σας"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Με την απόκρυψη αριθμού τηλεφώνου του Relay Premium, μπορείτε να προστατέψετε τον πραγματικό σας αριθμό τηλεφώνου, αλλά να λαμβάνετε και να απαντάτε σε μηνύματα και κλήσεις.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Δεν διατίθεται ακόμα στη χώρα σας"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Με την απόκρυψη αριθμού τηλεφώνου του Relay Premium, μπορείτε να αποκρύψετε τον πραγματικό αριθμό τηλεφώνου σας, όπως ακριβώς συμβαίνει και με τη διεύθυνση email σας. Μάθετε περισσότερα στον ιστότοπο του Relay και εγγραφείτε για ενημερώσεις.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Εγγραφή στη λίστα αναμονής"
