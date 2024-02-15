@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Vrátiť sa na hlavný panel"
   },
-  "popupSettingsShowIcon": {
-    "message": "Zobraziť ikonu služby Relay v poliach pre e‑mailové adresy na webových stránkach",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Zobraziť ikonu služby Relay v poliach formulárov na webových stránkach",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Odoslať hlásenie"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Mám problém s touto stránkou"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situácia"
+  "popupReportFeedbackHeadline": {
+    "message": "Poslať spätnú väzbu"
   },
   "popupReportIssueCaseOne": {
     "message": "Webová stránka neprijala masku"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Očakávaný e‑mail od tejto stránky neprišiel"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Táto webová stránka neprijala masku telefónu"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Z tejto webovej stránky som nedostal SMS ani hovor, ktorý som očakával"
   },
   "popupReportIssueCaseOther": {
     "message": "Iná"
