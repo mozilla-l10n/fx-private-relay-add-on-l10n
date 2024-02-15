@@ -56,10 +56,6 @@
   "popupSettingsReturn": {
     "message": "Επιστροφή στον κύριο πίνακα"
   },
-  "popupSettingsShowIcon": {
-    "message": "Εμφάνιση εικονιδίου του Relay σε πεδία email",
-    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupSettingsCollectData": {
     "message": "Να επιτρέπεται στη Mozilla η συλλογή δεδομένων αλληλεπίδρασης",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -79,12 +75,6 @@
   "popupSettingsSubmitReport": {
     "message": "Υποβολή αναφοράς"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
-  },
-  "popupReportIssueSituationHeadline": {
-    "message": "Κατάσταση ζητήματος"
-  },
   "popupReportIssueCaseOne": {
     "message": "Η μάσκα email δεν έγινε αποδεκτή από τον ιστότοπο"
   },
@@ -94,6 +84,9 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Δεν έχω λάβει κάποιο email που περίμενα από αυτόν τον ιστότοπο"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Η μάσκα τηλεφώνου δεν έγινε αποδεκτή από τον ιστότοπο"
   },
   "popupReportIssueCaseOther": {
     "message": "Άλλο"
