@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Vissza a fő panelre"
   },
-  "popupSettingsShowIcon": {
-    "message": "A Relay ikon megjelenítése a webhelyek e-mail mezőiben",
+  "popupSettingsShowIconInInputFields": {
+    "message": "A Relay ikon megjelenítése a weboldalak beviteli mezőiben",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Jelentés beküldése"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Problémáim vannak ezzel a webhellyel"
+  "popupReportIssuesHeadline": {
+    "message": "Problémáim vannak ezzel a weboldallal"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Probléma leírása"
+  "popupReportFeedbackHeadline": {
+    "message": "Visszajelzés küldéséhez"
   },
   "popupReportIssueCaseOne": {
     "message": "A webhely nem fogadta el az e-mail-maszkot"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Nem kaptam meg egy várt e-mailt ettől a webhelytől"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "A weboldal nem fogadta el a telefonmaszkot"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Nem kaptam olyan SMS-t vagy hívást ettől a weboldaltól, amire számítottam"
   },
   "popupReportIssueCaseOther": {
     "message": "Egyéb"
