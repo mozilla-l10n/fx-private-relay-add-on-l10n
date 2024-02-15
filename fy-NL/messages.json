@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Werom nei haadpaniel"
   },
-  "popupSettingsShowIcon": {
-    "message": "Relay-piktogram toane yn e-mailfjilden op websites",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Relay-piktogram toane yn ynfierfjilden op websites",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Rapport ferstjoere"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Ik haw problemen mei dizze website"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Probleemsituaasje"
+  "popupReportFeedbackHeadline": {
+    "message": "Kommentaar efterlitte"
   },
   "popupReportIssueCaseOne": {
     "message": "E-mailmasker waard net akseptearre troch de website"
@@ -94,6 +94,9 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Ik haw gjin e-mailberjocht fan dizze website ûntfongen dy’t ik ferwachte"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Telefoanmasker waard net akseptearre troch dizze website"
   },
   "popupReportIssueCaseOther": {
     "message": "Oars"
