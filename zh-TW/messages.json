@@ -57,7 +57,7 @@
     "message": "回到主面板"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "在網站的輸入欄顯示 Relay 圖示",
+    "message": "在網站中的輸入欄位顯示 Relay 圖示",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -80,7 +80,7 @@
     "message": "送出報告"
   },
   "popupReportIssuesHeadline": {
-    "message": "我在使用這個網站時遇到問題"
+    "message": "我在這個網站遇到問題"
   },
   "popupReportFeedbackHeadline": {
     "message": "留下意見回饋"
@@ -96,10 +96,10 @@
     "message": "我沒有收到來自此網站的郵件"
   },
   "popupReportIssueCaseFour": {
-    "message": "此網站不接受虛擬手機號碼"
+    "message": "網站不接受虛擬轉接門號"
   },
   "popupReportIssueCaseFive": {
-    "message": "我沒有收到來自此網站的電話或簡訊"
+    "message": "我沒有收到此網站的郵件或來電"
   },
   "popupReportIssueCaseOther": {
     "message": "其他"
