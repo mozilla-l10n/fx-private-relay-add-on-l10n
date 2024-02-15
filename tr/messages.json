@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Ana panele dön"
   },
-  "popupSettingsShowIcon": {
-    "message": "Web sitelerindeki e-posta alanlarında Relay simgesini göster",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Web sitelerindeki giriş alanlarında Relay simgesini göster",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Rapor gönder"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Bu web sitesiyle ilgili sorun yaşıyorum"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Sorun durumu"
+  "popupReportFeedbackHeadline": {
+    "message": "Görüş bildir"
   },
   "popupReportIssueCaseOne": {
     "message": "E-posta maskesi web sitesi tarafından kabul edilmedi"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Bu web sitesinden beklediğim bir e-posta gelmedi"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Telefon maskesi bu web sitesi tarafından kabul edilmedi"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Bu web sitesinden beklediğim bir kısa mesaj veya çağrı almadım"
   },
   "popupReportIssueCaseOther": {
     "message": "Diğer"
