@@ -96,10 +96,10 @@
     "message": "Bu web sitesinden beklediğim bir e-posta gelmedi"
   },
   "popupReportIssueCaseFour": {
-    "message": "Telefon maskesi bu web sitesi tarafından kabul edilmedi"
+    "message": "Bu web sitesi telefon maskesini kabul etmedi"
   },
   "popupReportIssueCaseFive": {
-    "message": "Bu web sitesinden beklediğim bir kısa mesaj veya çağrı almadım"
+    "message": "Bu web sitesinden beklediğim kısa mesaj veya telefon gelmedi"
   },
   "popupReportIssueCaseOther": {
     "message": "Diğer"
