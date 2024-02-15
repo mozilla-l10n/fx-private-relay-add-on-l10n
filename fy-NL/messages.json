@@ -98,6 +98,9 @@
   "popupReportIssueCaseFour": {
     "message": "Telefoanmasker waard net akseptearre troch dizze website"
   },
+  "popupReportIssueCaseFive": {
+    "message": "Ik haw gjin sms of oprop fan dizze website ûntfongen dy’t ik ferwachte"
+  },
   "popupReportIssueCaseOther": {
     "message": "Oars"
   },
@@ -602,6 +605,10 @@
     "message": "Relay stjoert op dit stuit alle oproppen en sms-berjochten troch nei jo wiere telefoannûmer.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay blokkearret alle oproppen en sms-berjochten – jo ûntfange neat fan jo telefoannûmermasker.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Trochstjoere nei:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -619,14 +626,29 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Jo telefoanmasker aktivearje"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "As Relay Premium-abonnee kinne jo sms-berjochten en oproppen ûntfange sûnder jo echte nûmer priis te jaan. Selektearje om te begjinnen in nûmer dat jo as telefoannûmermasker brûke wolle. It duorret mar 5 minuten.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Telefoanmasker aktivearje"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Maskearje ek jo telefoannûmer"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Mei Relay Premium-telefoannûmermaskearring kinne jo jo echte telefoannûmer beskermje en noch hieltyd sms’kes en oproppen ûntfange en beäntwurdzje.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Untfang telefoanmaskearring"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Noch net beskikber yn jo lân"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Mei Relay Premium-telefoannûmermaskearring kinne jo jo echte telefoannûmer ferbergje, krekt lykas jo e-mailadres. Lês mear op de Relay-website en meld jo oan foar updates.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Op de wachtlist pleatse"
