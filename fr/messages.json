@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Retour au panneau principal"
   },
-  "popupSettingsShowIcon": {
-    "message": "Afficher l’icône Relay dans les champs d’adresse e-mail sur les sites web",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Afficher l’icône Relay dans les champs de saisie sur les sites web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Envoyer un rapport"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "J’ai des problèmes avec ce site web"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Description du problème"
+  "popupReportFeedbackHeadline": {
+    "message": "Nous faire part de votre avis"
   },
   "popupReportIssueCaseOne": {
     "message": "L’alias de messagerie n’a pas été accepté par le site web"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Je n’ai pas reçu l’e-mail d’un site web auquel je m’attendais"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "L’alias de numéro de téléphone n’est pas accepté par ce site web"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Je n’ai pas reçu le SMS ou l’appel d’un site web auquel je m’attendais"
   },
   "popupReportIssueCaseOther": {
     "message": "Autre"
