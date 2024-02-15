@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Kembali ke panel utama"
   },
-  "popupSettingsShowIcon": {
-    "message": "Tampilkan ikon Relay di kolom surel pada situs web",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Tampilkan ikon Relay di bidang input di situs web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Kirimkan Laporan"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Saya mengalami masalah dengan situs web ini"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situasi masalah"
+  "popupReportFeedbackHeadline": {
+    "message": "Tinggalkan umpan balik"
   },
   "popupReportIssueCaseOne": {
     "message": "Topeng surel tidak diterima oleh situs web"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Saya belum menerima surel dari situs web yang saya harapkan"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Topeng telepon tidak diterima oleh situs web ini"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Saya belum menerima SMS atau telepon dari situs web ini yang saya harapkan"
   },
   "popupReportIssueCaseOther": {
     "message": "Lainnya"
