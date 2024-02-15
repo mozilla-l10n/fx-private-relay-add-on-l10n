@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "返回主面板"
   },
-  "popupSettingsShowIcon": {
-    "message": "在网站的电子邮件栏中显示 Relay 图标",
+  "popupSettingsShowIconInInputFields": {
+    "message": "在网站上的输入栏中显示 Relay 图标",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "提交报告"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "我在此网站遇到问题"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "问题情况"
+  "popupReportFeedbackHeadline": {
+    "message": "留下反馈"
   },
   "popupReportIssueCaseOne": {
     "message": "网站不接受马甲邮箱"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "我没有收到来自此网站的电子邮件"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "此网站不接受虚拟手机号"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "我收不到此网站的短信或来电"
   },
   "popupReportIssueCaseOther": {
     "message": "其他"
