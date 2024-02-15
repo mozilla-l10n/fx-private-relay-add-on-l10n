@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Zurück zur Hauptansicht"
   },
-  "popupSettingsShowIcon": {
-    "message": "Relay-Symbol in E-Mail-Adressfeldern auf Websites anzeigen",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Relay-Symbol in Eingabefeldern auf Websites anzeigen",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Bericht absenden"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Ich habe Probleme mit dieser Website"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Problembeschreibung"
+  "popupReportFeedbackHeadline": {
+    "message": "Ihre Meinung zu sagen"
   },
   "popupReportIssueCaseOne": {
     "message": "Die E-Mail-Maske wurde von der Website nicht akzeptiert"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Ich habe keine E-Mail von dieser Website erhalten, die ich erwartet hatte"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Telefonnummer-Maske wurde von der Website nicht akzeptiert"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Ich habe keine Textnachricht und keinen Anruf von dieser Website erhalten, die ich erwartet hatte"
   },
   "popupReportIssueCaseOther": {
     "message": "Sonstiges"
