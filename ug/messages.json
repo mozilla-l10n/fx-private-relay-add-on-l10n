@@ -6,5 +6,68 @@
   "disableDataCollection": {
     "message": "سانلىق مەلۇمات توپلاشنى چەكلەيدۇ",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
+  },
+  "firstRunSignInButton": {
+    "message": "خەتلىتىڭ / تىزىمغا كىرىڭ"
+  },
+  "popupSettingsTitle": {
+    "message": "تەڭشەكلەر"
+  },
+  "popupStatsTitle": {
+    "message": "ئىستاتىستىكا",
+    "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
+  },
+  "popupNewsLink": {
+    "message": "خەۋەرلەر",
+    "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Relay دىكى يېڭىلىقلار",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsReturn": {
+    "message": "باش تاختىغا قايت"
+  },
+  "popupSettingsShowIconInInputFields": {
+    "message": "تور بېكەتتە كىرگۈزۈش بۆلىكىدە Relay سىنبەلگىسىنى كۆرسىتىدۇ",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsCollectData": {
+    "message": "Mozilla نىڭ تەسىرلىشىش سانلىق مەلۇماتىنى توپلىشىغا يول قويىدۇ",
+    "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
+  "popupSettingsLeaveFeedback": {
+    "message": "قايتۇرما ئىنكاس قالدۇرۇڭ"
+  },
+  "popupSettingsPrivacy": {
+    "message": "شەخسىيەت"
+  },
+  "popupSettingsTermsOfService": {
+    "message": "مۇلازىمەت ماددىلىرى"
+  },
+  "popupSettingsReportIssue": {
+    "message": "مەسىلە دوكلاتى"
+  },
+  "popupSettingsSubmitReport": {
+    "message": "دوكلات تاپشۇر"
+  },
+  "popupReportIssuesHeadline": {
+    "message": "بۇ تور بېكەتتە مەسىلىگە يولۇقتۇم"
+  },
+  "popupReportFeedbackHeadline": {
+    "message": "قايتۇرما ئىنكاس قالدۇرۇڭ"
+  },
+  "popupReportIssueCaseOne": {
+    "message": "تور بېكەت ئېلخەت نىقابىنى قوللىمايدۇ"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay قوشۇلمىسى تور بېكەتتە كۆرۈنۈش مەسىلىسى پەيدا قىلدى",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupReportIssueCaseThree": {
+    "message": "كۈتكىنىمدەك بۇ تور بېكەتنىڭ ئېلخېتىنى تاپشۇرۇۋالمىدىم"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "تور بېكەت تېلېفون نىقابىنى قوللىمايدۇ"
   }
 }
