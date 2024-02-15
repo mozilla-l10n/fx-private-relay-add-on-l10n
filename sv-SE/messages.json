@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Återgå till huvudpanelen"
   },
-  "popupSettingsShowIcon": {
-    "message": "Visa Relay-ikonen i e-postfält på webbplatser",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Visa Relay-ikonen i inmatningsfälten på webbplatser",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Skicka in rapport"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Jag har problem med den här webbplatsen"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Problemsituation"
+  "popupReportFeedbackHeadline": {
+    "message": "Lämna feedback"
   },
   "popupReportIssueCaseOne": {
     "message": "E-postalias accepterades inte av webbplatsen"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Jag har inte fått ett e-postmeddelande från denna webbplats som jag förväntade mig"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Telefonalias accepterades inte av denna webbplats"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Jag har inte fått ett sms eller telefonsamtal från den här webbplatsen som jag förväntade mig"
   },
   "popupReportIssueCaseOther": {
     "message": "Annat"
