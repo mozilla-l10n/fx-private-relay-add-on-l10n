@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Voltar ao painel principal"
   },
-  "popupSettingsShowIcon": {
-    "message": "Mostrar ícone do Relay nos campos de e-mail dos sites",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Mostrar ícone do Relay nos campos de texto dos sites",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Submeter relatório"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Eu estou a ter problemas com este site"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situação do problema"
+  "popupReportFeedbackHeadline": {
+    "message": "Deixar feedback"
   },
   "popupReportIssueCaseOne": {
     "message": "A máscara de e-mail não foi aceite pelo site"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Estava à espera de um e-mail deste site que não recebi"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "A máscara do telefone não foi aceite por este site"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Não recebi uma mensagem de texto ou ligação deste site que esperava"
   },
   "popupReportIssueCaseOther": {
     "message": "Outro"
