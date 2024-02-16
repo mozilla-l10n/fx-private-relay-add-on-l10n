@@ -69,5 +69,14 @@
   },
   "popupReportIssueCaseFour": {
     "message": "تور بېكەت تېلېفون نىقابىنى قوللىمايدۇ"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "باشقا"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "تەپسىلاتىنى تەمىنلەڭ"
+  },
+  "popupReportIssueSuccessHeadline": {
+    "message": "دوكلات يوللاندى!"
   }
 }
