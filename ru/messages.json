@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Вернуться на главную панель"
   },
-  "popupSettingsShowIcon": {
-    "message": "Показывать значок Relay в полях для ввода электронной почты на веб-сайтах",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Показывать значок Relay в полях ввода на веб-сайтах",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Отправить сообщение"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "У меня возникли проблемы с этим веб-сайтом"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Проблема"
+  "popupReportFeedbackHeadline": {
+    "message": "Оставить отзыв"
   },
   "popupReportIssueCaseOne": {
     "message": "Веб-сайт не принял псевдоним электронной почты"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Я не получил ожидаемое письмо от этого веб-сайта"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Этот сайт не принял псевдоним телефона"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Я не получил ожидаемое сообщение или звонок с этого веб-сайта"
   },
   "popupReportIssueCaseOther": {
     "message": "Другое"
