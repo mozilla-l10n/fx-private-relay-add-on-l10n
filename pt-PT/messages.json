@@ -600,5 +600,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Obtenha 1 ano de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "O Relay está atualmente a reencaminhar todas as chamadas telefónicas e mensagens de texto para o seu número de telefone real.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "O Relay está a bloquear todas as chamadas telefónicas e mensagens de texto – não irá receber nada da sua máscara de número de telefone.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Reencaminhar para:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registado:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "A reencaminhar"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "A bloquear"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Ativar a sua máscara de telefone"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Como subscritor do Relay Premium, pode receber mensagens de texto e chamadas sem revelar o seu número real. Comece por selecionar um número a utilizar como máscara do seu número de telefone. Demora apenas 5 minutos.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Ativar máscara do telefone"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Mascare também o seu número de telefone"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Com a máscara de número de telefone do Relay Premium, pode proteger o seu número de telefone real e ainda receber e responder a mensagens de texto e chamadas.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Obter máscara de telefone"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ainda não está disponível no seu país"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Com a máscara de número de telefone do Relay Premium, poderá ocultar o seu número de telefone real, tal como o seu endereço de e-mail. Saiba mais no site do Relay e registe-se para atualizações.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Junte-se à lista de espera"
+  },
+  "phonesTabText": {
+    "message": "Telefone"
+  },
+  "emailsTabText": {
+    "message": "E-mail"
+  },
+  "goBackText": {
+    "message": "Voltar"
+  },
+  "seeStatsText": {
+    "message": "Ver estatísticas"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minutos remanescentes"
+  },
+  "phoneRemainingTexts": {
+    "message": "Textos remanescentes"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Chamadas e mensagens reencaminhadas"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Chamadas e mensagens bloqueadas"
   }
 }
