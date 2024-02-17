@@ -83,7 +83,7 @@
     "message": "Eu estou a ter problemas com este site"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Deixar feedback"
+    "message": "Deixar comentários"
   },
   "popupReportIssueCaseOne": {
     "message": "A máscara de e-mail não foi aceite pelo site"
@@ -96,10 +96,10 @@
     "message": "Estava à espera de um e-mail deste site que não recebi"
   },
   "popupReportIssueCaseFour": {
-    "message": "A máscara do telefone não foi aceite por este site"
+    "message": "A máscara de telefone não foi aceite por este site"
   },
   "popupReportIssueCaseFive": {
-    "message": "Não recebi uma mensagem de texto ou ligação deste site que esperava"
+    "message": "Não recebi a mensagem de texto ou chamada deste site que estava à espera"
   },
   "popupReportIssueCaseOther": {
     "message": "Outro"
