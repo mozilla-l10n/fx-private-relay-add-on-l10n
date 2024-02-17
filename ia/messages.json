@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Retornar a quadro principal"
   },
-  "popupSettingsShowIcon": {
-    "message": "Monstrar icone de Relay in campos de e-mail sur sitos web",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Monstrar icone de Relay in campos de ingresso sur sitos web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Inviar reporto"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Io ha problemas con iste sito web"
+  "popupReportIssuesHeadline": {
+    "message": "Io ha difficultates con iste sito web"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situation del problema"
+  "popupReportFeedbackHeadline": {
+    "message": "Lassar commentario"
   },
   "popupReportIssueCaseOne": {
     "message": "Le masca email non era acceptate per le sito web"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Io non ha recipite un email attendite ab iste sito web"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Le masca email non era acceptate per iste sito web"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Io non ha recipite un texto o appello ab iste sito web"
   },
   "popupReportIssueCaseOther": {
     "message": "Altero"
