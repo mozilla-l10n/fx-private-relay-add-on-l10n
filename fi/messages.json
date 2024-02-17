@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Palaa pääpaneeliin"
   },
-  "popupSettingsShowIcon": {
-    "message": "Näytä Relay-kuvake verkkosivustojen sähköpostikentissä",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Näytä Relay-kuvake verkkosivustojen syötekentissä",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Lähetä ilmoitus"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Minulla on ongelmia tämän sivuston kanssa"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Ongelmatilanne"
+  "popupReportFeedbackHeadline": {
+    "message": "Anna palautetta"
   },
   "popupReportIssueCaseOne": {
     "message": "Verkkosivusto ei hyväksynyt sähköpostimaskia"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "En ole saanut odottamaani sähköpostia tältä sivustolta"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Tämä verkkosivusto ei hyväksynyt puhelinnumeron maskia"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "En ole saanut tältä sivustolta tekstiviestiä tai soittoa, jota odotin"
   },
   "popupReportIssueCaseOther": {
     "message": "Muu"
@@ -595,6 +601,14 @@
     "message": "Saat Relay Premiumin 1 vuodeksi",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay välittää tällä hetkellä kaikki puhelut ja tekstiviestit oikeaan puhelinnumeroosi.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay estää kaikki puhelut ja tekstiviestit - et saa mitään puhelinnumeromaskistasi.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Aktivoi puhelinmaski"
   },
@@ -603,6 +617,9 @@
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Peitä myös puhelinnumerosi"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ei vielä saatavilla maassasi"
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Liity odotuslistalle"
@@ -618,5 +635,11 @@
   },
   "seeStatsText": {
     "message": "Katso tilastot"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Puhelut ja tekstiviestit välitetty"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Puhelut ja tekstiviestit estetty"
   }
 }
