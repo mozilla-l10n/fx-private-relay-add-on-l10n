@@ -56,10 +56,6 @@
   "popupSettingsReturn": {
     "message": "Volver al panel principal"
   },
-  "popupSettingsShowIcon": {
-    "message": "Mostrar el icono de Relay en los campos de correo electrónico de los sitios web",
-    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
-  },
   "popupSettingsCollectData": {
     "message": "Permitir que Mozilla recopile datos de interacción",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -79,11 +75,8 @@
   "popupSettingsSubmitReport": {
     "message": "Enviar informe"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Estoy teniendo problemas con este sitio web"
-  },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situación del problema"
+  "popupReportIssuesHeadline": {
+    "message": "Tengo problemas con este sitio web"
   },
   "popupReportIssueCaseOne": {
     "message": "La máscara de correo electrónico no fue aceptada por el sitio web"
