@@ -82,6 +82,9 @@
   "popupReportIssuesHeadline": {
     "message": "Estoy teniendo problemas con este sitio web"
   },
+  "popupReportFeedbackHeadline": {
+    "message": "Enviar opinión"
+  },
   "popupReportIssueCaseOne": {
     "message": "La máscara de correo electrónico no fue aceptada por el sitio web"
   },
@@ -91,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "No he recibido un correo que estaba esperando de este sitio web"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "La máscara de teléfono no fue aceptada por el sitio web"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "No he recibido un mensaje o llamada que estaba esperando de este sitio web"
   },
   "popupReportIssueCaseOther": {
     "message": "Otros"
@@ -591,5 +600,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Obtén 1 año de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Actualmente, Relay está reenviando todas las llamadas telefónicas y mensajes de texto a tu número de teléfono real.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay está bloqueando todas las llamadas telefónicas y mensajes de texto; no recibirás nada de tu máscara de número de teléfono.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Reenviar a:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Registrado:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Reenviando"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Bloqueando"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Activa tu máscara de teléfono"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Como suscriptor de Relay Premium, puedes recibir mensajes de texto y llamadas telefónicas sin revelar tu número real. Comienza seleccionando un número para usarlo como máscara de número de teléfono. Solo lleva 5 minutos.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Activar máscara de teléfono"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Enmascara también tu número de teléfono"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Con el enmascaramiento de números de teléfono de Relay Premium, puedes proteger tu número de teléfono real y seguir recibiendo y respondiendo mensajes de texto y llamadas.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Obtener enmascaramiento del teléfono"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Aún no disponible en tu país"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Con el enmascaramiento del número de teléfono de Relay Premium, podrás ocultar tu número de teléfono real al igual que tu dirección de correo electrónico. Obtén más información en el sitio de Relay y regístrate para recibir más información.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Únete a la lista de espera"
+  },
+  "phonesTabText": {
+    "message": "Teléfono"
+  },
+  "emailsTabText": {
+    "message": "Correo electrónico"
+  },
+  "goBackText": {
+    "message": "Retroceder"
+  },
+  "seeStatsText": {
+    "message": "Ver estadísticas"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Minutos restantes"
+  },
+  "phoneRemainingTexts": {
+    "message": "Mensajes restantes"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Llamadas y mensajes reenviados"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Llamadas y mensajes bloqueados"
   }
 }
