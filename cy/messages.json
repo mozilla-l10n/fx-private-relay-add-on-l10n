@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Nôl i'r prif banel"
   },
-  "popupSettingsShowIcon": {
-    "message": "Dangos eicon Relay mewn meysydd e-bost ar wefannau",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Dangos eicon Relay mewn meysydd mewnbwn ar wefannau",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Cyflwyno Adroddiad"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Rwy'n cael anawsterau gyda'r wefan hon"
+  "popupReportIssuesHeadline": {
+    "message": "Rwy'n cael trafferth gyda'r wefan hon"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Disgrifiad o'r anhawster"
+  "popupReportFeedbackHeadline": {
+    "message": "Gadael adborth"
   },
   "popupReportIssueCaseOne": {
     "message": "Nid oedd yr arallenw wedi'i dderbyn gan y wefan"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Nid wyf wedi derbyn e-bost roeddwn yn ei ddisgwyl o'r wefan hon"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Nid oedd yr arallenw wedi'i dderbyn gan y wefan hon"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Nid wyf wedi derbyn neges destun neu alwad yr oeddwn yn ei ddisgwyl o'r wefan hon"
   },
   "popupReportIssueCaseOther": {
     "message": "Arall"
