@@ -56,6 +56,10 @@
   "popupSettingsReturn": {
     "message": "Επιστροφή στον κύριο πίνακα"
   },
+  "popupSettingsShowIconInInputFields": {
+    "message": "Εμφάνιση εικονιδίου του Relay στα πεδία εισόδου ιστοτόπων",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsCollectData": {
     "message": "Να επιτρέπεται στη Mozilla η συλλογή δεδομένων αλληλεπίδρασης",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -75,6 +79,12 @@
   "popupSettingsSubmitReport": {
     "message": "Υποβολή αναφοράς"
   },
+  "popupReportIssuesHeadline": {
+    "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
+  },
+  "popupReportFeedbackHeadline": {
+    "message": "Υποβολή σχολίων"
+  },
   "popupReportIssueCaseOne": {
     "message": "Η μάσκα email δεν έγινε αποδεκτή από τον ιστότοπο"
   },
@@ -87,6 +97,9 @@
   },
   "popupReportIssueCaseFour": {
     "message": "Η μάσκα τηλεφώνου δεν έγινε αποδεκτή από τον ιστότοπο"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Δεν έχω λάβει κάποιο μήνυμα ή κλήση που περίμενα από αυτόν τον ιστότοπο"
   },
   "popupReportIssueCaseOther": {
     "message": "Άλλο"
@@ -626,6 +639,9 @@
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
     "message": "Με την απόκρυψη αριθμού τηλεφώνου του Relay Premium, μπορείτε να προστατέψετε τον πραγματικό σας αριθμό τηλεφώνου, αλλά να λαμβάνετε και να απαντάτε σε μηνύματα και κλήσεις.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Λάβετε απόκρυψη τηλεφώνου"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Δεν διατίθεται ακόμα στη χώρα σας"
