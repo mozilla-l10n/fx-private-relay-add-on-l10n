@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Return to main panel"
   },
-  "popupSettingsShowIcon": {
-    "message": "Show Relay icon in email fields on web sites",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Show Relay icon in input fields on web sites",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Submit Report"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "I’m having issues with this web site"
+  "popupReportIssuesHeadline": {
+    "message": "I’m having trouble with this web site"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Issue situation"
+  "popupReportFeedbackHeadline": {
+    "message": "Leave feedback"
   },
   "popupReportIssueCaseOne": {
     "message": "Email mask was not accepted by web site"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "I haven’t received an email from this web site that I was expecting"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Phone mask was not accepted by this web site"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "I haven’t received a text or call from this web site that I was expecting"
   },
   "popupReportIssueCaseOther": {
     "message": "Other"
