@@ -92,11 +92,29 @@
   "popupSignUpPanelContinue": {
     "message": "داۋاملاشتۇر"
   },
+  "ManageAllAliases_mask": {
+    "message": "بارلىق نىقابنى باشقۇرۇش"
+  },
   "labelManage": {
     "message": "باشقۇرۇش"
   },
   "labelSearch": {
     "message": "ئىزدە"
+  },
+  "labelMaskCreated": {
+    "message": "نىقاب قۇرۇلدى",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
+  "labelFromThisWebsite": {
+    "message": "بۇ تور بېكەتتىن",
+    "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
+  },
+  "labelAllEmailMasks": {
+    "message": "بارلىق ئېلخەت نىقابى",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupAliasesUsed_mask": {
+    "message": "ئىشلىتىلگەن ئېلخەت نىقابلىرى"
   },
   "popupEndOfIntroPricingCTA": {
     "message": "ھازىر يېڭىلا"
@@ -123,6 +141,9 @@
   "popupPromoBlockingButtonTitle": {
     "message": "بازارچىلىق ئېلخەتنى توسسۇن"
   },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "تەپسىلاتى"
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "ھازىر يېڭىلا"
   },
@@ -137,5 +158,23 @@
   },
   "popupCreateCustomFormError": {
     "message": "نىقابنى قۇرالمىدى. قايتا سىناڭ."
+  },
+  "close": {
+    "message": "تاقا"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "تەپسىلاتى"
+  },
+  "popupDataCollectionButtonDecline": {
+    "message": "رەت قىل"
+  },
+  "popupDataCollectionButtonAllow": {
+    "message": "يول قوي"
+  },
+  "popupPrivacyNoticeUpdateHeadline": {
+    "message": "شەخسىيەت ئۇقتۇرۇشى يېڭىلاندى"
+  },
+  "popupPrivacyNoticeUpdateButtonLearnMore": {
+    "message": "شەخسىيەت ئۇقتۇرۇشىنى كۆرسەت"
   }
 }
