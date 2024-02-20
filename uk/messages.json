@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Повернутися на головну панель"
   },
-  "popupSettingsShowIcon": {
-    "message": "Показувати піктограму Relay у полях е-пошти на вебсайтах",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Показувати піктограму Relay у полях введення на вебсайтах",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Надіслати звіт"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "У мене виникли проблеми з цим вебсайтом"
+  "popupReportIssuesHeadline": {
+    "message": "У мене проблеми з цим вебсайтом"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Проблемна ситуація"
+  "popupReportFeedbackHeadline": {
+    "message": "Залишити відгук"
   },
   "popupReportIssueCaseOne": {
     "message": "Вебсайт не приймає маску електронної пошти"
@@ -94,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Мені не надійшов електронний лист, на який я очікую, від цього вебсайту"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Цей вебсайт не приймає маску номера телефону"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Мені не надійшло текстове повідомлення чи телефонний виклик, очікувані від цього вебсайту"
   },
   "popupReportIssueCaseOther": {
     "message": "Інше"
@@ -594,5 +600,81 @@
   "popupHolidayPromo2023CTA": {
     "message": "Отримати 1 рік Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Наразі Relay переадресовує всі телефонні виклики й текстові повідомлення на ваш справжній номер телефону.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay блокує всі телефонні виклики й текстові повідомлення – ви не отримаєте нічого з маски номера телефону.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Переадресовувати на:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Зареєстровано:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "Переадресовується"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "Блокується"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "Активуйте маску телефону"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Як передплатник Relay Premium ви можете отримувати текстові повідомлення і телефонні виклики, не розкриваючи свій справжній номер. Почніть із вибору номера, який використовуватиметься як маска. Це займе всього 5 хвилин.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "Активувати маску телефону"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "Також замаскуйте свій номер телефону"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "За допомогою маскування номера телефону Relay Premium ви можете захистити свій справжній номер і все одно отримувати й відповідати на текстові повідомлення і виклики.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Отримати маскування телефону"
+  },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "Ще не доступно у вашій країні"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Завдяки маскуванню номера телефону Relay Premium ви зможете приховати свій справжній номер так само, як і адресу електронної пошти. Дізнайтеся більше на сайті Relay і підпишіться на оновлення.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "Долучитися до списку очікування"
+  },
+  "phonesTabText": {
+    "message": "Телефон"
+  },
+  "emailsTabText": {
+    "message": "Електронна пошта"
+  },
+  "goBackText": {
+    "message": "Назад"
+  },
+  "seeStatsText": {
+    "message": "Статистика"
+  },
+  "phoneRemainingMinutes": {
+    "message": "Залишок хвилин"
+  },
+  "phoneRemainingTexts": {
+    "message": "Залишок текстових повідомлень"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Переадресовано викликів і повідомлень"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Заблоковано викликів і повідомлень"
   }
 }
