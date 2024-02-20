@@ -1,4 +1,8 @@
 {
+  "labelRelayPremium": {
+    "message": "Firefox Relay Premium",
+    "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "allowDataCollection": {
     "message": "سانلىق مەلۇمات توپلاشقا يول قويىدۇ",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -176,5 +180,50 @@
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "شەخسىيەت ئۇقتۇرۇشىنى كۆرسەت"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "بولدىلا"
+  },
+  "popupUpgradeBtnGetMoreProtection": {
+    "message": "تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ"
+  },
+  "popupCopyMaskButtonAlt": {
+    "message": "چېكىلسە كۆچۈرىدۇ"
+  },
+  "popupCopyMaskButtonCopied": {
+    "message": "كۆچۈرۈلدى!"
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "بەك نارازى"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "نارازى"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "بىتەرەپ"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "رازى"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "بەك رازى"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "بولدىلا"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "تېلېفون نىقابىغا ئېرىشىش"
+  },
+  "phonesTabText": {
+    "message": "تېلېفون"
+  },
+  "emailsTabText": {
+    "message": "ئېلخەت"
+  },
+  "goBackText": {
+    "message": "قايت"
+  },
+  "phoneRemainingMinutes": {
+    "message": "قالغان مىنۇت"
   }
 }
