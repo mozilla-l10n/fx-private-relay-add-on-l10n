@@ -80,10 +80,10 @@
     "message": "Jelentés beküldése"
   },
   "popupReportIssuesHeadline": {
-    "message": "Problémáim vannak ezzel a weboldallal"
+    "message": "Problémáim vannak ezzel a webhellyel"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Visszajelzés küldéséhez"
+    "message": "Visszajelzés küldése"
   },
   "popupReportIssueCaseOne": {
     "message": "A webhely nem fogadta el az e-mail-maszkot"
@@ -96,7 +96,7 @@
     "message": "Nem kaptam meg egy várt e-mailt ettől a webhelytől"
   },
   "popupReportIssueCaseFour": {
-    "message": "A weboldal nem fogadta el a telefonmaszkot"
+    "message": "A webhely nem fogadta el a telefonmaszkot"
   },
   "popupReportIssueCaseFive": {
     "message": "Nem kaptam olyan SMS-t vagy hívást ettől a weboldaltól, amire számítottam"
