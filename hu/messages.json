@@ -99,7 +99,7 @@
     "message": "A webhely nem fogadta el a telefonmaszkot"
   },
   "popupReportIssueCaseFive": {
-    "message": "Nem kaptam olyan SMS-t vagy hívást ettől a weboldaltól, amire számítottam"
+    "message": "Nem kaptam meg egy várt SMS-t vagy hívást ettől a webhelytől"
   },
   "popupReportIssueCaseOther": {
     "message": "Egyéb"
