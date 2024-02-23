@@ -588,6 +588,10 @@
     "message": "Získejte Relay Premium na 1 rok",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Přesměrovat na:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Aktivovat masku telefonního čísla"
   },
