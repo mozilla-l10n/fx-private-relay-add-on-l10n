@@ -183,6 +183,21 @@
   "pageInputIconGenerateNewAlias_mask": {
     "message": "يېڭى نىقاب ھاسىللاش"
   },
+  "pageInputIconGenerateNewRandomMask": {
+    "message": "يېڭى ئىختىيارىي نىقاب ھاسىللاش"
+  },
+  "pageInputIconGenerateRandomMask": {
+    "message": "ئىختىيارىي نىقاب ھاسىللاش"
+  },
+  "pageInputIconGenerateCustomMask": {
+    "message": "ئىختىيارىي نىقاب ھاسىللاش"
+  },
+  "pageInputIconGetUnlimitedAliases_mask": {
+    "message": "چەكسىز نىقابقا ئېرىشىڭ"
+  },
+  "pageInputIconRecentAliases_mask": {
+    "message": "يېقىنقى نىقاب"
+  },
   "close": {
     "message": "تاقا"
   },
@@ -227,6 +242,9 @@
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
     "message": "بەك رازى"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "قايتۇرما ئىنكاسىڭىزغا رەھمەت!"
   },
   "popupCsatSurveyDismiss": {
     "message": "بولدىلا"
