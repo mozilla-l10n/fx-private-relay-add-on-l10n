@@ -154,6 +154,19 @@
   "popupPromoNewLabel": {
     "message": "يېڭى!"
   },
+  "popupCreateCustomFormMaskInputPlaceholder": {
+    "message": "مەسىلەن «قەھۋە»"
+  },
+  "popupCreateCustomFormMaskInputDescription": {
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "description": "",
+    "placeholders": {
+      "subdomain": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
+  },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "بازارچىلىق ئېلخەتنى توسسۇن"
   },
@@ -162,6 +175,13 @@
   },
   "popupCreateCustomFormError": {
     "message": "نىقابنى قۇرالمىدى. قايتا سىناڭ."
+  },
+  "pageInputIconSignUpButton": {
+    "message": "Firefox Relay غا يۆتكەل",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "pageInputIconGenerateNewAlias_mask": {
+    "message": "يېڭى نىقاب ھاسىللاش"
   },
   "close": {
     "message": "تاقا"
