@@ -605,6 +605,10 @@
     "message": "Relay şu anda tüm telefon aramalarını ve SMS’leri gerçek telefon numaranıza yönlendiriyor.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay tüm telefon aramalarını ve kısa mesajları engelliyor. Telefon numarası maskenizden size hiçbir şey ulaşmayacak.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Yönlendirilen numara:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -622,11 +626,19 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Telefon maskenizi etkinleştirin"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Relay Premium abonesi olarak gerçek numaranızı paylaşmadan kısa mesaj ve telefon alabilirsiniz. Başlamak için telefon numarası maskeniz olarak kullanılacak bir numara seçin. İşlem sadece 5 dakika sürecek.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Telefon maskesini etkinleştir"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Telefon numaranızı da maskeleyin"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Relay Premium telefon numarası maskeleme sayesinde gerçek telefon numaranızı koruyabilir, kısa mesajları ve gelen aramaları cevaplayabilirsiniz.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Telefon maskelemeyi kullanın"
