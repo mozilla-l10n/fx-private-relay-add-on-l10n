@@ -627,7 +627,7 @@
     "message": "Telefon maskenizi etkinleştirin"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Relay Premium abonesi olarak gerçek numaranızı paylaşmadan kısa mesaj ve telefon alabilirsiniz. Başlamak için telefon numarası maskeniz olarak kullanılacak bir numara seçin. İşlem sadece 5 dakika sürecek.",
+    "message": "Relay Premium abonesi olarak gerçek numaranızı paylaşmadan SMS ve telefon araması alabilirsiniz. Başlamak için telefon numarası maskeniz olarak kullanılacak bir numara seçin. İşlem sadece 5 dakika sürecek.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
@@ -637,7 +637,7 @@
     "message": "Telefon numaranızı da maskeleyin"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Relay Premium telefon numarası maskeleme sayesinde gerçek telefon numaranızı koruyabilir, kısa mesajları ve gelen aramaları cevaplayabilirsiniz.",
+    "message": "Relay Premium telefon numarası maskeleme sayesinde gerçek telefon numaranızı koruyabilir, SMS’leri ve gelen aramaları cevaplayabilirsiniz.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
