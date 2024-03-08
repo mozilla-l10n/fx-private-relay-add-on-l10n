@@ -606,7 +606,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay tüm telefon aramalarını ve kısa mesajları engelliyor. Telefon numarası maskenizden size hiçbir şey ulaşmayacak.",
+    "message": "Relay tüm telefon aramalarını ve SMS’leri engelliyor. Telefon numarası maskenizden size hiçbir şey ulaşmayacak.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
