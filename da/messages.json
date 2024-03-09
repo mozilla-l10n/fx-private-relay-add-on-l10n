@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Vend tilbage til hovedpanelet"
   },
-  "popupSettingsShowIcon": {
-    "message": "Vis Relay-ikonet i mail-felter på websider",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Vis Relay-ikonet i input-felter på websider",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Indsend rapport"
   },
-  "popupReportIssueSiteLabelHeadline": {
+  "popupReportIssuesHeadline": {
     "message": "Jeg har problemer med dette websted"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Beskrivelse af problemet"
+  "popupReportFeedbackHeadline": {
+    "message": "Indsend feedback"
   },
   "popupReportIssueCaseOne": {
     "message": "Mail-maske blev ikke accepteret af webstedet"
@@ -94,6 +94,9 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Jeg har ikke modtaget en mail fra webstedet, som jeg forventede"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Telefon-maske blev ikke accepteret af dette websted"
   },
   "popupReportIssueCaseOther": {
     "message": "Andet"
