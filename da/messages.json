@@ -98,6 +98,9 @@
   "popupReportIssueCaseFour": {
     "message": "Telefon-maske blev ikke accepteret af dette websted"
   },
+  "popupReportIssueCaseFive": {
+    "message": "Jeg har ikke modtaget en SMS-besked eller et opkald fra webstedet, som jeg forventede"
+  },
   "popupReportIssueCaseOther": {
     "message": "Andet"
   },
