@@ -352,5 +352,11 @@
   },
   "phoneRemainingTexts": {
     "message": "قالغان تېكىست"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "ئۇلاپ يوللىغان چاقىرىش ۋە تېكىست"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "توسۇلغان چاقىرىش ۋە تېكىست"
   }
 }
