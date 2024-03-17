@@ -96,6 +96,40 @@
   "popupSignUpPanelContinue": {
     "message": "داۋاملاشتۇر"
   },
+  "popupSignUpPanelSignIn": {
+    "message": "تىزىمغا كىرىڭ"
+  },
+  "popupRemainingAliases_2_mask": {
+    "message": "قالغان نىقاپ: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRemainingFreeMasks": {
+    "message": "قالغان ھەقسىز ئېلخەت نىقابى:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "يېقىندا ئىشلەتكەن ئېلخەت نىقابى",
+    "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "چەكسىز نىقابقا ئېرىشىڭ"
+  },
+  "popupOnboardingShowPrevious": {
+    "message": "ئالدىنقى تاختىنى كۆرسەت"
+  },
+  "popupOnboardingShowNext": {
+    "message": "كېيىنكى تاختىغا يۆتكەل"
+  },
   "ManageAllAliases_mask": {
     "message": "بارلىق نىقابنى باشقۇرۇش"
   },
@@ -116,6 +150,13 @@
   "labelAllEmailMasks": {
     "message": "بارلىق ئېلخەت نىقابى",
     "description": "In the pop-up panel, the use can view all masks they've created."
+  },
+  "popupOnboardingMaxAliasesPanelHeadline": {
+    "message": "بەش پەنج!"
+  },
+  "popupOnboardingMaxAliasesPanelBody": {
+    "message": "سىز Firefox Relay ئۇستىسى!",
+    "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupAliasesUsed_mask": {
     "message": "ئىشلىتىلگەن ئېلخەت نىقابلىرى"
@@ -248,6 +289,23 @@
   },
   "popupCsatSurveyDismiss": {
     "message": "بولدىلا"
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "ئۇلاپ يوللا:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "تىزىملاتقان چېسلا:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "ئۇلاپ يوللاۋاتىدۇ"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "توسۇۋاتىدۇ"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "تېلېفون نىقابىنى قوزغات"
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "تېلېفون نىقابىغا ئېرىشىش"
