@@ -158,8 +158,27 @@
     "message": "سىز Firefox Relay ئۇستىسى!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "popupGetDomainButton": {
+    "message": "بىردىنبىر Relay ئېلخەت دائىرىسىگە ئېرىشىڭ",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupAliasesUsed_mask": {
     "message": "ئىشلىتىلگەن ئېلخەت نىقابلىرى"
+  },
+  "popupTotalMasksUsed": {
+    "message": "جەمئىي ئىشلەتكەن ئېلخەت نىقابى"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "بۇ تور بېكەتتە نىقاب ئىشلەتكەن"
+  },
+  "popupEmailsBlocked": {
+    "message": "ئېلخەت توسۇلدى"
+  },
+  "popupEmailsForwarded": {
+    "message": "ئېلخەت ئۇلاپ يوللاندى"
+  },
+  "popupEmailTrackersRemoved": {
+    "message": "ئېلخەت ئىزلىغۇچ چىقىرىۋېتىلدى"
   },
   "popupEndOfIntroPricingCTA": {
     "message": "ھازىر يېڭىلا"
@@ -310,6 +329,12 @@
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "تېلېفون نىقابىغا ئېرىشىش"
   },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "دۆلىتىڭىزدە تېخى ئىشلەتكىلى بولمايدۇ"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "كۈتۈش تىزىمىغا قوشۇلۇڭ"
+  },
   "phonesTabText": {
     "message": "تېلېفون"
   },
@@ -319,7 +344,13 @@
   "goBackText": {
     "message": "قايت"
   },
+  "seeStatsText": {
+    "message": "ئىستاتىستىكا كۆرسەت"
+  },
   "phoneRemainingMinutes": {
     "message": "قالغان مىنۇت"
+  },
+  "phoneRemainingTexts": {
+    "message": "قالغان تېكىست"
   }
 }
