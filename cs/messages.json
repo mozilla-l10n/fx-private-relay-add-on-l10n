@@ -75,6 +75,9 @@
   "popupSettingsSubmitReport": {
     "message": "Odeslat hlášení"
   },
+  "popupReportIssuesHeadline": {
+    "message": "Mám problémy s touto webovou stránkou"
+  },
   "popupReportFeedbackHeadline": {
     "message": "Zanechání zpětné vazby"
   },
@@ -87,6 +90,9 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Očekávaná e-mailová zpráva z tohoto serveru nebyla doručena"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Z této webové stránky jsem neobdržel(a) žádnou zprávu ani hovor, který jsem očekával(a)"
   },
   "popupReportIssueCaseOther": {
     "message": "Jiná"
@@ -634,5 +640,8 @@
   },
   "phoneRemainingMinutes": {
     "message": "Zbývající minuty"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Přesměrované hovory a zprávy"
   }
 }
