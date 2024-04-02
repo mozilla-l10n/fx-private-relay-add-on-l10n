@@ -74,6 +74,9 @@
   "popupReportIssueCaseFour": {
     "message": "تور بېكەت تېلېفون نىقابىنى قوللىمايدۇ"
   },
+  "popupReportIssueCaseFive": {
+    "message": "كۈتكىنىمدەك بۇ تور بېكەتنىڭ تېكىستى ياكى چاقىرىشىنى تاپشۇرۇۋالمىدىم"
+  },
   "popupReportIssueCaseOther": {
     "message": "باشقا"
   },
