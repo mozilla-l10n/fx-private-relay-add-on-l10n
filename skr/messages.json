@@ -56,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "مین پینل تے واپس ون٘ڄو"
   },
-  "popupSettingsShowIcon": {
-    "message": "ویب سائٹاں تے ای میل خانیاں وچ Relay آئیکان ݙکھاؤ",
+  "popupSettingsShowIconInInputFields": {
+    "message": "ویب سائٹاں تے ان پٹ خانیاں وچ Relay آئیکان ݙکھاؤ",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -79,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "رپورٹ جمع کرواؤ"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "ایں ویب سائٹ نال میکوں مسئلے ہن"
+  "popupReportIssuesHeadline": {
+    "message": "ایں ویب سائٹ نال میکوں اوکھ ہن"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "مسئلے دی صورت حال"
+  "popupReportFeedbackHeadline": {
+    "message": "فیڈبیک ݙیوو"
   },
   "popupReportIssueCaseOne": {
     "message": "ویب سائٹ ولوں ای میل ماسک قبول کائناں تھیا ہائی"
@@ -590,5 +590,46 @@
   "popupHolidayPromo2023CTA": {
     "message": "1سال کیتے Relay Premium گھنو",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "کوں اڳوں تے بھیڄو:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "رجسٹر تھئی:",
+    "description": "Tells the user the date their phone mask was created."
+  },
+  "popupPhoneMasksForwardingButton": {
+    "message": "اڳوں تے پٹھݨ"
+  },
+  "popupPhoneMasksBlockingButton": {
+    "message": "رکاوٹ"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskTitle": {
+    "message": "آپݨاں فون ماسک فعال کرو"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "فون ماسک فعال کرو"
+  },
+  "popUpPhoneMasksNotAvailableCta": {
+    "message": "تانگھ تندیر نال رلت کرو"
+  },
+  "phonesTabText": {
+    "message": "فون"
+  },
+  "emailsTabText": {
+    "message": "ای میل"
+  },
+  "goBackText": {
+    "message": "واپس ون٘ڄو"
+  },
+  "seeStatsText": {
+    "message": "شماریات ݙیکھو"
+  },
+  "phoneRemainingMinutes": {
+    "message": "باقی منٹ"
+  },
+  "phoneRemainingTexts": {
+    "message": "باقی عبارتاں"
   }
 }
