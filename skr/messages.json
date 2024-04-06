@@ -95,6 +95,12 @@
   "popupReportIssueCaseThree": {
     "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ای میلاں وصول کائنی کیتیاں"
   },
+  "popupReportIssueCaseFour": {
+    "message": "ایں ویب سائٹ ولوں فون ماسک قبول کائناں تھیا ہائی"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ٹیکسٹ یا کال وصول کائنی کیتیاں"
+  },
   "popupReportIssueCaseOther": {
     "message": "ٻیا"
   },
@@ -610,6 +616,9 @@
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "فون ماسک فعال کرو"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "فون ماسکنگ گھنو"
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "تانگھ تندیر نال رلت کرو"
