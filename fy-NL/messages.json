@@ -364,7 +364,7 @@
     "message": "Opnij oanmelde mei jo e-mailmaskers"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "In nije oanpast masker oanmeitsje"
+    "message": "In nij oanpast masker oanmeitsje"
   },
   "popupCreateCustomMaskBody": {
     "message": "It iennige dat jo hoege te dwaan, is in unyk masker betinke en diele dy’t jo oanpaste domein brûkt – it masker wurdt automatysk oanmakke. Probearje bygelyks de folgjende kear dat jo online winkelje ‘winkel@oanpastsubdomein.mozmail.com’."
@@ -403,7 +403,7 @@
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "Nije masker oanmeitsje"
+    "message": "Nij masker oanmeitsje"
   },
   "pageInputIconGenerateNewRandomMask": {
     "message": "Willekeurich nij masker oanmeitsje"
