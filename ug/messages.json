@@ -218,6 +218,9 @@
     "message": "قەيەردە بولۇشىڭىزدىن قەتئىينەزەر، ئېلخىتىڭىزنى قوغدىشىڭىزغا Relay ياردەم بېرەلەيدۇ.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "قوشۇمچە ھۆججەتنىڭ چوڭلۇقى ئارتتى"
+  },
   "popupEndOfIntroPricingHeadline": {
     "message": "ئېتبار باھا پات يېقىندا ئاخىرلىشىدۇ!"
   },
