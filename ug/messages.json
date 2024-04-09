@@ -1,7 +1,19 @@
 {
+  "extensionDescription_mask": {
+    "message": "Firefox Relay نىقابلىق ئېلخەت ساندۇقىنى ئاسانلا قۇرۇپ، تاپشۇرۇۋالغان ئېلخەت يوللانمىسىنى ئاپتوماتىك ھالدا سىزنىڭ ھەقىقىي ئېلخەت ساندۇقىڭىزغا يوللايدۇ.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "firstRunP": {
+    "message": "سىز Firefox Relay قوشۇلمىسىنى مۇۋەپپەقىيەتلىك ئورناتتىڭىز. باشلاش ئۈچۈن Firefox ھېساباتىڭىز بىلەن Relay غا كىرىڭ.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
+  "firstRunP2": {
+    "message": "سىز Firefox Relay قوشۇلمىسىنى مۇۋەپپەقىيەتلىك ئورناتتىڭىز. باشلاش ئۈچۈن ھېساباتىڭىز بىلەن Relay غا كىرىڭ.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "allowDataCollection": {
     "message": "سانلىق مەلۇمات توپلاشقا يول قويىدۇ",
