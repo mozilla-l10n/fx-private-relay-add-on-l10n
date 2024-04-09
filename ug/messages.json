@@ -381,8 +381,14 @@
     "message": "Premium كۈتۈش تىزىمىغا قوشۇلۇڭ",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
+  "pageInputIconUseExistingAliasFromTheSite_mask": {
+    "message": "بۇ بېكەتتىكى مەۋجۇت نىقابنى ئىشلىتىدۇ…"
+  },
   "pageInputIconRecentAliases_mask": {
     "message": "يېقىنقى نىقاب"
+  },
+  "pageInputIconInsertPhoneMask": {
+    "message": "تېلېفون نومۇرى نىقابى ئىشلەت"
   },
   "close": {
     "message": "تاقا"
