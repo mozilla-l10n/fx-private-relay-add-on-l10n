@@ -369,6 +369,10 @@
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "شەخسىيەت ئۇقتۇرۇشى يېڭىلاندى"
   },
+  "popupPrivacyNoticeUpdateBody": {
+    "message": "Firefox Relay نىڭ ئىشەنچلىكلىكىنى يۇقىرى كۆتۈرۈش ۋە ئېلخەت ئۇلاپ يوللاش مەغلۇبىيىتىدىن ئىمكانقەدەر ساقلىنىش ئۈچۈن، تاپشۇرۇۋالغان ئېلخەتلەرنى ئۇلاپ يوللاش مۇۋەپپەقىيەتلىك بولغۇچە مۇلازىمېتىردا ۋاقىتلىق ساقلايمىز. ئەمما ساقلاش ۋاقتى ئۈچ كۈندىن ئېشىپ كەتمەيدۇ.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
     "message": "شەخسىيەت ئۇقتۇرۇشىنى كۆرسەت"
   },
@@ -383,6 +387,10 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "كۆچۈرۈلدى!"
+  },
+  "popupSurveyLink": {
+    "message": "Relay نى ياخشىلاشقا ياردەملىشىڭ",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
     "message": "بەك نارازى"
@@ -404,6 +412,12 @@
   },
   "popupCsatSurveyDismiss": {
     "message": "بولدىلا"
+  },
+  "popupCsatSurveyLink": {
+    "message": "تەكشۈرۈشكە قاتنىشىڭ"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "ھازىر چەكسىز نىقاب بار"
   },
   "popupPhoneMasksMetaForwardTo": {
     "message": "ئۇلاپ يوللا:",
