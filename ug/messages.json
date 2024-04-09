@@ -15,6 +15,10 @@
     "message": "سىز Firefox Relay قوشۇلمىسىنى مۇۋەپپەقىيەتلىك ئورناتتىڭىز. باشلاش ئۈچۈن ھېساباتىڭىز بىلەن Relay غا كىرىڭ.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunCollectDataLabel": {
+    "message": "Mozilla نىڭ بۇ كېڭەيتمىنى قانداق ئىشلىتىدىغانلىقىڭىز ھەققىدە ئۇچۇر توپلىشىغا يول قويۇڭ.",
+    "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
+  },
   "allowDataCollection": {
     "message": "سانلىق مەلۇمات توپلاشقا يول قويىدۇ",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -108,6 +112,14 @@
   "popupSignUpPanelWelcome": {
     "message": "خۇش كەپسىز"
   },
+  "popupSignUpPanelIntro": {
+    "message": "Firefox ھېساباتىڭىز بىلەن Relay غا كىرىپ ئىشلىتىشنى باشلاڭ.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "ھېساباتىڭىز بىلەن Relay غا كىرىپ ئىشلىتىشنى باشلاڭ.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
+  },
   "popupSignUpPanelContinue": {
     "message": "داۋاملاشتۇر"
   },
@@ -195,6 +207,21 @@
   "popupEmailTrackersRemoved": {
     "message": "ئېلخەت ئىزلىغۇچ چىقىرىۋېتىلدى"
   },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Relay Premium گە يېڭىلاپ تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Body": {
+    "message": "قەيەردە بولۇشىڭىزدىن قەتئىينەزەر، ئېلخىتىڭىزنى قوغدىشىڭىزغا Relay ياردەم بېرەلەيدۇ.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupEndOfIntroPricingHeadline": {
+    "message": "ئېتبار باھا پات يېقىندا ئاخىرلىشىدۇ!"
+  },
+  "popupEndOfIntroPricingBody": {
+    "message": "9-ئاينىڭ 27-كۈنىدىن بۇرۇن Relay Premium نى زاكاز قىلسىڭىز، ئېتىبار باھادىن بەھرىمان بولالايسىز.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupEndOfIntroPricingCTA": {
     "message": "ھازىر يېڭىلا"
   },
@@ -220,14 +247,52 @@
   "popupPromoBlockingButtonTitle": {
     "message": "بازارچىلىق ئېلخەتنى توسسۇن"
   },
+  "popupPromoBlockingButtonCopy": {
+    "message": "نىقابلىق ئېلخەت ساندۇقىنىڭ «بازارچىلىق ئېلخەتنى توسۇش» ئىقتىدارىنى قوزغىتىپ، ئېلخەت ساندۇقىڭىزغا بازارچىلىق ئېلخەتلىرىنى ئۇلاپ يوللاشنى توختىتىدۇ."
+  },
   "popupPromoBlockingButtonLearnMore": {
     "message": "تەپسىلاتى"
+  },
+  "popupPasswordManagerRelayHeadline": {
+    "message": "Firefox پارول باشقۇرغۇچ + Relay",
+    "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
+  },
+  "popupPasswordManagerRelayBody": {
+    "message": "ھازىر سىز Firefox پارول باشقۇرغۇچىڭىزدا Relay نى بىۋاسىتە ئىشلىتەلەيسىز.",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
+  },
+  "popupBundlePromoHeadlineFreePlan": {
+    "message": "تونۇشتۇرۇش: Relay + VPN مۇشتەرىلىك پىلانى",
+    "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
+  },
+  "popupBundlePromoBodyFreePlan": {
+    "message": "مۇشتەرىلىكىڭىزنى يۈكسەلتىش ئارقىلىق، ئايلىقى $MONTHLY_PRICE$ بىلەنلا Relay Premium + Mozilla VPN گە مۇشتەرى بولۇپ، $SAVINGS$ تېجەپ قالالايسىز!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "savings": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "ھازىر يېڭىلا"
   },
   "popupPromoNewLabel": {
     "message": "يېڭى!"
+  },
+  "popupSignBackInHeadline_mask": {
+    "message": "نىقابلىق ئېلخەت بىلەن قايتا كىرىڭ"
+  },
+  "popupCreateCustomMaskTitle": {
+    "message": "يېڭىدىن ئىختىيارى نىقاب قۇر"
+  },
+  "popupCreateCustomFormMaskInputLabel": {
+    "message": "نىقابلىق ئېلخەت ئالدى قوشۇلغۇچىسى كىرگۈزۈلىدۇ"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "مەسىلەن «قەھۋە»"
@@ -251,6 +316,10 @@
   "popupCreateCustomFormError": {
     "message": "نىقابنى قۇرالمىدى. قايتا سىناڭ."
   },
+  "pageInputIconSignUpText": {
+    "message": "تىزىملىتىپ كىرىش ياكى ھېسابات قۇرۇش ئۈچۈن Firefox Relay تور بېتىنى زىيارەت قىلىڭ.",
+    "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "pageInputIconSignUpButton": {
     "message": "Firefox Relay غا يۆتكەل",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
@@ -267,8 +336,20 @@
   "pageInputIconGenerateCustomMask": {
     "message": "ئىختىيارىي نىقاب ھاسىللاش"
   },
+  "pageInputIconSelectFromYourCurrentEmailMasks": {
+    "message": "نۆۋەتتىكى ئېلخەت نىقابىڭىزدىن بىرنى تاللاڭ",
+    "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
+  },
+  "pageInputIconPreviouslyUsedMask": {
+    "message": "ئىلگىرى بۇ تور بېكەتتە ئىشلىتىلگەن",
+    "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
+  },
   "pageInputIconGetUnlimitedAliases_mask": {
     "message": "چەكسىز نىقابقا ئېرىشىڭ"
+  },
+  "pageInputIconJoinPremiumWaitlist": {
+    "message": "Premium كۈتۈش تىزىمىغا قوشۇلۇڭ",
+    "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconRecentAliases_mask": {
     "message": "يېقىنقى نىقاب"
