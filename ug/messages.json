@@ -211,6 +211,9 @@
     "message": "Relay Premium گە يېڭىلاپ تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupEducationalComponent1Headline": {
+    "message": "دۇنيا مىقياسىدىكى قوغداش قورالى"
+  },
   "popupEducationalComponent1Body": {
     "message": "قەيەردە بولۇشىڭىزدىن قەتئىينەزەر، ئېلخىتىڭىزنى قوغدىشىڭىزغا Relay ياردەم بېرەلەيدۇ.",
     "description": "DO NOT TRANSLATE \"Relay\"."
