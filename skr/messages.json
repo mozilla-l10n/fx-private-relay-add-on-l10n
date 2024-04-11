@@ -620,6 +620,9 @@
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "فون ماسکنگ گھنو"
   },
+  "popUpPhoneMasksNotAvailableTitle": {
+    "message": "اڄݨ تہاݙے ملک وچ دستیاب کائنی"
+  },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "تانگھ تندیر نال رلت کرو"
   },
