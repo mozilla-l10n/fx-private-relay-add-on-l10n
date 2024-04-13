@@ -221,6 +221,10 @@
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "قوشۇمچە ھۆججەتنىڭ چوڭلۇقى ئارتتى"
   },
+  "popupAttachmentSizeIncreaseBody": {
+    "message": "ھازىر Firefox Relay ئەڭ چوڭ بولغاندا 25MB يۈكلەنمىنى ئۆز ئىچىگە ئالغان ئېلخەتنى ئۇلاپ يوللىيالايدۇ.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "popupEndOfIntroPricingHeadline": {
     "message": "ئېتبار باھا پات يېقىندا ئاخىرلىشىدۇ!"
   },
@@ -276,6 +280,16 @@
       "savings": {
         "content": "$1",
         "example": "40%"
+      }
+    }
+  },
+  "popupBundlePromoBody_2": {
+    "message": "Relay Premium + Mozilla VPN نىڭ 1 يىللىق پىلانى $MONTHLY_PRICE$/ئاي.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$4.99"
       }
     }
   },
