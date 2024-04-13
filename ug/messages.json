@@ -429,8 +429,18 @@
       }
     }
   },
+  "profilePageDefaulAliasLabelText": {
+    "message": "ھېسابات ئىسمى قوش",
+    "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
+  },
   "close": {
     "message": "تاقا"
+  },
+  "returnToPreviousPanel": {
+    "message": "ئالدىنقى تاختىغا قايت"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "يېڭى ئىقتىدارنى قوزغات"
   },
   "popupDataCollectionButtonLearnMore": {
     "message": "تەپسىلاتى"
@@ -454,8 +464,43 @@
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "بولدىلا"
   },
+  "popupFreeMasksAvailable": {
+    "message": "$REMAINING$/$MAXIMUM$ نىقاب بار.",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
+  },
+  "popupFreeMasksLimitReached": {
+    "message": "ھەقسىز $MAXIMUM$ نىقابنىڭ ھەممىسىنى ئىشلىتىپ بولدىڭىز.",
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "popupNoMasksCreatedHeadline": {
+    "message": "ھەقىقىي ئېلخەت ئادرېسىڭىزنى قوغدايدۇ"
+  },
+  "popupNoMasksCreatedBody": {
+    "message": "Relay نىقابى ئارقىلىق كىملىك شەخسىيىتىڭىزنى قوغداڭ، قوبۇللاش ساندۇقىڭىزدا سىز ئېھتىياجلىق ئېلخەتلەرگىلا ئېرىشىڭ.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupUpgradeBtnGetMoreProtection": {
     "message": "تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Relay نى قوزغات",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
     "message": "چېكىلسە كۆچۈرىدۇ"
@@ -466,6 +511,10 @@
   "popupSurveyLink": {
     "message": "Relay نى ياخشىلاشقا ياردەملىشىڭ",
     "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "سىزنىڭ Firefox Relay ئىشلىتىشتىكى مەمنۇنلۇق تەسىراتىڭىز قانداق؟",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
     "message": "بەك نارازى"
