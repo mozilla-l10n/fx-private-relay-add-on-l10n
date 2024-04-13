@@ -643,5 +643,11 @@
   },
   "phoneRemainingTexts": {
     "message": "باقی عبارتاں"
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "فون  تے عبارت اڳوں تے بھیڄ ݙتی"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "فون  تے عبارت روک ݙتے"
   }
 }
