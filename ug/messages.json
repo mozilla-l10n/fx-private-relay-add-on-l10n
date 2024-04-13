@@ -319,6 +319,13 @@
       }
     }
   },
+  "popupBundlePromoCTA": {
+    "message": "VPN + Relay غا ئېرىشىش",
+    "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
+  },
+  "popupPhoneMaskingPromoHeadline": {
+    "message": "تېلېفون نومۇرى نىقابىنى تونۇشتۇرۇش"
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "ھازىر يېڭىلا"
   },
@@ -403,6 +410,24 @@
   },
   "pageInputIconInsertPhoneMask": {
     "message": "تېلېفون نومۇرى نىقابى ئىشلەت"
+  },
+  "pageInputIconMaxAliasesError_mask": {
+    "message": "سىز قۇرالايدىغان نىقاب نومۇر چېكىگە يەتتىڭىز",
+    "description": "Tells the user they have already created the max number of masks."
+  },
+  "pageNoMasksRemaining": {
+    "message": "ھەقسىز ئېلخەت نىقابىنى ئىشلىتىپ بولدىڭىز.",
+    "description": "Error message that appears when a free tier user uses all of their masks."
+  },
+  "profilePageInvalidAliasCharactersError": {
+    "message": "قوللىمايدىغان ھەرپ: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "characters": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "close": {
     "message": "تاقا"
