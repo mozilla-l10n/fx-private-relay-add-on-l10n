@@ -593,9 +593,21 @@
     "message": "20 فیصد رعائت نال Relay Premium گھنو",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
+  "popupHolidayPromo2023Body": {
+    "message": "اِیں ناغیاں دے موسم وِچ، ریلے پریمیئم دی 1 ورین٘ہ دے مُل تے 20٪ رعائت حاصل کرو۔ چیک آؤٹ تے صرف پرموکوڈ \"HOLIDAY20\" درج کرو۔ پیشکش 31 دسمبر، 2023 کوں مُکدی پئی ہِے۔",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupHolidayPromo2023CTA": {
     "message": "1سال کیتے Relay Premium گھنو",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "رِیلے ایں ویلے سبّھے فون کالاں اَتے ٹیکسٹ پیغاماں کوں تُہاݙے حقیقی فون لمبر اُتّے گھلین٘دا پِیا ہِے۔",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "رِیلے سبّھے فون کالاں اَتے ٹیکسٹ پیغاماں کوں بلاک کرین٘دا پِیا ہِے — تُہاکُوں آپݨے فون نمبر ماسک کنوں کُجھ وی نہ مِلسی۔",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
     "message": "کوں اڳوں تے بھیڄو:",
@@ -614,14 +626,29 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "آپݨاں فون ماسک فعال کرو"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "رِیلے پریمیئم سبسکرائبر دے طور تے، تُساں آپݨاں اصلی نمبر ظاہر کِیتے مُتُّوں ٹیکسٹ پیغاماں اَتے فون کالاں حاصل کر سڳدے ہِیوے۔ آپݨے فون نمبر ماسک دے طور تے استعمال کرݨ کِیتے ہِک نمبر کوں چُݨ کے شروع کرو۔ اِین٘دے وِچ صرف 5 منٹ لڳدے ہِن۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "فون ماسک فعال کرو"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "آپݨاں فون نمبر وی ماسک کرو"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "رِیلے پریمیئم فون نمبر ماسکنگ دے نال، تُساں آپݨے اصلی فون نمبر دی راکھی کر سڳدے ہِیوے اَتے تاں وی ٹیکسٹس اَتے کالاں وصول کر اَتے جواب ݙے سڳدے ہِیوے۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "فون ماسکنگ گھنو"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "اڄݨ تہاݙے ملک وچ دستیاب کائنی"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "رِیلے پریمیئم فون نمبر ماسکنگ دے نال، تُساں آپݨے ای میل پتے آلی کار آپݨاں اصلی فون نمبر لُکا سڳسو۔ رِیلے سائٹ اُتے ٻِیا ڄاݨو اَتے اپ ڈیٹاں کِیتے سائن اَپ کرو۔",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "تانگھ تندیر نال رلت کرو"
