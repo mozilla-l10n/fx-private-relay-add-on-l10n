@@ -605,6 +605,10 @@
     "message": "Relay transfere actualmente tote le appellos telephonic e SMS verso tu ver numero de telephono.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay bloca tote le appellos telephonic e messages de texto, tu non recipera alco ab tu masca de numero de telephono.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Inultrar a:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -622,17 +626,29 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Activa tu masca de telephono"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Como abonato premio de Relay, tu pote reciper messages de texto e appellos telephonic sin revelar tu numero real. Initia seligente un numero a usar como tu masca del numero de telephono. Il prende solo 5 minutas.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Activa masca de telephono"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Alsi masca tu numero de telephono"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Con le mascas de numero de telephono de Relay Premium, tu pote proteger tu real numero de telephono e ancora reciper e responder a textos e appellos.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Obtene le mascas de telephono"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Non ancora disponibile in tu pais"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Con le mascas de numero de telephono de Relay Premium, tu potera celar tu real numero de telephono justo como tu adresse email. Apprende plus sur le sito de Relay e inscribe te al actualisationes.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Junge te al lista de attendentia"
