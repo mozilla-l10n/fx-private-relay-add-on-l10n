@@ -3,6 +3,10 @@
     "message": "Firefox Relay نىقابلىق ئېلخەت ساندۇقىنى ئاسانلا قۇرۇپ، تاپشۇرۇۋالغان ئېلخەت يوللانمىسىنى ئاپتوماتىك ھالدا سىزنىڭ ھەقىقىي ئېلخەت ساندۇقىڭىزغا يوللايدۇ.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
+  "extensionDescriptionStore_mask": {
+    "message": "تور كىملىكىڭىزگە ئەڭ يېقىن - Firefox Relay سىزنىڭ ھەقىقىي ئېلخەت ئادرېسىڭىزنى قوغداشقا ياردەم بېرىدۇ. ئۇ سىزگە بىردىنبىر، تاسادىپىي نىقاب ھاسىل قىلىپ بىرىدۇ، سىز نىقابلىق ئېلخىتىڭىز ئارقىلىق ھېسابات تىزىملىتىپ، ئەپ، خەۋەر ۋە ئۇچۇرلارنى ھەقىقىي ئېلخەت ئادرېسىڭىزغا ئۇلاپ يوللىيالايسىز. ئەگەر كېرەكسىز ئېلخەت ياكى ئەخلەت خەت ئەۋەتىۋاتقانلىقىنى بايقىسىڭىز، نىقابنى چەكلەپ قويسىڭىزلا شۇ ھامان ھەقىقىي ئېلخەت ساندۇقىڭىزغا ئۇلاپ يوللاش توختايدۇ. مەلۇم بىر نىقابنىڭ لازىمى قالمىغاندا، نىقابنى ئۆچۈرەلەيسىز.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "labelRelayPremium": {
     "message": "Firefox Relay Premium",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
@@ -263,6 +267,10 @@
   "popupPromoBlockingButtonLearnMore": {
     "message": "تەپسىلاتى"
   },
+  "popupBlockPromotionalEmailsBodyNonPremium": {
+    "message": "Relay Premium ئارقىلىق بازارچىلىق ئېلخەتلىرىنىڭ خەت ساندۇقىڭىزغا كىرىشىنى توسىيالايسىز، شۇنىڭ بىلەن بىر ۋاقىتتا تالون ياكى يوللانما ئۇچۇرى قاتارلىق ئېلخەتلەرنى نورمال تاپشۇرۇۋالالايسىز.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupBundlePromoHeadline_2": {
     "message": "$SAVINGS$ ئىتېبار بىلەن Mozilla VPN ئېرىشىڭ.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
@@ -290,6 +298,16 @@
       "monthly_price": {
         "content": "$1",
         "example": "$4.99"
+      }
+    }
+  },
+  "popupBundlePromoBody_3": {
+    "message": "بىر يىللىق Relay Premium تېلېفون نىقابى ۋە Mozilla VPN نى ئايلىقى $MONTHLY_PRICE$دىن زاكاس قىلىڭ.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "monthly_price": {
+        "content": "$1",
+        "example": "$6.99"
       }
     }
   },
@@ -325,6 +343,12 @@
   },
   "popupPhoneMaskingPromoHeadline": {
     "message": "تېلېفون نومۇرى نىقابىنى تونۇشتۇرۇش"
+  },
+  "popupPhoneMaskingPromoBody": {
+    "message": "تېلېفون نومۇرىنى نىقابلاش ئارقىلىق، سىز ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر ۋە تېلېفون قوبۇل قىلالايسىز."
+  },
+  "popupPhoneMaskingPromoBodyPremium": {
+    "message": "ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر ۋە تېلېفون قوبۇل قىلىڭ."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "ھازىر يېڭىلا"
@@ -559,6 +583,16 @@
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "تېلېفون نىقابىنى قوزغات"
+  },
+  "popupPhoneMasksActivateYourPhoneMaskCta": {
+    "message": "تېلېفون نىقابىنى قوزغات"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskTitle": {
+    "message": "تېلېفون نومۇرىڭىزنىمۇ نىقابلاڭ"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Relay Premium بىلەن تېلېفون نومۇرىنى نىقابلاش ئارقىلىق ھەقىقىي تېلېفون نومۇرىڭىزنى قوغدىيالايسىز، شۇنىڭ بىلەن بىر ۋاقىتتا قىسقا ئۇچۇر ۋە تېلېفونلارنى نورمال قوبۇل قىلالايسىز ۋە جاۋاب قايتۇرالايسىز.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "تېلېفون نىقابىغا ئېرىشىش"
