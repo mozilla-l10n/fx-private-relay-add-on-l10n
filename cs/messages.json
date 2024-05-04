@@ -56,6 +56,10 @@
   "popupSettingsReturn": {
     "message": "Zpět na hlavní panel"
   },
+  "popupSettingsShowIconInInputFields": {
+    "message": "Zobrazovat ikonu služby Relay ve vstupních polích na webových stránkách",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
+  },
   "popupSettingsCollectData": {
     "message": "Povolit Mozille sbírat údaje o interakcích",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -90,6 +94,9 @@
   },
   "popupReportIssueCaseThree": {
     "message": "Očekávaná e-mailová zpráva z tohoto serveru nebyla doručena"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Maska telefonu nebyla touto webovou stránkou akceptována"
   },
   "popupReportIssueCaseFive": {
     "message": "Z této webové stránky jsem neobdržel(a) žádnou zprávu ani hovor, který jsem očekával(a)"
@@ -593,6 +600,10 @@
   "popupHolidayPromo2023CTA": {
     "message": "Získejte Relay Premium na 1 rok",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Služba Relay nyní přesměrovává všechny hovory a textové zprávy na vaše skutečné telefonní číslo.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Přesměrovat na:",
