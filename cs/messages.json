@@ -605,6 +605,10 @@
     "message": "Služba Relay nyní přesměrovává všechny hovory a textové zprávy na vaše skutečné telefonní číslo.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Služba Relay blokuje všechny hovory a textové zprávy — z masky vašeho telefonního čísla nebude nic přijímáno.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupPhoneMasksMetaForwardTo": {
     "message": "Přesměrovat na:",
     "description": "The number that messages from the phone mask are being forwarded to."
@@ -622,17 +626,29 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Aktivujte si masku telefonního čísla"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Jako předplatitel služby Relay Premium můžete přijímat textové zprávy a telefonní hovory bez prozrazení svého skutečného telefonního čísla. Začněte výběrem čísla, které chcete použít jako masku telefonního čísla. Zabere to jen 5 minut.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Aktivovat masku telefonního čísla"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Zamaskujte si své telefonní číslo"
   },
+  "popupPhoneMasksUpgradeToPhoneMaskBody": {
+    "message": "Pomocí maskování telefonního čísla ve službě Relay Premium můžete chránit své skutečné telefonní číslo a stále přijímat a odpovídat na zprávy SMS a hovory.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Získejte maskování telefonního čísla"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Ve vaší zemi zatím není k dispozici"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Díky maskování telefonního čísla ve službě Relay Premium budete moci skrývat své skutečné telefonní číslo stejně jako svou e-mailovou adresu. Zjistěte více na webu služby Relay a přihlaste se k odběru aktualizací.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Přidat se na čekací listinu"
@@ -652,7 +668,13 @@
   "phoneRemainingMinutes": {
     "message": "Zbývající minuty"
   },
+  "phoneRemainingTexts": {
+    "message": "Zbývající texty"
+  },
   "phoneForwardedCallsTexts": {
     "message": "Přesměrované hovory a zprávy"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Hovory a zprávy jsou blokovány"
   }
 }
