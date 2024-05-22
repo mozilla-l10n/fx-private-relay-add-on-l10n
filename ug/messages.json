@@ -31,6 +31,10 @@
     "message": "سانلىق مەلۇمات توپلاشنى چەكلەيدۇ",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP_mask": {
+    "message": "سىز قورال بالداقتىكى Relay سىنبەلگىسىنى چېكىش ياكى يېڭى بىر نىقاب قۇرۇش قاتارلىق مەشغۇلاتلارنى قىلغىنىڭىزدا، ئۆز-ئارا تەسىر سانلىق مەلۇماتلىرىنى توپلاش ئارقىلىق بىزنىڭ قايسى ئىقتىدارلارنىڭ ياخشى خىزمەت قىلىۋاتقانلىقىنى ۋە قەيەرنى تېخىمۇ ياخشىلاش كېرەكلىكىنى بىلىشىمىزگە ياردەم بېرەلەيسىز. بۇ ئىقتىدارنى تەڭشەك تاختىسىدىن خالىغان ۋاقىتتا تاقىۋېتەلەيسىز.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "خەتلىتىڭ / تىزىمغا كىرىڭ"
   },
@@ -362,6 +366,9 @@
   "popupCreateCustomMaskTitle": {
     "message": "يېڭىدىن ئىختىيارى نىقاب قۇر"
   },
+  "popupCreateCustomMaskBody": {
+    "message": "سىزنىڭ قىلىدىغىنىڭىز پەقەت ئۆزىڭىزنىڭ خاس تارماق ئاتىنى ئىشلىتىدىغان ئۆزگىچە نىقاب قۇرۇپ ھەمبەھىرلەش — نىقاب ئاپتوماتىك ھاسىل بولىدۇ. كېيىنكى قېتىم توردا مال سېتىۋالغىنىڭىزدا، مىسالەن: «shop@customsubdomain.mozmail.com» نى سىناپ بېقىڭ."
+  },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "نىقابلىق ئېلخەت ئالدى قوشۇلغۇچىسى كىرگۈزۈلىدۇ"
   },
@@ -566,6 +573,10 @@
   },
   "popupEuCountryExpansionHeadline": {
     "message": "ھازىر چەكسىز نىقاب بار"
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Relay Premium غا ئېرىشىڭ",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardTo": {
     "message": "ئۇلاپ يوللا:",
