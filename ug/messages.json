@@ -473,6 +473,10 @@
   "popupDataCollectionHeadline": {
     "message": "يېڭى ئىقتىدارنى قوزغات"
   },
+  "popupDataCollectionBody_mask": {
+    "message": "سىز Relay نىڭ تېخىمۇ كۆپ سانلىق مەلۇمات توپلىشىغا يول قويۇپ، سىزنىڭ ھەر قايسى تور بېكەتلەردە قۇرغان ۋە ئىشلەتكەن نىقاپ بەلگىسىنى ئۈسكۈنىلىرىڭىزدە قەدەمداشلىشىغا يول قويسىڭىز بولىدۇ.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupDataCollectionButtonLearnMore": {
     "message": "تەپسىلاتى"
   },
@@ -564,6 +568,9 @@
   },
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "قايتۇرما ئىنكاسىڭىزغا رەھمەت!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "مۇلازىمەت سۈپىتىمىزنى تېخىمۇ ئۆستۈرۈشىمىز ئۈچۈن قىممەتلىك تەكلىپ-پىكرىڭىزنى ئاڭلىغۇمىز بار. ئىككى مىنۇتلۇق ئىنكاس سۆرۈشتۈرۈشىمىزگە قاتنىشىپ، بىزگە ياردەم بېرىشنى خالامسىز؟"
   },
   "popupCsatSurveyDismiss": {
     "message": "بولدىلا"
