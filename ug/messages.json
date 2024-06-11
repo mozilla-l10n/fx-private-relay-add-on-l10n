@@ -581,9 +581,33 @@
   "popupEuCountryExpansionHeadline": {
     "message": "ھازىر چەكسىز نىقاب بار"
   },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium مۇلازىمىتىنى ھازىر دۆلىتىڭىزدىمۇ ئىشلىتىشكە بولىدۇ. بۇ مۇلازىمەتتىن پايدىلىنىپ، چەكلىمىسىز ئېلخەت نىقابى ئارقىلىق ئۆزىڭىزنىڭ ئېلخەت ساندۇقىڭىزنى قوغدىيالايسىز.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
   "popupEuCountryExpansionPromoCTA": {
     "message": "Relay Premium غا ئېرىشىڭ",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Relay Premium غا %20 ئېتىبار باھادا ئېرىشىڭ",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Body": {
+    "message": "بۇ بايرام مەزگىلىدە 1 يىللىق Relay Premium نى سېتىۋالسىڭىز %20 ئېتىبارغا ئېرىشىسىز. ھېسابات قىلغاندا ئېتىبار كودىغا «HOLIDAY20» نى كىرگۈزۈڭ. ئېتىبار 2023-يىلى 12-ئاينىڭ 31-كۈنىگىچە.",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023CTA": {
+    "message": "Relay Premium غا 1 يىللىق مۇشتەرى بولۇش",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupPhoneMasksMetaForwardingDescription": {
+    "message": "Relay نۆۋەتتە كەلگەن بارلىق تېلېفون چاقىرىش ۋە تېكىست ئۇچۇرنى ھەقىقىي تېلېفون نومۇرىڭىزغا ئۇلاپ يوللايدۇ.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupPhoneMasksMetaBlockingDescription": {
+    "message": "Relay بارلىق تېلېفو چاقىرىشى ۋە تېكىست ئۇچۇرىنى توسۇۋاتىدۇ - تېلېفون نومۇرى نىقابىڭىزدىن ھېچنېمە تاپشۇرۇۋالمايسىز.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
     "message": "ئۇلاپ يوللا:",
