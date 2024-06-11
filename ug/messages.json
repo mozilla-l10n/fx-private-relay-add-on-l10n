@@ -626,6 +626,10 @@
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "تېلېفون نىقابىنى قوزغات"
   },
+  "popupPhoneMasksActivateYourPhoneMaskBody": {
+    "message": "Relay Premium مۇشتەرى بولۇش سۈپىتىڭىز بىلەن، ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر يوللاپ ۋە تېلېفون ئۇرالايسىز. تېلېفون نومۇرى نىقابى سۈپىتىدە ئىشلىتىدىغان نومۇرنى تاللاڭ. بۇنىڭغا پەقەت 5 مىنۇت ۋاقىت كېتىدۇ.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "تېلېفون نىقابىنى قوزغات"
   },
@@ -641,6 +645,10 @@
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "دۆلىتىڭىزدە تېخى ئىشلەتكىلى بولمايدۇ"
+  },
+  "popUpPhoneMasksNotAvailableBody": {
+    "message": "Relay Premium دا ئېلخەت ئادرېسىڭىزنى يوشۇرغانغا ئوخشاش تېلېفون نومۇرىنى نىقابلاپ ھەقىقىي تېلېفون نومۇرىڭىزنى يوشۇرالايسىز. Relay تور بېكىتىدە تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىڭ ھەمدە يېڭىلانمىلارغا مۇشتەرى بولۇڭ.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "كۈتۈش تىزىمىغا قوشۇلۇڭ"
