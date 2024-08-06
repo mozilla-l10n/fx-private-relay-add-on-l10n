@@ -447,7 +447,7 @@
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Você não tem mais máscaras de email gratuitas.",
+    "message": "Você atingiu o limite de máscaras de email gratuitas.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
