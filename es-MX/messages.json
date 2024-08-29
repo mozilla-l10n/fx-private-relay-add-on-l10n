@@ -15,6 +15,10 @@
     "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta de Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
+  "firstRunP2": {
+    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta.",
+    "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
+  },
   "firstRunCollectDataLabel": {
     "message": "Permitir que Mozilla recopile información sobre cómo utilizas esta extensión.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
@@ -52,8 +56,8 @@
   "popupSettingsReturn": {
     "message": "Regresar al panel principal"
   },
-  "popupSettingsShowIcon": {
-    "message": "Mostrar el icono de Relay en los campos de correo electrónico de los sitios web",
+  "popupSettingsShowIconInInputFields": {
+    "message": "Mostrar el ícono de Relay en los campos de texto de los sitios web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -75,11 +79,11 @@
   "popupSettingsSubmitReport": {
     "message": "Enviar reporte"
   },
-  "popupReportIssueSiteLabelHeadline": {
-    "message": "Estoy teniendo problemas con este sitio web"
+  "popupReportIssuesHeadline": {
+    "message": "Tengo problemas con este sitio web"
   },
-  "popupReportIssueSituationHeadline": {
-    "message": "Situación del problema"
+  "popupReportFeedbackHeadline": {
+    "message": "Enviar comentario"
   },
   "popupReportIssueCaseOne": {
     "message": "Máscara de correo no fue aceptada por el sitio web"
@@ -90,6 +94,12 @@
   },
   "popupReportIssueCaseThree": {
     "message": "No he recibido un correo de este sitio web que estaba esperando"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "La máscara de teléfono no fue aceptada por el sitio web"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "No he recibido un mensaje o llamada que estaba esperando de este sitio web"
   },
   "popupReportIssueCaseOther": {
     "message": "Otro"
@@ -113,6 +123,10 @@
   "popupSignUpPanelIntro": {
     "message": "Empieza iniciando sesión en Relay con tu cuenta de Firefox.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Inicia sesión en Relay con tu cuenta para comenzar.",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Continuar"
@@ -528,5 +542,55 @@
   },
   "popupCopyMaskButtonCopied": {
     "message": "¡Copiado!"
+  },
+  "popupSurveyLink": {
+    "message": "Ayúdanos a mejorar Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupCsatSurveyText": {
+    "message": "¿Qué tan satisfecho estás con tu experiencia con Firefox Relay?",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
+  },
+  "popupCsatSurveySatisfactionVeryDissatisfied": {
+    "message": "Muy insatisfecho"
+  },
+  "popupCsatSurveySatisfactionDissatisfied": {
+    "message": "Insatisfecho"
+  },
+  "popupCsatSurveySatisfactionNeutral": {
+    "message": "Neutral"
+  },
+  "popupCsatSurveySatisfactionSatisfied": {
+    "message": "Satisfecho"
+  },
+  "popupCsatSurveySatisfactionVerySatisfied": {
+    "message": "Muy satisfecho"
+  },
+  "popupCsatSurveyChoiceMadeTitle": {
+    "message": "¡Gracias por tus comentarios!"
+  },
+  "popupCsatSurveyChoiceMadeBody": {
+    "message": "Nos gustaría saber cómo podemos hacerlo mejor. ¿Estarías dispuesto a participar en una encuesta de dos minutos?"
+  },
+  "popupCsatSurveyDismiss": {
+    "message": "Descartar"
+  },
+  "popupCsatSurveyLink": {
+    "message": "Tomar la encuesta"
+  },
+  "popupEuCountryExpansionHeadline": {
+    "message": "Máscaras ilimitadas ahora disponibles"
+  },
+  "popupEuCountryExpansionBody": {
+    "message": "Firefox Relay Premium ya está disponible en tu país. Protege tu bandeja de entrada con máscaras de correo electrónico ilimitadas y obtén un dominio de correo electrónico único de Relay para que la creación de máscaras sobre la marcha sea fácil y segura.",
+    "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
+  },
+  "popupEuCountryExpansionPromoCTA": {
+    "message": "Obtener Relay Premium",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupHolidayPromo2023Headline": {
+    "message": "Obtén un 20% de descuento en Relay Premium",
+    "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   }
 }
