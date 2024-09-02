@@ -552,7 +552,7 @@
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Гірше нікуди"
+    "message": "Гірше не може бути"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
     "message": "Погано"
