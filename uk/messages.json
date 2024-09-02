@@ -548,26 +548,26 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Наскільки ви задоволені роботою Firefox Relay?",
+    "message": "Як ви оцінюєте роботу з Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Дуже незадоволені"
+    "message": "Гірше нікуди"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "Незадоволені"
+    "message": "Погано"
   },
   "popupCsatSurveySatisfactionNeutral": {
     "message": "Нейтрально"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "Задоволені"
+    "message": "Добре"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Дуже задоволені"
+    "message": "Чудово"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "Дякуємо за зворотний зв'язок!"
+    "message": "Дякуємо за відгук!"
   },
   "popupCsatSurveyChoiceMadeBody": {
     "message": "Ми хотіли б дізнатися більше про те, як ми можемо стати кращими. Чи хотіли б ви взяти участь у двохвилинному опитуванні?"
