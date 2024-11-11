@@ -609,6 +609,14 @@
     "message": "Relay estää kaikki puhelut ja tekstiviestit - et saa mitään puhelinnumeromaskistasi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupPhoneMasksMetaForwardTo": {
+    "message": "Edelleenlähetyksen kohde:",
+    "description": "The number that messages from the phone mask are being forwarded to."
+  },
+  "popupPhoneMasksMetaRegistered": {
+    "message": "Rekisteröity:",
+    "description": "Tells the user the date their phone mask was created."
+  },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
     "message": "Aktivoi puhelinmaski"
   },
@@ -617,6 +625,9 @@
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Peitä myös puhelinnumerosi"
+  },
+  "popupPhoneMasksUpgradeToPhoneMaskCta": {
+    "message": "Hanki maski puhelinnumerolle"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Ei vielä saatavilla maassasi"
