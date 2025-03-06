@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay membantu Anda melindungi alamat surel Anda yang sebenarnya — yang paling terkait dengan identitas daring Anda. Fitur ini memungkinkan Anda menghasilkan topeng acak unik yang dapat Anda gunakan untuk mendaftar akun, aplikasi, atau nawala, dan meneruskan pesan ke alamat asli Anda. Jika Anda menemukan bahwa sebuah akun mengirim surel atau spam yang tidak diinginkan, Anda dapat memblokir topeng dan akun tersebut akan berhenti mengirim surel ke kotak masuk Anda. Setelah tidak lagi menginginkan akun, Anda dapat menghapus topeng.",
+    "message": "Firefox Relay membantu Anda melindungi alamat surel Anda yang sebenarnya \u2014 yang paling terkait dengan identitas daring Anda. Fitur ini memungkinkan Anda menghasilkan topeng acak unik yang dapat Anda gunakan untuk mendaftar akun, aplikasi, atau nawala, dan meneruskan pesan ke alamat asli Anda. Jika Anda menemukan bahwa sebuah akun mengirim surel atau spam yang tidak diinginkan, Anda dapat memblokir topeng dan akun tersebut akan berhenti mengirim surel ke kotak masuk Anda. Setelah tidak lagi menginginkan akun, Anda dapat menghapus topeng.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -57,7 +57,7 @@
     "message": "Kembali ke panel utama"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "Tampilkan ikon Relay di bidang input di situs web",
+    "message": "Tampilkan ikon Relay di bidang masukan pada situs-situs web",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
@@ -99,7 +99,7 @@
     "message": "Topeng telepon tidak diterima oleh situs web ini"
   },
   "popupReportIssueCaseFive": {
-    "message": "Saya belum menerima SMS atau telepon dari situs web ini yang saya harapkan"
+    "message": "Saya belum menerima SMS atau telepon dari situs web ini yang saya tunggu."
   },
   "popupReportIssueCaseOther": {
     "message": "Lainnya"
@@ -136,21 +136,11 @@
   },
   "popupRemainingAliases_2_mask": {
     "message": "Sisa topeng: $REMAINING$",
-    "description": "Tells the user how many more masks they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
+    "description": "Tells the user how many more masks they can make."
   },
   "popupRemainingFreeMasks": {
     "message": "Sisa topeng surel gratis:  $REMAINING$",
-    "description": "Tells the user how many more free masks they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
+    "description": "Tells the user how many more free masks they can make."
   },
   "popupRecentlyUsedMasks": {
     "message": "Topeng surel yang baru saja digunakan",
@@ -277,43 +267,19 @@
   },
   "popupBundlePromoHeadline_2": {
     "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "savings": {
-        "content": "$1",
-        "example": "50%"
-      }
-    }
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoHeadline_3": {
     "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "savings": {
-        "content": "$1",
-        "example": "40%"
-      }
-    }
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoBody_2": {
     "message": "Paket 1 tahun termasuk Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$4.99"
-      }
-    }
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
   },
   "popupBundlePromoBody_3": {
     "message": "Dapatkan Relay Premium Phone Masking selama satu tahun ditambah Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$6.99"
-      }
-    }
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
   },
   "popupPasswordManagerRelayHeadline": {
     "message": "Pengelola sandi Firefox + Relay",
@@ -329,17 +295,7 @@
   },
   "popupBundlePromoBodyFreePlan": {
     "message": "Tingkatkan langganan Anda untuk mendapatkan Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan. Hemat $SAVINGS$!",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$4.99"
-      },
-      "savings": {
-        "content": "$2",
-        "example": "50%"
-      }
-    }
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoCTA": {
     "message": "Dapatkan VPN + Relay",
@@ -367,23 +323,16 @@
     "message": "Buat topeng khusus baru"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Yang perlu Anda lakukan hanyalah membuat dan membagikan topeng unik yang menggunakan subdomain khusus Anda — topeng akan dibuat secara otomatis. Misalnya, dengan menggunakan “shop@customsubdomain.mozmail.com” saat berbelanja secara daring."
+    "message": "Yang perlu Anda lakukan hanyalah membuat dan membagikan topeng unik yang menggunakan subdomain khusus Anda \u2014 topeng akan dibuat secara otomatis. Misalnya, dengan menggunakan \u201cshop@customsubdomain.mozmail.com\u201d saat berbelanja secara daring."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Masukkan awalan topeng surel"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "mis. “kopi”"
+    "message": "mis. \u201ckopi\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
-    "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
-    "placeholders": {
-      "subdomain": {
-        "content": "$1",
-        "example": "example"
-      }
-    }
+    "message": "@$SUBDOMAIN$.mozmail.com"
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Blokir surel promosi"
@@ -434,7 +383,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Gunakan topeng yang ada dari situs ini…"
+    "message": "Gunakan topeng yang ada dari situs ini\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Topeng terkini"
@@ -452,13 +401,7 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Karakter yang tidak diizinkan: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
-    "placeholders": {
-      "characters": {
-        "content": "$1",
-        "example": "; )"
-      }
-    }
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask."
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Tambahkan nama akun",
@@ -501,27 +444,11 @@
   },
   "popupFreeMasksAvailable": {
     "message": "$REMAINING$/$MAXIMUM$ topeng tersedia.",
-    "description": "Tells the user how many more masks they can make.",
-    "placeholders": {
-      "REMAINING": {
-        "content": "$1",
-        "example": "1"
-      },
-      "MAXIMUM": {
-        "content": "$2",
-        "example": "5"
-      }
-    }
+    "description": "Tells the user how many more masks they can make."
   },
   "popupFreeMasksLimitReached": {
     "message": "Anda telah menggunakan seluruh $MAXIMUM$ dari topeng gratis Anda.",
-    "description": "Tells the user they've created the maxmimum free masks",
-    "placeholders": {
-      "MAXIMUM": {
-        "content": "$1",
-        "example": "5"
-      }
-    }
+    "description": "Tells the user they've created the maxmimum free masks"
   },
   "popupNoMasksCreatedHeadline": {
     "message": "Lindungi alamat surel asli Anda"
@@ -594,7 +521,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Musim liburan ini, dapatkan diskon 20% dari harga 1 tahun Relay Premium. Cukup masukkan kode promo “HOLIDAY20” saat checkout. Penawaran berakhir pada 31 Des 2023.",
+    "message": "Musim liburan ini, dapatkan diskon 20% dari harga 1 tahun Relay Premium. Cukup masukkan kode promo \u201cHOLIDAY20\u201d saat checkout. Penawaran berakhir pada 31 Des 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
@@ -606,7 +533,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay memblokir semua panggilan telepon dan pesan teks — Anda tidak akan menerima apa pun dari topeng nomor telepon Anda.",
+    "message": "Relay memblokir semua panggilan telepon dan pesan teks \u2014 Anda tidak akan menerima apa pun dari topeng nomor telepon Anda.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
