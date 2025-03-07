@@ -503,7 +503,7 @@
     "message": "Tutup"
   },
   "popupCsatSurveyLink": {
-    "message": "Isilah survei"
+    "message": "Ikuti survei"
   },
   "popupEuCountryExpansionHeadline": {
     "message": "Topeng tak terbatas sekarang tersedia"
@@ -593,7 +593,7 @@
     "message": "Lihat statistik"
   },
   "phoneRemainingMinutes": {
-    "message": "Sisa menit"
+    "message": "Menit tersisa"
   },
   "phoneRemainingTexts": {
     "message": "Teks yang tersisa"
