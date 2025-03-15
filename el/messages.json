@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Το Firefox Relay διευκολύνει τη δημιουργία μασκών email που κάνουν προώθηση στα πραγματικά εισερχόμενά σας.",
+    "message": "\u03a4\u03bf Firefox Relay \u03b4\u03b9\u03b5\u03c5\u03ba\u03bf\u03bb\u03cd\u03bd\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd email \u03c0\u03bf\u03c5 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ce\u03b8\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Το Firefox Relay σάς βοηθά να προστατεύσετε την πραγματική διεύθυνση email σας — το κυριότερο στοιχείο της διαδικτυακής σας ταυτότητας. Επιτρέπει τη δημιουργία μοναδικών, τυχαίων μασκών που μπορείτε να χρησιμοποιήσετε για λογαριασμούς, εφαρμογές ή ενημερωτικά δελτία και προωθεί τα μηνύματα στην πραγματική σας διεύθυνση. Αν ένας λογαριασμός στέλνει ανεπιθύμητα email, μπορείτε να αποκλείσετε την αποστολή email από τη μάσκα στα εισερχόμενά σας. Εάν δεν χρειάζεστε πλέον έναν λογαριασμό, μπορείτε να διαγράψετε τη μάσκα.",
+    "message": "\u03a4\u03bf Firefox Relay \u03c3\u03ac\u03c2 \u03b2\u03bf\u03b7\u03b8\u03ac \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 email \u03c3\u03b1\u03c2 \u2014 \u03c4\u03bf \u03ba\u03c5\u03c1\u03b9\u03cc\u03c4\u03b5\u03c1\u03bf \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1\u03ba\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2. \u0395\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ce\u03bd, \u03c4\u03c5\u03c7\u03b1\u03af\u03c9\u03bd \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd \u03c0\u03bf\u03c5 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2, \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03ae \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c4\u03b9\u03ba\u03ac \u03b4\u03b5\u03bb\u03c4\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c9\u03b8\u03b5\u03af \u03c4\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03c3\u03b1\u03c2 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7. \u0391\u03bd \u03ad\u03bd\u03b1\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03ad\u03bb\u03bd\u03b5\u03b9 \u03b1\u03bd\u03b5\u03c0\u03b9\u03b8\u03cd\u03bc\u03b7\u03c4\u03b1 email, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae email \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c3\u03c4\u03b1 \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2. \u0395\u03ac\u03bd \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c3\u03c4\u03b5 \u03c0\u03bb\u03ad\u03bf\u03bd \u03ad\u03bd\u03b1\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03b3\u03c1\u03ac\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,669 +12,596 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Έχετε εγκαταστήσει επιτυχώς το πρόσθετο Firefox Relay. Για να ξεκινήσετε, συνδεθείτε στο Relay με τον λογαριασμό Firefox σας.",
+    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03ce\u03c2 \u03c4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf Firefox Relay. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5, \u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf Relay \u03bc\u03b5 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc Firefox \u03c3\u03b1\u03c2.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Έχετε εγκαταστήσει επιτυχώς το πρόσθετο του Firefox Relay. Για να ξεκινήσετε, συνδεθείτε στο Relay με τον λογαριασμό σας.",
+    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03ce\u03c2 \u03c4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf \u03c4\u03bf\u03c5 Firefox Relay. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5, \u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf Relay \u03bc\u03b5 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc \u03c3\u03b1\u03c2.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Να επιτρέπεται στη Mozilla η συλλογή πληροφοριών για τη χρήση της επέκτασης.",
+    "message": "\u039d\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7 Mozilla \u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7\u03c2.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Ενεργοποίηση συλλογής δεδομένων",
+    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae\u03c2 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "Απενεργοποίηση συλλογή δεδομένων",
+    "message": "\u0391\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Τα δεδομένα αλληλεπίδρασης συλλέγονται όταν κάνετε διάφορες ενέργειες, όπως κλικ στο εικονίδιο του Relay ή δημιουργία νέας μάσκας. Μας βοηθούν να δούμε τι λειτουργεί σωστά και τι μπορούμε να βελτιώσουμε. Μπορείτε πάντα να απενεργοποιήσετε τη συλλογή από τον πίνακα ρυθμίσεων.",
+    "message": "\u03a4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b1\u03bd \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03b5\u03c2 \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b5\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03ba\u03bb\u03b9\u03ba \u03c3\u03c4\u03bf \u03b5\u03b9\u03ba\u03bf\u03bd\u03af\u03b4\u03b9\u03bf \u03c4\u03bf\u03c5 Relay \u03ae \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bd\u03ad\u03b1\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2. \u039c\u03b1\u03c2 \u03b2\u03bf\u03b7\u03b8\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03b9 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b5\u03af \u03c3\u03c9\u03c3\u03c4\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b9 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03af\u03bd\u03b1\u03ba\u03b1 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "Εγγραφή/Σύνδεση"
+    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae/\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7"
   },
   "popupSettingsTitle": {
-    "message": "Ρυθμίσεις"
+    "message": "\u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2"
   },
   "popupStatsTitle": {
-    "message": "Στατιστικά",
+    "message": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "Ειδήσεις",
+    "message": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Τι νέο υπάρχει στο Relay",
+    "message": "\u03a4\u03b9 \u03bd\u03ad\u03bf \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c3\u03c4\u03bf Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Επιστροφή στον κύριο πίνακα"
+    "message": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03bf\u03bd \u03ba\u03cd\u03c1\u03b9\u03bf \u03c0\u03af\u03bd\u03b1\u03ba\u03b1"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "Εμφάνιση εικονιδίου του Relay στα πεδία εισόδου ιστοτόπων",
+    "message": "\u0395\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b5\u03b9\u03ba\u03bf\u03bd\u03b9\u03b4\u03af\u03bf\u03c5 \u03c4\u03bf\u03c5 Relay \u03c3\u03c4\u03b1 \u03c0\u03b5\u03b4\u03af\u03b1 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Να επιτρέπεται στη Mozilla η συλλογή δεδομένων αλληλεπίδρασης",
+    "message": "\u039d\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7 Mozilla \u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "Υποβολή σχολίων"
+    "message": "\u03a5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae \u03c3\u03c7\u03bf\u03bb\u03af\u03c9\u03bd"
   },
   "popupSettingsPrivacy": {
-    "message": "Απόρρητο"
+    "message": "\u0391\u03c0\u03cc\u03c1\u03c1\u03b7\u03c4\u03bf"
   },
   "popupSettingsTermsOfService": {
-    "message": "Όροι υπηρεσίας"
+    "message": "\u038c\u03c1\u03bf\u03b9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2"
   },
   "popupSettingsReportIssue": {
-    "message": "Αναφορά ζητήματος"
+    "message": "\u0391\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03b6\u03b7\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2"
   },
   "popupSettingsSubmitReport": {
-    "message": "Υποβολή αναφοράς"
+    "message": "\u03a5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac\u03c2"
   },
   "popupReportIssuesHeadline": {
-    "message": "Αντιμετωπίζω προβλήματα με αυτόν τον ιστότοπο"
+    "message": "\u0391\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03c9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Υποβολή σχολίων"
+    "message": "\u03a5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae \u03c3\u03c7\u03bf\u03bb\u03af\u03c9\u03bd"
   },
   "popupReportIssueCaseOne": {
-    "message": "Η μάσκα email δεν έγινε αποδεκτή από τον ιστότοπο"
+    "message": "\u0397 \u03bc\u03ac\u03c3\u03ba\u03b1 email \u03b4\u03b5\u03bd \u03ad\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c0\u03bf\u03b4\u03b5\u03ba\u03c4\u03ae \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Το πρόσθετο Relay προκάλεσε οπτικό ζήτημα στον ιστότοπο",
+    "message": "\u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf Relay \u03c0\u03c1\u03bf\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03bf\u03c0\u03c4\u03b9\u03ba\u03cc \u03b6\u03ae\u03c4\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "Δεν έχω λάβει κάποιο email που περίμενα από αυτόν τον ιστότοπο"
+    "message": "\u0394\u03b5\u03bd \u03ad\u03c7\u03c9 \u03bb\u03ac\u03b2\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf email \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03af\u03bc\u03b5\u03bd\u03b1 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupReportIssueCaseFour": {
-    "message": "Η μάσκα τηλεφώνου δεν έγινε αποδεκτή από τον ιστότοπο"
+    "message": "\u0397 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03b4\u03b5\u03bd \u03ad\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c0\u03bf\u03b4\u03b5\u03ba\u03c4\u03ae \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupReportIssueCaseFive": {
-    "message": "Δεν έχω λάβει κάποιο μήνυμα ή κλήση που περίμενα από αυτόν τον ιστότοπο"
+    "message": "\u0394\u03b5\u03bd \u03ad\u03c7\u03c9 \u03bb\u03ac\u03b2\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03ae \u03ba\u03bb\u03ae\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03af\u03bc\u03b5\u03bd\u03b1 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupReportIssueCaseOther": {
-    "message": "Άλλο"
+    "message": "\u0386\u03bb\u03bb\u03bf"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "Παρακαλούμε παραθέστε λεπτομέρειες"
+    "message": "\u0394\u03ce\u03c3\u03c4\u03b5 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "Η αναφορά απεστάλη!"
+    "message": "\u0397 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03b1\u03c0\u03b5\u03c3\u03c4\u03ac\u03bb\u03b7!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "Σας ευχαριστούμε για τη συμβολή σας στη βελτίωση του Firefox Relay!",
+    "message": "\u03a3\u03b1\u03c2 \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd\u03bc\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03ae \u03c3\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 Firefox Relay!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "Συνέχεια"
+    "message": "\u03a3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1"
   },
   "popupSignUpPanelWelcome": {
-    "message": "Καλώς ορίσατε"
+    "message": "\u039a\u03b1\u03bb\u03ce\u03c2 \u03bf\u03c1\u03af\u03c3\u03b1\u03c4\u03b5"
   },
   "popupSignUpPanelIntro": {
-    "message": "Ξεκινήστε με σύνδεση στο Relay μέσω του λογαριασμού Firefox σας.",
+    "message": "\u039e\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b5 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03c3\u03c4\u03bf Relay \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd Firefox \u03c3\u03b1\u03c2.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Ξεκινήστε κάνοντας σύνδεση στο Relay με τον λογαριασμό σας.",
+    "message": "\u039e\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03ba\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03c3\u03c4\u03bf Relay \u03bc\u03b5 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc \u03c3\u03b1\u03c2.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "Συνέχεια"
+    "message": "\u03a3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1"
   },
   "popupSignUpPanelSignIn": {
-    "message": "Σύνδεση"
+    "message": "\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Υπολειπόμενες μάσκες: $REMAINING$",
-    "description": "Tells the user how many more masks they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
+    "message": "\u03a5\u03c0\u03bf\u03bb\u03b5\u03b9\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2: $REMAINING$",
+    "description": "Tells the user how many more masks they can make."
   },
   "popupRemainingFreeMasks": {
-    "message": "Υπολειπόμενες δωρεάν μάσκες: $REMAINING$",
-    "description": "Tells the user how many more free masks they can make.",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
+    "message": "\u03a5\u03c0\u03bf\u03bb\u03b5\u03b9\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2: $REMAINING$",
+    "description": "Tells the user how many more free masks they can make."
   },
   "popupRecentlyUsedMasks": {
-    "message": "Πρόσφατες μάσκες email",
+    "message": "\u03a0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Απόκτηση απεριόριστων μασκών"
+    "message": "\u0391\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b5\u03c1\u03b9\u03cc\u03c1\u03b9\u03c3\u03c4\u03c9\u03bd \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd"
   },
   "popupOnboardingShowPrevious": {
-    "message": "Εμφάνιση προηγούμενου πίνακα"
+    "message": "\u0395\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03c5 \u03c0\u03af\u03bd\u03b1\u03ba\u03b1"
   },
   "popupOnboardingShowNext": {
-    "message": "Μετάβαση στον επόμενο πίνακα"
+    "message": "\u039c\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03af\u03bd\u03b1\u03ba\u03b1"
   },
   "ManageAllAliases_mask": {
-    "message": "Διαχείριση όλων των μασκών"
+    "message": "\u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd"
   },
   "labelManage": {
-    "message": "Διαχείριση"
+    "message": "\u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7"
   },
   "labelSearch": {
-    "message": "Αναζήτηση"
+    "message": "\u0391\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7"
   },
   "labelMaskCreated": {
-    "message": "Η μάσκα δημιουργήθηκε",
+    "message": "\u0397 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "Από αυτόν τον ιστότοπο",
+    "message": "\u0391\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "Όλες οι μάσκες email",
+    "message": "\u038c\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "Τέλεια!"
+    "message": "\u03a4\u03ad\u03bb\u03b5\u03b9\u03b1!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "Αξιοποιείτε το Firefox Relay στο έπακρό του!",
+    "message": "\u0391\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf Firefox Relay \u03c3\u03c4\u03bf \u03ad\u03c0\u03b1\u03ba\u03c1\u03cc \u03c4\u03bf\u03c5!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Απόκτηση μοναδικού τομέα email στο Relay",
+    "message": "\u0391\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03bf\u03bc\u03ad\u03b1 email \u03c3\u03c4\u03bf Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Μάσκες email σε χρήση"
+    "message": "\u039c\u03ac\u03c3\u03ba\u03b5\u03c2 email \u03c3\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7"
   },
   "popupTotalMasksUsed": {
-    "message": "Σύνολο μασκών email σε χρήση"
+    "message": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd email \u03c3\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Μάσκες σε αυτόν τον ιστότοπο"
+    "message": "\u039c\u03ac\u03c3\u03ba\u03b5\u03c2 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf"
   },
   "popupEmailsBlocked": {
-    "message": "Αποκλεισμένα email"
+    "message": "\u0391\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 email"
   },
   "popupEmailsForwarded": {
-    "message": "Προωθημένα email"
+    "message": "\u03a0\u03c1\u03bf\u03c9\u03b8\u03b7\u03bc\u03ad\u03bd\u03b1 email"
   },
   "popupEmailTrackersRemoved": {
-    "message": "Έγινε αφαίρεση ιχνηλατών email"
+    "message": "\u0388\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c6\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03b9\u03c7\u03bd\u03b7\u03bb\u03b1\u03c4\u03ce\u03bd email"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Αναβαθμίστε στο Relay Premium για περισσότερη προστασία!",
+    "message": "\u0391\u03bd\u03b1\u03b2\u03b1\u03b8\u03bc\u03af\u03c3\u03c4\u03b5 \u03c3\u03c4\u03bf Relay Premium \u03b3\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Ένα παγκόσμιο εργαλείο προστασίας"
+    "message": "\u0388\u03bd\u03b1 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03bf \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2"
   },
   "popupEducationalComponent1Body": {
-    "message": "Το Relay μπορεί να προστατέψει το email σας όπου κι αν βρίσκεστε.",
+    "message": "\u03a4\u03bf Relay \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03ad\u03c8\u03b5\u03b9 \u03c4\u03bf email \u03c3\u03b1\u03c2 \u03cc\u03c0\u03bf\u03c5 \u03ba\u03b9 \u03b1\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c3\u03c4\u03b5.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Αύξηση μεγέθους συνημμένων"
+    "message": "\u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03bc\u03b5\u03b3\u03ad\u03b8\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bd\u03b7\u03bc\u03bc\u03ad\u03bd\u03c9\u03bd"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Το Firefox Relay μπορεί πλέον να προωθεί email μεγέθους έως 25 MB, μαζί με τα συνημμένα.",
+    "message": "\u03a4\u03bf Firefox Relay \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03c0\u03bb\u03ad\u03bf\u03bd \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c9\u03b8\u03b5\u03af email \u03bc\u03b5\u03b3\u03ad\u03b8\u03bf\u03c5\u03c2 \u03ad\u03c9\u03c2 25 MB, \u03bc\u03b1\u03b6\u03af \u03bc\u03b5 \u03c4\u03b1 \u03c3\u03c5\u03bd\u03b7\u03bc\u03bc\u03ad\u03bd\u03b1.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "Η προσφορά γνωριμίας μας λήγει σύντομα!"
+    "message": "\u0397 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac \u03b3\u03bd\u03c9\u03c1\u03b9\u03bc\u03af\u03b1\u03c2 \u03bc\u03b1\u03c2 \u03bb\u03ae\u03b3\u03b5\u03b9 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Αποκτήστε το Relay Premium πριν από τις 27 Σεπτεμβρίου και απολαύστε απεριόριστες μάσκες στη μηνιαία τιμή γνωριμίας μας.",
+    "message": "\u0391\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf Relay Premium \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 27 \u03a3\u03b5\u03c0\u03c4\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03b1\u03cd\u03c3\u03c4\u03b5 \u03b1\u03c0\u03b5\u03c1\u03b9\u03cc\u03c1\u03b9\u03c3\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03bc\u03b7\u03bd\u03b9\u03b1\u03af\u03b1 \u03c4\u03b9\u03bc\u03ae \u03b3\u03bd\u03c9\u03c1\u03b9\u03bc\u03af\u03b1\u03c2 \u03bc\u03b1\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "Αναβάθμιση τώρα"
+    "message": "\u0391\u03bd\u03b1\u03b2\u03ac\u03b8\u03bc\u03b9\u03c3\u03b7 \u03c4\u03ce\u03c1\u03b1"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "Ημέρες",
+    "message": "\u0397\u03bc\u03ad\u03c1\u03b5\u03c2",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "Ώρες",
+    "message": "\u038f\u03c1\u03b5\u03c2",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
-    "message": "Λεπ.",
+    "message": "\u039b\u03b5\u03c0.",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupEndOfIntroPricingCountdownSeconds": {
-    "message": "Δευτ.",
+    "message": "\u0394\u03b5\u03c5\u03c4.",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "Προώθηση κρίσιμων email"
+    "message": "\u03a0\u03c1\u03bf\u03ce\u03b8\u03b7\u03c3\u03b7 \u03ba\u03c1\u03af\u03c3\u03b9\u03bc\u03c9\u03bd email"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "Φραγή διαφημιστικών email"
+    "message": "\u03a6\u03c1\u03b1\u03b3\u03ae \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd email"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Ενεργοποιήστε τη Φραγή διαφημιστικών email σε μια μάσκα για να διακόψετε την αποστολή τους στα εισερχόμενά σας."
+    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7 \u03a6\u03c1\u03b1\u03b3\u03ae \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd email \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b1 \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Μάθετε περισσότερα"
+    "message": "\u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Με το Relay Premium, μπορείτε να αποκλείσετε τα διαφημιστικά email από τα εισερχόμενά σας, ενώ επιτρέπεται ακόμα η λήψη email, όπως αποδείξεις ή στοιχεία αποστολής.",
+    "message": "\u039c\u03b5 \u03c4\u03bf Relay Premium, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b1 \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac email \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2, \u03b5\u03bd\u03ce \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b7 \u03bb\u03ae\u03c8\u03b7 email, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03c0\u03bf\u03b4\u03b5\u03af\u03be\u03b5\u03b9\u03c2 \u03ae \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "Προσθέστε το Mozilla VPN με έκπτωση $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "savings": {
-        "content": "$1",
-        "example": "50%"
-      }
-    }
+    "message": "\u03a0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c3\u03c4\u03b5 \u03c4\u03bf Mozilla VPN \u03bc\u03b5 \u03ad\u03ba\u03c0\u03c4\u03c9\u03c3\u03b7 $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Προσθέστε το Mozilla VPN με έκπτωση $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "savings": {
-        "content": "$1",
-        "example": "40%"
-      }
-    }
+    "message": "\u03a0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c3\u03c4\u03b5 \u03c4\u03bf Mozilla VPN \u03bc\u03b5 \u03ad\u03ba\u03c0\u03c4\u03c9\u03c3\u03b7 $SAVINGS$.",
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoBody_2": {
-    "message": "Πακέτο 1 έτους που περιλαμβάνει τα Relay Premium + Mozilla VPN με $MONTHLY_PRICE$/μήνα.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$4.99"
-      }
-    }
+    "message": "\u03a0\u03b1\u03ba\u03ad\u03c4\u03bf 1 \u03ad\u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03b9 \u03c4\u03b1 Relay Premium + Mozilla VPN \u03bc\u03b5 $MONTHLY_PRICE$/\u03bc\u03ae\u03bd\u03b1.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
   },
   "popupBundlePromoBody_3": {
-    "message": "Αποκτήστε την απόκρυψη τηλεφώνου του Relay Premium και το Mozilla VPN για ένα έτος, με $MONTHLY_PRICE$/μήνα.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$6.99"
-      }
-    }
+    "message": "\u0391\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7 \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 Relay Premium \u03ba\u03b1\u03b9 \u03c4\u03bf Mozilla VPN \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03ad\u03c4\u03bf\u03c2, \u03bc\u03b5 $MONTHLY_PRICE$/\u03bc\u03ae\u03bd\u03b1.",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Διαχείριση κωδικών πρόσβασης Firefox + Relay",
+    "message": "\u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03ba\u03c9\u03b4\u03b9\u03ba\u03ce\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 Firefox + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Μπορείτε πλέον να χρησιμοποιείτε το Relay απευθείας από τη Διαχείριση κωδικών πρόσβασης του Firefox.",
+    "message": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03bb\u03ad\u03bf\u03bd \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf Relay \u03b1\u03c0\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03ba\u03c9\u03b4\u03b9\u03ba\u03ce\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 Firefox.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "Παρουσιάζουμε: Πακέτο συνδρομής Relay + VPN",
+    "message": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03bf\u03c5\u03bc\u03b5: \u03a0\u03b1\u03ba\u03ad\u03c4\u03bf \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ae\u03c2 Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Αναβαθμίστε τη συνδρομή σας για να αποκτήσετε τα Relay Premium + Mozilla VPN με $MONTHLY_PRICE$/μήνα. Εξοικονομήστε $SAVINGS$!",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
-    "placeholders": {
-      "monthly_price": {
-        "content": "$1",
-        "example": "$4.99"
-      },
-      "savings": {
-        "content": "$2",
-        "example": "50%"
-      }
-    }
+    "message": "\u0391\u03bd\u03b1\u03b2\u03b1\u03b8\u03bc\u03af\u03c3\u03c4\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b1 Relay Premium + Mozilla VPN \u03bc\u03b5 $MONTHLY_PRICE$/\u03bc\u03ae\u03bd\u03b1. \u0395\u03be\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03ae\u03c3\u03c4\u03b5 $SAVINGS$!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%"
   },
   "popupBundlePromoCTA": {
-    "message": "Απόκτηση των VPN + Relay",
+    "message": "\u0391\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "Παρουσίαση της απόκρυψης αριθμού τηλεφώνου"
+    "message": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Με την απόκρυψη αριθμού τηλεφώνου, μπορείτε πλέον να δημιουργήσετε μια μάσκα αριθμού τηλεφώνου για να λαμβάνετε μηνύματα και κλήσεις, χωρίς να αποκαλυφθεί ο πραγματικός σας αριθμός."
+    "message": "\u039c\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03bb\u03ad\u03bf\u03bd \u03bd\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2, \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u03c6\u03b8\u03b5\u03af \u03bf \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u03c3\u03b1\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Λάβετε μηνύματα και κλήσεις χωρίς να αποκαλύψετε τον πραγματικό σας αριθμό."
+    "message": "\u039b\u03ac\u03b2\u03b5\u03c4\u03b5 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "Αναβάθμιση τώρα"
+    "message": "\u0391\u03bd\u03b1\u03b2\u03ac\u03b8\u03bc\u03b9\u03c3\u03b7 \u03c4\u03ce\u03c1\u03b1"
   },
   "popupPromoNewLabel": {
-    "message": "Νέο!"
+    "message": "\u039d\u03ad\u03bf!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Συνδεθείτε ξανά με τις μάσκες email σας"
+    "message": "\u03a3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email \u03c3\u03b1\u03c2"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "Δημιουργία νέας προσαρμοσμένης μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Χρειάζεται μόνο να δημιουργήσετε και να μοιραστείτε μια μοναδική μάσκα που να χρησιμοποιεί τον προσαρμοσμένο υποτομέα σας — η μάσκα θα δημιουργηθεί αυτόματα. Δοκιμάστε για παράδειγμα το «katasthma@onomaupotomea.mozmail.com» την επόμενη φορά που θα κάνετε αγορές στο διαδίκτυο."
+    "message": "\u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf \u03bd\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c0\u03bf\u03c5 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03c4\u03bf\u03bd \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03bf \u03c5\u03c0\u03bf\u03c4\u03bf\u03bc\u03ad\u03b1 \u03c3\u03b1\u03c2 \u2014 \u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b8\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03b7\u03b8\u03b5\u03af \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b1. \u0394\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1 \u03c4\u03bf \u00abkatasthma@onomaupotomea.mozmail.com\u00bb \u03c4\u03b7\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c6\u03bf\u03c1\u03ac \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03b1\u03b3\u03bf\u03c1\u03ad\u03c2 \u03c3\u03c4\u03bf \u03b4\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Εισαγάγετε πρόθεμα μάσκας email"
+    "message": "\u0395\u03b9\u03c3\u03b1\u03b3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03c0\u03c1\u03cc\u03b8\u03b5\u03bc\u03b1 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 email"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "π.χ. «coffee»"
+    "message": "\u03c0.\u03c7. \u00abcoffee\u00bb"
   },
   "popupCreateCustomFormMaskInputDescription": {
-    "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
-    "placeholders": {
-      "subdomain": {
-        "content": "$1",
-        "example": "example"
-      }
-    }
+    "message": "@$SUBDOMAIN$.mozmail.com"
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "Φραγή διαφημιστικών email"
+    "message": "\u03a6\u03c1\u03b1\u03b3\u03ae \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd email"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "Δημιουργία μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "popupCreateCustomFormError": {
-    "message": "Δεν ήταν δυνατή η δημιουργία της μάσκας. Παρακαλώ δοκιμάστε ξανά."
+    "message": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2. \u0394\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac."
   },
   "pageInputIconSignUpText": {
-    "message": "Επισκεφθείτε τον ιστότοπο του Firefox Relay για σύνδεση ή δημιουργία λογαριασμού.",
+    "message": "\u0395\u03c0\u03b9\u03c3\u03ba\u03b5\u03c6\u03b8\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf \u03c4\u03bf\u03c5 Firefox Relay \u03b3\u03b9\u03b1 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03ae \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "Μετάβαση στο Firefox Relay",
+    "message": "\u039c\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03bf Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "Δημιουργία νέας μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bd\u03ad\u03b1\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Δημιουργία νέας τυχαίας μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bd\u03ad\u03b1\u03c2 \u03c4\u03c5\u03c7\u03b1\u03af\u03b1\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "Δημιουργία τυχαίας μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03c5\u03c7\u03b1\u03af\u03b1\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "Δημιουργία προσαρμοσμένης μάσκας"
+    "message": "\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Επιλέξτε από τις τρέχουσες μάσκες email σας",
+    "message": "\u0395\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03c3\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email \u03c3\u03b1\u03c2",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Επιπρόσθετες μάσκες email",
+    "message": "\u0395\u03c0\u03b9\u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "Προηγούμενες μάσκες ιστοτόπου",
+    "message": "\u03a0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Απόκτηση απεριόριστων μασκών"
+    "message": "\u0391\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b5\u03c1\u03b9\u03cc\u03c1\u03b9\u03c3\u03c4\u03c9\u03bd \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Εγγραφή στη λίστα αναμονής του Premium",
+    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 \u03bb\u03af\u03c3\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2 \u03c4\u03bf\u03c5 Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Χρήση υπάρχουσας μάσκας από τον ιστότοπο…"
+    "message": "\u03a7\u03c1\u03ae\u03c3\u03b7 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03c3\u03b1\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u2026"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Πρόσφατες μάσκες"
+    "message": "\u03a0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Χρήση μάσκας αριθμού τηλεφώνου"
+    "message": "\u03a7\u03c1\u03ae\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "Έχετε ήδη δημιουργήσει τον μέγιστο αριθμό μασκών",
+    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03ae\u03b4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03b5\u03b9 \u03c4\u03bf\u03bd \u03bc\u03ad\u03b3\u03b9\u03c3\u03c4\u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Δεν έχετε άλλες δωρεάν μάσκες email.",
+    "message": "\u0394\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "Μη επιτρεπτοί χαρακτήρες: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
-    "placeholders": {
-      "characters": {
-        "content": "$1",
-        "example": "; )"
-      }
-    }
+    "message": "\u039c\u03b7 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03c4\u03bf\u03af \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b5\u03c2: $CHARACTERS$",
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask."
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "Προσθήκη ονόματος λογαριασμού",
+    "message": "\u03a0\u03c1\u03bf\u03c3\u03b8\u03ae\u03ba\u03b7 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "Κλείσιμο"
+    "message": "\u039a\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf"
   },
   "returnToPreviousPanel": {
-    "message": "Επιστροφή στον προηγούμενο πίνακα"
+    "message": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03bf\u03bd \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf \u03c0\u03af\u03bd\u03b1\u03ba\u03b1"
   },
   "popupDataCollectionHeadline": {
-    "message": "Ενεργοποίηση νέων λειτουργιών"
+    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03bd\u03ad\u03c9\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03ce\u03bd"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Μπορείτε να επιτρέψετε στο Relay τη συλλογή προαιρετικών δεδομένων που μας επιτρέπουν να συγχρονίζουμε τις ετικέτες των μασκών σας στις συσκευές σας με τους ιστοτόπους όπου δημιουργήθηκαν και χρησιμοποιήθηκαν.",
+    "message": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03b5\u03c4\u03b5 \u03c3\u03c4\u03bf Relay \u03c4\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03c0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03bf\u03c5\u03bd \u03bd\u03b1 \u03c3\u03c5\u03b3\u03c7\u03c1\u03bf\u03bd\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03c4\u03b9\u03ba\u03ad\u03c4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd \u03c3\u03b1\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03c3\u03b1\u03c2 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03c2 \u03cc\u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Μάθετε περισσότερα"
+    "message": "\u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "Απόρριψη"
+    "message": "\u0391\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "Αποδοχή"
+    "message": "\u0391\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Ενημέρωση σημείωσης απορρήτου"
+    "message": "\u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7\u03c2 \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Για τη βελτίωση της αξιοπιστίας του Firefox Relay σε περίπτωση που δεν μπορεί παραδοθεί κάποιο email, θα το διατηρήσουμε προσωρινά στους διακομιστές μας έως ότου παραδοθεί. Δεν θα το κρατήσουμε ποτέ παραπάνω από τρεις ημέρες.",
+    "message": "\u0393\u03b9\u03b1 \u03c4\u03b7 \u03b2\u03b5\u03bb\u03c4\u03af\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03be\u03b9\u03bf\u03c0\u03b9\u03c3\u03c4\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Firefox Relay \u03c3\u03b5 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03b8\u03b5\u03af \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf email, \u03b8\u03b1 \u03c4\u03bf \u03b4\u03b9\u03b1\u03c4\u03b7\u03c1\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ac \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03b1\u03ba\u03bf\u03bc\u03b9\u03c3\u03c4\u03ad\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c9\u03c2 \u03cc\u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03b8\u03b5\u03af. \u0394\u03b5\u03bd \u03b8\u03b1 \u03c4\u03bf \u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c0\u03bf\u03c4\u03ad \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03c4\u03c1\u03b5\u03b9\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Προβολή σημείωσης απορρήτου"
+    "message": "\u03a0\u03c1\u03bf\u03b2\u03bf\u03bb\u03ae \u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7\u03c2 \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "Απόρριψη"
+    "message": "\u0391\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ διαθέσιμες μάσκες.",
-    "description": "Tells the user how many more masks they can make.",
-    "placeholders": {
-      "REMAINING": {
-        "content": "$1",
-        "example": "1"
-      },
-      "MAXIMUM": {
-        "content": "$2",
-        "example": "5"
-      }
-    }
+    "message": "$REMAINING$/$MAXIMUM$ \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2.",
+    "description": "Tells the user how many more masks they can make."
   },
   "popupFreeMasksLimitReached": {
-    "message": "Έχετε χρησιμοποιήσει και τις $MAXIMUM$ δωρεάν μάσκες σας.",
-    "description": "Tells the user they've created the maxmimum free masks",
-    "placeholders": {
-      "MAXIMUM": {
-        "content": "$1",
-        "example": "5"
-      }
-    }
+    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 $MAXIMUM$ \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 \u03c3\u03b1\u03c2.",
+    "description": "Tells the user they've created the maxmimum free masks"
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "Προστασία πραγματικής διεύθυνσης email"
+    "message": "\u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2 email"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Χρησιμοποιήστε τις μάσκες του Relay για να διατηρήσετε ιδιωτική την ταυτότητά σας και να λαμβάνετε μόνο τα email που θέλετε στα εισερχόμενά σας.",
+    "message": "\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 \u03c4\u03bf\u03c5 Relay \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c4\u03b7\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03c4\u03b7\u03bd \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03ac \u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03bc\u03cc\u03bd\u03bf \u03c4\u03b1 email \u03c0\u03bf\u03c5 \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b1 \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Περισσότερη προστασία"
+    "message": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "Εκκίνηση του Relay",
+    "message": "\u0395\u03ba\u03ba\u03af\u03bd\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Κάντε κλικ για αντιγραφή"
+    "message": "\u039a\u03ac\u03bd\u03c4\u03b5 \u03ba\u03bb\u03b9\u03ba \u03b3\u03b9\u03b1 \u03b1\u03bd\u03c4\u03b9\u03b3\u03c1\u03b1\u03c6\u03ae"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "Αντιγράφηκε!"
+    "message": "\u0391\u03bd\u03c4\u03b9\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5!"
   },
   "popupSurveyLink": {
-    "message": "Βοηθήστε μας να βελτιώσουμε το Relay",
+    "message": "\u0392\u03bf\u03b7\u03b8\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b1\u03c2 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Πόσο ικανοποιημένοι είστε με την εμπειρία σας στο Firefox Relay;",
+    "message": "\u03a0\u03cc\u03c3\u03bf \u03b9\u03ba\u03b1\u03bd\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03af\u03c3\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03c3\u03b1\u03c2 \u03c3\u03c4\u03bf Firefox Relay;",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Πολύ δυσαρεστημένος/-η"
+    "message": "\u03a0\u03bf\u03bb\u03cd \u03b4\u03c5\u03c3\u03b1\u03c1\u03b5\u03c3\u03c4\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2/-\u03b7"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "Δυσαρεστημένος/-η"
+    "message": "\u0394\u03c5\u03c3\u03b1\u03c1\u03b5\u03c3\u03c4\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2/-\u03b7"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "Ουδέτερος/-η"
+    "message": "\u039f\u03c5\u03b4\u03ad\u03c4\u03b5\u03c1\u03bf\u03c2/-\u03b7"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "Ικανοποιημένος/-η"
+    "message": "\u0399\u03ba\u03b1\u03bd\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2/-\u03b7"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Πολύ ικανοποιημένος/-η"
+    "message": "\u03a0\u03bf\u03bb\u03cd \u03b9\u03ba\u03b1\u03bd\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2/-\u03b7"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "Ευχαριστούμε για τα σχόλιά σας!"
+    "message": "\u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd\u03bc\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c3\u03c7\u03cc\u03bb\u03b9\u03ac \u03c3\u03b1\u03c2!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Θα θέλαμε να μάθουμε περισσότερα για το πώς μπορούμε να βελτιωθούμε. Θα θέλατε να συμμετάσχετε σε μια έρευνα δύο λεπτών;"
+    "message": "\u0398\u03b1 \u03b8\u03ad\u03bb\u03b1\u03bc\u03b5 \u03bd\u03b1 \u03bc\u03ac\u03b8\u03bf\u03c5\u03bc\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03ce\u03c2 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03c9\u03b8\u03bf\u03cd\u03bc\u03b5. \u0398\u03b1 \u03b8\u03ad\u03bb\u03b1\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ac\u03c3\u03c7\u03b5\u03c4\u03b5 \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b4\u03cd\u03bf \u03bb\u03b5\u03c0\u03c4\u03ce\u03bd;"
   },
   "popupCsatSurveyDismiss": {
-    "message": "Απόρριψη"
+    "message": "\u0391\u03c0\u03cc\u03c1\u03c1\u03b9\u03c8\u03b7"
   },
   "popupCsatSurveyLink": {
-    "message": "Συμμετοχή στην έρευνα"
+    "message": "\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae \u03c3\u03c4\u03b7\u03bd \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "Απεριόριστες μάσκες τώρα διαθέσιμες"
+    "message": "\u0391\u03c0\u03b5\u03c1\u03b9\u03cc\u03c1\u03b9\u03c3\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 \u03c4\u03ce\u03c1\u03b1 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Το Firefox Relay Premium είναι πλέον διαθέσιμο στη χώρα σας. Προστατέψτε τα εισερχόμενά σας με απεριόριστες μάσκες email και αποκτήστε έναν μοναδικό τομέα email στο Relay για να κάνετε τη δημιουργία μασκών εν κινήσει εύκολη και ασφαλή.",
+    "message": "\u03a4\u03bf Firefox Relay Premium \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c3\u03b1\u03c2. \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03ad\u03c8\u03c4\u03b5 \u03c4\u03b1 \u03b5\u03b9\u03c3\u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03ac \u03c3\u03b1\u03c2 \u03bc\u03b5 \u03b1\u03c0\u03b5\u03c1\u03b9\u03cc\u03c1\u03b9\u03c3\u03c4\u03b5\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2 email \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 \u03ad\u03bd\u03b1\u03bd \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03cc \u03c4\u03bf\u03bc\u03ad\u03b1 email \u03c3\u03c4\u03bf Relay \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03bc\u03b1\u03c3\u03ba\u03ce\u03bd \u03b5\u03bd \u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9 \u03b5\u03cd\u03ba\u03bf\u03bb\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "Απόκτηση του Relay Premium",
+    "message": "\u0391\u03c0\u03cc\u03ba\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Λάβετε έκπτωση 20% για το Relay Premium",
+    "message": "\u039b\u03ac\u03b2\u03b5\u03c4\u03b5 \u03ad\u03ba\u03c0\u03c4\u03c9\u03c3\u03b7 20% \u03b3\u03b9\u03b1 \u03c4\u03bf Relay Premium",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Αυτές τις γιορτές, λάβετε έκπτωση 20% στην τιμή του Relay Premium για ένα έτος. Εισαγάγετε απλώς τον κωδικό «HOLIDAY20» κατά την πληρωμή. Η προσφορά λήγει στις 31 Δεκεμβρίου 2023.",
+    "message": "\u0391\u03c5\u03c4\u03ad\u03c2 \u03c4\u03b9\u03c2 \u03b3\u03b9\u03bf\u03c1\u03c4\u03ad\u03c2, \u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03ad\u03ba\u03c0\u03c4\u03c9\u03c3\u03b7 20% \u03c3\u03c4\u03b7\u03bd \u03c4\u03b9\u03bc\u03ae \u03c4\u03bf\u03c5 Relay Premium \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03ad\u03c4\u03bf\u03c2. \u0395\u03b9\u03c3\u03b1\u03b3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03b1\u03c0\u03bb\u03ce\u03c2 \u03c4\u03bf\u03bd \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc \u00abHOLIDAY20\u00bb \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ae. \u0397 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac \u03bb\u03ae\u03b3\u03b5\u03b9 \u03c3\u03c4\u03b9\u03c2 31 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Αποκτήστε ένα χρόνο Relay Premium",
+    "message": "\u0391\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03c7\u03c1\u03cc\u03bd\u03bf Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Το Relay προωθεί όλες τις κλήσεις και τα μηνύματα κειμένου στον πραγματικό αριθμό τηλεφώνου σας.",
+    "message": "\u03a4\u03bf Relay \u03c0\u03c1\u03bf\u03c9\u03b8\u03b5\u03af \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c3\u03c4\u03bf\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c3\u03b1\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Το Relay αποκλείει όλες τις κλήσεις και τα μηνύματα κειμένου, επομένως δεν θα λαμβάνετε τίποτα από τη μάσκα αριθμού τηλεφώνου σας.",
+    "message": "\u03a4\u03bf Relay \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03b5\u03b9 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5, \u03b5\u03c0\u03bf\u03bc\u03ad\u03bd\u03c9\u03c2 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c3\u03b1\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "Προώθηση σε:",
+    "message": "\u03a0\u03c1\u03bf\u03ce\u03b8\u03b7\u03c3\u03b7 \u03c3\u03b5:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Καταχώρηση:",
+    "message": "\u039a\u03b1\u03c4\u03b1\u03c7\u03ce\u03c1\u03b7\u03c3\u03b7:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "Προώθηση"
+    "message": "\u03a0\u03c1\u03bf\u03ce\u03b8\u03b7\u03c3\u03b7"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "Φραγή"
+    "message": "\u03a6\u03c1\u03b1\u03b3\u03ae"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Ενεργοποιήστε τη μάσκα τηλεφώνου σας"
+    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c3\u03b1\u03c2"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Ως συνδρομητής του Relay Premium, μπορείτε να λαμβάνετε μηνύματα και τηλεφωνικές κλήσεις χωρίς να αποκαλύψετε τον πραγματικό σας αριθμό. Ξεκινήστε επιλέγοντας έναν αριθμό για χρήση ως μάσκα αριθμού τηλεφώνου. Χρειάζονται μόνο 5 λεπτά.",
+    "message": "\u03a9\u03c2 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03ae\u03c2 \u03c4\u03bf\u03c5 Relay Premium, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc. \u039e\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03bf\u03bd\u03c4\u03b1\u03c2 \u03ad\u03bd\u03b1\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c9\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5. \u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf 5 \u03bb\u03b5\u03c0\u03c4\u03ac.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Ενεργοποίηση μάσκας τηλεφώνου"
+    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Αποκρύψτε και τον αριθμό τηλεφώνου σας"
+    "message": "\u0391\u03c0\u03bf\u03ba\u03c1\u03cd\u03c8\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c3\u03b1\u03c2"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Με την απόκρυψη αριθμού τηλεφώνου του Relay Premium, μπορείτε να προστατέψετε τον πραγματικό σας αριθμό τηλεφώνου, αλλά να λαμβάνετε και να απαντάτε σε μηνύματα και κλήσεις.",
+    "message": "\u039c\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 Relay Premium, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03ad\u03c8\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03c3\u03b1\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5, \u03b1\u03bb\u03bb\u03ac \u03bd\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac\u03c4\u03b5 \u03c3\u03b5 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Λάβετε απόκρυψη τηλεφώνου"
+    "message": "\u039b\u03ac\u03b2\u03b5\u03c4\u03b5 \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7 \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "Δεν διατίθεται ακόμα στη χώρα σας"
+    "message": "\u0394\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03af\u03b8\u03b5\u03c4\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c3\u03b1\u03c2"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "Με την απόκρυψη αριθμού τηλεφώνου του Relay Premium, μπορείτε να αποκρύψετε τον πραγματικό αριθμό τηλεφώνου σας, όπως ακριβώς συμβαίνει και με τη διεύθυνση email σας. Μάθετε περισσότερα στον ιστότοπο του Relay και εγγραφείτε για ενημερώσεις.",
+    "message": "\u039c\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03ba\u03c1\u03c5\u03c8\u03b7 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 Relay Premium, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c1\u03cd\u03c8\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c4\u03b7\u03bb\u03b5\u03c6\u03ce\u03bd\u03bf\u03c5 \u03c3\u03b1\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03ba\u03c1\u03b9\u03b2\u03ce\u03c2 \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 email \u03c3\u03b1\u03c2. \u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf \u03c4\u03bf\u03c5 Relay \u03ba\u03b1\u03b9 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03b9\u03c2.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "Εγγραφή στη λίστα αναμονής"
+    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 \u03bb\u03af\u03c3\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2"
   },
   "phonesTabText": {
-    "message": "Τηλέφωνο"
+    "message": "\u03a4\u03b7\u03bb\u03ad\u03c6\u03c9\u03bd\u03bf"
   },
   "emailsTabText": {
     "message": "Email"
   },
   "goBackText": {
-    "message": "Επιστροφή"
+    "message": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae"
   },
   "seeStatsText": {
-    "message": "Προβολή στατιστικών"
+    "message": "\u03a0\u03c1\u03bf\u03b2\u03bf\u03bb\u03ae \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd"
   },
   "phoneRemainingMinutes": {
-    "message": "Υπολειπόμενα λεπτά"
+    "message": "\u03a5\u03c0\u03bf\u03bb\u03b5\u03b9\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03ac"
   },
   "phoneRemainingTexts": {
-    "message": "Υπολειπόμενα μηνύματα"
+    "message": "\u03a5\u03c0\u03bf\u03bb\u03b5\u03b9\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1"
   },
   "phoneForwardedCallsTexts": {
-    "message": "Οι κλήσεις και τα μηνύματα προωθούνται"
+    "message": "\u039f\u03b9 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c9\u03b8\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9"
   },
   "phoneBlockedCallsTexts": {
-    "message": "Οι κλήσεις και τα μηνύματα αποκλείονται"
+    "message": "\u039f\u03b9 \u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03bf\u03bd\u03c4\u03b1\u03b9"
   }
 }
