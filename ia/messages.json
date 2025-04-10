@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay te adjuta a proteger tu ver adresse de e-mail – le adresse que es le plus intimemente ligate a tu identitate in linea. Illo te permitte de generar mascas unic e aleatori que tu pote usar pro inscriber te a contos, applicationes, o bulletines de novas, e reexpedi le messages a tu ver adresse. Si tu trova que un conto invia e-mail indesirate o spam, tu pote blocar le masca e illo stoppara le invio de e-mail a tu cassa de entrata. Un vice que tu non vole plus un conto, tu pote deler le masca.",
+    "message": "Firefox Relay te adjuta a proteger tu ver adresse de e-mail \u2013 le adresse que es le plus intimemente ligate a tu identitate in linea. Illo te permitte de generar mascas unic e aleatori que tu pote usar pro inscriber te a contos, applicationes, o bulletines de novas, e reexpedi le messages a tu ver adresse. Si tu trova que un conto invia e-mail indesirate o spam, tu pote blocar le masca e illo stoppara le invio de e-mail a tu cassa de entrata. Un vice que tu non vole plus un conto, tu pote deler le masca.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -138,7 +138,7 @@
     "message": "Mascas restante: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -147,7 +147,7 @@
     "message": "Mascas email gratuite restante: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -279,7 +279,7 @@
     "message": "Adde Mozilla VPN con un reduction de $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
@@ -289,7 +289,7 @@
     "message": "Adde Mozilla VPN con un reduction del $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
@@ -299,7 +299,7 @@
     "message": "Plano de un anno includite Relay Premium + Mozilla VPN pro $MONTHLY_PRICE$/month.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
@@ -309,7 +309,7 @@
     "message": "Obtene un anno de Relay Premium Phone Masking plus Mozilla VPN pro $MONTHLY_PRICE$/mense.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
@@ -331,11 +331,11 @@
     "message": "Promove tu abonamento pro haber ambe Relay Premium + Mozilla VPN pro $MONTHLY_PRICE$/mense. Sparnia $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
@@ -367,19 +367,18 @@
     "message": "Crear un nove masca personalisate"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Toto lo que tu debe facer es crear e compartir un unic masca que usa tu subdominio personal, le masca sera generate automaticamente. Per exemplo proba “shop@customsubdomain.mozmail.com” le proxime vice que tu compra online."
+    "message": "Toto lo que tu debe facer es crear e compartir un unic masca que usa tu subdominio personal, le masca sera generate automaticamente. Per exemplo proba \u201cshop@customsubdomain.mozmail.com\u201d le proxime vice que tu compra online."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Insere un prefixo de masca email"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "e.g. “caffe”"
+    "message": "e.g. \u201ccaffe\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -434,7 +433,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Usar un masca existente ab iste sito…"
+    "message": "Usar un masca existente ab iste sito\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Mascas recente"
@@ -454,7 +453,7 @@
     "message": "Character(s) non permittite: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
@@ -594,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Iste saison de vacantia, sparnia le 20% sur le precio de 1 anno de Relay Premium. Justo insere le codice de promotion “HOLIDAY20” al momento del pagamento. Le offerta expira le 31 decembre 2023.",
+    "message": "Iste saison de vacantia, sparnia le 20% sur le precio de 1 anno de Relay Premium. Justo insere le codice de promotion \u201cHOLIDAY20\u201d al momento del pagamento. Le offerta expira le 31 decembre 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {

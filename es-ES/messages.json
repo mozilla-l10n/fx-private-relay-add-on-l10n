@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay facilita la creación de máscaras de correo electrónico que reenvían los correos a tu bandeja de entrada real.",
+    "message": "Firefox Relay facilita la creaci\u00f3n de m\u00e1scaras de correo electr\u00f3nico que reenv\u00edan los correos a tu bandeja de entrada real.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay te ayuda a proteger tu dirección de correo electrónico real — la que está más estrechamente ligada a tu identidad en línea. Te permite generar máscaras únicas y aleatorias que puedes usar para registrarte en cuentas, aplicaciones o boletines y reenvía mensajes a tu dirección real. Si descubres que una cuenta está enviando correo no deseado o spam, puedes bloquear la máscara y se dejará de enviar correos electrónicos a tu bandeja de entrada. Una vez que ya no desees una cuenta, puedes eliminar la máscara.",
+    "message": "Firefox Relay te ayuda a proteger tu direcci\u00f3n de correo electr\u00f3nico real \u2014 la que est\u00e1 m\u00e1s estrechamente ligada a tu identidad en l\u00ednea. Te permite generar m\u00e1scaras \u00fanicas y aleatorias que puedes usar para registrarte en cuentas, aplicaciones o boletines y reenv\u00eda mensajes a tu direcci\u00f3n real. Si descubres que una cuenta est\u00e1 enviando correo no deseado o spam, puedes bloquear la m\u00e1scara y se dejar\u00e1 de enviar correos electr\u00f3nicos a tu bandeja de entrada. Una vez que ya no desees una cuenta, puedes eliminar la m\u00e1scara.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,37 +12,37 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta de Firefox.",
+    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesi\u00f3n en Relay con tu cuenta de Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesión en Relay con tu cuenta de Mozilla.",
+    "message": "Has instalado correctamente el complemento Firefox Relay. Para comenzar, inicia sesi\u00f3n en Relay con tu cuenta de Mozilla.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Permitir que Mozilla recopile información sobre cómo usas esta extensión.",
+    "message": "Permitir que Mozilla recopile informaci\u00f3n sobre c\u00f3mo usas esta extensi\u00f3n.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Autorizar la recopilación de datos",
+    "message": "Autorizar la recopilaci\u00f3n de datos",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "Desactivar la recopilación de datos",
+    "message": "Desactivar la recopilaci\u00f3n de datos",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Recopilar datos de interacción cuando haces cosas como hacer clic en el icono Relay de tu barra de herramientas o crear un nuevas máscaras nos ayuda a saber qué funciona bien y dónde podemos mejorar. Siempre puedes desactivar esto en el panel de Ajustes.",
+    "message": "Recopilar datos de interacci\u00f3n cuando haces cosas como hacer clic en el icono Relay de tu barra de herramientas o crear un nuevas m\u00e1scaras nos ayuda a saber qu\u00e9 funciona bien y d\u00f3nde podemos mejorar. Siempre puedes desactivar esto en el panel de Ajustes.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "Registrarse / Iniciar sesión"
+    "message": "Registrarse / Iniciar sesi\u00f3n"
   },
   "popupSettingsTitle": {
     "message": "Ajustes"
   },
   "popupStatsTitle": {
-    "message": "Estadísticas",
+    "message": "Estad\u00edsticas",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
@@ -61,7 +61,7 @@
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Permitir que Mozilla recopile datos de interacción",
+    "message": "Permitir que Mozilla recopile datos de interacci\u00f3n",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
@@ -71,7 +71,7 @@
     "message": "Privacidad"
   },
   "popupSettingsTermsOfService": {
-    "message": "Términos del servicio"
+    "message": "T\u00e9rminos del servicio"
   },
   "popupSettingsReportIssue": {
     "message": "Informar de un problema"
@@ -83,20 +83,20 @@
     "message": "Estoy teniendo problemas con este sitio web"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Enviar opinión"
+    "message": "Enviar opini\u00f3n"
   },
   "popupReportIssueCaseOne": {
-    "message": "La máscara de correo electrónico no fue aceptada por el sitio web"
+    "message": "La m\u00e1scara de correo electr\u00f3nico no fue aceptada por el sitio web"
   },
   "popupReportIssueCaseTwo": {
-    "message": "El complemento Relay causó un problema en la visualización del sitio web",
+    "message": "El complemento Relay caus\u00f3 un problema en la visualizaci\u00f3n del sitio web",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
     "message": "No he recibido un correo que estaba esperando de este sitio web"
   },
   "popupReportIssueCaseFour": {
-    "message": "La máscara de teléfono no fue aceptada por el sitio web"
+    "message": "La m\u00e1scara de tel\u00e9fono no fue aceptada por el sitio web"
   },
   "popupReportIssueCaseFive": {
     "message": "No he recibido un mensaje o llamada que estaba esperando de este sitio web"
@@ -108,10 +108,10 @@
     "message": "Por favor, proporciona detalles"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "¡Informe enviado!"
+    "message": "\u00a1Informe enviado!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "¡Gracias por ayudarnos a mejorar Firefox Relay!",
+    "message": "\u00a1Gracias por ayudarnos a mejorar Firefox Relay!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
@@ -121,43 +121,43 @@
     "message": "Te damos la bienvenida"
   },
   "popupSignUpPanelIntro": {
-    "message": "Inicia sesión en Relay con tu cuenta de Firefox para comenzar.",
+    "message": "Inicia sesi\u00f3n en Relay con tu cuenta de Firefox para comenzar.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Inicia sesión en Relay con tu cuenta de Mozilla para comenzar.",
+    "message": "Inicia sesi\u00f3n en Relay con tu cuenta de Mozilla para comenzar.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Continuar"
   },
   "popupSignUpPanelSignIn": {
-    "message": "Iniciar sesión"
+    "message": "Iniciar sesi\u00f3n"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Máscaras restantes: $REMAINING$",
+    "message": "M\u00e1scaras restantes: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Máscaras restantes gratuitas:  $REMAINING$",
+    "message": "M\u00e1scaras restantes gratuitas:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Máscaras de correo electrónico utilizadas recientemente",
+    "message": "M\u00e1scaras de correo electr\u00f3nico utilizadas recientemente",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Obtener máscaras ilimitadas"
+    "message": "Obtener m\u00e1scaras ilimitadas"
   },
   "popupOnboardingShowPrevious": {
     "message": "Mostrar panel anterior"
@@ -166,7 +166,7 @@
     "message": "Ir al panel siguiente"
   },
   "ManageAllAliases_mask": {
-    "message": "Administrar todas las máscaras"
+    "message": "Administrar todas las m\u00e1scaras"
   },
   "labelManage": {
     "message": "Administrar"
@@ -175,7 +175,7 @@
     "message": "Buscar"
   },
   "labelMaskCreated": {
-    "message": "Máscara creada",
+    "message": "M\u00e1scara creada",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
@@ -183,68 +183,68 @@
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "Todas las máscaras de correo electrónico",
+    "message": "Todas las m\u00e1scaras de correo electr\u00f3nico",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "¡Choca esos cinco!"
+    "message": "\u00a1Choca esos cinco!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "¡Eres un usuario avanzado de Firefox Relay!",
+    "message": "\u00a1Eres un usuario avanzado de Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Obtén un dominio único de Relay para tu correo electrónico",
+    "message": "Obt\u00e9n un dominio \u00fanico de Relay para tu correo electr\u00f3nico",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Máscaras de correo electrónico utilizadas"
+    "message": "M\u00e1scaras de correo electr\u00f3nico utilizadas"
   },
   "popupTotalMasksUsed": {
-    "message": "Total de máscaras de correo usadas"
+    "message": "Total de m\u00e1scaras de correo usadas"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Máscaras usadas en este sitio web"
+    "message": "M\u00e1scaras usadas en este sitio web"
   },
   "popupEmailsBlocked": {
-    "message": "Correos electrónicos bloqueados"
+    "message": "Correos electr\u00f3nicos bloqueados"
   },
   "popupEmailsForwarded": {
-    "message": "Correos electrónicos reenviados"
+    "message": "Correos electr\u00f3nicos reenviados"
   },
   "popupEmailTrackersRemoved": {
     "message": "Rastreadores de correo eliminados"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "¡Actualiza a Relay Premium para obtener más protección!",
+    "message": "\u00a1Actualiza a Relay Premium para obtener m\u00e1s protecci\u00f3n!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Una herramienta de protección global"
+    "message": "Una herramienta de protecci\u00f3n global"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay puede ayudarte a proteger tu correo electrónico sin importar dónde te encuentres.",
+    "message": "Relay puede ayudarte a proteger tu correo electr\u00f3nico sin importar d\u00f3nde te encuentres.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Aumento del tamaño del archivo adjunto"
+    "message": "Aumento del tama\u00f1o del archivo adjunto"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay ahora puede reenviar correos electrónicos de hasta 25 MB, incluidos los archivos adjuntos.",
+    "message": "Firefox Relay ahora puede reenviar correos electr\u00f3nicos de hasta 25 MB, incluidos los archivos adjuntos.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "¡Nuestra oferta de lanzamiento finaliza pronto!"
+    "message": "\u00a1Nuestra oferta de lanzamiento finaliza pronto!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Obtén Relay Premium antes del 27 de septiembre y disfruta de enmascaramiento ilimitado a nuestro precio mensual de lanzamiento.",
+    "message": "Obt\u00e9n Relay Premium antes del 27 de septiembre y disfruta de enmascaramiento ilimitado a nuestro precio mensual de lanzamiento.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
     "message": "Actualizar ahora"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "Días",
+    "message": "D\u00edas",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
@@ -260,126 +260,125 @@
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "Reenvío de correo electrónico crítico"
+    "message": "Reenv\u00edo de correo electr\u00f3nico cr\u00edtico"
   },
   "popupPromoBlockingButtonTitle": {
     "message": "Bloquear correos promocionales"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Activa el bloqueo de correos electrónicos promocionales en una máscara para evitar que los correos electrónicos de marketing lleguen a tu bandeja de entrada."
+    "message": "Activa el bloqueo de correos electr\u00f3nicos promocionales en una m\u00e1scara para evitar que los correos electr\u00f3nicos de marketing lleguen a tu bandeja de entrada."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Saber más"
+    "message": "Saber m\u00e1s"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Con Relay Premium, puedes bloquear los correos electrónicos promocionales para que no lleguen a tu bandeja de entrada mientras sigues recibiendo otros correos electrónicos como recibos o seguimiento de compras.",
+    "message": "Con Relay Premium, puedes bloquear los correos electr\u00f3nicos promocionales para que no lleguen a tu bandeja de entrada mientras sigues recibiendo otros correos electr\u00f3nicos como recibos o seguimiento de compras.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "Añade Mozilla VPN con $SAVINGS$ de descuento.",
+    "message": "A\u00f1ade Mozilla VPN con $SAVINGS$ de descuento.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Añade Mozilla VPN con $SAVINGS$ de descuento.",
+    "message": "A\u00f1ade Mozilla VPN con $SAVINGS$ de descuento.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "Plan de 1 año que incluye Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes.",
+    "message": "Plan de 1 a\u00f1o que incluye Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Obtén un año de Relay Premium con enmascaramiento de teléfono más Mozilla VPN por $MONTHLY_PRICE$ al mes.",
+    "message": "Obt\u00e9n un a\u00f1o de Relay Premium con enmascaramiento de tel\u00e9fono m\u00e1s Mozilla VPN por $MONTHLY_PRICE$ al mes.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Administrador de contraseñas de FIrefox + Relay",
+    "message": "Administrador de contrase\u00f1as de FIrefox + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Ahora puedes usar Relay directamente en tu administrador de contraseñas de Firefox.",
+    "message": "Ahora puedes usar Relay directamente en tu administrador de contrase\u00f1as de Firefox.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "Presentamos: Plan de suscripción de Relay + VPN",
+    "message": "Presentamos: Plan de suscripci\u00f3n de Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Actualiza tu suscripción para obtener Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes. ¡Ahorra $SAVINGS$!",
+    "message": "Actualiza tu suscripci\u00f3n para obtener Relay Premium + Mozilla VPN por $MONTHLY_PRICE$ al mes. \u00a1Ahorra $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoCTA": {
-    "message": "Obtén VPN + Relay",
+    "message": "Obt\u00e9n VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "Presentamos el enmascaramiento de números de teléfono"
+    "message": "Presentamos el enmascaramiento de n\u00fameros de tel\u00e9fono"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Con el enmascaramiento de número de teléfono, ahora puedes crear un número de teléfono enmascarado que ayuda a que recibas textos y llamadas sin revelar tu verdadero número."
+    "message": "Con el enmascaramiento de n\u00famero de tel\u00e9fono, ahora puedes crear un n\u00famero de tel\u00e9fono enmascarado que ayuda a que recibas textos y llamadas sin revelar tu verdadero n\u00famero."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Recibe mensajes de texto y llamadas sin revelar tu verdadero número."
+    "message": "Recibe mensajes de texto y llamadas sin revelar tu verdadero n\u00famero."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Actualizar ahora"
   },
   "popupPromoNewLabel": {
-    "message": "¡Nuevo!"
+    "message": "\u00a1Nuevo!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Vuelve a iniciar sesión con tus máscaras"
+    "message": "Vuelve a iniciar sesi\u00f3n con tus m\u00e1scaras"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "Crear una nueva máscara personalizada"
+    "message": "Crear una nueva m\u00e1scara personalizada"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Todo lo que necesitas hacer es crear y compartir una máscara única que use tu subdominio personalizado: la máscara se generará automáticamente. Prueba “shop@subdominiopersonalizado.mozmail.com” la próxima vez que compres en línea, por ejemplo."
+    "message": "Todo lo que necesitas hacer es crear y compartir una m\u00e1scara \u00fanica que use tu subdominio personalizado: la m\u00e1scara se generar\u00e1 autom\u00e1ticamente. Prueba \u201cshop@subdominiopersonalizado.mozmail.com\u201d la pr\u00f3xima vez que compres en l\u00ednea, por ejemplo."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Introduce el prefijo de la máscara de correo"
+    "message": "Introduce el prefijo de la m\u00e1scara de correo"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "p.ej. “café”"
+    "message": "p.ej. \u201ccaf\u00e9\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -389,13 +388,13 @@
     "message": "Bloquear correos promocionales"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "Generar máscara"
+    "message": "Generar m\u00e1scara"
   },
   "popupCreateCustomFormError": {
-    "message": "No se ha podido crear la máscara. Inténtalo de nuevo."
+    "message": "No se ha podido crear la m\u00e1scara. Int\u00e9ntalo de nuevo."
   },
   "pageInputIconSignUpText": {
-    "message": "Visita el sitio web de Firefox Relay para iniciar sesión o crear una cuenta.",
+    "message": "Visita el sitio web de Firefox Relay para iniciar sesi\u00f3n o crear una cuenta.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
@@ -403,23 +402,23 @@
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "Generar nueva máscara"
+    "message": "Generar nueva m\u00e1scara"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Generar una nueva máscara aleatoria"
+    "message": "Generar una nueva m\u00e1scara aleatoria"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "Generar máscara aleatoria"
+    "message": "Generar m\u00e1scara aleatoria"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "Generar máscara personalizada"
+    "message": "Generar m\u00e1scara personalizada"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Selecciona entre tus máscaras de correo electrónico actuales",
+    "message": "Selecciona entre tus m\u00e1scaras de correo electr\u00f3nico actuales",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Máscaras de correo electrónico adicionales",
+    "message": "M\u00e1scaras de correo electr\u00f3nico adicionales",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
@@ -427,41 +426,41 @@
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Obtener máscaras ilimitadas"
+    "message": "Obtener m\u00e1scaras ilimitadas"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Únete a la lista de espera premium",
+    "message": "\u00danete a la lista de espera premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Usar máscara existente de este sitio…"
+    "message": "Usar m\u00e1scara existente de este sitio\u2026"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Máscaras recientes"
+    "message": "M\u00e1scaras recientes"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Usar máscara de número de teléfono"
+    "message": "Usar m\u00e1scara de n\u00famero de tel\u00e9fono"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "Ya has creado el número máximo de máscaras",
+    "message": "Ya has creado el n\u00famero m\u00e1ximo de m\u00e1scaras",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Ya no tienes más máscaras de correo electrónico gratuitas.",
+    "message": "Ya no tienes m\u00e1s m\u00e1scaras de correo electr\u00f3nico gratuitas.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Caracteres no permitidos: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "Añadir nombre de cuenta",
+    "message": "A\u00f1adir nombre de cuenta",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
@@ -474,11 +473,11 @@
     "message": "Activar nuevas funciones"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Puedes permitir que Relay recopile datos opcionales que nos permitan sincronizar tus etiquetas de máscaras en todos tus dispositivos con los sitios web donde se han creado y utilizado.",
+    "message": "Puedes permitir que Relay recopile datos opcionales que nos permitan sincronizar tus etiquetas de m\u00e1scaras en todos tus dispositivos con los sitios web donde se han creado y utilizado.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Saber más"
+    "message": "Saber m\u00e1s"
   },
   "popupDataCollectionButtonDecline": {
     "message": "Rechazar"
@@ -487,10 +486,10 @@
     "message": "Permitir"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Actualización del aviso de privacidad"
+    "message": "Actualizaci\u00f3n del aviso de privacidad"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Para mejorar la fiabilidad de Firefox Relay en el caso de que no se pueda entregar un correo electrónico, lo mantendremos temporalmente en nuestros servidores hasta que se haya entregado. Nunca lo conservaremos más de tres días.",
+    "message": "Para mejorar la fiabilidad de Firefox Relay en el caso de que no se pueda entregar un correo electr\u00f3nico, lo mantendremos temporalmente en nuestros servidores hasta que se haya entregado. Nunca lo conservaremos m\u00e1s de tres d\u00edas.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
@@ -500,7 +499,7 @@
     "message": "Descartar"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ máscaras disponibles.",
+    "message": "$REMAINING$/$MAXIMUM$ m\u00e1scaras disponibles.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Has usado las $MAXIMUM$ máscaras gratuitas disponibles.",
+    "message": "Has usado las $MAXIMUM$ m\u00e1scaras gratuitas disponibles.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -524,14 +523,14 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "Protege tu verdadera dirección de correo electrónico"
+    "message": "Protege tu verdadera direcci\u00f3n de correo electr\u00f3nico"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Usa las máscaras de Relay para mantener privada tu identidad y recibe solo los correos electrónicos que desees en tu bandeja de entrada.",
+    "message": "Usa las m\u00e1scaras de Relay para mantener privada tu identidad y recibe solo los correos electr\u00f3nicos que desees en tu bandeja de entrada.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Obtén más protección"
+    "message": "Obt\u00e9n m\u00e1s protecci\u00f3n"
   },
   "popupNavButtonLaunchRelay": {
     "message": "Iniciar Relay",
@@ -541,14 +540,14 @@
     "message": "Clic para copiar"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "¡Copiado!"
+    "message": "\u00a1Copiado!"
   },
   "popupSurveyLink": {
-    "message": "Ayúdanos a mejorar Relay",
+    "message": "Ay\u00fadanos a mejorar Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "¿Cómo estás de satisfecho con tu experiencia con Firefox Relay?",
+    "message": "\u00bfC\u00f3mo est\u00e1s de satisfecho con tu experiencia con Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
@@ -567,10 +566,10 @@
     "message": "Muy satisfecho"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "¡Gracias por tu opinión!"
+    "message": "\u00a1Gracias por tu opini\u00f3n!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Nos gustaría saber cómo podemos hacerlo mejor. ¿Estarías dispuesto a participar en una encuesta de dos minutos?"
+    "message": "Nos gustar\u00eda saber c\u00f3mo podemos hacerlo mejor. \u00bfEstar\u00edas dispuesto a participar en una encuesta de dos minutos?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Descartar"
@@ -579,34 +578,34 @@
     "message": "Realizar la encuesta"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "Máscaras ilimitadas ahora disponibles"
+    "message": "M\u00e1scaras ilimitadas ahora disponibles"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium ya está disponible en tu país. Protege tu bandeja de entrada con máscaras de correo electrónico ilimitadas y obtén un dominio de correo electrónico único de Relay para que la creación de máscaras sobre la marcha sea fácil y segura.",
+    "message": "Firefox Relay Premium ya est\u00e1 disponible en tu pa\u00eds. Protege tu bandeja de entrada con m\u00e1scaras de correo electr\u00f3nico ilimitadas y obt\u00e9n un dominio de correo electr\u00f3nico \u00fanico de Relay para que la creaci\u00f3n de m\u00e1scaras sobre la marcha sea f\u00e1cil y segura.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "Obtén Relay Premium",
+    "message": "Obt\u00e9n Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Obtén un 20% de descuento en Relay Premium",
+    "message": "Obt\u00e9n un 20% de descuento en Relay Premium",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Estas fiestas obtén un 20% de descuento al comprar 1 año de Relay Premium. Solo introduce el código de promoción “HOLIDAY20” al finalizar la compra. La oferta finaliza el 31 de diciembre de 2023.",
+    "message": "Estas fiestas obt\u00e9n un 20% de descuento al comprar 1 a\u00f1o de Relay Premium. Solo introduce el c\u00f3digo de promoci\u00f3n \u201cHOLIDAY20\u201d al finalizar la compra. La oferta finaliza el 31 de diciembre de 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Obtén 1 año de Relay Premium",
+    "message": "Obt\u00e9n 1 a\u00f1o de Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Actualmente, Relay está reenviando todas las llamadas telefónicas y mensajes de texto a tu número de teléfono real.",
+    "message": "Actualmente, Relay est\u00e1 reenviando todas las llamadas telef\u00f3nicas y mensajes de texto a tu n\u00famero de tel\u00e9fono real.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay está bloqueando todas las llamadas telefónicas y mensajes de texto; no recibirás nada de tu máscara de número de teléfono.",
+    "message": "Relay est\u00e1 bloqueando todas las llamadas telef\u00f3nicas y mensajes de texto; no recibir\u00e1s nada de tu m\u00e1scara de n\u00famero de tel\u00e9fono.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -624,46 +623,46 @@
     "message": "Bloqueando"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Activa tu máscara de teléfono"
+    "message": "Activa tu m\u00e1scara de tel\u00e9fono"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Como suscriptor de Relay Premium, puedes recibir mensajes de texto y llamadas telefónicas sin revelar tu número real. Comienza seleccionando un número para usarlo como máscara de número de teléfono. Solo lleva 5 minutos.",
+    "message": "Como suscriptor de Relay Premium, puedes recibir mensajes de texto y llamadas telef\u00f3nicas sin revelar tu n\u00famero real. Comienza seleccionando un n\u00famero para usarlo como m\u00e1scara de n\u00famero de tel\u00e9fono. Solo lleva 5 minutos.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Activar máscara de teléfono"
+    "message": "Activar m\u00e1scara de tel\u00e9fono"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Enmascara también tu número de teléfono"
+    "message": "Enmascara tambi\u00e9n tu n\u00famero de tel\u00e9fono"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Con el enmascaramiento de números de teléfono de Relay Premium, puedes proteger tu número de teléfono real y seguir recibiendo y respondiendo mensajes de texto y llamadas.",
+    "message": "Con el enmascaramiento de n\u00fameros de tel\u00e9fono de Relay Premium, puedes proteger tu n\u00famero de tel\u00e9fono real y seguir recibiendo y respondiendo mensajes de texto y llamadas.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Obtener enmascaramiento del teléfono"
+    "message": "Obtener enmascaramiento del tel\u00e9fono"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "Aún no disponible en tu país"
+    "message": "A\u00fan no disponible en tu pa\u00eds"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "Con el enmascaramiento del número de teléfono de Relay Premium, podrás ocultar tu número de teléfono real al igual que tu dirección de correo electrónico. Obtén más información en el sitio de Relay y regístrate para recibir más información.",
+    "message": "Con el enmascaramiento del n\u00famero de tel\u00e9fono de Relay Premium, podr\u00e1s ocultar tu n\u00famero de tel\u00e9fono real al igual que tu direcci\u00f3n de correo electr\u00f3nico. Obt\u00e9n m\u00e1s informaci\u00f3n en el sitio de Relay y reg\u00edstrate para recibir m\u00e1s informaci\u00f3n.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "Únete a la lista de espera"
+    "message": "\u00danete a la lista de espera"
   },
   "phonesTabText": {
-    "message": "Teléfono"
+    "message": "Tel\u00e9fono"
   },
   "emailsTabText": {
-    "message": "Correo electrónico"
+    "message": "Correo electr\u00f3nico"
   },
   "goBackText": {
     "message": "Retroceder"
   },
   "seeStatsText": {
-    "message": "Ver estadísticas"
+    "message": "Ver estad\u00edsticas"
   },
   "phoneRemainingMinutes": {
     "message": "Minutos restantes"

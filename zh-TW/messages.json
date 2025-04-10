@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "使用 Firefox Relay，讓您輕鬆就能建立虛擬轉寄信箱。",
+    "message": "\u4f7f\u7528 Firefox Relay\uff0c\u8b93\u60a8\u8f15\u9b06\u5c31\u80fd\u5efa\u7acb\u865b\u64ec\u8f49\u5bc4\u4fe1\u7bb1\u3002",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay 可幫助保護您的實際電子郵件信箱 — 此資料與您的網路身分最有關聯。此附加元件可產生隨機而獨特的轉寄信箱，讓您可用來註冊網站或 App 帳號、訂閱電子報，再將郵件轉寄到您的實際信箱。若您覺得該帳號開始收到不適當的郵件或垃圾信，可以封鎖該轉寄信箱，就不會再將郵件轉寄到您的信箱。當您不再需要該帳號時，就可以直接刪除。",
+    "message": "Firefox Relay \u53ef\u5e6b\u52a9\u4fdd\u8b77\u60a8\u7684\u5be6\u969b\u96fb\u5b50\u90f5\u4ef6\u4fe1\u7bb1 \u2014 \u6b64\u8cc7\u6599\u8207\u60a8\u7684\u7db2\u8def\u8eab\u5206\u6700\u6709\u95dc\u806f\u3002\u6b64\u9644\u52a0\u5143\u4ef6\u53ef\u7522\u751f\u96a8\u6a5f\u800c\u7368\u7279\u7684\u8f49\u5bc4\u4fe1\u7bb1\uff0c\u8b93\u60a8\u53ef\u7528\u4f86\u8a3b\u518a\u7db2\u7ad9\u6216 App \u5e33\u865f\u3001\u8a02\u95b1\u96fb\u5b50\u5831\uff0c\u518d\u5c07\u90f5\u4ef6\u8f49\u5bc4\u5230\u60a8\u7684\u5be6\u969b\u4fe1\u7bb1\u3002\u82e5\u60a8\u89ba\u5f97\u8a72\u5e33\u865f\u958b\u59cb\u6536\u5230\u4e0d\u9069\u7576\u7684\u90f5\u4ef6\u6216\u5783\u573e\u4fe1\uff0c\u53ef\u4ee5\u5c01\u9396\u8a72\u8f49\u5bc4\u4fe1\u7bb1\uff0c\u5c31\u4e0d\u6703\u518d\u5c07\u90f5\u4ef6\u8f49\u5bc4\u5230\u60a8\u7684\u4fe1\u7bb1\u3002\u7576\u60a8\u4e0d\u518d\u9700\u8981\u8a72\u5e33\u865f\u6642\uff0c\u5c31\u53ef\u4ee5\u76f4\u63a5\u522a\u9664\u3002",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,509 +12,508 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "您已成功安裝 Firefox Relay 附加元件，使用 Firefox 帳號登入 Relay 即可開始使用。",
+    "message": "\u60a8\u5df2\u6210\u529f\u5b89\u88dd Firefox Relay \u9644\u52a0\u5143\u4ef6\uff0c\u4f7f\u7528 Firefox \u5e33\u865f\u767b\u5165 Relay \u5373\u53ef\u958b\u59cb\u4f7f\u7528\u3002",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "您已成功安裝 Firefox Relay 附加元件，使用帳號登入 Relay 即可開始使用。",
+    "message": "\u60a8\u5df2\u6210\u529f\u5b89\u88dd Firefox Relay \u9644\u52a0\u5143\u4ef6\uff0c\u4f7f\u7528\u5e33\u865f\u767b\u5165 Relay \u5373\u53ef\u958b\u59cb\u4f7f\u7528\u3002",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "允許 Mozilla 收集您對此附加元件的使用情況。",
+    "message": "\u5141\u8a31 Mozilla \u6536\u96c6\u60a8\u5c0d\u6b64\u9644\u52a0\u5143\u4ef6\u7684\u4f7f\u7528\u60c5\u6cc1\u3002",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "允許收集資料",
+    "message": "\u5141\u8a31\u6536\u96c6\u8cc7\u6599",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "停用資料收集",
+    "message": "\u505c\u7528\u8cc7\u6599\u6536\u96c6",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "收集例如當您點擊工具列中的 Relay 圖示，或是建立新轉寄信箱時的互動資料，可幫助我們了解哪些功能做得好，又有哪些地方可以改善。您可以隨時到「設定」面板中關閉此功能。",
+    "message": "\u6536\u96c6\u4f8b\u5982\u7576\u60a8\u9ede\u64ca\u5de5\u5177\u5217\u4e2d\u7684 Relay \u5716\u793a\uff0c\u6216\u662f\u5efa\u7acb\u65b0\u8f49\u5bc4\u4fe1\u7bb1\u6642\u7684\u4e92\u52d5\u8cc7\u6599\uff0c\u53ef\u5e6b\u52a9\u6211\u5011\u4e86\u89e3\u54ea\u4e9b\u529f\u80fd\u505a\u5f97\u597d\uff0c\u53c8\u6709\u54ea\u4e9b\u5730\u65b9\u53ef\u4ee5\u6539\u5584\u3002\u60a8\u53ef\u4ee5\u96a8\u6642\u5230\u300c\u8a2d\u5b9a\u300d\u9762\u677f\u4e2d\u95dc\u9589\u6b64\u529f\u80fd\u3002",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "註冊 / 登入"
+    "message": "\u8a3b\u518a / \u767b\u5165"
   },
   "popupSettingsTitle": {
-    "message": "設定"
+    "message": "\u8a2d\u5b9a"
   },
   "popupStatsTitle": {
-    "message": "統計",
+    "message": "\u7d71\u8a08",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "新聞",
+    "message": "\u65b0\u805e",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Relay 有什麼新鮮事",
+    "message": "Relay \u6709\u4ec0\u9ebc\u65b0\u9bae\u4e8b",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "回到主面板"
+    "message": "\u56de\u5230\u4e3b\u9762\u677f"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "在網站中的輸入欄位顯示 Relay 圖示",
+    "message": "\u5728\u7db2\u7ad9\u4e2d\u7684\u8f38\u5165\u6b04\u4f4d\u986f\u793a Relay \u5716\u793a",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "允許 Mozilla 收集互動資料",
+    "message": "\u5141\u8a31 Mozilla \u6536\u96c6\u4e92\u52d5\u8cc7\u6599",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "留下意見回饋"
+    "message": "\u7559\u4e0b\u610f\u898b\u56de\u994b"
   },
   "popupSettingsPrivacy": {
-    "message": "隱私權"
+    "message": "\u96b1\u79c1\u6b0a"
   },
   "popupSettingsTermsOfService": {
-    "message": "服務條款"
+    "message": "\u670d\u52d9\u689d\u6b3e"
   },
   "popupSettingsReportIssue": {
-    "message": "回報問題"
+    "message": "\u56de\u5831\u554f\u984c"
   },
   "popupSettingsSubmitReport": {
-    "message": "送出報告"
+    "message": "\u9001\u51fa\u5831\u544a"
   },
   "popupReportIssuesHeadline": {
-    "message": "我在這個網站遇到問題"
+    "message": "\u6211\u5728\u9019\u500b\u7db2\u7ad9\u9047\u5230\u554f\u984c"
   },
   "popupReportFeedbackHeadline": {
-    "message": "留下意見回饋"
+    "message": "\u7559\u4e0b\u610f\u898b\u56de\u994b"
   },
   "popupReportIssueCaseOne": {
-    "message": "網站不接受轉寄信箱"
+    "message": "\u7db2\u7ad9\u4e0d\u63a5\u53d7\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Relay 附加元件造成網站顯示問題",
+    "message": "Relay \u9644\u52a0\u5143\u4ef6\u9020\u6210\u7db2\u7ad9\u986f\u793a\u554f\u984c",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "我沒有收到來自此網站的郵件"
+    "message": "\u6211\u6c92\u6709\u6536\u5230\u4f86\u81ea\u6b64\u7db2\u7ad9\u7684\u90f5\u4ef6"
   },
   "popupReportIssueCaseFour": {
-    "message": "網站不接受虛擬轉接門號"
+    "message": "\u7db2\u7ad9\u4e0d\u63a5\u53d7\u865b\u64ec\u8f49\u63a5\u9580\u865f"
   },
   "popupReportIssueCaseFive": {
-    "message": "我沒有收到此網站的郵件或來電"
+    "message": "\u6211\u6c92\u6709\u6536\u5230\u6b64\u7db2\u7ad9\u7684\u90f5\u4ef6\u6216\u4f86\u96fb"
   },
   "popupReportIssueCaseOther": {
-    "message": "其他"
+    "message": "\u5176\u4ed6"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "請提供更多詳情"
+    "message": "\u8acb\u63d0\u4f9b\u66f4\u591a\u8a73\u60c5"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "已送出回報！"
+    "message": "\u5df2\u9001\u51fa\u56de\u5831\uff01"
   },
   "popupReportIssueSuccessBody": {
-    "message": "感謝您協助我們改善 Firefox Relay！",
+    "message": "\u611f\u8b1d\u60a8\u5354\u52a9\u6211\u5011\u6539\u5584 Firefox Relay\uff01",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "繼續"
+    "message": "\u7e7c\u7e8c"
   },
   "popupSignUpPanelWelcome": {
-    "message": "歡迎！"
+    "message": "\u6b61\u8fce\uff01"
   },
   "popupSignUpPanelIntro": {
-    "message": "首先使用您的 Firefox 帳號登入 Relay。",
+    "message": "\u9996\u5148\u4f7f\u7528\u60a8\u7684 Firefox \u5e33\u865f\u767b\u5165 Relay\u3002",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "首先，請使用您的帳號登入 Relay。",
+    "message": "\u9996\u5148\uff0c\u8acb\u4f7f\u7528\u60a8\u7684\u5e33\u865f\u767b\u5165 Relay\u3002",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "繼續"
+    "message": "\u7e7c\u7e8c"
   },
   "popupSignUpPanelSignIn": {
-    "message": "登入"
+    "message": "\u767b\u5165"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "剩餘轉寄信箱: $REMAINING$",
+    "message": "\u5269\u9918\u8f49\u5bc4\u4fe1\u7bb1: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "剩餘免費轉寄信箱: $REMAINING$",
+    "message": "\u5269\u9918\u514d\u8cbb\u8f49\u5bc4\u4fe1\u7bb1: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "最近使用過的轉寄信箱",
+    "message": "\u6700\u8fd1\u4f7f\u7528\u904e\u7684\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "取得無限量轉寄信箱"
+    "message": "\u53d6\u5f97\u7121\u9650\u91cf\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupOnboardingShowPrevious": {
-    "message": "顯示上一個面板"
+    "message": "\u986f\u793a\u4e0a\u4e00\u500b\u9762\u677f"
   },
   "popupOnboardingShowNext": {
-    "message": "前往下一個面板"
+    "message": "\u524d\u5f80\u4e0b\u4e00\u500b\u9762\u677f"
   },
   "ManageAllAliases_mask": {
-    "message": "管理所有轉寄信箱"
+    "message": "\u7ba1\u7406\u6240\u6709\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "labelManage": {
-    "message": "管理"
+    "message": "\u7ba1\u7406"
   },
   "labelSearch": {
-    "message": "搜尋"
+    "message": "\u641c\u5c0b"
   },
   "labelMaskCreated": {
-    "message": "已產生轉寄信箱",
+    "message": "\u5df2\u7522\u751f\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "來自此網站",
+    "message": "\u4f86\u81ea\u6b64\u7db2\u7ad9",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "所有轉寄信箱",
+    "message": "\u6240\u6709\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Gimme Five!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "您是 Firefox Relay 大師！",
+    "message": "\u60a8\u662f Firefox Relay \u5927\u5e2b\uff01",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "獲得獨特的 Relay 郵件網域",
+    "message": "\u7372\u5f97\u7368\u7279\u7684 Relay \u90f5\u4ef6\u7db2\u57df",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "已用的轉寄信箱"
+    "message": "\u5df2\u7528\u7684\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupTotalMasksUsed": {
-    "message": "使用的轉寄信箱總數"
+    "message": "\u4f7f\u7528\u7684\u8f49\u5bc4\u4fe1\u7bb1\u7e3d\u6578"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "在此網站使用過的轉寄信箱"
+    "message": "\u5728\u6b64\u7db2\u7ad9\u4f7f\u7528\u904e\u7684\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupEmailsBlocked": {
-    "message": "封信已封鎖"
+    "message": "\u5c01\u4fe1\u5df2\u5c01\u9396"
   },
   "popupEmailsForwarded": {
-    "message": "封信已轉寄"
+    "message": "\u5c01\u4fe1\u5df2\u8f49\u5bc4"
   },
   "popupEmailTrackersRemoved": {
-    "message": "郵件追蹤器移除數量"
+    "message": "\u90f5\u4ef6\u8ffd\u8e64\u5668\u79fb\u9664\u6578\u91cf"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "升級到 Relay Premium 版，獲得更多保護！",
+    "message": "\u5347\u7d1a\u5230 Relay Premium \u7248\uff0c\u7372\u5f97\u66f4\u591a\u4fdd\u8b77\uff01",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "全球性的保護工具"
+    "message": "\u5168\u7403\u6027\u7684\u4fdd\u8b77\u5de5\u5177"
   },
   "popupEducationalComponent1Body": {
-    "message": "不論身在何方，Relay 都可幫助保護您的電子郵件信箱。",
+    "message": "\u4e0d\u8ad6\u8eab\u5728\u4f55\u65b9\uff0cRelay \u90fd\u53ef\u5e6b\u52a9\u4fdd\u8b77\u60a8\u7684\u96fb\u5b50\u90f5\u4ef6\u4fe1\u7bb1\u3002",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "接受的附件大小增加了"
+    "message": "\u63a5\u53d7\u7684\u9644\u4ef6\u5927\u5c0f\u589e\u52a0\u4e86"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "現在起，Firefox Relay 可轉寄大小不超過 25MB（含附件）的郵件。",
+    "message": "\u73fe\u5728\u8d77\uff0cFirefox Relay \u53ef\u8f49\u5bc4\u5927\u5c0f\u4e0d\u8d85\u904e 25MB\uff08\u542b\u9644\u4ef6\uff09\u7684\u90f5\u4ef6\u3002",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "上市優惠價即將結束！"
+    "message": "\u4e0a\u5e02\u512a\u60e0\u50f9\u5373\u5c07\u7d50\u675f\uff01"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "於 9 月 27 日前下載 Relay Premium，即可以上市優惠價獲得無限量轉寄信箱服務。",
+    "message": "\u65bc 9 \u6708 27 \u65e5\u524d\u4e0b\u8f09 Relay Premium\uff0c\u5373\u53ef\u4ee5\u4e0a\u5e02\u512a\u60e0\u50f9\u7372\u5f97\u7121\u9650\u91cf\u8f49\u5bc4\u4fe1\u7bb1\u670d\u52d9\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "立刻升級"
+    "message": "\u7acb\u523b\u5347\u7d1a"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "天",
+    "message": "\u5929",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "小時",
+    "message": "\u5c0f\u6642",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
-    "message": "分",
+    "message": "\u5206",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupEndOfIntroPricingCountdownSeconds": {
-    "message": "秒",
+    "message": "\u79d2",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "轉寄重要郵件"
+    "message": "\u8f49\u5bc4\u91cd\u8981\u90f5\u4ef6"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "封鎖行銷郵件"
+    "message": "\u5c01\u9396\u884c\u92b7\u90f5\u4ef6"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "對轉寄信箱開啟「封鎖行銷郵件」功能，即可不讓行銷郵件進入收件匣。"
+    "message": "\u5c0d\u8f49\u5bc4\u4fe1\u7bb1\u958b\u555f\u300c\u5c01\u9396\u884c\u92b7\u90f5\u4ef6\u300d\u529f\u80fd\uff0c\u5373\u53ef\u4e0d\u8b93\u884c\u92b7\u90f5\u4ef6\u9032\u5165\u6536\u4ef6\u5323\u3002"
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "了解更多"
+    "message": "\u4e86\u89e3\u66f4\u591a"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "透過 Relay Premium 即可封鎖行銷郵件，但還是能收到消費收據、訂單出貨通知等重要郵件。",
+    "message": "\u900f\u904e Relay Premium \u5373\u53ef\u5c01\u9396\u884c\u92b7\u90f5\u4ef6\uff0c\u4f46\u9084\u662f\u80fd\u6536\u5230\u6d88\u8cbb\u6536\u64da\u3001\u8a02\u55ae\u51fa\u8ca8\u901a\u77e5\u7b49\u91cd\u8981\u90f5\u4ef6\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "以 $SAVINGS$ 折扣獲得 Mozilla VPN。",
+    "message": "\u4ee5 $SAVINGS$ \u6298\u6263\u7372\u5f97 Mozilla VPN\u3002",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "以 $SAVINGS$ 折扣獲得 Mozilla VPN。",
+    "message": "\u4ee5 $SAVINGS$ \u6298\u6263\u7372\u5f97 Mozilla VPN\u3002",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "包含 Relay Premium + Mozilla VPN 的一年方案，僅需每月 $MONTHLY_PRICE$。",
+    "message": "\u5305\u542b Relay Premium + Mozilla VPN \u7684\u4e00\u5e74\u65b9\u6848\uff0c\u50c5\u9700\u6bcf\u6708 $MONTHLY_PRICE$\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "以每月 $MONTHLY_PRICE$ 的價格獲得一年的 Relay Premium 手機門號轉接服務與 Mozilla VPN。",
+    "message": "\u4ee5\u6bcf\u6708 $MONTHLY_PRICE$ \u7684\u50f9\u683c\u7372\u5f97\u4e00\u5e74\u7684 Relay Premium \u624b\u6a5f\u9580\u865f\u8f49\u63a5\u670d\u52d9\u8207 Mozilla VPN\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox 密碼管理員 + Relay",
+    "message": "Firefox \u5bc6\u78bc\u7ba1\u7406\u54e1 + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "現在起，您可以直接在 Firefox 密碼管理員當中使用 Relay。",
+    "message": "\u73fe\u5728\u8d77\uff0c\u60a8\u53ef\u4ee5\u76f4\u63a5\u5728 Firefox \u5bc6\u78bc\u7ba1\u7406\u54e1\u7576\u4e2d\u4f7f\u7528 Relay\u3002",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "向您介紹：Relay + VPN 訂閱方案",
+    "message": "\u5411\u60a8\u4ecb\u7d39\uff1aRelay + VPN \u8a02\u95b1\u65b9\u6848",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "升級訂閱內容，只要每月 $MONTHLY_PRICE$ 即可一次獲得 Relay Premium + Mozilla VPN。可省下 $SAVINGS$！",
+    "message": "\u5347\u7d1a\u8a02\u95b1\u5167\u5bb9\uff0c\u53ea\u8981\u6bcf\u6708 $MONTHLY_PRICE$ \u5373\u53ef\u4e00\u6b21\u7372\u5f97 Relay Premium + Mozilla VPN\u3002\u53ef\u7701\u4e0b $SAVINGS$\uff01",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoCTA": {
-    "message": "下載 VPN + Relay",
+    "message": "\u4e0b\u8f09 VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "推出手機號碼轉接功能"
+    "message": "\u63a8\u51fa\u624b\u6a5f\u865f\u78bc\u8f49\u63a5\u529f\u80fd"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "透過手機號碼轉接功能，您可以建立一組虛擬手機號碼，將來電與簡訊轉接到您的實際號碼。"
+    "message": "\u900f\u904e\u624b\u6a5f\u865f\u78bc\u8f49\u63a5\u529f\u80fd\uff0c\u60a8\u53ef\u4ee5\u5efa\u7acb\u4e00\u7d44\u865b\u64ec\u624b\u6a5f\u865f\u78bc\uff0c\u5c07\u4f86\u96fb\u8207\u7c21\u8a0a\u8f49\u63a5\u5230\u60a8\u7684\u5be6\u969b\u865f\u78bc\u3002"
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "不需提供您的實際號碼，即可接聽電話與接收簡訊。"
+    "message": "\u4e0d\u9700\u63d0\u4f9b\u60a8\u7684\u5be6\u969b\u865f\u78bc\uff0c\u5373\u53ef\u63a5\u807d\u96fb\u8a71\u8207\u63a5\u6536\u7c21\u8a0a\u3002"
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "立刻升級"
+    "message": "\u7acb\u523b\u5347\u7d1a"
   },
   "popupPromoNewLabel": {
-    "message": "新推出！"
+    "message": "\u65b0\u63a8\u51fa\uff01"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "使用您的轉寄信箱登入網站"
+    "message": "\u4f7f\u7528\u60a8\u7684\u8f49\u5bc4\u4fe1\u7bb1\u767b\u5165\u7db2\u7ad9"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "建立新自訂轉寄信箱"
+    "message": "\u5efa\u7acb\u65b0\u81ea\u8a02\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupCreateCustomMaskBody": {
-    "message": "您只要建立一組獨特而使用您自訂子網域名稱的轉寄信箱。例如在網購時改用「shop@customsubdomain.mozmail.com」就會自動產生。"
+    "message": "\u60a8\u53ea\u8981\u5efa\u7acb\u4e00\u7d44\u7368\u7279\u800c\u4f7f\u7528\u60a8\u81ea\u8a02\u5b50\u7db2\u57df\u540d\u7a31\u7684\u8f49\u5bc4\u4fe1\u7bb1\u3002\u4f8b\u5982\u5728\u7db2\u8cfc\u6642\u6539\u7528\u300cshop@customsubdomain.mozmail.com\u300d\u5c31\u6703\u81ea\u52d5\u7522\u751f\u3002"
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "輸入轉寄信箱前綴"
+    "message": "\u8f38\u5165\u8f49\u5bc4\u4fe1\u7bb1\u524d\u7db4"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "例如「coffee」"
+    "message": "\u4f8b\u5982\u300ccoffee\u300d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "封鎖行銷郵件"
+    "message": "\u5c01\u9396\u884c\u92b7\u90f5\u4ef6"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "產生轉寄信箱"
+    "message": "\u7522\u751f\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupCreateCustomFormError": {
-    "message": "無法建立此轉寄信箱，請再試一次。"
+    "message": "\u7121\u6cd5\u5efa\u7acb\u6b64\u8f49\u5bc4\u4fe1\u7bb1\uff0c\u8acb\u518d\u8a66\u4e00\u6b21\u3002"
   },
   "pageInputIconSignUpText": {
-    "message": "到 Firefox Relay 網站登入或註冊帳號。",
+    "message": "\u5230 Firefox Relay \u7db2\u7ad9\u767b\u5165\u6216\u8a3b\u518a\u5e33\u865f\u3002",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "前往 Firefox Relay",
+    "message": "\u524d\u5f80 Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "產生新轉寄信箱"
+    "message": "\u7522\u751f\u65b0\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "產生新隨機轉寄信箱"
+    "message": "\u7522\u751f\u65b0\u96a8\u6a5f\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "產生隨機轉寄信箱"
+    "message": "\u7522\u751f\u96a8\u6a5f\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "建立自訂轉寄信箱"
+    "message": "\u5efa\u7acb\u81ea\u8a02\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "選擇您目前的轉寄信箱",
+    "message": "\u9078\u64c7\u60a8\u76ee\u524d\u7684\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "其它轉寄信箱",
+    "message": "\u5176\u5b83\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "在此網站使用過的轉寄信箱",
+    "message": "\u5728\u6b64\u7db2\u7ad9\u4f7f\u7528\u904e\u7684\u8f49\u5bc4\u4fe1\u7bb1",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "取得無限量轉寄信箱"
+    "message": "\u53d6\u5f97\u7121\u9650\u91cf\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "加入 Premium 版排隊名單",
+    "message": "\u52a0\u5165 Premium \u7248\u6392\u968a\u540d\u55ae",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "使用在此網站用過的轉寄信箱…"
+    "message": "\u4f7f\u7528\u5728\u6b64\u7db2\u7ad9\u7528\u904e\u7684\u8f49\u5bc4\u4fe1\u7bb1\u2026"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "近期的轉寄信箱"
+    "message": "\u8fd1\u671f\u7684\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "使用手機轉接號碼"
+    "message": "\u4f7f\u7528\u624b\u6a5f\u8f49\u63a5\u865f\u78bc"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "您可建立的轉寄信箱數量已滿",
+    "message": "\u60a8\u53ef\u5efa\u7acb\u7684\u8f49\u5bc4\u4fe1\u7bb1\u6578\u91cf\u5df2\u6eff",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "您的免費轉寄信箱數量不足。",
+    "message": "\u60a8\u7684\u514d\u8cbb\u8f49\u5bc4\u4fe1\u7bb1\u6578\u91cf\u4e0d\u8db3\u3002",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "不允許下列符號: $CHARACTERS$",
+    "message": "\u4e0d\u5141\u8a31\u4e0b\u5217\u7b26\u865f: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "新增帳號名稱",
+    "message": "\u65b0\u589e\u5e33\u865f\u540d\u7a31",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "關閉"
+    "message": "\u95dc\u9589"
   },
   "returnToPreviousPanel": {
-    "message": "回到先前的面板"
+    "message": "\u56de\u5230\u5148\u524d\u7684\u9762\u677f"
   },
   "popupDataCollectionHeadline": {
-    "message": "開啟全新功能"
+    "message": "\u958b\u555f\u5168\u65b0\u529f\u80fd"
   },
   "popupDataCollectionBody_mask": {
-    "message": "您可允許 Relay 收集資料，讓我們於您的各裝置間同步您於哪些網站建立使用過的轉寄信箱的標籤（非必要提供）。",
+    "message": "\u60a8\u53ef\u5141\u8a31 Relay \u6536\u96c6\u8cc7\u6599\uff0c\u8b93\u6211\u5011\u65bc\u60a8\u7684\u5404\u88dd\u7f6e\u9593\u540c\u6b65\u60a8\u65bc\u54ea\u4e9b\u7db2\u7ad9\u5efa\u7acb\u4f7f\u7528\u904e\u7684\u8f49\u5bc4\u4fe1\u7bb1\u7684\u6a19\u7c64\uff08\u975e\u5fc5\u8981\u63d0\u4f9b\uff09\u3002",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "了解更多"
+    "message": "\u4e86\u89e3\u66f4\u591a"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "拒絕"
+    "message": "\u62d2\u7d55"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "允許"
+    "message": "\u5141\u8a31"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "隱私權公告更新"
+    "message": "\u96b1\u79c1\u6b0a\u516c\u544a\u66f4\u65b0"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "為了加強 Firefox Relay 的可靠度，降低郵件轉寄失敗的機會，我們將在伺服器上暫存收到的郵件，直到信件成功寄出為止。這個保存時間不會超過三天。",
+    "message": "\u70ba\u4e86\u52a0\u5f37 Firefox Relay \u7684\u53ef\u9760\u5ea6\uff0c\u964d\u4f4e\u90f5\u4ef6\u8f49\u5bc4\u5931\u6557\u7684\u6a5f\u6703\uff0c\u6211\u5011\u5c07\u5728\u4f3a\u670d\u5668\u4e0a\u66ab\u5b58\u6536\u5230\u7684\u90f5\u4ef6\uff0c\u76f4\u5230\u4fe1\u4ef6\u6210\u529f\u5bc4\u51fa\u70ba\u6b62\u3002\u9019\u500b\u4fdd\u5b58\u6642\u9593\u4e0d\u6703\u8d85\u904e\u4e09\u5929\u3002",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "檢視隱私權公告"
+    "message": "\u6aa2\u8996\u96b1\u79c1\u6b0a\u516c\u544a"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "知道了！"
+    "message": "\u77e5\u9053\u4e86\uff01"
   },
   "popupFreeMasksAvailable": {
-    "message": "最多 $MAXIMUM$ 個，剩餘 $REMAINING$ 個轉寄信箱可用。",
+    "message": "\u6700\u591a $MAXIMUM$ \u500b\uff0c\u5269\u9918 $REMAINING$ \u500b\u8f49\u5bc4\u4fe1\u7bb1\u53ef\u7528\u3002",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "REMAINING": {
-        "content": "$1",
-        "example": "1"
-      },
       "MAXIMUM": {
         "content": "$2",
         "example": "5"
+      },
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
       }
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "您已經產生完 $MAXIMUM$ 組免費轉寄信箱。",
+    "message": "\u60a8\u5df2\u7d93\u7522\u751f\u5b8c $MAXIMUM$ \u7d44\u514d\u8cbb\u8f49\u5bc4\u4fe1\u7bb1\u3002",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -524,157 +523,157 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "保護您的實際電子郵件地址"
+    "message": "\u4fdd\u8b77\u60a8\u7684\u5be6\u969b\u96fb\u5b50\u90f5\u4ef6\u5730\u5740"
   },
   "popupNoMasksCreatedBody": {
-    "message": "使用 Relay 的轉寄信箱，幫助您保護身分安全，只讓您想收的信進到收件匣。",
+    "message": "\u4f7f\u7528 Relay \u7684\u8f49\u5bc4\u4fe1\u7bb1\uff0c\u5e6b\u52a9\u60a8\u4fdd\u8b77\u8eab\u5206\u5b89\u5168\uff0c\u53ea\u8b93\u60a8\u60f3\u6536\u7684\u4fe1\u9032\u5230\u6536\u4ef6\u5323\u3002",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "獲得更多保護"
+    "message": "\u7372\u5f97\u66f4\u591a\u4fdd\u8b77"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "開啟 Relay",
+    "message": "\u958b\u555f Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "點擊複製"
+    "message": "\u9ede\u64ca\u8907\u88fd"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "已複製！"
+    "message": "\u5df2\u8907\u88fd\uff01"
   },
   "popupSurveyLink": {
-    "message": "協助我們改善 Relay",
+    "message": "\u5354\u52a9\u6211\u5011\u6539\u5584 Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "您對 Firefox Relay 的使用體驗有多滿意？",
+    "message": "\u60a8\u5c0d Firefox Relay \u7684\u4f7f\u7528\u9ad4\u9a57\u6709\u591a\u6eff\u610f\uff1f",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "非常不滿意"
+    "message": "\u975e\u5e38\u4e0d\u6eff\u610f"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "不滿意"
+    "message": "\u4e0d\u6eff\u610f"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "普通"
+    "message": "\u666e\u901a"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "滿意"
+    "message": "\u6eff\u610f"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "非常滿意"
+    "message": "\u975e\u5e38\u6eff\u610f"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "感謝您的意見回饋！"
+    "message": "\u611f\u8b1d\u60a8\u7684\u610f\u898b\u56de\u994b\uff01"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "我們想更加了解如何可以做得更好。您願意填寫一份兩分鐘的問卷嗎？"
+    "message": "\u6211\u5011\u60f3\u66f4\u52a0\u4e86\u89e3\u5982\u4f55\u53ef\u4ee5\u505a\u5f97\u66f4\u597d\u3002\u60a8\u9858\u610f\u586b\u5beb\u4e00\u4efd\u5169\u5206\u9418\u7684\u554f\u5377\u55ce\uff1f"
   },
   "popupCsatSurveyDismiss": {
-    "message": "知道了！"
+    "message": "\u77e5\u9053\u4e86\uff01"
   },
   "popupCsatSurveyLink": {
-    "message": "填寫問卷"
+    "message": "\u586b\u5beb\u554f\u5377"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "現在可以使用無限量轉寄信箱"
+    "message": "\u73fe\u5728\u53ef\u4ee5\u4f7f\u7528\u7121\u9650\u91cf\u8f49\u5bc4\u4fe1\u7bb1"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium 已經在您的國家推出。可設定無限量轉寄信箱來保護您的收件匣，並獲得獨特的 Relay 郵件網域，讓您隨時隨地都能簡單安全地建立轉寄信箱。",
+    "message": "Firefox Relay Premium \u5df2\u7d93\u5728\u60a8\u7684\u570b\u5bb6\u63a8\u51fa\u3002\u53ef\u8a2d\u5b9a\u7121\u9650\u91cf\u8f49\u5bc4\u4fe1\u7bb1\u4f86\u4fdd\u8b77\u60a8\u7684\u6536\u4ef6\u5323\uff0c\u4e26\u7372\u5f97\u7368\u7279\u7684 Relay \u90f5\u4ef6\u7db2\u57df\uff0c\u8b93\u60a8\u96a8\u6642\u96a8\u5730\u90fd\u80fd\u7c21\u55ae\u5b89\u5168\u5730\u5efa\u7acb\u8f49\u5bc4\u4fe1\u7bb1\u3002",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "訂閱 Relay Premium",
+    "message": "\u8a02\u95b1 Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "訂閱 Relay Premium 可享八折折扣",
+    "message": "\u8a02\u95b1 Relay Premium \u53ef\u4eab\u516b\u6298\u6298\u6263",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "在這個假期中訂閱 Relay Premium 1 年年約，即可享八折優惠。結帳時請輸入優惠碼「HOLIDAY20」，優惠期限至 2023 年 12 月 31 日止。",
+    "message": "\u5728\u9019\u500b\u5047\u671f\u4e2d\u8a02\u95b1 Relay Premium 1 \u5e74\u5e74\u7d04\uff0c\u5373\u53ef\u4eab\u516b\u6298\u512a\u60e0\u3002\u7d50\u5e33\u6642\u8acb\u8f38\u5165\u512a\u60e0\u78bc\u300cHOLIDAY20\u300d\uff0c\u512a\u60e0\u671f\u9650\u81f3 2023 \u5e74 12 \u6708 31 \u65e5\u6b62\u3002",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "訂閱 1 年 Relay Premium 方案",
+    "message": "\u8a02\u95b1 1 \u5e74 Relay Premium \u65b9\u6848",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay 目前會將所有來電與簡訊轉接到您實際的手機門號。",
+    "message": "Relay \u76ee\u524d\u6703\u5c07\u6240\u6709\u4f86\u96fb\u8207\u7c21\u8a0a\u8f49\u63a5\u5230\u60a8\u5be6\u969b\u7684\u624b\u6a5f\u9580\u865f\u3002",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay 會封鎖所有來電與簡訊 — 轉寄門號不會轉發任何東西。",
+    "message": "Relay \u6703\u5c01\u9396\u6240\u6709\u4f86\u96fb\u8207\u7c21\u8a0a \u2014 \u8f49\u5bc4\u9580\u865f\u4e0d\u6703\u8f49\u767c\u4efb\u4f55\u6771\u897f\u3002",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "轉接到：",
+    "message": "\u8f49\u63a5\u5230\uff1a",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "註冊於：",
+    "message": "\u8a3b\u518a\u65bc\uff1a",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "轉接中"
+    "message": "\u8f49\u63a5\u4e2d"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "封鎖"
+    "message": "\u5c01\u9396"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "啟用您的轉接門號"
+    "message": "\u555f\u7528\u60a8\u7684\u8f49\u63a5\u9580\u865f"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "作為 Relay Premium 訂閱者，您不需將實際電話號碼提供出去，即可透過轉接門號來接聽電話與簡訊。請選擇要用作轉接門號的號碼，這個流程僅需 5 分鐘。",
+    "message": "\u4f5c\u70ba Relay Premium \u8a02\u95b1\u8005\uff0c\u60a8\u4e0d\u9700\u5c07\u5be6\u969b\u96fb\u8a71\u865f\u78bc\u63d0\u4f9b\u51fa\u53bb\uff0c\u5373\u53ef\u900f\u904e\u8f49\u63a5\u9580\u865f\u4f86\u63a5\u807d\u96fb\u8a71\u8207\u7c21\u8a0a\u3002\u8acb\u9078\u64c7\u8981\u7528\u4f5c\u8f49\u63a5\u9580\u865f\u7684\u865f\u78bc\uff0c\u9019\u500b\u6d41\u7a0b\u50c5\u9700 5 \u5206\u9418\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "啟用虛擬轉接門號"
+    "message": "\u555f\u7528\u865b\u64ec\u8f49\u63a5\u9580\u865f"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "也將您的手機號碼隱藏起來"
+    "message": "\u4e5f\u5c07\u60a8\u7684\u624b\u6a5f\u865f\u78bc\u96b1\u85cf\u8d77\u4f86"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "透過 Relay Premium 的電話轉接門號，您可以在保護實際手機門號的同時還能接聽簡訊、來電。",
+    "message": "\u900f\u904e Relay Premium \u7684\u96fb\u8a71\u8f49\u63a5\u9580\u865f\uff0c\u60a8\u53ef\u4ee5\u5728\u4fdd\u8b77\u5be6\u969b\u624b\u6a5f\u9580\u865f\u7684\u540c\u6642\u9084\u80fd\u63a5\u807d\u7c21\u8a0a\u3001\u4f86\u96fb\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "取得虛擬手機轉接門號"
+    "message": "\u53d6\u5f97\u865b\u64ec\u624b\u6a5f\u8f49\u63a5\u9580\u865f"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "尚未在您的國家推出"
+    "message": "\u5c1a\u672a\u5728\u60a8\u7684\u570b\u5bb6\u63a8\u51fa"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "透過 Relay Premium 的電話轉接號碼，您可以像隱藏電子郵件地址一樣隱藏實際的電話號碼。歡迎到 Relay 網站了解更多資訊並訂閱最新消息。",
+    "message": "\u900f\u904e Relay Premium \u7684\u96fb\u8a71\u8f49\u63a5\u865f\u78bc\uff0c\u60a8\u53ef\u4ee5\u50cf\u96b1\u85cf\u96fb\u5b50\u90f5\u4ef6\u5730\u5740\u4e00\u6a23\u96b1\u85cf\u5be6\u969b\u7684\u96fb\u8a71\u865f\u78bc\u3002\u6b61\u8fce\u5230 Relay \u7db2\u7ad9\u4e86\u89e3\u66f4\u591a\u8cc7\u8a0a\u4e26\u8a02\u95b1\u6700\u65b0\u6d88\u606f\u3002",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "加入候補名單"
+    "message": "\u52a0\u5165\u5019\u88dc\u540d\u55ae"
   },
   "phonesTabText": {
-    "message": "電話"
+    "message": "\u96fb\u8a71"
   },
   "emailsTabText": {
-    "message": "電子郵件"
+    "message": "\u96fb\u5b50\u90f5\u4ef6"
   },
   "goBackText": {
-    "message": "回上一頁"
+    "message": "\u56de\u4e0a\u4e00\u9801"
   },
   "seeStatsText": {
-    "message": "檢視統計資訊"
+    "message": "\u6aa2\u8996\u7d71\u8a08\u8cc7\u8a0a"
   },
   "phoneRemainingMinutes": {
-    "message": "剩餘分鐘數"
+    "message": "\u5269\u9918\u5206\u9418\u6578"
   },
   "phoneRemainingTexts": {
-    "message": "剩餘簡訊數"
+    "message": "\u5269\u9918\u7c21\u8a0a\u6578"
   },
   "phoneForwardedCallsTexts": {
-    "message": "轉接的來電與簡訊"
+    "message": "\u8f49\u63a5\u7684\u4f86\u96fb\u8207\u7c21\u8a0a"
   },
   "phoneBlockedCallsTexts": {
-    "message": "封鎖的來電與簡訊"
+    "message": "\u5c01\u9396\u7684\u4f86\u96fb\u8207\u7c21\u8a0a"
   }
 }

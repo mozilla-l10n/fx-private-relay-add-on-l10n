@@ -136,11 +136,21 @@
   },
   "popupRemainingAliases_2_mask": {
     "message": "Sisa topeng: $REMAINING$",
-    "description": "Tells the user how many more masks they can make."
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1"
+      }
+    }
   },
   "popupRemainingFreeMasks": {
     "message": "Sisa topeng surel gratis:  $REMAINING$",
-    "description": "Tells the user how many more free masks they can make."
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1"
+      }
+    }
   },
   "popupRecentlyUsedMasks": {
     "message": "Topeng surel yang baru saja digunakan",
@@ -267,19 +277,43 @@
   },
   "popupBundlePromoHeadline_2": {
     "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "SAVINGS": {
+        "content": "$1",
+        "example": "50%"
+      }
+    }
   },
   "popupBundlePromoHeadline_3": {
     "message": "Tambahkan Mozilla VPN dengan diskon $SAVINGS$.",
-    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%"
+    "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "SAVINGS": {
+        "content": "$1",
+        "example": "40%"
+      }
+    }
   },
   "popupBundlePromoBody_2": {
     "message": "Paket 1 tahun termasuk Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "MONTHLY_PRICE": {
+        "content": "$1",
+        "example": "$4.99"
+      }
+    }
   },
   "popupBundlePromoBody_3": {
     "message": "Dapatkan Relay Premium Phone Masking selama satu tahun ditambah Mozilla VPN seharga $MONTHLY_PRICE$/bulan.",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99"
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
+    "placeholders": {
+      "MONTHLY_PRICE": {
+        "content": "$1",
+        "example": "$6.99"
+      }
+    }
   },
   "popupPasswordManagerRelayHeadline": {
     "message": "Pengelola sandi Firefox + Relay",
@@ -295,7 +329,17 @@
   },
   "popupBundlePromoBodyFreePlan": {
     "message": "Tingkatkan langganan Anda untuk mendapatkan Relay Premium + Mozilla VPN seharga $MONTHLY_PRICE$/bulan. Hemat $SAVINGS$!",
-    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%"
+    "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
+    "placeholders": {
+      "MONTHLY_PRICE": {
+        "content": "$1",
+        "example": "$4.99"
+      },
+      "SAVINGS": {
+        "content": "$2",
+        "example": "50%"
+      }
+    }
   },
   "popupBundlePromoCTA": {
     "message": "Dapatkan VPN + Relay",
@@ -332,7 +376,13 @@
     "message": "mis. \u201ckopi\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
-    "message": "@$SUBDOMAIN$.mozmail.com"
+    "message": "@$SUBDOMAIN$.mozmail.com",
+    "placeholders": {
+      "SUBDOMAIN": {
+        "content": "$1",
+        "example": "example"
+      }
+    }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Blokir surel promosi"
@@ -401,7 +451,13 @@
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Karakter yang tidak diizinkan: $CHARACTERS$",
-    "description": "Error message that appears when the user tries to use special characters when labelling an mask."
+    "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
+    "placeholders": {
+      "CHARACTERS": {
+        "content": "$1",
+        "example": "; )"
+      }
+    }
   },
   "profilePageDefaulAliasLabelText": {
     "message": "Tambahkan nama akun",
@@ -444,11 +500,27 @@
   },
   "popupFreeMasksAvailable": {
     "message": "$REMAINING$/$MAXIMUM$ topeng tersedia.",
-    "description": "Tells the user how many more masks they can make."
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
+      },
+      "MAXIMUM": {
+        "content": "$2",
+        "example": "5"
+      }
+    }
   },
   "popupFreeMasksLimitReached": {
     "message": "Anda telah menggunakan seluruh $MAXIMUM$ dari topeng gratis Anda.",
-    "description": "Tells the user they've created the maxmimum free masks"
+    "description": "Tells the user they've created the maxmimum free masks",
+    "placeholders": {
+      "MAXIMUM": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
   },
   "popupNoMasksCreatedHeadline": {
     "message": "Lindungi alamat surel asli Anda"

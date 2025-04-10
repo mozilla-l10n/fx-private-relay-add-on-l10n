@@ -1,506 +1,505 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay ای میل ماسک خلقݨ کوں سوکھا بݨیندے جہڑا تہاڈے اصلی انباکس وچ بھیڄ ݙیندے ہن۔",
+    "message": "Firefox Relay \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9 \u062e\u0644\u0642\u0768 \u06a9\u0648\u06ba \u0633\u0648\u06a9\u06be\u0627 \u0628\u0768\u06cc\u0646\u062f\u06d2 \u062c\u06c1\u0691\u0627 \u062a\u06c1\u0627\u0688\u06d2 \u0627\u0635\u0644\u06cc \u0627\u0646\u0628\u0627\u06a9\u0633 \u0648\u0686 \u0628\u06be\u06cc\u0684 \u0759\u06cc\u0646\u062f\u06d2 \u06c1\u0646\u06d4",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay تہاݙے اصلی ای میل پتے دی حفاظت کیتے تہاݙی مدد کریندے — جہڑا تہاݙی آن لائن سُن٘ڄاݨ نال سبھ کنوں ودھ جُڑا ہویا ہے۔ ایہ تہاکوں نویکلے تے بے ترتیبے ماسک جنریٹ کرݨ ݙیندے، جنہاں کوں تساں کھاتیاں، ایپاں یا خبرنامیاں کیتے سائن اپ کرݨ کیتے ورت سڳدے ہو۔ تے سنہیاں کوں آپݨے اصلی پتے تے پٹھ سڳدے ہو۔ جے تہاکوں پتہ لڳدے جو کوئی کھاتہ اݨ بھاندیاں  ای میل یا سپیم بھیڄیندا پئے تساں ماسک کوں بلاک کر سڳدے ہو تے ایہ تہاݙے ابناکس وچ ای میل بھیڄݨ روک ݙیسی۔ ہک واری جے تساں مزید کھاتہ نہوے رکھݨ چاہندے تاں تساں ماسک کوں مٹا سڳدے ہو۔",
+    "message": "Firefox Relay \u062a\u06c1\u0627\u0759\u06d2 \u0627\u0635\u0644\u06cc \u0627\u06cc \u0645\u06cc\u0644 \u067e\u062a\u06d2 \u062f\u06cc \u062d\u0641\u0627\u0638\u062a \u06a9\u06cc\u062a\u06d2 \u062a\u06c1\u0627\u0759\u06cc \u0645\u062f\u062f \u06a9\u0631\u06cc\u0646\u062f\u06d2 \u2014 \u062c\u06c1\u0691\u0627 \u062a\u06c1\u0627\u0759\u06cc \u0622\u0646 \u0644\u0627\u0626\u0646 \u0633\u064f\u0646\u0658\u0684\u0627\u0768 \u0646\u0627\u0644 \u0633\u0628\u06be \u06a9\u0646\u0648\u06ba \u0648\u062f\u06be \u062c\u064f\u0691\u0627 \u06c1\u0648\u06cc\u0627 \u06c1\u06d2\u06d4 \u0627\u06cc\u06c1 \u062a\u06c1\u0627\u06a9\u0648\u06ba \u0646\u0648\u06cc\u06a9\u0644\u06d2 \u062a\u06d2 \u0628\u06d2 \u062a\u0631\u062a\u06cc\u0628\u06d2 \u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0768 \u0759\u06cc\u0646\u062f\u06d2\u060c \u062c\u0646\u06c1\u0627\u06ba \u06a9\u0648\u06ba \u062a\u0633\u0627\u06ba \u06a9\u06be\u0627\u062a\u06cc\u0627\u06ba\u060c \u0627\u06cc\u067e\u0627\u06ba \u06cc\u0627 \u062e\u0628\u0631\u0646\u0627\u0645\u06cc\u0627\u06ba \u06a9\u06cc\u062a\u06d2 \u0633\u0627\u0626\u0646 \u0627\u067e \u06a9\u0631\u0768 \u06a9\u06cc\u062a\u06d2 \u0648\u0631\u062a \u0633\u06b3\u062f\u06d2 \u06c1\u0648\u06d4 \u062a\u06d2 \u0633\u0646\u06c1\u06cc\u0627\u06ba \u06a9\u0648\u06ba \u0622\u067e\u0768\u06d2 \u0627\u0635\u0644\u06cc \u067e\u062a\u06d2 \u062a\u06d2 \u067e\u0679\u06be \u0633\u06b3\u062f\u06d2 \u06c1\u0648\u06d4 \u062c\u06d2 \u062a\u06c1\u0627\u06a9\u0648\u06ba \u067e\u062a\u06c1 \u0644\u06b3\u062f\u06d2 \u062c\u0648 \u06a9\u0648\u0626\u06cc \u06a9\u06be\u0627\u062a\u06c1 \u0627\u0768 \u0628\u06be\u0627\u0646\u062f\u06cc\u0627\u06ba  \u0627\u06cc \u0645\u06cc\u0644 \u06cc\u0627 \u0633\u067e\u06cc\u0645 \u0628\u06be\u06cc\u0684\u06cc\u0646\u062f\u0627 \u067e\u0626\u06d2 \u062a\u0633\u0627\u06ba \u0645\u0627\u0633\u06a9 \u06a9\u0648\u06ba \u0628\u0644\u0627\u06a9 \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u0648 \u062a\u06d2 \u0627\u06cc\u06c1 \u062a\u06c1\u0627\u0759\u06d2 \u0627\u0628\u0646\u0627\u06a9\u0633 \u0648\u0686 \u0627\u06cc \u0645\u06cc\u0644 \u0628\u06be\u06cc\u0684\u0768 \u0631\u0648\u06a9 \u0759\u06cc\u0633\u06cc\u06d4 \u06c1\u06a9 \u0648\u0627\u0631\u06cc \u062c\u06d2 \u062a\u0633\u0627\u06ba \u0645\u0632\u06cc\u062f \u06a9\u06be\u0627\u062a\u06c1 \u0646\u06c1\u0648\u06d2 \u0631\u06a9\u06be\u0768 \u0686\u0627\u06c1\u0646\u062f\u06d2 \u062a\u0627\u06ba \u062a\u0633\u0627\u06ba \u0645\u0627\u0633\u06a9 \u06a9\u0648\u06ba \u0645\u0679\u0627 \u0633\u06b3\u062f\u06d2 \u06c1\u0648\u06d4",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
-    "message": "فائرفوکس رِیلے پریمیئم",
+    "message": "\u0641\u0627\u0626\u0631\u0641\u0648\u06a9\u0633 \u0631\u0650\u06cc\u0644\u06d2 \u067e\u0631\u06cc\u0645\u06cc\u0626\u0645",
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "تساں کامیابی نال Firefox Relay ایڈ آن انسٹال کر گھدا ہے۔ شروع کرݨ کیتے آپݨے Firefox کھاتے نال Relay  وچ سائن ان تھیوو۔",
+    "message": "\u062a\u0633\u0627\u06ba \u06a9\u0627\u0645\u06cc\u0627\u0628\u06cc \u0646\u0627\u0644 Firefox Relay \u0627\u06cc\u0688 \u0622\u0646 \u0627\u0646\u0633\u0679\u0627\u0644 \u06a9\u0631 \u06af\u06be\u062f\u0627 \u06c1\u06d2\u06d4 \u0634\u0631\u0648\u0639 \u06a9\u0631\u0768 \u06a9\u06cc\u062a\u06d2 \u0622\u067e\u0768\u06d2 Firefox \u06a9\u06be\u0627\u062a\u06d2 \u0646\u0627\u0644 Relay  \u0648\u0686 \u0633\u0627\u0626\u0646 \u0627\u0646 \u062a\u06be\u06cc\u0648\u0648\u06d4",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "تساں کامیابی نال Firefox Relay ایڈ آن انسٹال کر گھدا ہے۔ شروع کرݨ کیتے آپݨے کھاتے نال Relay  وچ سائن ان تھیوو۔",
+    "message": "\u062a\u0633\u0627\u06ba \u06a9\u0627\u0645\u06cc\u0627\u0628\u06cc \u0646\u0627\u0644 Firefox Relay \u0627\u06cc\u0688 \u0622\u0646 \u0627\u0646\u0633\u0679\u0627\u0644 \u06a9\u0631 \u06af\u06be\u062f\u0627 \u06c1\u06d2\u06d4 \u0634\u0631\u0648\u0639 \u06a9\u0631\u0768 \u06a9\u06cc\u062a\u06d2 \u0622\u067e\u0768\u06d2 \u06a9\u06be\u0627\u062a\u06d2 \u0646\u0627\u0644 Relay  \u0648\u0686 \u0633\u0627\u0626\u0646 \u0627\u0646 \u062a\u06be\u06cc\u0648\u0648\u06d4",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "ایہ ایکسٹنشن ورتݨ دے طریقے بارے معلومات کٹھیاں کرݨ کیتے Mozilla کوں اجازت ݙیوو۔",
+    "message": "\u0627\u06cc\u06c1 \u0627\u06cc\u06a9\u0633\u0679\u0646\u0634\u0646 \u0648\u0631\u062a\u0768 \u062f\u06d2 \u0637\u0631\u06cc\u0642\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u06a9\u0679\u06be\u06cc\u0627\u06ba \u06a9\u0631\u0768 \u06a9\u06cc\u062a\u06d2 Mozilla \u06a9\u0648\u06ba \u0627\u062c\u0627\u0632\u062a \u0759\u06cc\u0648\u0648\u06d4",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
+    "message": "\u0688\u06cc\u0679\u0627 \u06a9\u0679\u06be\u0627 \u06a9\u0631\u0768 \u062f\u06cc \u0627\u062c\u0627\u0632\u062a \u0759\u06cc\u0648\u0648",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "ڈیٹا کٹھا کرݨ غیرفعال کرو",
+    "message": "\u0688\u06cc\u0679\u0627 \u06a9\u0679\u06be\u0627 \u06a9\u0631\u0768 \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u06a9\u0631\u0648",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "جہڑے ویلے تساں آپݨے ٹول بار وچ Relay آئیکان تے  کلک کرݨ یا نواں ماسک بݨاوݨ جیہے کم کریندے ہو تاں تعامل دا ڈیٹا کٹھا کرݨ ساکوں ایہ ڄاݨݨ وچ مدد کریندا ہے جو کیا چنگا کم کریندا پئے تے  اساں کتھ بہتر بݨا سڳدے ہیں۔ تساں ایں کوں ہمیشہ ترتیباں دے پینل وچ بند کر سڳدے ہو۔",
+    "message": "\u062c\u06c1\u0691\u06d2 \u0648\u06cc\u0644\u06d2 \u062a\u0633\u0627\u06ba \u0622\u067e\u0768\u06d2 \u0679\u0648\u0644 \u0628\u0627\u0631 \u0648\u0686 Relay \u0622\u0626\u06cc\u06a9\u0627\u0646 \u062a\u06d2  \u06a9\u0644\u06a9 \u06a9\u0631\u0768 \u06cc\u0627 \u0646\u0648\u0627\u06ba \u0645\u0627\u0633\u06a9 \u0628\u0768\u0627\u0648\u0768 \u062c\u06cc\u06c1\u06d2 \u06a9\u0645 \u06a9\u0631\u06cc\u0646\u062f\u06d2 \u06c1\u0648 \u062a\u0627\u06ba \u062a\u0639\u0627\u0645\u0644 \u062f\u0627 \u0688\u06cc\u0679\u0627 \u06a9\u0679\u06be\u0627 \u06a9\u0631\u0768 \u0633\u0627\u06a9\u0648\u06ba \u0627\u06cc\u06c1 \u0684\u0627\u0768\u0768 \u0648\u0686 \u0645\u062f\u062f \u06a9\u0631\u06cc\u0646\u062f\u0627 \u06c1\u06d2 \u062c\u0648 \u06a9\u06cc\u0627 \u0686\u0646\u06af\u0627 \u06a9\u0645 \u06a9\u0631\u06cc\u0646\u062f\u0627 \u067e\u0626\u06d2 \u062a\u06d2  \u0627\u0633\u0627\u06ba \u06a9\u062a\u06be \u0628\u06c1\u062a\u0631 \u0628\u0768\u0627 \u0633\u06b3\u062f\u06d2 \u06c1\u06cc\u06ba\u06d4 \u062a\u0633\u0627\u06ba \u0627\u06cc\u06ba \u06a9\u0648\u06ba \u06c1\u0645\u06cc\u0634\u06c1 \u062a\u0631\u062a\u06cc\u0628\u0627\u06ba \u062f\u06d2 \u067e\u06cc\u0646\u0644 \u0648\u0686 \u0628\u0646\u062f \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u0648\u06d4",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "سائن اپ/ ان"
+    "message": "\u0633\u0627\u0626\u0646 \u0627\u067e/ \u0627\u0646"
   },
   "popupSettingsTitle": {
-    "message": "ترتیباں"
+    "message": "\u062a\u0631\u062a\u06cc\u0628\u0627\u06ba"
   },
   "popupStatsTitle": {
-    "message": "شماریات",
+    "message": "\u0634\u0645\u0627\u0631\u06cc\u0627\u062a",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "خبراں",
+    "message": "\u062e\u0628\u0631\u0627\u06ba",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "ریلے وچ کیا نواں ہے؟",
+    "message": "\u0631\u06cc\u0644\u06d2 \u0648\u0686 \u06a9\u06cc\u0627 \u0646\u0648\u0627\u06ba \u06c1\u06d2\u061f",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "مین پینل تے واپس ون٘ڄو"
+    "message": "\u0645\u06cc\u0646 \u067e\u06cc\u0646\u0644 \u062a\u06d2 \u0648\u0627\u067e\u0633 \u0648\u0646\u0658\u0684\u0648"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "ویب سائٹاں تے ان پٹ خانیاں وچ Relay آئیکان ݙکھاؤ",
+    "message": "\u0648\u06cc\u0628 \u0633\u0627\u0626\u0679\u0627\u06ba \u062a\u06d2 \u0627\u0646 \u067e\u0679 \u062e\u0627\u0646\u06cc\u0627\u06ba \u0648\u0686 Relay \u0622\u0626\u06cc\u06a9\u0627\u0646 \u0759\u06a9\u06be\u0627\u0624",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "موزلا کوں باہمی تعامل ڈیٹا کٹھا کرݨ دی اجازت ݙیوو",
+    "message": "\u0645\u0648\u0632\u0644\u0627 \u06a9\u0648\u06ba \u0628\u0627\u06c1\u0645\u06cc \u062a\u0639\u0627\u0645\u0644 \u0688\u06cc\u0679\u0627 \u06a9\u0679\u06be\u0627 \u06a9\u0631\u0768 \u062f\u06cc \u0627\u062c\u0627\u0632\u062a \u0759\u06cc\u0648\u0648",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "فیڈبیک ݙیوو"
+    "message": "\u0641\u06cc\u0688\u0628\u06cc\u06a9 \u0759\u06cc\u0648\u0648"
   },
   "popupSettingsPrivacy": {
-    "message": "رازداری"
+    "message": "\u0631\u0627\u0632\u062f\u0627\u0631\u06cc"
   },
   "popupSettingsTermsOfService": {
-    "message": "خدمت دیاں شرطاں"
+    "message": "\u062e\u062f\u0645\u062a \u062f\u06cc\u0627\u06ba \u0634\u0631\u0637\u0627\u06ba"
   },
   "popupSettingsReportIssue": {
-    "message": "مسئلہ رپورٹ کرو"
+    "message": "\u0645\u0633\u0626\u0644\u06c1 \u0631\u067e\u0648\u0631\u0679 \u06a9\u0631\u0648"
   },
   "popupSettingsSubmitReport": {
-    "message": "رپورٹ جمع کرواؤ"
+    "message": "\u0631\u067e\u0648\u0631\u0679 \u062c\u0645\u0639 \u06a9\u0631\u0648\u0627\u0624"
   },
   "popupReportIssuesHeadline": {
-    "message": "ایں ویب سائٹ نال میکوں اوکھ ہن"
+    "message": "\u0627\u06cc\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u0646\u0627\u0644 \u0645\u06cc\u06a9\u0648\u06ba \u0627\u0648\u06a9\u06be \u06c1\u0646"
   },
   "popupReportFeedbackHeadline": {
-    "message": "فیڈبیک ݙیوو"
+    "message": "\u0641\u06cc\u0688\u0628\u06cc\u06a9 \u0759\u06cc\u0648\u0648"
   },
   "popupReportIssueCaseOne": {
-    "message": "ویب سائٹ ولوں ای میل ماسک قبول کائناں تھیا ہائی"
+    "message": "\u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u0648\u0644\u0648\u06ba \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9 \u0642\u0628\u0648\u0644 \u06a9\u0627\u0626\u0646\u0627\u06ba \u062a\u06be\u06cc\u0627 \u06c1\u0627\u0626\u06cc"
   },
   "popupReportIssueCaseTwo": {
-    "message": "ویب سائٹ نال Relay ایڈ آن ہک بصری مسئلہ کیتے",
+    "message": "\u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u0646\u0627\u0644 Relay \u0627\u06cc\u0688 \u0622\u0646 \u06c1\u06a9 \u0628\u0635\u0631\u06cc \u0645\u0633\u0626\u0644\u06c1 \u06a9\u06cc\u062a\u06d2",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ای میلاں وصول کائنی کیتیاں"
+    "message": "\u062c\u06c1\u0691\u06cc \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u06a9\u0646\u0648\u06ba \u0645\u06cc\u06a9\u0648\u06ba \u062a\u0648\u0642\u0639 \u06c1\u0627\u0626\u06cc \u0627\u0648\u06ba \u06a9\u0646\u0648\u06ba \u0645\u06cc\u06ba \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u0648\u0635\u0648\u0644 \u06a9\u0627\u0626\u0646\u06cc \u06a9\u06cc\u062a\u06cc\u0627\u06ba"
   },
   "popupReportIssueCaseFour": {
-    "message": "ایں ویب سائٹ ولوں فون ماسک قبول کائناں تھیا ہائی"
+    "message": "\u0627\u06cc\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u0648\u0644\u0648\u06ba \u0641\u0648\u0646 \u0645\u0627\u0633\u06a9 \u0642\u0628\u0648\u0644 \u06a9\u0627\u0626\u0646\u0627\u06ba \u062a\u06be\u06cc\u0627 \u06c1\u0627\u0626\u06cc"
   },
   "popupReportIssueCaseFive": {
-    "message": "جہڑی ویب سائٹ کنوں میکوں توقع ہائی اوں کنوں میں ٹیکسٹ یا کال وصول کائنی کیتیاں"
+    "message": "\u062c\u06c1\u0691\u06cc \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u06a9\u0646\u0648\u06ba \u0645\u06cc\u06a9\u0648\u06ba \u062a\u0648\u0642\u0639 \u06c1\u0627\u0626\u06cc \u0627\u0648\u06ba \u06a9\u0646\u0648\u06ba \u0645\u06cc\u06ba \u0679\u06cc\u06a9\u0633\u0679 \u06cc\u0627 \u06a9\u0627\u0644 \u0648\u0635\u0648\u0644 \u06a9\u0627\u0626\u0646\u06cc \u06a9\u06cc\u062a\u06cc\u0627\u06ba"
   },
   "popupReportIssueCaseOther": {
-    "message": "ٻیا"
+    "message": "\u067b\u06cc\u0627"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "سوہݨا، تفصیلاں فراہم کرو"
+    "message": "\u0633\u0648\u06c1\u0768\u0627\u060c \u062a\u0641\u0635\u06cc\u0644\u0627\u06ba \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0648"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "رپورٹ بھیڄ ݙتی!"
+    "message": "\u0631\u067e\u0648\u0631\u0679 \u0628\u06be\u06cc\u0684 \u0759\u062a\u06cc!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "Firefox Relay کوں چنگیرا بݨاوݨ کیتے ساݙی مدد کرݨ تے تہاݙا شکریہ!",
+    "message": "Firefox Relay \u06a9\u0648\u06ba \u0686\u0646\u06af\u06cc\u0631\u0627 \u0628\u0768\u0627\u0648\u0768 \u06a9\u06cc\u062a\u06d2 \u0633\u0627\u0759\u06cc \u0645\u062f\u062f \u06a9\u0631\u0768 \u062a\u06d2 \u062a\u06c1\u0627\u0759\u0627 \u0634\u06a9\u0631\u06cc\u06c1!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "جاری"
+    "message": "\u062c\u0627\u0631\u06cc"
   },
   "popupSignUpPanelWelcome": {
-    "message": "ست بسم اللہ"
+    "message": "\u0633\u062a \u0628\u0633\u0645 \u0627\u0644\u0644\u06c1"
   },
   "popupSignUpPanelIntro": {
-    "message": "آپݨے Firefox کھاتے نال  Relay وچ سائن ان تھیوݨ نال شروع کرو۔",
+    "message": "\u0622\u067e\u0768\u06d2 Firefox \u06a9\u06be\u0627\u062a\u06d2 \u0646\u0627\u0644  Relay \u0648\u0686 \u0633\u0627\u0626\u0646 \u0627\u0646 \u062a\u06be\u06cc\u0648\u0768 \u0646\u0627\u0644 \u0634\u0631\u0648\u0639 \u06a9\u0631\u0648\u06d4",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "آپݨے  کھاتے نال  Relay وچ سائن ان تھیوݨ نال شروع کرو۔",
+    "message": "\u0622\u067e\u0768\u06d2  \u06a9\u06be\u0627\u062a\u06d2 \u0646\u0627\u0644  Relay \u0648\u0686 \u0633\u0627\u0626\u0646 \u0627\u0646 \u062a\u06be\u06cc\u0648\u0768 \u0646\u0627\u0644 \u0634\u0631\u0648\u0639 \u06a9\u0631\u0648\u06d4",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "جاری"
+    "message": "\u062c\u0627\u0631\u06cc"
   },
   "popupSignUpPanelSignIn": {
-    "message": "سائن ان"
+    "message": "\u0633\u0627\u0626\u0646 \u0627\u0646"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "ماسکاں دا ناں وٹاوݨ: $REMAINING$",
+    "message": "\u0645\u0627\u0633\u06a9\u0627\u06ba \u062f\u0627 \u0646\u0627\u06ba \u0648\u0679\u0627\u0648\u0768: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "مفت ای میل ماسکاں دا ناں وٹاوݨ: $REMAINING$",
+    "message": "\u0645\u0641\u062a \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9\u0627\u06ba \u062f\u0627 \u0646\u0627\u06ba \u0648\u0679\u0627\u0648\u0768: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "حالیہ ورتیل ای میل ماسک",
+    "message": "\u062d\u0627\u0644\u06cc\u06c1 \u0648\u0631\u062a\u06cc\u0644 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "بے انت ماسک گھنو"
+    "message": "\u0628\u06d2 \u0627\u0646\u062a \u0645\u0627\u0633\u06a9 \u06af\u06be\u0646\u0648"
   },
   "popupOnboardingShowPrevious": {
-    "message": "پچھلا پینل ݙکھاؤ"
+    "message": "\u067e\u0686\u06be\u0644\u0627 \u067e\u06cc\u0646\u0644 \u0759\u06a9\u06be\u0627\u0624"
   },
   "popupOnboardingShowNext": {
-    "message": "اڳلے پینل تے ون٘ڄو"
+    "message": "\u0627\u06b3\u0644\u06d2 \u067e\u06cc\u0646\u0644 \u062a\u06d2 \u0648\u0646\u0658\u0684\u0648"
   },
   "ManageAllAliases_mask": {
-    "message": "سارے ماسک منیج کرو"
+    "message": "\u0633\u0627\u0631\u06d2 \u0645\u0627\u0633\u06a9 \u0645\u0646\u06cc\u062c \u06a9\u0631\u0648"
   },
   "labelManage": {
-    "message": "بندوبست کرو"
+    "message": "\u0628\u0646\u062f\u0648\u0628\u0633\u062a \u06a9\u0631\u0648"
   },
   "labelSearch": {
-    "message": "ڳولو"
+    "message": "\u06b3\u0648\u0644\u0648"
   },
   "labelMaskCreated": {
-    "message": "ماسک تخلیق تھیا",
+    "message": "\u0645\u0627\u0633\u06a9 \u062a\u062e\u0644\u06cc\u0642 \u062a\u06be\u06cc\u0627",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "ایں ویب سائٹ کنوں",
+    "message": "\u0627\u06cc\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u06a9\u0646\u0648\u06ba",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "سارے ای میل ماسک",
+    "message": "\u0633\u0627\u0631\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "پنج ودھائے!"
+    "message": "\u067e\u0646\u062c \u0648\u062f\u06be\u0627\u0626\u06d2!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "تساں Firefox Relay پاور ورتݨ آلے ہو!",
+    "message": "\u062a\u0633\u0627\u06ba Firefox Relay \u067e\u0627\u0648\u0631 \u0648\u0631\u062a\u0768 \u0622\u0644\u06d2 \u06c1\u0648!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "ہک نویکلی Relay ای میل ڈومین گھنو",
+    "message": "\u06c1\u06a9 \u0646\u0648\u06cc\u06a9\u0644\u06cc Relay \u0627\u06cc \u0645\u06cc\u0644 \u0688\u0648\u0645\u06cc\u0646 \u06af\u06be\u0646\u0648",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "ورتیل ای میل ماسک"
+    "message": "\u0648\u0631\u062a\u06cc\u0644 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9"
   },
   "popupTotalMasksUsed": {
-    "message": "کل ورتیل ای میل ماسک"
+    "message": "\u06a9\u0644 \u0648\u0631\u062a\u06cc\u0644 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "ایں ویب سائٹ تے ورتیل ماسک"
+    "message": "\u0627\u06cc\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u062a\u06d2 \u0648\u0631\u062a\u06cc\u0644 \u0645\u0627\u0633\u06a9"
   },
   "popupEmailsBlocked": {
-    "message": "بلاک تھیاں ای میلاں"
+    "message": "\u0628\u0644\u0627\u06a9 \u062a\u06be\u06cc\u0627\u06ba \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba"
   },
   "popupEmailsForwarded": {
-    "message": "اڳوں تے پٹھیاں ای میلاں"
+    "message": "\u0627\u06b3\u0648\u06ba \u062a\u06d2 \u067e\u0679\u06be\u06cc\u0627\u06ba \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba"
   },
   "popupEmailTrackersRemoved": {
-    "message": "ای میل ٹریکر ہٹ ڳئے"
+    "message": "\u0627\u06cc \u0645\u06cc\u0644 \u0679\u0631\u06cc\u06a9\u0631 \u06c1\u0679 \u06b3\u0626\u06d2"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "زیادہ حفاظت کیتے Relay Premium تے اپ گریڈ کرو!",
+    "message": "\u0632\u06cc\u0627\u062f\u06c1 \u062d\u0641\u0627\u0638\u062a \u06a9\u06cc\u062a\u06d2 Relay Premium \u062a\u06d2 \u0627\u067e \u06af\u0631\u06cc\u0688 \u06a9\u0631\u0648!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "کل جگ حفاظت رَچھ"
+    "message": "\u06a9\u0644 \u062c\u06af \u062d\u0641\u0627\u0638\u062a \u0631\u064e\u0686\u06be"
   },
   "popupEducationalComponent1Body": {
-    "message": "بھان٘ویں تساں کتھاہیں وی ہوو، Relay  تہاڈے ای میل دی حفاظت وچ مدد کر سڳدے۔",
+    "message": "\u0628\u06be\u0627\u0646\u0658\u0648\u06cc\u06ba \u062a\u0633\u0627\u06ba \u06a9\u062a\u06be\u0627\u06c1\u06cc\u06ba \u0648\u06cc \u06c1\u0648\u0648\u060c Relay  \u062a\u06c1\u0627\u0688\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u062f\u06cc \u062d\u0641\u0627\u0638\u062a \u0648\u0686 \u0645\u062f\u062f \u06a9\u0631 \u0633\u06b3\u062f\u06d2\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "نتھی سائز ودھارا"
+    "message": "\u0646\u062a\u06be\u06cc \u0633\u0627\u0626\u0632 \u0648\u062f\u06be\u0627\u0631\u0627"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "ہݨ فائرفوکس ریلے ٢٥ ایم بی تائیں ای میلاں اڳوں تے پٹھ سڳدے، بشمول نتھیاں۔",
+    "message": "\u06c1\u0768 \u0641\u0627\u0626\u0631\u0641\u0648\u06a9\u0633 \u0631\u06cc\u0644\u06d2 \u0662\u0665 \u0627\u06cc\u0645 \u0628\u06cc \u062a\u0627\u0626\u06cc\u06ba \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u0627\u06b3\u0648\u06ba \u062a\u06d2 \u067e\u0679\u06be \u0633\u06b3\u062f\u06d2\u060c \u0628\u0634\u0645\u0648\u0644 \u0646\u062a\u06be\u06cc\u0627\u06ba\u06d4",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "ساݙی تعارفی قیمتاں دی پیش کش ٻہوں جلدی مُک ویسی!"
+    "message": "\u0633\u0627\u0759\u06cc \u062a\u0639\u0627\u0631\u0641\u06cc \u0642\u06cc\u0645\u062a\u0627\u06ba \u062f\u06cc \u067e\u06cc\u0634 \u06a9\u0634 \u067b\u06c1\u0648\u06ba \u062c\u0644\u062f\u06cc \u0645\u064f\u06a9 \u0648\u06cc\u0633\u06cc!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Relay Premium ستاویہ ستمبر کنوں پہلے گھنو تے ساݙی تعارفی ماہانہ قیمت تے بے شمار ماسکنگ دے مزے گھنو۔",
+    "message": "Relay Premium \u0633\u062a\u0627\u0648\u06cc\u06c1 \u0633\u062a\u0645\u0628\u0631 \u06a9\u0646\u0648\u06ba \u067e\u06c1\u0644\u06d2 \u06af\u06be\u0646\u0648 \u062a\u06d2 \u0633\u0627\u0759\u06cc \u062a\u0639\u0627\u0631\u0641\u06cc \u0645\u0627\u06c1\u0627\u0646\u06c1 \u0642\u06cc\u0645\u062a \u062a\u06d2 \u0628\u06d2 \u0634\u0645\u0627\u0631 \u0645\u0627\u0633\u06a9\u0646\u06af \u062f\u06d2 \u0645\u0632\u06d2 \u06af\u06be\u0646\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "ہݨ اپ گریڈ کرو"
+    "message": "\u06c1\u0768 \u0627\u067e \u06af\u0631\u06cc\u0688 \u06a9\u0631\u0648"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "ݙیہاڑے",
+    "message": "\u0759\u06cc\u06c1\u0627\u0691\u06d2",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "گھنٹے",
+    "message": "\u06af\u06be\u0646\u0679\u06d2",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
-    "message": "منٹ",
+    "message": "\u0645\u0646\u0679",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupEndOfIntroPricingCountdownSeconds": {
-    "message": "سیکنڈ",
+    "message": "\u0633\u06cc\u06a9\u0646\u0688",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "خاص ای میل اڳوں تے بھیڄݨ"
+    "message": "\u062e\u0627\u0635 \u0627\u06cc \u0645\u06cc\u0644 \u0627\u06b3\u0648\u06ba \u062a\u06d2 \u0628\u06be\u06cc\u0684\u0768"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "مشہوری ای میلاں بلاک کرو"
+    "message": "\u0645\u0634\u06c1\u0648\u0631\u06cc \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u0628\u0644\u0627\u06a9 \u06a9\u0631\u0648"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "مارکیٹنگ ای میلاں کوں آپݨے ان باکس تائیں پہنچݨ کنوں روکݨ کیتے ماسک تے پروموشنل ای میلاں بلاک کرݨ  فعال کرو۔"
+    "message": "\u0645\u0627\u0631\u06a9\u06cc\u0679\u0646\u06af \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u06a9\u0648\u06ba \u0627\u0653\u067e\u0768\u06d2 \u0627\u0646 \u0628\u0627\u06a9\u0633 \u062a\u0627\u0626\u06cc\u06ba \u067e\u06c1\u0646\u0686\u0768 \u06a9\u0646\u0648\u06ba \u0631\u0648\u06a9\u0768 \u06a9\u06cc\u062a\u06d2 \u0645\u0627\u0633\u06a9 \u062a\u06d2 \u067e\u0631\u0648\u0645\u0648\u0634\u0646\u0644 \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u0628\u0644\u0627\u06a9 \u06a9\u0631\u0768  \u0641\u0639\u0627\u0644 \u06a9\u0631\u0648\u06d4"
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "ٻیا سِکھو"
+    "message": "\u067b\u06cc\u0627 \u0633\u0650\u06a9\u06be\u0648"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Relay Premium  نال، تساں پروموشنل ای میلز کوں اپݨے ان باکس تائیں پُڄݨ کنوں روک سڳدے ہو پر رسیداں یا شپنگ دیاں معلومات جیہاں ای میل وصول کرݨ دی تہاکوں اجازت ہوسی۔",
+    "message": "Relay Premium  \u0646\u0627\u0644\u060c \u062a\u0633\u0627\u06ba \u067e\u0631\u0648\u0645\u0648\u0634\u0646\u0644 \u0627\u06cc \u0645\u06cc\u0644\u0632 \u06a9\u0648\u06ba \u0627\u067e\u0768\u06d2 \u0627\u0646 \u0628\u0627\u06a9\u0633 \u062a\u0627\u0626\u06cc\u06ba \u067e\u064f\u0684\u0768 \u06a9\u0646\u0648\u06ba \u0631\u0648\u06a9 \u0633\u06b3\u062f\u06d2 \u06c1\u0648 \u067e\u0631 \u0631\u0633\u06cc\u062f\u0627\u06ba \u06cc\u0627 \u0634\u067e\u0646\u06af \u062f\u06cc\u0627\u06ba \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062c\u06cc\u06c1\u0627\u06ba \u0627\u06cc \u0645\u06cc\u0644 \u0648\u0635\u0648\u0644 \u06a9\u0631\u0768 \u062f\u06cc \u062a\u06c1\u0627\u06a9\u0648\u06ba \u0627\u062c\u0627\u0632\u062a \u06c1\u0648\u0633\u06cc\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "$SAVINGS$ گھٹ  تے Mozilla VPN شامل کرو۔",
+    "message": "$SAVINGS$ \u06af\u06be\u0679  \u062a\u06d2 Mozilla VPN \u0634\u0627\u0645\u0644 \u06a9\u0631\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "$SAVINGS$ گھٹ کیتے Mozilla VPN شامل کرو۔",
+    "message": "$SAVINGS$ \u06af\u06be\u0679 \u06a9\u06cc\u062a\u06d2 Mozilla VPN \u0634\u0627\u0645\u0644 \u06a9\u0631\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "$MONTHLY_PRICE$/month نال 1 سال دا منصوبہ بشمول  Relay Premium + Mozilla VPN۔",
+    "message": "$MONTHLY_PRICE$/month \u0646\u0627\u0644 1 \u0633\u0627\u0644 \u062f\u0627 \u0645\u0646\u0635\u0648\u0628\u06c1 \u0628\u0634\u0645\u0648\u0644  Relay Premium + Mozilla VPN\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "$MONTHLY_PRICE$/month نال ہک سال کیتے Relay Premium فون ماسکنگ تے Mozilla VPN گھنو۔",
+    "message": "$MONTHLY_PRICE$/month \u0646\u0627\u0644 \u06c1\u06a9 \u0633\u0627\u0644 \u06a9\u06cc\u062a\u06d2 Relay Premium \u0641\u0648\u0646 \u0645\u0627\u0633\u06a9\u0646\u06af \u062a\u06d2 Mozilla VPN \u06af\u06be\u0646\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox پاس ورڈ منیجر + Relay",
+    "message": "Firefox \u067e\u0627\u0633 \u0648\u0631\u0688 \u0645\u0646\u06cc\u062c\u0631 + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "تساں ہݨ آپݨے Firefox پاس ورڈ منءجر وچ براہ راست Relay ورت سڳدے ہو۔",
+    "message": "\u062a\u0633\u0627\u06ba \u06c1\u0768 \u0622\u067e\u0768\u06d2 Firefox \u067e\u0627\u0633 \u0648\u0631\u0688 \u0645\u0646\u0621\u062c\u0631 \u0648\u0686 \u0628\u0631\u0627\u06c1 \u0631\u0627\u0633\u062a Relay \u0648\u0631\u062a \u0633\u06b3\u062f\u06d2 \u06c1\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "متعارف کراوݨ:  VPN + Relay سبسکرپشن منصوبہ",
+    "message": "\u0645\u062a\u0639\u0627\u0631\u0641 \u06a9\u0631\u0627\u0648\u0768:  VPN + Relay \u0633\u0628\u0633\u06a9\u0631\u067e\u0634\u0646 \u0645\u0646\u0635\u0648\u0628\u06c1",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "$MONTHLY_PRICE$/month نال ݙون٘ہیں Relay Premium + Mozilla VPN گھنݨ کیتے آپی تھیت اپ گریڈ کرو۔ $SAVINGS$ بچاؤ!",
+    "message": "$MONTHLY_PRICE$/month \u0646\u0627\u0644 \u0759\u0648\u0646\u0658\u06c1\u06cc\u06ba Relay Premium + Mozilla VPN \u06af\u06be\u0646\u0768 \u06a9\u06cc\u062a\u06d2 \u0622\u067e\u06cc \u062a\u06be\u06cc\u062a \u0627\u067e \u06af\u0631\u06cc\u0688 \u06a9\u0631\u0648\u06d4 $SAVINGS$ \u0628\u0686\u0627\u0624!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoCTA": {
-    "message": " VPN + Relay گھنو",
+    "message": " VPN + Relay \u06af\u06be\u0646\u0648",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "فون نمبر ماسکنگ متعارف کرواوݨ"
+    "message": "\u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9\u0646\u06af \u0645\u062a\u0639\u0627\u0631\u0641 \u06a9\u0631\u0648\u0627\u0648\u0768"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "فون نمبر ماسکنگ نال  ہݨ تساں فون نمبر ماسک تخلیق کر سڳدے ہو جہڑا تہاکوں صحیح نمبر ظاہر کیتے ٻاجھ ٹیکسٹ تے فون کالاں وصول کرݨ وچ تہاݙی مدد کرے۔"
+    "message": "\u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9\u0646\u06af \u0646\u0627\u0644  \u06c1\u0768 \u062a\u0633\u0627\u06ba \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9 \u062a\u062e\u0644\u06cc\u0642 \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u0648 \u062c\u06c1\u0691\u0627 \u062a\u06c1\u0627\u06a9\u0648\u06ba \u0635\u062d\u06cc\u062d \u0646\u0645\u0628\u0631 \u0638\u0627\u06c1\u0631 \u06a9\u06cc\u062a\u06d2 \u067b\u0627\u062c\u06be \u0679\u06cc\u06a9\u0633\u0679 \u062a\u06d2 \u0641\u0648\u0646 \u06a9\u0627\u0644\u0627\u06ba \u0648\u0635\u0648\u0644 \u06a9\u0631\u0768 \u0648\u0686 \u062a\u06c1\u0627\u0759\u06cc \u0645\u062f\u062f \u06a9\u0631\u06d2\u06d4"
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "آپݨاں درست نمبر ظاہر کیتے ٻاجھ ٹیکسٹ تے فون کالاں گھنو۔"
+    "message": "\u0622\u067e\u0768\u0627\u06ba \u062f\u0631\u0633\u062a \u0646\u0645\u0628\u0631 \u0638\u0627\u06c1\u0631 \u06a9\u06cc\u062a\u06d2 \u067b\u0627\u062c\u06be \u0679\u06cc\u06a9\u0633\u0679 \u062a\u06d2 \u0641\u0648\u0646 \u06a9\u0627\u0644\u0627\u06ba \u06af\u06be\u0646\u0648\u06d4"
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "ہݨ اپ گریڈ کرو"
+    "message": "\u06c1\u0768 \u0627\u067e \u06af\u0631\u06cc\u0688 \u06a9\u0631\u0648"
   },
   "popupPromoNewLabel": {
-    "message": "نواں!"
+    "message": "\u0646\u0648\u0627\u06ba!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "آپݨے ای میل ماسکاں نال ولدا سائن ان تھیوو"
+    "message": "\u0622\u067e\u0768\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9\u0627\u06ba \u0646\u0627\u0644 \u0648\u0644\u062f\u0627 \u0633\u0627\u0626\u0646 \u0627\u0646 \u062a\u06be\u06cc\u0648\u0648"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "نواں کسٹم ماسک  بݨاؤ"
+    "message": "\u0646\u0648\u0627\u06ba \u06a9\u0633\u0679\u0645 \u0645\u0627\u0633\u06a9  \u0628\u0768\u0627\u0624"
   },
   "popupCreateCustomMaskBody": {
-    "message": "تہاکوں صرف ہک نویکلا ماسک بݨاوݨ تے شیئر کرݨ دی ضرورت ہے جیڑھا تہاݙی حسب ضرورت ذیلی ڈومین استعمال کریندا ہے — ماسک آپوں ڄاݨ تیار تھی ویسے۔ مثال دے طور تے اڳلی واری جݙاں تساں آن لائن خریداری کرو تاں shop@customsubdomain.mozmail.com کوں ازماؤ۔"
+    "message": "\u062a\u06c1\u0627\u06a9\u0648\u06ba \u0635\u0631\u0641 \u06c1\u06a9 \u0646\u0648\u06cc\u06a9\u0644\u0627 \u0645\u0627\u0633\u06a9 \u0628\u0768\u0627\u0648\u0768 \u062a\u06d2 \u0634\u06cc\u0626\u0631 \u06a9\u0631\u0768 \u062f\u06cc \u0636\u0631\u0648\u0631\u062a \u06c1\u06d2 \u062c\u06cc\u0691\u06be\u0627 \u062a\u06c1\u0627\u0759\u06cc \u062d\u0633\u0628 \u0636\u0631\u0648\u0631\u062a \u0630\u06cc\u0644\u06cc \u0688\u0648\u0645\u06cc\u0646 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u0646\u062f\u0627 \u06c1\u06d2 \u2014 \u0645\u0627\u0633\u06a9 \u0622\u067e\u0648\u06ba \u0684\u0627\u0768 \u062a\u06cc\u0627\u0631 \u062a\u06be\u06cc \u0648\u06cc\u0633\u06d2\u06d4 \u0645\u062b\u0627\u0644 \u062f\u06d2 \u0637\u0648\u0631 \u062a\u06d2 \u0627\u06b3\u0644\u06cc \u0648\u0627\u0631\u06cc \u062c\u0759\u0627\u06ba \u062a\u0633\u0627\u06ba \u0622\u0646 \u0644\u0627\u0626\u0646 \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u06a9\u0631\u0648 \u062a\u0627\u06ba shop@customsubdomain.mozmail.com \u06a9\u0648\u06ba \u0627\u0632\u0645\u0627\u0624\u06d4"
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "ای میل ماسک سابقہ درج کرو"
+    "message": "\u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9 \u0633\u0627\u0628\u0642\u06c1 \u062f\u0631\u062c \u06a9\u0631\u0648"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "مثال دے طور تے “کافی“"
+    "message": "\u0645\u062b\u0627\u0644 \u062f\u06d2 \u0637\u0648\u0631 \u062a\u06d2 \u201c\u06a9\u0627\u0641\u06cc\u201c"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "مشہوری ای میلاں بلاک کرو"
+    "message": "\u0645\u0634\u06c1\u0648\u0631\u06cc \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u0628\u0644\u0627\u06a9 \u06a9\u0631\u0648"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "ماسک جنریٹ کرو"
+    "message": "\u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0648"
   },
   "popupCreateCustomFormError": {
-    "message": "ماسک تخلیق کائنی تھی سڳیا۔ سوہݨا، ولدا کوشش کرو۔"
+    "message": "\u0645\u0627\u0633\u06a9 \u062a\u062e\u0644\u06cc\u0642 \u06a9\u0627\u0626\u0646\u06cc \u062a\u06be\u06cc \u0633\u06b3\u06cc\u0627\u06d4 \u0633\u0648\u06c1\u0768\u0627\u060c \u0648\u0644\u062f\u0627 \u06a9\u0648\u0634\u0634 \u06a9\u0631\u0648\u06d4"
   },
   "pageInputIconSignUpText": {
-    "message": "سائن ان کیتے یا کھاتہ بݨاوݨ کیتے Firefox Relay تے ون٘ڄو۔",
+    "message": "\u0633\u0627\u0626\u0646 \u0627\u0646 \u06a9\u06cc\u062a\u06d2 \u06cc\u0627 \u06a9\u06be\u0627\u062a\u06c1 \u0628\u0768\u0627\u0648\u0768 \u06a9\u06cc\u062a\u06d2 Firefox Relay \u062a\u06d2 \u0648\u0646\u0658\u0684\u0648\u06d4",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "Firefox Relay تے ون٘ڄو",
+    "message": "Firefox Relay \u062a\u06d2 \u0648\u0646\u0658\u0684\u0648",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "نواں ماسک جنریٹ کرو"
+    "message": "\u0646\u0648\u0627\u06ba \u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0648"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "نواں بے ترتیبا ماسک جنریٹ کرو"
+    "message": "\u0646\u0648\u0627\u06ba \u0628\u06d2 \u062a\u0631\u062a\u06cc\u0628\u0627 \u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0648"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "بے ترتیبا ماسک جنریٹ کرو"
+    "message": "\u0628\u06d2 \u062a\u0631\u062a\u06cc\u0628\u0627 \u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0648"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "کسٹم ماسک جنریٹ کرو"
+    "message": "\u06a9\u0633\u0679\u0645 \u0645\u0627\u0633\u06a9 \u062c\u0646\u0631\u06cc\u0679 \u06a9\u0631\u0648"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "آپݨے موجودہ ای میل ماسکاں وچوں چݨو",
+    "message": "\u0622\u067e\u0768\u06d2 \u0645\u0648\u062c\u0648\u062f\u06c1 \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9\u0627\u06ba \u0648\u0686\u0648\u06ba \u0686\u0768\u0648",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "وادھوں ای میل ماسک",
+    "message": "\u0648\u0627\u062f\u06be\u0648\u06ba \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "ایں ویب سائٹ تے پہلے ورتیل",
+    "message": "\u0627\u06cc\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679 \u062a\u06d2 \u067e\u06c1\u0644\u06d2 \u0648\u0631\u062a\u06cc\u0644",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "بے انت ماسک گھنو"
+    "message": "\u0628\u06d2 \u0627\u0646\u062a \u0645\u0627\u0633\u06a9 \u06af\u06be\u0646\u0648"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "پریمیئم تانگھ تندیر نال رلت کرو",
+    "message": "\u067e\u0631\u06cc\u0645\u06cc\u0626\u0645 \u062a\u0627\u0646\u06af\u06be \u062a\u0646\u062f\u06cc\u0631 \u0646\u0627\u0644 \u0631\u0644\u062a \u06a9\u0631\u0648",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "ایں سائٹ کنوں موجود ماسک ورتو۔۔۔"
+    "message": "\u0627\u06cc\u06ba \u0633\u0627\u0626\u0679 \u06a9\u0646\u0648\u06ba \u0645\u0648\u062c\u0648\u062f \u0645\u0627\u0633\u06a9 \u0648\u0631\u062a\u0648\u06d4\u06d4\u06d4"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "حالیہ ماسک"
+    "message": "\u062d\u0627\u0644\u06cc\u06c1 \u0645\u0627\u0633\u06a9"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "فون نمبر ماسک ورتو"
+    "message": "\u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9 \u0648\u0631\u062a\u0648"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "تساں پہلے ہی ودھ ودھ تعداد وچ ماسک تخلیق کر گھدے ہن",
+    "message": "\u062a\u0633\u0627\u06ba \u067e\u06c1\u0644\u06d2 \u06c1\u06cc \u0648\u062f\u06be \u0648\u062f\u06be \u062a\u0639\u062f\u0627\u062f \u0648\u0686 \u0645\u0627\u0633\u06a9 \u062a\u062e\u0644\u06cc\u0642 \u06a9\u0631 \u06af\u06be\u062f\u06d2 \u06c1\u0646",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "تہاݙے کول ٻئے مفت ای میل ماسک کائنی۔",
+    "message": "\u062a\u06c1\u0627\u0759\u06d2 \u06a9\u0648\u0644 \u067b\u0626\u06d2 \u0645\u0641\u062a \u0627\u06cc \u0645\u06cc\u0644 \u0645\u0627\u0633\u06a9 \u06a9\u0627\u0626\u0646\u06cc\u06d4",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "انہاں حروف دی اجازت کائنی: $CHARACTERS$",
+    "message": "\u0627\u0646\u06c1\u0627\u06ba \u062d\u0631\u0648\u0641 \u062f\u06cc \u0627\u062c\u0627\u0632\u062a \u06a9\u0627\u0626\u0646\u06cc: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "کھاتہ ناں شامل کرو",
+    "message": "\u06a9\u06be\u0627\u062a\u06c1 \u0646\u0627\u06ba \u0634\u0627\u0645\u0644 \u06a9\u0631\u0648",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "بند کرو"
+    "message": "\u0628\u0646\u062f \u06a9\u0631\u0648"
   },
   "returnToPreviousPanel": {
-    "message": "پچھلے پینل  تے واپس ون٘ڄو"
+    "message": "\u067e\u0686\u06be\u0644\u06d2 \u067e\u06cc\u0646\u0644  \u062a\u06d2 \u0648\u0627\u067e\u0633 \u0648\u0646\u0658\u0684\u0648"
   },
   "popupDataCollectionHeadline": {
-    "message": "نویاں خصوصیات فعال کرو"
+    "message": "\u0646\u0648\u06cc\u0627\u06ba \u062e\u0635\u0648\u0635\u06cc\u0627\u062a \u0641\u0639\u0627\u0644 \u06a9\u0631\u0648"
   },
   "popupDataCollectionBody_mask": {
-    "message": "تساں Relay کوں اختیاری ڈیٹا کٹھا کرݨ دی اجازت ݙے سڳدے ہو جہڑی ساکوں تہاݙیاں ساریاں ڈیوائساں تے تہاݙے ماسک لیبلز کوں انہاں ویب سائٹاں نال  ہم وقت کرݨ دی اجازت ݙیندا ہے جتھاں او ٻݨے تے ورتے ڳئے ہن۔",
+    "message": "\u062a\u0633\u0627\u06ba Relay \u06a9\u0648\u06ba \u0627\u062e\u062a\u06cc\u0627\u0631\u06cc \u0688\u06cc\u0679\u0627 \u06a9\u0679\u06be\u0627 \u06a9\u0631\u0768 \u062f\u06cc \u0627\u062c\u0627\u0632\u062a \u0759\u06d2 \u0633\u06b3\u062f\u06d2 \u06c1\u0648 \u062c\u06c1\u0691\u06cc \u0633\u0627\u06a9\u0648\u06ba \u062a\u06c1\u0627\u0759\u06cc\u0627\u06ba \u0633\u0627\u0631\u06cc\u0627\u06ba \u0688\u06cc\u0648\u0627\u0626\u0633\u0627\u06ba \u062a\u06d2 \u062a\u06c1\u0627\u0759\u06d2 \u0645\u0627\u0633\u06a9 \u0644\u06cc\u0628\u0644\u0632 \u06a9\u0648\u06ba \u0627\u0646\u06c1\u0627\u06ba \u0648\u06cc\u0628 \u0633\u0627\u0626\u0679\u0627\u06ba \u0646\u0627\u0644  \u06c1\u0645 \u0648\u0642\u062a \u06a9\u0631\u0768 \u062f\u06cc \u0627\u062c\u0627\u0632\u062a \u0759\u06cc\u0646\u062f\u0627 \u06c1\u06d2 \u062c\u062a\u06be\u0627\u06ba \u0627\u0648 \u067b\u0768\u06d2 \u062a\u06d2 \u0648\u0631\u062a\u06d2 \u06b3\u0626\u06d2 \u06c1\u0646\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "ٻیا سِکھو"
+    "message": "\u067b\u06cc\u0627 \u0633\u0650\u06a9\u06be\u0648"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "انکار کرو"
+    "message": "\u0627\u0646\u06a9\u0627\u0631 \u06a9\u0631\u0648"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "اجازت ݙیوو"
+    "message": "\u0627\u062c\u0627\u0632\u062a \u0759\u06cc\u0648\u0648"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "رازداری نوٹس اپ ڈیٹ"
+    "message": "\u0631\u0627\u0632\u062f\u0627\u0631\u06cc \u0646\u0648\u0679\u0633 \u0627\u067e \u0688\u06cc\u0679"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "ای میل ڈیلیور نہ تھیوݨ دی صورت وِچ فائرفوکس ریلے دے اعتماد کوں بہتر بݨاوݨ کیتے، اساں عارضی طور تے ای میل کوں اپݨے سرورز تے اوں وقت تائیں رکھیسوں جے تائیں ایہ ڈیلیور ہ تھی ونڄے۔ اساں اینکوں ترائے ݙینہہ کنوں زیادہ کݙاہیں نہ رکھیسو۔",
+    "message": "\u0627\u06cc \u0645\u06cc\u0644 \u0688\u06cc\u0644\u06cc\u0648\u0631 \u0646\u06c1 \u062a\u06be\u06cc\u0648\u0768 \u062f\u06cc \u0635\u0648\u0631\u062a \u0648\u0650\u0686 \u0641\u0627\u0626\u0631\u0641\u0648\u06a9\u0633 \u0631\u06cc\u0644\u06d2 \u062f\u06d2 \u0627\u0639\u062a\u0645\u0627\u062f \u06a9\u0648\u06ba \u0628\u06c1\u062a\u0631 \u0628\u0768\u0627\u0648\u0768 \u06a9\u06cc\u062a\u06d2\u060c \u0627\u0633\u0627\u06ba \u0639\u0627\u0631\u0636\u06cc \u0637\u0648\u0631 \u062a\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u06a9\u0648\u06ba \u0627\u067e\u0768\u06d2 \u0633\u0631\u0648\u0631\u0632 \u062a\u06d2 \u0627\u0648\u06ba \u0648\u0642\u062a \u062a\u0627\u0626\u06cc\u06ba \u0631\u06a9\u06be\u06cc\u0633\u0648\u06ba \u062c\u06d2 \u062a\u0627\u0626\u06cc\u06ba \u0627\u06cc\u06c1 \u0688\u06cc\u0644\u06cc\u0648\u0631 \u06c1 \u062a\u06be\u06cc \u0648\u0646\u0684\u06d2\u06d4 \u0627\u0633\u0627\u06ba \u0627\u06cc\u0646\u06a9\u0648\u06ba \u062a\u0631\u0627\u0626\u06d2 \u0759\u06cc\u0646\u06c1\u06c1 \u06a9\u0646\u0648\u06ba \u0632\u06cc\u0627\u062f\u06c1 \u06a9\u0759\u0627\u06c1\u06cc\u06ba \u0646\u06c1 \u0631\u06a9\u06be\u06cc\u0633\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "رازداری نوٹس ݙیکھو"
+    "message": "\u0631\u0627\u0632\u062f\u0627\u0631\u06cc \u0646\u0648\u0679\u0633 \u0759\u06cc\u06a9\u06be\u0648"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "فارغ کرو"
+    "message": "\u0641\u0627\u0631\u063a \u06a9\u0631\u0648"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ ماسک دستیاب۔",
+    "message": "$REMAINING$/$MAXIMUM$ \u0645\u0627\u0633\u06a9 \u062f\u0633\u062a\u06cc\u0627\u0628\u06d4",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "تساں آپݨے سارے $MAXIMUM$ مفت ماسک ورتا گھدے ہن۔",
+    "message": "\u062a\u0633\u0627\u06ba \u0622\u067e\u0768\u06d2 \u0633\u0627\u0631\u06d2 $MAXIMUM$ \u0645\u0641\u062a \u0645\u0627\u0633\u06a9 \u0648\u0631\u062a\u0627 \u06af\u06be\u062f\u06d2 \u06c1\u0646\u06d4",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -524,157 +523,157 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "اپݨے اصل ای میل پتے دی حفاظت کرو"
+    "message": "\u0627\u067e\u0768\u06d2 \u0627\u0635\u0644 \u0627\u06cc \u0645\u06cc\u0644 \u067e\u062a\u06d2 \u062f\u06cc \u062d\u0641\u0627\u0638\u062a \u06a9\u0631\u0648"
   },
   "popupNoMasksCreatedBody": {
-    "message": "آپݨی سُن٘ڄاݨ کوں نجی رکھݨ کیتے Relay ماسک ورتو تے آپݨے انباکس وچ صرف اوہے ای میلاں گھنو جہڑیاں تساں چاہندے ہو۔",
+    "message": "\u0622\u067e\u0768\u06cc \u0633\u064f\u0646\u0658\u0684\u0627\u0768 \u06a9\u0648\u06ba \u0646\u062c\u06cc \u0631\u06a9\u06be\u0768 \u06a9\u06cc\u062a\u06d2 Relay \u0645\u0627\u0633\u06a9 \u0648\u0631\u062a\u0648 \u062a\u06d2 \u0622\u067e\u0768\u06d2 \u0627\u0646\u0628\u0627\u06a9\u0633 \u0648\u0686 \u0635\u0631\u0641 \u0627\u0648\u06c1\u06d2 \u0627\u06cc \u0645\u06cc\u0644\u0627\u06ba \u06af\u06be\u0646\u0648 \u062c\u06c1\u0691\u06cc\u0627\u06ba \u062a\u0633\u0627\u06ba \u0686\u0627\u06c1\u0646\u062f\u06d2 \u06c1\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "ٻئی وی حفاظت گھنو"
+    "message": "\u067b\u0626\u06cc \u0648\u06cc \u062d\u0641\u0627\u0638\u062a \u06af\u06be\u0646\u0648"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "Relay لان٘چ کرو",
+    "message": "Relay \u0644\u0627\u0646\u0658\u0686 \u06a9\u0631\u0648",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "نقل کرݨ کیتے کلک کرو"
+    "message": "\u0646\u0642\u0644 \u06a9\u0631\u0768 \u06a9\u06cc\u062a\u06d2 \u06a9\u0644\u06a9 \u06a9\u0631\u0648"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "نقل تھی ڳیا!"
+    "message": "\u0646\u0642\u0644 \u062a\u06be\u06cc \u06b3\u06cc\u0627!"
   },
   "popupSurveyLink": {
-    "message": "Relay کوں چنگا بݨاوݨ کیتے ساݙی مدد کرو",
+    "message": "Relay \u06a9\u0648\u06ba \u0686\u0646\u06af\u0627 \u0628\u0768\u0627\u0648\u0768 \u06a9\u06cc\u062a\u06d2 \u0633\u0627\u0759\u06cc \u0645\u062f\u062f \u06a9\u0631\u0648",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "تساں آپݨے Firefox Relay تجربے نال چوکھے مطمئن ہو؟",
+    "message": "\u062a\u0633\u0627\u06ba \u0622\u067e\u0768\u06d2 Firefox Relay \u062a\u062c\u0631\u0628\u06d2 \u0646\u0627\u0644 \u0686\u0648\u06a9\u06be\u06d2 \u0645\u0637\u0645\u0626\u0646 \u06c1\u0648\u061f",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "ݙاڈھا غیرتسلی بخش"
+    "message": "\u0759\u0627\u0688\u06be\u0627 \u063a\u06cc\u0631\u062a\u0633\u0644\u06cc \u0628\u062e\u0634"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "غیر تسلی بخش"
+    "message": "\u063a\u06cc\u0631 \u062a\u0633\u0644\u06cc \u0628\u062e\u0634"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "غیر جانبدار"
+    "message": "\u063a\u06cc\u0631 \u062c\u0627\u0646\u0628\u062f\u0627\u0631"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "تسلی بخش"
+    "message": "\u062a\u0633\u0644\u06cc \u0628\u062e\u0634"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "ݙاڈھا تسلی بخش"
+    "message": "\u0759\u0627\u0688\u06be\u0627 \u062a\u0633\u0644\u06cc \u0628\u062e\u0634"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "تہاݙے فیڈبیک تے تھورائت ہیں!"
+    "message": "\u062a\u06c1\u0627\u0759\u06d2 \u0641\u06cc\u0688\u0628\u06cc\u06a9 \u062a\u06d2 \u062a\u06be\u0648\u0631\u0627\u0626\u062a \u06c1\u06cc\u06ba!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "اساں ایں بارے ٻیا ڄاݨݨ چاہندے ہیں جو اساں بہتر کین٘ویں کر سڳدے ہیں۔  بھلا تساں ݙو منٹ دے سروے کیتے تیار ہوسو؟"
+    "message": "\u0627\u0633\u0627\u06ba \u0627\u06cc\u06ba \u0628\u0627\u0631\u06d2 \u067b\u06cc\u0627 \u0684\u0627\u0768\u0768 \u0686\u0627\u06c1\u0646\u062f\u06d2 \u06c1\u06cc\u06ba \u062c\u0648 \u0627\u0633\u0627\u06ba \u0628\u06c1\u062a\u0631 \u06a9\u06cc\u0646\u0658\u0648\u06cc\u06ba \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u06cc\u06ba\u06d4  \u0628\u06be\u0644\u0627 \u062a\u0633\u0627\u06ba \u0759\u0648 \u0645\u0646\u0679 \u062f\u06d2 \u0633\u0631\u0648\u06d2 \u06a9\u06cc\u062a\u06d2 \u062a\u06cc\u0627\u0631 \u06c1\u0648\u0633\u0648\u061f"
   },
   "popupCsatSurveyDismiss": {
-    "message": "فارغ کرو"
+    "message": "\u0641\u0627\u0631\u063a \u06a9\u0631\u0648"
   },
   "popupCsatSurveyLink": {
-    "message": "سروے وچ حصہ گھنو"
+    "message": "\u0633\u0631\u0648\u06d2 \u0648\u0686 \u062d\u0635\u06c1 \u06af\u06be\u0646\u0648"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "ہݨ بے شمار ماسک دستیاب ہن"
+    "message": "\u06c1\u0768 \u0628\u06d2 \u0634\u0645\u0627\u0631 \u0645\u0627\u0633\u06a9 \u062f\u0633\u062a\u06cc\u0627\u0628 \u06c1\u0646"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium ہݨ تہاݙے ملک وچ دستیاب ہے۔ بے شمار ماسکاں نال آپݨی ای میل دی حفاظت کرو۔ تے گو تے سوکھے تے محفوظ ماسک بݨاوݨ کیتے نویکلی Relay  ای میل ڈومین گھنو۔",
+    "message": "Firefox Relay Premium \u06c1\u0768 \u062a\u06c1\u0627\u0759\u06d2 \u0645\u0644\u06a9 \u0648\u0686 \u062f\u0633\u062a\u06cc\u0627\u0628 \u06c1\u06d2\u06d4 \u0628\u06d2 \u0634\u0645\u0627\u0631 \u0645\u0627\u0633\u06a9\u0627\u06ba \u0646\u0627\u0644 \u0622\u067e\u0768\u06cc \u0627\u06cc \u0645\u06cc\u0644 \u062f\u06cc \u062d\u0641\u0627\u0638\u062a \u06a9\u0631\u0648\u06d4 \u062a\u06d2 \u06af\u0648 \u062a\u06d2 \u0633\u0648\u06a9\u06be\u06d2 \u062a\u06d2 \u0645\u062d\u0641\u0648\u0638 \u0645\u0627\u0633\u06a9 \u0628\u0768\u0627\u0648\u0768 \u06a9\u06cc\u062a\u06d2 \u0646\u0648\u06cc\u06a9\u0644\u06cc Relay  \u0627\u06cc \u0645\u06cc\u0644 \u0688\u0648\u0645\u06cc\u0646 \u06af\u06be\u0646\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "Relay Premium گھنو",
+    "message": "Relay Premium \u06af\u06be\u0646\u0648",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "20 فیصد رعائت نال Relay Premium گھنو",
+    "message": "20 \u0641\u06cc\u0635\u062f \u0631\u0639\u0627\u0626\u062a \u0646\u0627\u0644 Relay Premium \u06af\u06be\u0646\u0648",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "اِیں ناغیاں دے موسم وِچ، ریلے پریمیئم دی 1 ورین٘ہ دے مُل تے 20٪ رعائت حاصل کرو۔ چیک آؤٹ تے صرف پرموکوڈ \"HOLIDAY20\" درج کرو۔ پیشکش 31 دسمبر، 2023 کوں مُکدی پئی ہِے۔",
+    "message": "\u0627\u0650\u06cc\u06ba \u0646\u0627\u063a\u06cc\u0627\u06ba \u062f\u06d2 \u0645\u0648\u0633\u0645 \u0648\u0650\u0686\u060c \u0631\u06cc\u0644\u06d2 \u067e\u0631\u06cc\u0645\u06cc\u0626\u0645 \u062f\u06cc 1 \u0648\u0631\u06cc\u0646\u0658\u06c1 \u062f\u06d2 \u0645\u064f\u0644 \u062a\u06d2 20\u066a \u0631\u0639\u0627\u0626\u062a \u062d\u0627\u0635\u0644 \u06a9\u0631\u0648\u06d4 \u0686\u06cc\u06a9 \u0622\u0624\u0679 \u062a\u06d2 \u0635\u0631\u0641 \u067e\u0631\u0645\u0648\u06a9\u0648\u0688 \"HOLIDAY20\" \u062f\u0631\u062c \u06a9\u0631\u0648\u06d4 \u067e\u06cc\u0634\u06a9\u0634 31 \u062f\u0633\u0645\u0628\u0631\u060c 2023 \u06a9\u0648\u06ba \u0645\u064f\u06a9\u062f\u06cc \u067e\u0626\u06cc \u06c1\u0650\u06d2\u06d4",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "1سال کیتے Relay Premium گھنو",
+    "message": "1\u0633\u0627\u0644 \u06a9\u06cc\u062a\u06d2 Relay Premium \u06af\u06be\u0646\u0648",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "رِیلے ایں ویلے سبّھے فون کالاں اَتے ٹیکسٹ پیغاماں کوں تُہاݙے حقیقی فون لمبر اُتّے گھلین٘دا پِیا ہِے۔",
+    "message": "\u0631\u0650\u06cc\u0644\u06d2 \u0627\u06cc\u06ba \u0648\u06cc\u0644\u06d2 \u0633\u0628\u0651\u06be\u06d2 \u0641\u0648\u0646 \u06a9\u0627\u0644\u0627\u06ba \u0627\u064e\u062a\u06d2 \u0679\u06cc\u06a9\u0633\u0679 \u067e\u06cc\u063a\u0627\u0645\u0627\u06ba \u06a9\u0648\u06ba \u062a\u064f\u06c1\u0627\u0759\u06d2 \u062d\u0642\u06cc\u0642\u06cc \u0641\u0648\u0646 \u0644\u0645\u0628\u0631 \u0627\u064f\u062a\u0651\u06d2 \u06af\u06be\u0644\u06cc\u0646\u0658\u062f\u0627 \u067e\u0650\u06cc\u0627 \u06c1\u0650\u06d2\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "رِیلے سبّھے فون کالاں اَتے ٹیکسٹ پیغاماں کوں بلاک کرین٘دا پِیا ہِے — تُہاکُوں آپݨے فون نمبر ماسک کنوں کُجھ وی نہ مِلسی۔",
+    "message": "\u0631\u0650\u06cc\u0644\u06d2 \u0633\u0628\u0651\u06be\u06d2 \u0641\u0648\u0646 \u06a9\u0627\u0644\u0627\u06ba \u0627\u064e\u062a\u06d2 \u0679\u06cc\u06a9\u0633\u0679 \u067e\u06cc\u063a\u0627\u0645\u0627\u06ba \u06a9\u0648\u06ba \u0628\u0644\u0627\u06a9 \u06a9\u0631\u06cc\u0646\u0658\u062f\u0627 \u067e\u0650\u06cc\u0627 \u06c1\u0650\u06d2 \u2014 \u062a\u064f\u06c1\u0627\u06a9\u064f\u0648\u06ba \u0622\u067e\u0768\u06d2 \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9 \u06a9\u0646\u0648\u06ba \u06a9\u064f\u062c\u06be \u0648\u06cc \u0646\u06c1 \u0645\u0650\u0644\u0633\u06cc\u06d4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "کوں اڳوں تے بھیڄو:",
+    "message": "\u06a9\u0648\u06ba \u0627\u06b3\u0648\u06ba \u062a\u06d2 \u0628\u06be\u06cc\u0684\u0648:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "رجسٹر تھئی:",
+    "message": "\u0631\u062c\u0633\u0679\u0631 \u062a\u06be\u0626\u06cc:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "اڳوں تے پٹھݨ"
+    "message": "\u0627\u06b3\u0648\u06ba \u062a\u06d2 \u067e\u0679\u06be\u0768"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "رکاوٹ"
+    "message": "\u0631\u06a9\u0627\u0648\u0679"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "آپݨاں فون ماسک فعال کرو"
+    "message": "\u0622\u067e\u0768\u0627\u06ba \u0641\u0648\u0646 \u0645\u0627\u0633\u06a9 \u0641\u0639\u0627\u0644 \u06a9\u0631\u0648"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "رِیلے پریمیئم سبسکرائبر دے طور تے، تُساں آپݨاں اصلی نمبر ظاہر کِیتے مُتُّوں ٹیکسٹ پیغاماں اَتے فون کالاں حاصل کر سڳدے ہِیوے۔ آپݨے فون نمبر ماسک دے طور تے استعمال کرݨ کِیتے ہِک نمبر کوں چُݨ کے شروع کرو۔ اِین٘دے وِچ صرف 5 منٹ لڳدے ہِن۔",
+    "message": "\u0631\u0650\u06cc\u0644\u06d2 \u067e\u0631\u06cc\u0645\u06cc\u0626\u0645 \u0633\u0628\u0633\u06a9\u0631\u0627\u0626\u0628\u0631 \u062f\u06d2 \u0637\u0648\u0631 \u062a\u06d2\u060c \u062a\u064f\u0633\u0627\u06ba \u0622\u067e\u0768\u0627\u06ba \u0627\u0635\u0644\u06cc \u0646\u0645\u0628\u0631 \u0638\u0627\u06c1\u0631 \u06a9\u0650\u06cc\u062a\u06d2 \u0645\u064f\u062a\u0651\u064f\u0648\u06ba \u0679\u06cc\u06a9\u0633\u0679 \u067e\u06cc\u063a\u0627\u0645\u0627\u06ba \u0627\u064e\u062a\u06d2 \u0641\u0648\u0646 \u06a9\u0627\u0644\u0627\u06ba \u062d\u0627\u0635\u0644 \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u0650\u06cc\u0648\u06d2\u06d4 \u0622\u067e\u0768\u06d2 \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9 \u062f\u06d2 \u0637\u0648\u0631 \u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u0768 \u06a9\u0650\u06cc\u062a\u06d2 \u06c1\u0650\u06a9 \u0646\u0645\u0628\u0631 \u06a9\u0648\u06ba \u0686\u064f\u0768 \u06a9\u06d2 \u0634\u0631\u0648\u0639 \u06a9\u0631\u0648\u06d4 \u0627\u0650\u06cc\u0646\u0658\u062f\u06d2 \u0648\u0650\u0686 \u0635\u0631\u0641 5 \u0645\u0646\u0679 \u0644\u06b3\u062f\u06d2 \u06c1\u0650\u0646\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "فون ماسک فعال کرو"
+    "message": "\u0641\u0648\u0646 \u0645\u0627\u0633\u06a9 \u0641\u0639\u0627\u0644 \u06a9\u0631\u0648"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "آپݨاں فون نمبر وی ماسک کرو"
+    "message": "\u0622\u067e\u0768\u0627\u06ba \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0648\u06cc \u0645\u0627\u0633\u06a9 \u06a9\u0631\u0648"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "رِیلے پریمیئم فون نمبر ماسکنگ دے نال، تُساں آپݨے اصلی فون نمبر دی راکھی کر سڳدے ہِیوے اَتے تاں وی ٹیکسٹس اَتے کالاں وصول کر اَتے جواب ݙے سڳدے ہِیوے۔",
+    "message": "\u0631\u0650\u06cc\u0644\u06d2 \u067e\u0631\u06cc\u0645\u06cc\u0626\u0645 \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9\u0646\u06af \u062f\u06d2 \u0646\u0627\u0644\u060c \u062a\u064f\u0633\u0627\u06ba \u0622\u067e\u0768\u06d2 \u0627\u0635\u0644\u06cc \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u062f\u06cc \u0631\u0627\u06a9\u06be\u06cc \u06a9\u0631 \u0633\u06b3\u062f\u06d2 \u06c1\u0650\u06cc\u0648\u06d2 \u0627\u064e\u062a\u06d2 \u062a\u0627\u06ba \u0648\u06cc \u0679\u06cc\u06a9\u0633\u0679\u0633 \u0627\u064e\u062a\u06d2 \u06a9\u0627\u0644\u0627\u06ba \u0648\u0635\u0648\u0644 \u06a9\u0631 \u0627\u064e\u062a\u06d2 \u062c\u0648\u0627\u0628 \u0759\u06d2 \u0633\u06b3\u062f\u06d2 \u06c1\u0650\u06cc\u0648\u06d2\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "فون ماسکنگ گھنو"
+    "message": "\u0641\u0648\u0646 \u0645\u0627\u0633\u06a9\u0646\u06af \u06af\u06be\u0646\u0648"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "اڄݨ تہاݙے ملک وچ دستیاب کائنی"
+    "message": "\u0627\u0684\u0768 \u062a\u06c1\u0627\u0759\u06d2 \u0645\u0644\u06a9 \u0648\u0686 \u062f\u0633\u062a\u06cc\u0627\u0628 \u06a9\u0627\u0626\u0646\u06cc"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "رِیلے پریمیئم فون نمبر ماسکنگ دے نال، تُساں آپݨے ای میل پتے آلی کار آپݨاں اصلی فون نمبر لُکا سڳسو۔ رِیلے سائٹ اُتے ٻِیا ڄاݨو اَتے اپ ڈیٹاں کِیتے سائن اَپ کرو۔",
+    "message": "\u0631\u0650\u06cc\u0644\u06d2 \u067e\u0631\u06cc\u0645\u06cc\u0626\u0645 \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0645\u0627\u0633\u06a9\u0646\u06af \u062f\u06d2 \u0646\u0627\u0644\u060c \u062a\u064f\u0633\u0627\u06ba \u0622\u067e\u0768\u06d2 \u0627\u06cc \u0645\u06cc\u0644 \u067e\u062a\u06d2 \u0622\u0644\u06cc \u06a9\u0627\u0631 \u0622\u067e\u0768\u0627\u06ba \u0627\u0635\u0644\u06cc \u0641\u0648\u0646 \u0646\u0645\u0628\u0631 \u0644\u064f\u06a9\u0627 \u0633\u06b3\u0633\u0648\u06d4 \u0631\u0650\u06cc\u0644\u06d2 \u0633\u0627\u0626\u0679 \u0627\u064f\u062a\u06d2 \u067b\u0650\u06cc\u0627 \u0684\u0627\u0768\u0648 \u0627\u064e\u062a\u06d2 \u0627\u067e \u0688\u06cc\u0679\u0627\u06ba \u06a9\u0650\u06cc\u062a\u06d2 \u0633\u0627\u0626\u0646 \u0627\u064e\u067e \u06a9\u0631\u0648\u06d4",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "تانگھ تندیر نال رلت کرو"
+    "message": "\u062a\u0627\u0646\u06af\u06be \u062a\u0646\u062f\u06cc\u0631 \u0646\u0627\u0644 \u0631\u0644\u062a \u06a9\u0631\u0648"
   },
   "phonesTabText": {
-    "message": "فون"
+    "message": "\u0641\u0648\u0646"
   },
   "emailsTabText": {
-    "message": "ای میل"
+    "message": "\u0627\u06cc \u0645\u06cc\u0644"
   },
   "goBackText": {
-    "message": "واپس ون٘ڄو"
+    "message": "\u0648\u0627\u067e\u0633 \u0648\u0646\u0658\u0684\u0648"
   },
   "seeStatsText": {
-    "message": "شماریات ݙیکھو"
+    "message": "\u0634\u0645\u0627\u0631\u06cc\u0627\u062a \u0759\u06cc\u06a9\u06be\u0648"
   },
   "phoneRemainingMinutes": {
-    "message": "باقی منٹ"
+    "message": "\u0628\u0627\u0642\u06cc \u0645\u0646\u0679"
   },
   "phoneRemainingTexts": {
-    "message": "باقی عبارتاں"
+    "message": "\u0628\u0627\u0642\u06cc \u0639\u0628\u0627\u0631\u062a\u0627\u06ba"
   },
   "phoneForwardedCallsTexts": {
-    "message": "فون  تے عبارت اڳوں تے بھیڄ ݙتی"
+    "message": "\u0641\u0648\u0646  \u062a\u06d2 \u0639\u0628\u0627\u0631\u062a \u0627\u06b3\u0648\u06ba \u062a\u06d2 \u0628\u06be\u06cc\u0684 \u0759\u062a\u06cc"
   },
   "phoneBlockedCallsTexts": {
-    "message": "فون  تے عبارت روک ݙتے"
+    "message": "\u0641\u0648\u0646  \u062a\u06d2 \u0639\u0628\u0627\u0631\u062a \u0631\u0648\u06a9 \u0759\u062a\u06d2"
   }
 }

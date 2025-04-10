@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay helps you protect your true email address — the one most closely tied to your online identity. It lets you generate unique, random masks you can use to sign up for accounts, apps, or newsletters, and forwards messages to your true address. If you find that an account is sending unwanted email or spam, you can block the mask and it will stop sending email to your inbox. Once you no longer want an account, you can delete the mask.",
+    "message": "Firefox Relay helps you protect your true email address \u2014 the one most closely tied to your online identity. It lets you generate unique, random masks you can use to sign up for accounts, apps, or newsletters, and forwards messages to your true address. If you find that an account is sending unwanted email or spam, you can block the mask and it will stop sending email to your inbox. Once you no longer want an account, you can delete the mask.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,11 +12,11 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
+    "message": "You\u2019ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your Firefox account.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "You’ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your account.",
+    "message": "You\u2019ve successfully installed the Firefox Relay add-on. To get started, sign in to Relay with your account.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
@@ -50,7 +50,7 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "What’s new in Relay",
+    "message": "What\u2019s new in Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
@@ -80,7 +80,7 @@
     "message": "Submit Report"
   },
   "popupReportIssuesHeadline": {
-    "message": "I’m having trouble with this web site"
+    "message": "I\u2019m having trouble with this web site"
   },
   "popupReportFeedbackHeadline": {
     "message": "Leave feedback"
@@ -93,13 +93,13 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "I haven’t received an email from this web site that I was expecting"
+    "message": "I haven\u2019t received an email from this web site that I was expecting"
   },
   "popupReportIssueCaseFour": {
     "message": "Phone mask was not accepted by this web site"
   },
   "popupReportIssueCaseFive": {
-    "message": "I haven’t received a text or call from this web site that I was expecting"
+    "message": "I haven\u2019t received a text or call from this web site that I was expecting"
   },
   "popupReportIssueCaseOther": {
     "message": "Other"
@@ -138,7 +138,7 @@
     "message": "Remaining masks: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -147,7 +147,7 @@
     "message": "Remaining free email masks:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -190,7 +190,7 @@
     "message": "High five!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "You’re a Firefox Relay power user!",
+    "message": "You\u2019re a Firefox Relay power user!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
@@ -279,7 +279,7 @@
     "message": "Add Mozilla VPN at $SAVINGS$ off.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
@@ -289,7 +289,7 @@
     "message": "Add Mozilla VPN for $SAVINGS$ off.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
@@ -299,7 +299,7 @@
     "message": "1 year plan including Relay Premium + Mozilla VPN for $MONTHLY_PRICE$/month.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
@@ -309,7 +309,7 @@
     "message": "Get a year of Relay Premium Phone Masking plus Mozilla VPN for $MONTHLY_PRICE$/month.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
@@ -331,11 +331,11 @@
     "message": "Upgrade your subscription to get both Relay Premium + Mozilla VPN for $MONTHLY_PRICE$/month. Save $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
@@ -367,19 +367,18 @@
     "message": "Create a new custom mask"
   },
   "popupCreateCustomMaskBody": {
-    "message": "All you need to do is make up and share a unique mask that uses your custom subdomain — the mask will be generated automatically. Try “shop@customsubdomain.mozmail.com” next time you shop online, for example."
+    "message": "All you need to do is make up and share a unique mask that uses your custom subdomain \u2014 the mask will be generated automatically. Try \u201cshop@customsubdomain.mozmail.com\u201d next time you shop online, for example."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Enter email mask prefix"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "e.g. “coffee”"
+    "message": "e.g. \u201ccoffee\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -434,7 +433,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Use existing mask from this site…"
+    "message": "Use existing mask from this site\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Recent masks"
@@ -454,7 +453,7 @@
     "message": "Character(s) not allowed: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
@@ -474,7 +473,7 @@
     "message": "Enable new features"
   },
   "popupDataCollectionBody_mask": {
-    "message": "You can allow Relay to collect optional data that allows us to sync your mask labels across your devices with the web sites where they’re created and used.",
+    "message": "You can allow Relay to collect optional data that allows us to sync your mask labels across your devices with the web sites where they\u2019re created and used.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
@@ -490,7 +489,7 @@
     "message": "Privacy Notice Update"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "To improve the reliability of Firefox Relay in the event that an email can’t be delivered, we will temporarily keep the email on our servers until it has been delivered. We will never hold onto it for more than three days.",
+    "message": "To improve the reliability of Firefox Relay in the event that an email can\u2019t be delivered, we will temporarily keep the email on our servers until it has been delivered. We will never hold onto it for more than three days.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "You’ve used all $MAXIMUM$ of your free masks.",
+    "message": "You\u2019ve used all $MAXIMUM$ of your free masks.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -570,7 +569,7 @@
     "message": "Thank you for your feedback!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "We’d like to learn more about how we can do better. Would you be willing to take a two-minute survey?"
+    "message": "We\u2019d like to learn more about how we can do better. Would you be willing to take a two-minute survey?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Dismiss"
@@ -594,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "This holiday season, get 20% off the price of 1 year of Relay Premium. Just enter the promo code “HOLIDAY20” at checkout. Offer ends 31st Dec 2023.",
+    "message": "This holiday season, get 20% off the price of 1 year of Relay Premium. Just enter the promo code \u201cHOLIDAY20\u201d at checkout. Offer ends 31st Dec 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
@@ -606,7 +605,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay is blocking all phone calls and text messages — you will not receive anything from your phone number mask.",
+    "message": "Relay is blocking all phone calls and text messages \u2014 you will not receive anything from your phone number mask.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -647,7 +646,7 @@
     "message": "Not available in your country yet"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "With Relay Premium phone number masking, you’ll be able to hide your real phone number just like your email address. Learn more on the Relay site and sign up for updates.",
+    "message": "With Relay Premium phone number masking, you\u2019ll be able to hide your real phone number just like your email address. Learn more on the Relay site and sign up for updates.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {

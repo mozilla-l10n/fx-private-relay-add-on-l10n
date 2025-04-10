@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Mae Firefox Relay yn eich helpu i ddiogelu eich cyfeiriad e-bost go iawn - yr un sydd â'r cysylltiad agosaf â'ch hunaniaeth ar-lein. Mae'n caniatáu ichi gynhyrchu arallenwau unigryw ar hap, y gallwch eu defnyddio i gofrestru ar gyfer cyfrifon, apiau, neu gylchlythyrau, ac anfon negeseuon ymlaen i'ch cyfeiriad go iawn. Os gwelwch fod cyfrif yn anfon e-bost neu sbam dieithr, gallwch rwystro'r arallenw a bydd yn peidio ag anfon e-bost i'ch blwch derbyn. Unwaith na fydd angen y cyfrif arnoch chi mwyach, gallwch ddileu'r arallenw.",
+    "message": "Mae Firefox Relay yn eich helpu i ddiogelu eich cyfeiriad e-bost go iawn - yr un sydd \u00e2'r cysylltiad agosaf \u00e2'ch hunaniaeth ar-lein. Mae'n caniat\u00e1u ichi gynhyrchu arallenwau unigryw ar hap, y gallwch eu defnyddio i gofrestru ar gyfer cyfrifon, apiau, neu gylchlythyrau, ac anfon negeseuon ymlaen i'ch cyfeiriad go iawn. Os gwelwch fod cyfrif yn anfon e-bost neu sbam dieithr, gallwch rwystro'r arallenw a bydd yn peidio ag anfon e-bost i'ch blwch derbyn. Unwaith na fydd angen y cyfrif arnoch chi mwyach, gallwch ddileu'r arallenw.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -20,11 +20,11 @@
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Caniatáu i Mozilla gasglu gwybodaeth am sut rydych chi'n defnyddio'r estyniad hwn.",
+    "message": "Caniat\u00e1u i Mozilla gasglu gwybodaeth am sut rydych chi'n defnyddio'r estyniad hwn.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Caniatáu casglu data",
+    "message": "Caniat\u00e1u casglu data",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
@@ -50,18 +50,18 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Beth sy’n newydd yn Relay",
+    "message": "Beth sy\u2019n newydd yn Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Nôl i'r prif banel"
+    "message": "N\u00f4l i'r prif banel"
   },
   "popupSettingsShowIconInInputFields": {
     "message": "Dangos eicon Relay mewn meysydd mewnbwn ar wefannau",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Caniatáu i Mozilla gasglu data rhyngweithio",
+    "message": "Caniat\u00e1u i Mozilla gasglu data rhyngweithio",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
@@ -138,7 +138,7 @@
     "message": "Arallenwau sy'n weddill: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -147,7 +147,7 @@
     "message": "Arallenwau e-bost am ddim sy'n weddill: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -272,14 +272,14 @@
     "message": "Dysgu rhagor"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Gyda Relay Premium, gallwch rwystro e-byst hyrwyddo rhag cyrraedd eich blwch derbyn tra'n parhau i ganiatáu i chi dderbyn e-byst fel derbynebau neu fanylion cludo.",
+    "message": "Gyda Relay Premium, gallwch rwystro e-byst hyrwyddo rhag cyrraedd eich blwch derbyn tra'n parhau i ganiat\u00e1u i chi dderbyn e-byst fel derbynebau neu fanylion cludo.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
     "message": "Ychwanegwch Mozilla VPN gyda $SAVINGS$ i ffwrdd.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
@@ -289,7 +289,7 @@
     "message": "Ychwanegwch Mozilla VPN gyda $SAVINGS$ i ffwrdd.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
@@ -299,17 +299,17 @@
     "message": "Cynllun 1 blwyddyn gan gynnwys Relay Premium + Mozilla VPN am $MONTHLY_PRICE$/mis.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Cael blwyddyn o Guddio Ffôn Relay Premium ynghyd â Mozilla VPN am $MONTHLY_PRICE$/mis.",
+    "message": "Cael blwyddyn o Guddio Ff\u00f4n Relay Premium ynghyd \u00e2 Mozilla VPN am $MONTHLY_PRICE$/mis.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
@@ -331,11 +331,11 @@
     "message": "Uwchraddiwch eich tanysgrifiad i gael Relay Premium + Mozilla VPN am $MONTHLY_PRICE$/mis. Arbediad o $SavingS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SavingS": {
         "content": "$2",
         "example": "50%"
       }
@@ -346,10 +346,10 @@
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "Yn cyflwyno cuddio rhifau ffôn"
+    "message": "Yn cyflwyno cuddio rhifau ff\u00f4n"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Gyda chuddio rhif ffôn, gallwch nawr greu rhif ffôn arall sy'n eich helpu i gael negeseuon testun a galwadau heb ddatgelu'ch gwir rif."
+    "message": "Gyda chuddio rhif ff\u00f4n, gallwch nawr greu rhif ff\u00f4n arall sy'n eich helpu i gael negeseuon testun a galwadau heb ddatgelu'ch gwir rif."
   },
   "popupPhoneMaskingPromoBodyPremium": {
     "message": "Cael negeseuon testun a galwadau heb ddatgelu'ch gwir rif."
@@ -364,22 +364,21 @@
     "message": "Mewngofnodwch eto gyda'ch arallenwau"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "Crëwch arallenw cyfaddas newydd"
+    "message": "Cr\u00ebwch arallenw cyfaddas newydd"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Y cyfan sy'n rhaid i chi ei wneud yw creu a rhannu arallenw unigryw sy'n defnyddio'ch parth cyfaddas - bydd yr arallenw'n cael ei gynhyrchu'n awtomatig. Rhowch gynnig ar “shop@customsubdomain.mozmail.com” y tro nesaf y byddwch chi'n siopa ar-lein, er enghraifft."
+    "message": "Y cyfan sy'n rhaid i chi ei wneud yw creu a rhannu arallenw unigryw sy'n defnyddio'ch parth cyfaddas - bydd yr arallenw'n cael ei gynhyrchu'n awtomatig. Rhowch gynnig ar \u201cshop@customsubdomain.mozmail.com\u201d y tro nesaf y byddwch chi'n siopa ar-lein, er enghraifft."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Rhowch ragosodiad arallenw e-bost"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "e.e. “coffi”"
+    "message": "e.e. \u201ccoffi\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -430,17 +429,17 @@
     "message": "Cael arallenwau diderfyn"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Ymunwch â rhestr aros Premiwm",
+    "message": "Ymunwch \u00e2 rhestr aros Premiwm",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Defnyddiwch yr arallenwau presennol o'r wefan hon…"
+    "message": "Defnyddiwch yr arallenwau presennol o'r wefan hon\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Arallenwau diweddar"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Defnyddio rhif ffôn ffug"
+    "message": "Defnyddio rhif ff\u00f4n ffug"
   },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Rydych chi eisoes wedi creu'r nifer mwyaf o arallenwau",
@@ -451,10 +450,10 @@
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "Nodau sydd ddim yn cael eu caniatâu: $CHARACTERS$",
+    "message": "Nodau sydd ddim yn cael eu caniat\u00e2u: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
@@ -468,23 +467,23 @@
     "message": "Cau"
   },
   "returnToPreviousPanel": {
-    "message": "Nôl i'r panel diwethaf"
+    "message": "N\u00f4l i'r panel diwethaf"
   },
   "popupDataCollectionHeadline": {
     "message": "Galluogi nodweddion newydd"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Gallwch ganiatáu i Relay gasglu data dewisol sy'n ein galluogi i gydweddu labeli arallenwau eich holl ddyfeisiau â'r gwefannau lle maen nhw wedi'u creu a'u defnyddio.",
+    "message": "Gallwch ganiat\u00e1u i Relay gasglu data dewisol sy'n ein galluogi i gydweddu labeli arallenwau eich holl ddyfeisiau \u00e2'r gwefannau lle maen nhw wedi'u creu a'u defnyddio.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Dysgu Rhagor"
+    "message": "Dysgu\u00a0Rhagor"
   },
   "popupDataCollectionButtonDecline": {
     "message": "Gwrthod"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "Caniatáu"
+    "message": "Caniat\u00e1u"
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Diweddariad Hysbysiad Preifatrwydd"
@@ -538,10 +537,10 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Clicio i'w gopïo"
+    "message": "Clicio i'w gop\u00efo"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "Copïwyd!"
+    "message": "Cop\u00efwyd!"
   },
   "popupSurveyLink": {
     "message": "Helpwch ni i wella Relay",
@@ -594,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Y tymor gwyliau hwn, cewch 20% oddi ar pris Relay Premiwn 1 flwyddyn. Rhowch y cod hyrwyddo “HOLIDAY20” wrth y ddesg dalu. Daw’r cynnig i ben ar 31 Rhagfyr, 2023.",
+    "message": "Y tymor gwyliau hwn, cewch 20% oddi ar pris Relay Premiwn 1 flwyddyn. Rhowch y cod hyrwyddo \u201cHOLIDAY20\u201d wrth y ddesg dalu. Daw\u2019r cynnig i ben ar 31 Rhagfyr, 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
@@ -602,11 +601,11 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Ar hyn o bryd mae Relay yn anfon pob galwad ffôn a neges destun ymlaen i'ch gwir rif ffôn.",
+    "message": "Ar hyn o bryd mae Relay yn anfon pob galwad ff\u00f4n a neges destun ymlaen i'ch gwir rif ff\u00f4n.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Mae Relay yn rhwystro pob galwad ffôn a neges destun - fyddwch chi ddim yn derbyn unrhyw beth o'ch rhif ffôn ffug.",
+    "message": "Mae Relay yn rhwystro pob galwad ff\u00f4n a neges destun - fyddwch chi ddim yn derbyn unrhyw beth o'ch rhif ff\u00f4n ffug.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -624,43 +623,43 @@
     "message": "Rhwystro"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Agor eich rhif ffôn ffug"
+    "message": "Agor eich rhif ff\u00f4n ffug"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Fel tanysgrifiwr Relay Premium, gallwch gael negeseuon testun a galwadau ffôn heb ddatgelu'ch rhif go iawn. Cychwynnwch trwy ddewis rhif i'w ddefnyddio fel eich rhif ffôn ffug. Dim ond 5 munud y mae'n ei gymryd.",
+    "message": "Fel tanysgrifiwr Relay Premium, gallwch gael negeseuon testun a galwadau ff\u00f4n heb ddatgelu'ch rhif go iawn. Cychwynnwch trwy ddewis rhif i'w ddefnyddio fel eich rhif ff\u00f4n ffug. Dim ond 5 munud y mae'n ei gymryd.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Agor eich rhif ffôn ffug"
+    "message": "Agor eich rhif ff\u00f4n ffug"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Cuddiwch eich rhif ffôn hefyd"
+    "message": "Cuddiwch eich rhif ff\u00f4n hefyd"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Gyda ffugio'ch rhif ffôn Relay Premium, gallwch ddiogelu eich rhif ffôn go iawn a dal i dderbyn ac ateb negeseuon testun a galwadau.",
+    "message": "Gyda ffugio'ch rhif ff\u00f4n Relay Premium, gallwch ddiogelu eich rhif ff\u00f4n go iawn a dal i dderbyn ac ateb negeseuon testun a galwadau.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Cael rhif ffôn ffug"
+    "message": "Cael rhif ff\u00f4n ffug"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Nid yw ar gael yn eich gwlad eto"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "Gyda ffugio rhif ffôn Relay Premium, byddwch yn gallu cuddio'ch rhif ffôn go iawn yn union fel eich cyfeiriad e-bost. Dysgwch fwy ar wefan Relay a chofrestrwch i gael diweddariadau.",
+    "message": "Gyda ffugio rhif ff\u00f4n Relay Premium, byddwch yn gallu cuddio'ch rhif ff\u00f4n go iawn yn union fel eich cyfeiriad e-bost. Dysgwch fwy ar wefan Relay a chofrestrwch i gael diweddariadau.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "Ymunwch â'r rhestr aros"
+    "message": "Ymunwch \u00e2'r rhestr aros"
   },
   "phonesTabText": {
-    "message": "Ffôn"
+    "message": "Ff\u00f4n"
   },
   "emailsTabText": {
     "message": "E-bost"
   },
   "goBackText": {
-    "message": "Mynd nôl"
+    "message": "Mynd n\u00f4l"
   },
   "seeStatsText": {
     "message": "Gweld yr ystadegau"

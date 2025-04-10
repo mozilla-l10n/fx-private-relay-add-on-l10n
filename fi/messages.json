@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relayn avulla on helppoa luoda sähköpostimaskeja, jotka ohjaavat sähköpostiviestit edelleen oikeaan postilaatikkoosi.",
+    "message": "Firefox Relayn avulla on helppoa luoda s\u00e4hk\u00f6postimaskeja, jotka ohjaavat s\u00e4hk\u00f6postiviestit edelleen oikeaan postilaatikkoosi.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay auttaa sinua suojaamaan oikeaa sähköpostiosoitettasi – sitä, joka on läheisimmin sidottu verkkoidentiteettiisi. Relayn avulla voit luoda yksilöllisiä, satunnaisia maskeja, joilla voit rekisteröidä tilejä, sovelluksia tai tilata uutiskirjeitä ja lähettää viestejä eteenpäin oikeaan osoitteeseesi. Jos huomaat, että jokin palvelu tai tili lähettää sähköpostiviestejä, joita et halua, tai roskapostia, voit estää maskin, jolloin sähköpostiviestin välitys postilaatikkoosi loppuu. Kun et enää halua kyseistä tiliä, voit poistaa maskin.",
+    "message": "Firefox Relay auttaa sinua suojaamaan oikeaa s\u00e4hk\u00f6postiosoitettasi \u2013 sit\u00e4, joka on l\u00e4heisimmin sidottu verkkoidentiteettiisi. Relayn avulla voit luoda yksil\u00f6llisi\u00e4, satunnaisia maskeja, joilla voit rekister\u00f6id\u00e4 tilej\u00e4, sovelluksia tai tilata uutiskirjeit\u00e4 ja l\u00e4hett\u00e4\u00e4 viestej\u00e4 eteenp\u00e4in oikeaan osoitteeseesi. Jos huomaat, ett\u00e4 jokin palvelu tai tili l\u00e4hett\u00e4\u00e4 s\u00e4hk\u00f6postiviestej\u00e4, joita et halua, tai roskapostia, voit est\u00e4\u00e4 maskin, jolloin s\u00e4hk\u00f6postiviestin v\u00e4litys postilaatikkoosi loppuu. Kun et en\u00e4\u00e4 halua kyseist\u00e4 tili\u00e4, voit poistaa maskin.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,15 +12,15 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Olet asentanut Firefox Relay -lisäosan onnistuneesti. Aloita kirjautumalla Relay-palveluun Firefox-tililläsi.",
+    "message": "Olet asentanut Firefox Relay -lis\u00e4osan onnistuneesti. Aloita kirjautumalla Relay-palveluun Firefox-tilill\u00e4si.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Olet asentanut Firefox Relay -lisäosan onnistuneesti. Aloita kirjautumalla Relay-palveluun tililläsi.",
+    "message": "Olet asentanut Firefox Relay -lis\u00e4osan onnistuneesti. Aloita kirjautumalla Relay-palveluun tilill\u00e4si.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Salli Mozillan kerätä tietoja tämän laajennuksen käytöstä.",
+    "message": "Salli Mozillan ker\u00e4t\u00e4 tietoja t\u00e4m\u00e4n laajennuksen k\u00e4yt\u00f6st\u00e4.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
@@ -28,15 +28,15 @@
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "Poista tietojenkeruu käytöstä",
+    "message": "Poista tietojenkeruu k\u00e4yt\u00f6st\u00e4",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Vuorovaikutustietojen kerääminen, kun esimerkiksi napsautat työkalupalkin Relay-kuvaketta tai luot uuden maskin, auttaa meitä ymmärtämään, mikä toimii hyvin ja missä voimme parantaa. Voit aina poistaa tämän ominaisuuden käytöstä Asetukset-paneelista.",
+    "message": "Vuorovaikutustietojen ker\u00e4\u00e4minen, kun esimerkiksi napsautat ty\u00f6kalupalkin Relay-kuvaketta tai luot uuden maskin, auttaa meit\u00e4 ymm\u00e4rt\u00e4m\u00e4\u00e4n, mik\u00e4 toimii hyvin ja miss\u00e4 voimme parantaa. Voit aina poistaa t\u00e4m\u00e4n ominaisuuden k\u00e4yt\u00f6st\u00e4 Asetukset-paneelista.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "Rekisteröidy tai kirjaudu sisään"
+    "message": "Rekister\u00f6idy tai kirjaudu sis\u00e4\u00e4n"
   },
   "popupSettingsTitle": {
     "message": "Asetukset"
@@ -50,18 +50,18 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Mitä uutta Relay sisältää",
+    "message": "Mit\u00e4 uutta Relay sis\u00e4lt\u00e4\u00e4",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Palaa pääpaneeliin"
+    "message": "Palaa p\u00e4\u00e4paneeliin"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "Näytä Relay-kuvake verkkosivustojen syötekentissä",
+    "message": "N\u00e4yt\u00e4 Relay-kuvake verkkosivustojen sy\u00f6tekentiss\u00e4",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Salli Mozillan kerätä vuorovaikutustietoja",
+    "message": "Salli Mozillan ker\u00e4t\u00e4 vuorovaikutustietoja",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
@@ -71,47 +71,47 @@
     "message": "Tietosuoja"
   },
   "popupSettingsTermsOfService": {
-    "message": "Käyttöehdot"
+    "message": "K\u00e4ytt\u00f6ehdot"
   },
   "popupSettingsReportIssue": {
     "message": "Ilmoita ongelmasta"
   },
   "popupSettingsSubmitReport": {
-    "message": "Lähetä ilmoitus"
+    "message": "L\u00e4het\u00e4 ilmoitus"
   },
   "popupReportIssuesHeadline": {
-    "message": "Minulla on ongelmia tämän sivuston kanssa"
+    "message": "Minulla on ongelmia t\u00e4m\u00e4n sivuston kanssa"
   },
   "popupReportFeedbackHeadline": {
     "message": "Anna palautetta"
   },
   "popupReportIssueCaseOne": {
-    "message": "Verkkosivusto ei hyväksynyt sähköpostimaskia"
+    "message": "Verkkosivusto ei hyv\u00e4ksynyt s\u00e4hk\u00f6postimaskia"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Relay-lisäosa aiheutti visuaalisen ongelman verkkosivustolla",
+    "message": "Relay-lis\u00e4osa aiheutti visuaalisen ongelman verkkosivustolla",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "En ole saanut odottamaani sähköpostia tältä sivustolta"
+    "message": "En ole saanut odottamaani s\u00e4hk\u00f6postia t\u00e4lt\u00e4 sivustolta"
   },
   "popupReportIssueCaseFour": {
-    "message": "Tämä verkkosivusto ei hyväksynyt puhelinnumeron maskia"
+    "message": "T\u00e4m\u00e4 verkkosivusto ei hyv\u00e4ksynyt puhelinnumeron maskia"
   },
   "popupReportIssueCaseFive": {
-    "message": "En ole saanut tältä sivustolta tekstiviestiä tai soittoa, jota odotin"
+    "message": "En ole saanut t\u00e4lt\u00e4 sivustolta tekstiviesti\u00e4 tai soittoa, jota odotin"
   },
   "popupReportIssueCaseOther": {
     "message": "Muu"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "Anna lisätietoja"
+    "message": "Anna lis\u00e4tietoja"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "Ilmoitus lähetetty!"
+    "message": "Ilmoitus l\u00e4hetetty!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "Kiitos, että autat meitä parantamaan Firefox Relay -palvelua!",
+    "message": "Kiitos, ett\u00e4 autat meit\u00e4 parantamaan Firefox Relay -palvelua!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
@@ -121,46 +121,46 @@
     "message": "Tervetuloa"
   },
   "popupSignUpPanelIntro": {
-    "message": "Aloita kirjautumalla Relay-palveluun Firefox-tililläsi.",
+    "message": "Aloita kirjautumalla Relay-palveluun Firefox-tilill\u00e4si.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Aloita kirjautumalla tililläsi Relay-palveluun.",
+    "message": "Aloita kirjautumalla tilill\u00e4si Relay-palveluun.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
     "message": "Jatka"
   },
   "popupSignUpPanelSignIn": {
-    "message": "Kirjaudu sisään"
+    "message": "Kirjaudu sis\u00e4\u00e4n"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Maskeja jäljellä: $REMAINING$",
+    "message": "Maskeja j\u00e4ljell\u00e4: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Ilmaisia sähköpostimaskeja jäljellä:  $REMAINING$",
+    "message": "Ilmaisia s\u00e4hk\u00f6postimaskeja j\u00e4ljell\u00e4:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Viimeksi käytetyt sähköpostimaskit",
+    "message": "Viimeksi k\u00e4ytetyt s\u00e4hk\u00f6postimaskit",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
     "message": "Hanki rajattomasti maskeja"
   },
   "popupOnboardingShowPrevious": {
-    "message": "Näytä edellinen paneeli"
+    "message": "N\u00e4yt\u00e4 edellinen paneeli"
   },
   "popupOnboardingShowNext": {
     "message": "Siirry seuraavaan paneeliin"
@@ -179,69 +179,69 @@
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "Tältä verkkosivustolta",
+    "message": "T\u00e4lt\u00e4 verkkosivustolta",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "Kaikki sähköpostimaskit",
+    "message": "Kaikki s\u00e4hk\u00f6postimaskit",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "Ylävitonen!"
+    "message": "Yl\u00e4vitonen!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "Olet Firefox Relay -tehokäyttäjä!",
+    "message": "Olet Firefox Relay -tehok\u00e4ytt\u00e4j\u00e4!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Hanki yksilöllinen Relay-sähköpostiverkkotunnus",
+    "message": "Hanki yksil\u00f6llinen Relay-s\u00e4hk\u00f6postiverkkotunnus",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Sähköpostimaskeja käytetty"
+    "message": "S\u00e4hk\u00f6postimaskeja k\u00e4ytetty"
   },
   "popupTotalMasksUsed": {
-    "message": "Sähköpostimaskeja käytetty yhteensä"
+    "message": "S\u00e4hk\u00f6postimaskeja k\u00e4ytetty yhteens\u00e4"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Tällä sivustolla käytettyjä maskeja"
+    "message": "T\u00e4ll\u00e4 sivustolla k\u00e4ytettyj\u00e4 maskeja"
   },
   "popupEmailsBlocked": {
-    "message": "Sähköposteja estetty"
+    "message": "S\u00e4hk\u00f6posteja estetty"
   },
   "popupEmailsForwarded": {
-    "message": "Sähköpostit välitetty"
+    "message": "S\u00e4hk\u00f6postit v\u00e4litetty"
   },
   "popupEmailTrackersRemoved": {
-    "message": "Sähköpostiseuraimia poistettu"
+    "message": "S\u00e4hk\u00f6postiseuraimia poistettu"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Päivitä Relay Premiumiin saadaksesi lisää suojausta!",
+    "message": "P\u00e4ivit\u00e4 Relay Premiumiin saadaksesi lis\u00e4\u00e4 suojausta!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Maailmanlaajuinen suojaustyökalu"
+    "message": "Maailmanlaajuinen suojausty\u00f6kalu"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay voi auttaa sinua suojaamaan sähköpostisi missä tahansa oletkin.",
+    "message": "Relay voi auttaa sinua suojaamaan s\u00e4hk\u00f6postisi miss\u00e4 tahansa oletkin.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "Liitteiden koon nosto"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay voi nyt lähettää edelleen sähköposteja, joiden koko on jopa 25 megatavua, mukaan lukien liitteet.",
+    "message": "Firefox Relay voi nyt l\u00e4hett\u00e4\u00e4 edelleen s\u00e4hk\u00f6posteja, joiden koko on jopa 25 megatavua, mukaan lukien liitteet.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "Tutustumishintatarjouksemme päättyy pian!"
+    "message": "Tutustumishintatarjouksemme p\u00e4\u00e4ttyy pian!"
   },
   "popupEndOfIntroPricingBody": {
     "message": "Hanki Relay Premium ennen 27. syyskuuta ja nauti rajattomista maskeista kuukausittaiseen tutustumishintaamme.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "Päivitä nyt"
+    "message": "P\u00e4ivit\u00e4 nyt"
   },
   "popupEndOfIntroPricingCountdownDays": {
     "message": "pv",
@@ -260,36 +260,36 @@
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "Kriittinen sähköpostin edelleenlähetys"
+    "message": "Kriittinen s\u00e4hk\u00f6postin edelleenl\u00e4hetys"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "Estä mainossähköpostit"
+    "message": "Est\u00e4 mainoss\u00e4hk\u00f6postit"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Ota käyttöön \"Estä mainossähköpostit\" maskissa estääksesi markkinointisähköpostien saapumisen postilaatikkoosi."
+    "message": "Ota k\u00e4ytt\u00f6\u00f6n \"Est\u00e4 mainoss\u00e4hk\u00f6postit\" maskissa est\u00e4\u00e4ksesi markkinointis\u00e4hk\u00f6postien saapumisen postilaatikkoosi."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Lue lisää"
+    "message": "Lue lis\u00e4\u00e4"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Relay Premiumin avulla voit estää mainossähköpostien pääsyn postilaatikkoosi, mutta voit silti vastaanottaa sähköpostiviestejä, kuten kuitteja tai toimitustietoja.",
+    "message": "Relay Premiumin avulla voit est\u00e4\u00e4 mainoss\u00e4hk\u00f6postien p\u00e4\u00e4syn postilaatikkoosi, mutta voit silti vastaanottaa s\u00e4hk\u00f6postiviestej\u00e4, kuten kuitteja tai toimitustietoja.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "Lisää Mozilla VPN $SAVINGS$ alennuksella.",
+    "message": "Lis\u00e4\u00e4 Mozilla VPN $SAVINGS$ alennuksella.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Lisää Mozilla VPN $SAVINGS$ alennuksella.",
+    "message": "Lis\u00e4\u00e4 Mozilla VPN $SAVINGS$ alennuksella.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
@@ -299,7 +299,7 @@
     "message": "1 vuoden tilaus, mukaan lukien Relay Premium + Mozilla VPN hintaan $MONTHLY_PRICE$/kk.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
@@ -309,7 +309,7 @@
     "message": "Saat vuoden Relay Premiumin puhelinnumeron maskin kera ja Mozilla VPN:n hintaan $MONTHLY_PRICE$/kk.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
@@ -320,22 +320,22 @@
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Nyt voit käyttää Relay-palvelua suoraan Firefoxin salasananhallinnassa.",
+    "message": "Nyt voit k\u00e4ytt\u00e4\u00e4 Relay-palvelua suoraan Firefoxin salasananhallinnassa.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "Esittelyssä: Relay + VPN -tilaus",
+    "message": "Esittelyss\u00e4: Relay + VPN -tilaus",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Päivitä tilauksesi saadaksesi sekä Relay Premiumin että Mozilla VPN:n hintaan $MONTHLY_PRICE$/kk. Säästä $SAVINGS$!",
+    "message": "P\u00e4ivit\u00e4 tilauksesi saadaksesi sek\u00e4 Relay Premiumin ett\u00e4 Mozilla VPN:n hintaan $MONTHLY_PRICE$/kk. S\u00e4\u00e4st\u00e4 $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
@@ -346,56 +346,55 @@
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "Esittelyssä puhelinnumeron maski"
+    "message": "Esittelyss\u00e4 puhelinnumeron maski"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Puhelinnumeron maskin avulla voit nyt luoda puhelinnumeromaskin, jonka avulla voit vastaanottaa tekstiviestejä ja puheluita paljastamatta todellista numeroasi."
+    "message": "Puhelinnumeron maskin avulla voit nyt luoda puhelinnumeromaskin, jonka avulla voit vastaanottaa tekstiviestej\u00e4 ja puheluita paljastamatta todellista numeroasi."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Vastaanota tekstiviestejä ja puheluita paljastamatta oikeaa numeroasi."
+    "message": "Vastaanota tekstiviestej\u00e4 ja puheluita paljastamatta oikeaa numeroasi."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "Päivitä nyt"
+    "message": "P\u00e4ivit\u00e4 nyt"
   },
   "popupPromoNewLabel": {
     "message": "Uutta!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Kirjaudu takaisin sisään sähköpostimaskeillasi"
+    "message": "Kirjaudu takaisin sis\u00e4\u00e4n s\u00e4hk\u00f6postimaskeillasi"
   },
   "popupCreateCustomMaskTitle": {
     "message": "Luo uusi mukautettu maski"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Sinun tarvitsee vain luoda ja jakaa yksilöllinen maski, joka käyttää mukautettua aliverkkotunnustasi – maski luodaan automaattisesti. Kokeile esimerkiksi “kauppa@customsubdomain.mozmail.com” seuraavan kerran, kun teet ostoksia verkossa."
+    "message": "Sinun tarvitsee vain luoda ja jakaa yksil\u00f6llinen maski, joka k\u00e4ytt\u00e4\u00e4 mukautettua aliverkkotunnustasi \u2013 maski luodaan automaattisesti. Kokeile esimerkiksi \u201ckauppa@customsubdomain.mozmail.com\u201d seuraavan kerran, kun teet ostoksia verkossa."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Anna sähköpostimaskin etuliite"
+    "message": "Anna s\u00e4hk\u00f6postimaskin etuliite"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "esim. “kahvi”"
+    "message": "esim. \u201ckahvi\u201d"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "Estä mainossähköpostit"
+    "message": "Est\u00e4 mainoss\u00e4hk\u00f6postit"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
     "message": "Luo maski"
   },
   "popupCreateCustomFormError": {
-    "message": "Maskia ei voitu luoda. Yritä uudelleen."
+    "message": "Maskia ei voitu luoda. Yrit\u00e4 uudelleen."
   },
   "pageInputIconSignUpText": {
-    "message": "Kirjaudu sisään tai luo tili Firefox Relay -sivustolla.",
+    "message": "Kirjaudu sis\u00e4\u00e4n tai luo tili Firefox Relay -sivustolla.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
@@ -415,15 +414,15 @@
     "message": "Luo mukautettu maski"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Valitse nykyisistä sähköpostimaskeista",
+    "message": "Valitse nykyisist\u00e4 s\u00e4hk\u00f6postimaskeista",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Muut sähköpostimaskit",
+    "message": "Muut s\u00e4hk\u00f6postimaskit",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "Aiemmin käytetty tällä sivustolla",
+    "message": "Aiemmin k\u00e4ytetty t\u00e4ll\u00e4 sivustolla",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
@@ -434,73 +433,73 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Käytä tämän sivuston olemassa olevaa maskia…"
+    "message": "K\u00e4yt\u00e4 t\u00e4m\u00e4n sivuston olemassa olevaa maskia\u2026"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Viimeisimmät maskit"
+    "message": "Viimeisimm\u00e4t maskit"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Käytä puhelinnumeromaskia"
+    "message": "K\u00e4yt\u00e4 puhelinnumeromaskia"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "Olet jo luonut enimmäismäärän maskeja",
+    "message": "Olet jo luonut enimm\u00e4ism\u00e4\u00e4r\u00e4n maskeja",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Sinulla ei ole enää ilmaisia sähköpostimaskeja jäljellä.",
+    "message": "Sinulla ei ole en\u00e4\u00e4 ilmaisia s\u00e4hk\u00f6postimaskeja j\u00e4ljell\u00e4.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
     "message": "Kielletyt merkit: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "Lisää tilin nimi",
+    "message": "Lis\u00e4\u00e4 tilin nimi",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
     "message": "Sulje"
   },
   "returnToPreviousPanel": {
-    "message": "Paluu edelliseen näkymään"
+    "message": "Paluu edelliseen n\u00e4kym\u00e4\u00e4n"
   },
   "popupDataCollectionHeadline": {
-    "message": "Ota uudet ominaisuudet käyttöön"
+    "message": "Ota uudet ominaisuudet k\u00e4ytt\u00f6\u00f6n"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Voit sallia Relayn kerätä valinnaisia tietoja, joiden avulla voimme synkronoida maskitunnisteet laitteidesi välillä niiden verkkosivustojen kanssa, joilla ne on luotu ja käytetty.",
+    "message": "Voit sallia Relayn ker\u00e4t\u00e4 valinnaisia tietoja, joiden avulla voimme synkronoida maskitunnisteet laitteidesi v\u00e4lill\u00e4 niiden verkkosivustojen kanssa, joilla ne on luotu ja k\u00e4ytetty.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Lue lisää"
+    "message": "Lue lis\u00e4\u00e4"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "Hylkää"
+    "message": "Hylk\u00e4\u00e4"
   },
   "popupDataCollectionButtonAllow": {
     "message": "Salli"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Tietosuojakäytännön päivitys"
+    "message": "Tietosuojak\u00e4yt\u00e4nn\u00f6n p\u00e4ivitys"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Parantaaksemme Firefox Relayn luotettavuutta siinä tapauksessa, että sähköpostia ei voida toimittaa, pidämme sähköpostin väliaikaisesti palvelimillamme, kunnes se on toimitettu. Emme koskaan säilytä sähköpostiviestiä kolmea päivää pidempään.",
+    "message": "Parantaaksemme Firefox Relayn luotettavuutta siin\u00e4 tapauksessa, ett\u00e4 s\u00e4hk\u00f6postia ei voida toimittaa, pid\u00e4mme s\u00e4hk\u00f6postin v\u00e4liaikaisesti palvelimillamme, kunnes se on toimitettu. Emme koskaan s\u00e4ilyt\u00e4 s\u00e4hk\u00f6postiviesti\u00e4 kolmea p\u00e4iv\u00e4\u00e4 pidemp\u00e4\u00e4n.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Näytä tietosuojakäytäntö"
+    "message": "N\u00e4yt\u00e4 tietosuojak\u00e4yt\u00e4nt\u00f6"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "Hylkää"
+    "message": "Hylk\u00e4\u00e4"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ maskia käytettävissä.",
+    "message": "$REMAINING$/$MAXIMUM$ maskia k\u00e4ytett\u00e4viss\u00e4.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Olet käyttänyt kaikki $MAXIMUM$ ilmaista maskia.",
+    "message": "Olet k\u00e4ytt\u00e4nyt kaikki $MAXIMUM$ ilmaista maskia.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -524,17 +523,17 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "Suojaa todellinen sähköpostiosoitteesi"
+    "message": "Suojaa todellinen s\u00e4hk\u00f6postiosoitteesi"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Käytä Relay-maskeja pitääksesi henkilöytesi yksityisenä, vastaanota vain haluamasi sähköpostit postilaatikkoosi.",
+    "message": "K\u00e4yt\u00e4 Relay-maskeja pit\u00e4\u00e4ksesi henkil\u00f6ytesi yksityisen\u00e4, vastaanota vain haluamasi s\u00e4hk\u00f6postit postilaatikkoosi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Hanki lisää suojaa"
+    "message": "Hanki lis\u00e4\u00e4 suojaa"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "Käynnistä Relay",
+    "message": "K\u00e4ynnist\u00e4 Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
@@ -544,36 +543,36 @@
     "message": "Kopioitu!"
   },
   "popupSurveyLink": {
-    "message": "Auta meitä parantamaan Relay-palvelua",
+    "message": "Auta meit\u00e4 parantamaan Relay-palvelua",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Kuinka tyytyväinen olet Firefox Relay -kokemukseesi?",
+    "message": "Kuinka tyytyv\u00e4inen olet Firefox Relay -kokemukseesi?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Hyvin tyytymätön"
+    "message": "Hyvin tyytym\u00e4t\u00f6n"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "Tyytymätön"
+    "message": "Tyytym\u00e4t\u00f6n"
   },
   "popupCsatSurveySatisfactionNeutral": {
     "message": "Neutraali"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "Tyytyväinen"
+    "message": "Tyytyv\u00e4inen"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Hyvin tyytyväinen"
+    "message": "Hyvin tyytyv\u00e4inen"
   },
   "popupCsatSurveyChoiceMadeTitle": {
     "message": "Kiitos palautteesta!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Haluamme ymmärtää, kuinka voimme suoriutua aiempaa paremmin. Oletko valmis vastaamaan kahden minuutin kyselyyn?"
+    "message": "Haluamme ymm\u00e4rt\u00e4\u00e4, kuinka voimme suoriutua aiempaa paremmin. Oletko valmis vastaamaan kahden minuutin kyselyyn?"
   },
   "popupCsatSurveyDismiss": {
-    "message": "Hylkää"
+    "message": "Hylk\u00e4\u00e4"
   },
   "popupCsatSurveyLink": {
     "message": "Vastaa kyselyyn"
@@ -582,7 +581,7 @@
     "message": "Nyt saatavilla rajattomasti maskeja"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium on nyt saatavilla maassasi. Suojaa postilaatikkosi rajoittamattomilla sähköpostimaskeilla ja hanki ainutlaatuinen Relay-sähköpostiverkkotunnus, jonka avulla maskien luominen on helppoa ja turvallista.",
+    "message": "Firefox Relay Premium on nyt saatavilla maassasi. Suojaa postilaatikkosi rajoittamattomilla s\u00e4hk\u00f6postimaskeilla ja hanki ainutlaatuinen Relay-s\u00e4hk\u00f6postiverkkotunnus, jonka avulla maskien luominen on helppoa ja turvallista.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
@@ -594,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Tänä lomakaudella saat 20 prosentin alennuksen yhden vuoden Relay Premiumin hinnasta. Syötä vain tarjouskoodi \"HOLIDAY20\" kassalla. Tarjous päättyy 31.12.2023.",
+    "message": "T\u00e4n\u00e4 lomakaudella saat 20 prosentin alennuksen yhden vuoden Relay Premiumin hinnasta. Sy\u00f6t\u00e4 vain tarjouskoodi \"HOLIDAY20\" kassalla. Tarjous p\u00e4\u00e4ttyy 31.12.2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
@@ -602,19 +601,19 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay välittää tällä hetkellä kaikki puhelut ja tekstiviestit oikeaan puhelinnumeroosi.",
+    "message": "Relay v\u00e4litt\u00e4\u00e4 t\u00e4ll\u00e4 hetkell\u00e4 kaikki puhelut ja tekstiviestit oikeaan puhelinnumeroosi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay estää kaikki puhelut ja tekstiviestit - et saa mitään puhelinnumeromaskistasi.",
+    "message": "Relay est\u00e4\u00e4 kaikki puhelut ja tekstiviestit - et saa mit\u00e4\u00e4n puhelinnumeromaskistasi.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "Edelleenlähetyksen kohde:",
+    "message": "Edelleenl\u00e4hetyksen kohde:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Rekisteröity:",
+    "message": "Rekister\u00f6ity:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
@@ -624,13 +623,13 @@
     "message": "Aktivoi puhelinmaski"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Peitä myös puhelinnumerosi"
+    "message": "Peit\u00e4 my\u00f6s puhelinnumerosi"
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Hanki maski puhelinnumerolle"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "Ei vielä saatavilla maassasi"
+    "message": "Ei viel\u00e4 saatavilla maassasi"
   },
   "popUpPhoneMasksNotAvailableCta": {
     "message": "Liity odotuslistalle"
@@ -639,7 +638,7 @@
     "message": "Puhelin"
   },
   "emailsTabText": {
-    "message": "Sähköposti"
+    "message": "S\u00e4hk\u00f6posti"
   },
   "goBackText": {
     "message": "Takaisin"
@@ -648,7 +647,7 @@
     "message": "Katso tilastot"
   },
   "phoneForwardedCallsTexts": {
-    "message": "Puhelut ja tekstiviestit välitetty"
+    "message": "Puhelut ja tekstiviestit v\u00e4litetty"
   },
   "phoneBlockedCallsTexts": {
     "message": "Puhelut ja tekstiviestit estetty"

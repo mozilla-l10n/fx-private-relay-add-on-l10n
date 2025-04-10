@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay نىقابلىق ئېلخەت ساندۇقىنى ئاسانلا قۇرۇپ، تاپشۇرۇۋالغان ئېلخەت يوللانمىسىنى ئاپتوماتىك ھالدا سىزنىڭ ھەقىقىي ئېلخەت ساندۇقىڭىزغا يوللايدۇ.",
+    "message": "Firefox Relay \u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u0646\u0649 \u0626\u0627\u0633\u0627\u0646\u0644\u0627 \u0642\u06c7\u0631\u06c7\u067e\u060c \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u063a\u0627\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a \u064a\u0648\u0644\u0644\u0627\u0646\u0645\u0649\u0633\u0649\u0646\u0649 \u0626\u0627\u067e\u062a\u0648\u0645\u0627\u062a\u0649\u0643 \u06be\u0627\u0644\u062f\u0627 \u0633\u0649\u0632\u0646\u0649\u06ad \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u063a\u0627 \u064a\u0648\u0644\u0644\u0627\u064a\u062f\u06c7.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "تور كىملىكىڭىزگە ئەڭ يېقىن - Firefox Relay سىزنىڭ ھەقىقىي ئېلخەت ئادرېسىڭىزنى قوغداشقا ياردەم بېرىدۇ. ئۇ سىزگە بىردىنبىر، تاسادىپىي نىقاب ھاسىل قىلىپ بىرىدۇ، سىز نىقابلىق ئېلخىتىڭىز ئارقىلىق ھېسابات تىزىملىتىپ، ئەپ، خەۋەر ۋە ئۇچۇرلارنى ھەقىقىي ئېلخەت ئادرېسىڭىزغا ئۇلاپ يوللىيالايسىز. ئەگەر كېرەكسىز ئېلخەت ياكى ئەخلەت خەت ئەۋەتىۋاتقانلىقىنى بايقىسىڭىز، نىقابنى چەكلەپ قويسىڭىزلا شۇ ھامان ھەقىقىي ئېلخەت ساندۇقىڭىزغا ئۇلاپ يوللاش توختايدۇ. مەلۇم بىر نىقابنىڭ لازىمى قالمىغاندا، نىقابنى ئۆچۈرەلەيسىز.",
+    "message": "\u062a\u0648\u0631 \u0643\u0649\u0645\u0644\u0649\u0643\u0649\u06ad\u0649\u0632\u06af\u06d5 \u0626\u06d5\u06ad \u064a\u06d0\u0642\u0649\u0646 - Firefox Relay \u0633\u0649\u0632\u0646\u0649\u06ad \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0627\u062f\u0631\u06d0\u0633\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0627\u0634\u0642\u0627 \u064a\u0627\u0631\u062f\u06d5\u0645 \u0628\u06d0\u0631\u0649\u062f\u06c7. \u0626\u06c7 \u0633\u0649\u0632\u06af\u06d5 \u0628\u0649\u0631\u062f\u0649\u0646\u0628\u0649\u0631\u060c \u062a\u0627\u0633\u0627\u062f\u0649\u067e\u0649\u064a \u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644 \u0642\u0649\u0644\u0649\u067e \u0628\u0649\u0631\u0649\u062f\u06c7\u060c \u0633\u0649\u0632 \u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u0649\u062a\u0649\u06ad\u0649\u0632 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u06be\u06d0\u0633\u0627\u0628\u0627\u062a \u062a\u0649\u0632\u0649\u0645\u0644\u0649\u062a\u0649\u067e\u060c \u0626\u06d5\u067e\u060c \u062e\u06d5\u06cb\u06d5\u0631 \u06cb\u06d5 \u0626\u06c7\u0686\u06c7\u0631\u0644\u0627\u0631\u0646\u0649 \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0627\u062f\u0631\u06d0\u0633\u0649\u06ad\u0649\u0632\u063a\u0627 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0649\u064a\u0627\u0644\u0627\u064a\u0633\u0649\u0632. \u0626\u06d5\u06af\u06d5\u0631 \u0643\u06d0\u0631\u06d5\u0643\u0633\u0649\u0632 \u0626\u06d0\u0644\u062e\u06d5\u062a \u064a\u0627\u0643\u0649 \u0626\u06d5\u062e\u0644\u06d5\u062a \u062e\u06d5\u062a \u0626\u06d5\u06cb\u06d5\u062a\u0649\u06cb\u0627\u062a\u0642\u0627\u0646\u0644\u0649\u0642\u0649\u0646\u0649 \u0628\u0627\u064a\u0642\u0649\u0633\u0649\u06ad\u0649\u0632\u060c \u0646\u0649\u0642\u0627\u0628\u0646\u0649 \u0686\u06d5\u0643\u0644\u06d5\u067e \u0642\u0648\u064a\u0633\u0649\u06ad\u0649\u0632\u0644\u0627 \u0634\u06c7 \u06be\u0627\u0645\u0627\u0646 \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u063a\u0627 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0634 \u062a\u0648\u062e\u062a\u0627\u064a\u062f\u06c7. \u0645\u06d5\u0644\u06c7\u0645 \u0628\u0649\u0631 \u0646\u0649\u0642\u0627\u0628\u0646\u0649\u06ad \u0644\u0627\u0632\u0649\u0645\u0649 \u0642\u0627\u0644\u0645\u0649\u063a\u0627\u0646\u062f\u0627\u060c \u0646\u0649\u0642\u0627\u0628\u0646\u0649 \u0626\u06c6\u0686\u06c8\u0631\u06d5\u0644\u06d5\u064a\u0633\u0649\u0632.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,495 +12,494 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "سىز Firefox Relay قوشۇلمىسىنى مۇۋەپپەقىيەتلىك ئورناتتىڭىز. باشلاش ئۈچۈن Firefox ھېساباتىڭىز بىلەن Relay غا كىرىڭ.",
+    "message": "\u0633\u0649\u0632 Firefox Relay \u0642\u0648\u0634\u06c7\u0644\u0645\u0649\u0633\u0649\u0646\u0649 \u0645\u06c7\u06cb\u06d5\u067e\u067e\u06d5\u0642\u0649\u064a\u06d5\u062a\u0644\u0649\u0643 \u0626\u0648\u0631\u0646\u0627\u062a\u062a\u0649\u06ad\u0649\u0632. \u0628\u0627\u0634\u0644\u0627\u0634 \u0626\u06c8\u0686\u06c8\u0646 Firefox \u06be\u06d0\u0633\u0627\u0628\u0627\u062a\u0649\u06ad\u0649\u0632 \u0628\u0649\u0644\u06d5\u0646 Relay \u063a\u0627 \u0643\u0649\u0631\u0649\u06ad.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "سىز Firefox Relay قوشۇلمىسىنى مۇۋەپپەقىيەتلىك ئورناتتىڭىز. باشلاش ئۈچۈن ھېساباتىڭىز بىلەن Relay غا كىرىڭ.",
+    "message": "\u0633\u0649\u0632 Firefox Relay \u0642\u0648\u0634\u06c7\u0644\u0645\u0649\u0633\u0649\u0646\u0649 \u0645\u06c7\u06cb\u06d5\u067e\u067e\u06d5\u0642\u0649\u064a\u06d5\u062a\u0644\u0649\u0643 \u0626\u0648\u0631\u0646\u0627\u062a\u062a\u0649\u06ad\u0649\u0632. \u0628\u0627\u0634\u0644\u0627\u0634 \u0626\u06c8\u0686\u06c8\u0646 \u06be\u06d0\u0633\u0627\u0628\u0627\u062a\u0649\u06ad\u0649\u0632 \u0628\u0649\u0644\u06d5\u0646 Relay \u063a\u0627 \u0643\u0649\u0631\u0649\u06ad.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Mozilla نىڭ بۇ كېڭەيتمىنى قانداق ئىشلىتىدىغانلىقىڭىز ھەققىدە ئۇچۇر توپلىشىغا يول قويۇڭ.",
+    "message": "Mozilla \u0646\u0649\u06ad \u0628\u06c7 \u0643\u06d0\u06ad\u06d5\u064a\u062a\u0645\u0649\u0646\u0649 \u0642\u0627\u0646\u062f\u0627\u0642 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u062f\u0649\u063a\u0627\u0646\u0644\u0649\u0642\u0649\u06ad\u0649\u0632 \u06be\u06d5\u0642\u0642\u0649\u062f\u06d5 \u0626\u06c7\u0686\u06c7\u0631 \u062a\u0648\u067e\u0644\u0649\u0634\u0649\u063a\u0627 \u064a\u0648\u0644 \u0642\u0648\u064a\u06c7\u06ad.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "سانلىق مەلۇمات توپلاشقا يول قويىدۇ",
+    "message": "\u0633\u0627\u0646\u0644\u0649\u0642 \u0645\u06d5\u0644\u06c7\u0645\u0627\u062a \u062a\u0648\u067e\u0644\u0627\u0634\u0642\u0627 \u064a\u0648\u0644 \u0642\u0648\u064a\u0649\u062f\u06c7",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "سانلىق مەلۇمات توپلاشنى چەكلەيدۇ",
+    "message": "\u0633\u0627\u0646\u0644\u0649\u0642 \u0645\u06d5\u0644\u06c7\u0645\u0627\u062a \u062a\u0648\u067e\u0644\u0627\u0634\u0646\u0649 \u0686\u06d5\u0643\u0644\u06d5\u064a\u062f\u06c7",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "سىز قورال بالداقتىكى Relay سىنبەلگىسىنى چېكىش ياكى يېڭى بىر نىقاب قۇرۇش قاتارلىق مەشغۇلاتلارنى قىلغىنىڭىزدا، ئۆز-ئارا تەسىر سانلىق مەلۇماتلىرىنى توپلاش ئارقىلىق بىزنىڭ قايسى ئىقتىدارلارنىڭ ياخشى خىزمەت قىلىۋاتقانلىقىنى ۋە قەيەرنى تېخىمۇ ياخشىلاش كېرەكلىكىنى بىلىشىمىزگە ياردەم بېرەلەيسىز. بۇ ئىقتىدارنى تەڭشەك تاختىسىدىن خالىغان ۋاقىتتا تاقىۋېتەلەيسىز.",
+    "message": "\u0633\u0649\u0632 \u0642\u0648\u0631\u0627\u0644 \u0628\u0627\u0644\u062f\u0627\u0642\u062a\u0649\u0643\u0649 Relay \u0633\u0649\u0646\u0628\u06d5\u0644\u06af\u0649\u0633\u0649\u0646\u0649 \u0686\u06d0\u0643\u0649\u0634 \u064a\u0627\u0643\u0649 \u064a\u06d0\u06ad\u0649 \u0628\u0649\u0631 \u0646\u0649\u0642\u0627\u0628 \u0642\u06c7\u0631\u06c7\u0634 \u0642\u0627\u062a\u0627\u0631\u0644\u0649\u0642 \u0645\u06d5\u0634\u063a\u06c7\u0644\u0627\u062a\u0644\u0627\u0631\u0646\u0649 \u0642\u0649\u0644\u063a\u0649\u0646\u0649\u06ad\u0649\u0632\u062f\u0627\u060c \u0626\u06c6\u0632-\u0626\u0627\u0631\u0627 \u062a\u06d5\u0633\u0649\u0631 \u0633\u0627\u0646\u0644\u0649\u0642 \u0645\u06d5\u0644\u06c7\u0645\u0627\u062a\u0644\u0649\u0631\u0649\u0646\u0649 \u062a\u0648\u067e\u0644\u0627\u0634 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u0628\u0649\u0632\u0646\u0649\u06ad \u0642\u0627\u064a\u0633\u0649 \u0626\u0649\u0642\u062a\u0649\u062f\u0627\u0631\u0644\u0627\u0631\u0646\u0649\u06ad \u064a\u0627\u062e\u0634\u0649 \u062e\u0649\u0632\u0645\u06d5\u062a \u0642\u0649\u0644\u0649\u06cb\u0627\u062a\u0642\u0627\u0646\u0644\u0649\u0642\u0649\u0646\u0649 \u06cb\u06d5 \u0642\u06d5\u064a\u06d5\u0631\u0646\u0649 \u062a\u06d0\u062e\u0649\u0645\u06c7 \u064a\u0627\u062e\u0634\u0649\u0644\u0627\u0634 \u0643\u06d0\u0631\u06d5\u0643\u0644\u0649\u0643\u0649\u0646\u0649 \u0628\u0649\u0644\u0649\u0634\u0649\u0645\u0649\u0632\u06af\u06d5 \u064a\u0627\u0631\u062f\u06d5\u0645 \u0628\u06d0\u0631\u06d5\u0644\u06d5\u064a\u0633\u0649\u0632. \u0628\u06c7 \u0626\u0649\u0642\u062a\u0649\u062f\u0627\u0631\u0646\u0649 \u062a\u06d5\u06ad\u0634\u06d5\u0643 \u062a\u0627\u062e\u062a\u0649\u0633\u0649\u062f\u0649\u0646 \u062e\u0627\u0644\u0649\u063a\u0627\u0646 \u06cb\u0627\u0642\u0649\u062a\u062a\u0627 \u062a\u0627\u0642\u0649\u06cb\u06d0\u062a\u06d5\u0644\u06d5\u064a\u0633\u0649\u0632.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "خەتلىتىڭ / تىزىمغا كىرىڭ"
+    "message": "\u062e\u06d5\u062a\u0644\u0649\u062a\u0649\u06ad / \u062a\u0649\u0632\u0649\u0645\u063a\u0627 \u0643\u0649\u0631\u0649\u06ad"
   },
   "popupSettingsTitle": {
-    "message": "تەڭشەكلەر"
+    "message": "\u062a\u06d5\u06ad\u0634\u06d5\u0643\u0644\u06d5\u0631"
   },
   "popupStatsTitle": {
-    "message": "ئىستاتىستىكا",
+    "message": "\u0626\u0649\u0633\u062a\u0627\u062a\u0649\u0633\u062a\u0649\u0643\u0627",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "خەۋەرلەر",
+    "message": "\u062e\u06d5\u06cb\u06d5\u0631\u0644\u06d5\u0631",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Relay دىكى يېڭىلىقلار",
+    "message": "Relay \u062f\u0649\u0643\u0649 \u064a\u06d0\u06ad\u0649\u0644\u0649\u0642\u0644\u0627\u0631",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "باش تاختىغا قايت"
+    "message": "\u0628\u0627\u0634 \u062a\u0627\u062e\u062a\u0649\u063a\u0627 \u0642\u0627\u064a\u062a"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "تور بېكەتتە كىرگۈزۈش بۆلىكىدە Relay سىنبەلگىسىنى كۆرسىتىدۇ",
+    "message": "\u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u06d5 \u0643\u0649\u0631\u06af\u06c8\u0632\u06c8\u0634 \u0628\u06c6\u0644\u0649\u0643\u0649\u062f\u06d5 Relay \u0633\u0649\u0646\u0628\u06d5\u0644\u06af\u0649\u0633\u0649\u0646\u0649 \u0643\u06c6\u0631\u0633\u0649\u062a\u0649\u062f\u06c7",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Mozilla نىڭ تەسىرلىشىش سانلىق مەلۇماتىنى توپلىشىغا يول قويىدۇ",
+    "message": "Mozilla \u0646\u0649\u06ad \u062a\u06d5\u0633\u0649\u0631\u0644\u0649\u0634\u0649\u0634 \u0633\u0627\u0646\u0644\u0649\u0642 \u0645\u06d5\u0644\u06c7\u0645\u0627\u062a\u0649\u0646\u0649 \u062a\u0648\u067e\u0644\u0649\u0634\u0649\u063a\u0627 \u064a\u0648\u0644 \u0642\u0648\u064a\u0649\u062f\u06c7",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "قايتۇرما ئىنكاس قالدۇرۇڭ"
+    "message": "\u0642\u0627\u064a\u062a\u06c7\u0631\u0645\u0627 \u0626\u0649\u0646\u0643\u0627\u0633 \u0642\u0627\u0644\u062f\u06c7\u0631\u06c7\u06ad"
   },
   "popupSettingsPrivacy": {
-    "message": "شەخسىيەت"
+    "message": "\u0634\u06d5\u062e\u0633\u0649\u064a\u06d5\u062a"
   },
   "popupSettingsTermsOfService": {
-    "message": "مۇلازىمەت ماددىلىرى"
+    "message": "\u0645\u06c7\u0644\u0627\u0632\u0649\u0645\u06d5\u062a \u0645\u0627\u062f\u062f\u0649\u0644\u0649\u0631\u0649"
   },
   "popupSettingsReportIssue": {
-    "message": "مەسىلە دوكلاتى"
+    "message": "\u0645\u06d5\u0633\u0649\u0644\u06d5 \u062f\u0648\u0643\u0644\u0627\u062a\u0649"
   },
   "popupSettingsSubmitReport": {
-    "message": "دوكلات تاپشۇر"
+    "message": "\u062f\u0648\u0643\u0644\u0627\u062a \u062a\u0627\u067e\u0634\u06c7\u0631"
   },
   "popupReportIssuesHeadline": {
-    "message": "بۇ تور بېكەتتە مەسىلىگە يولۇقتۇم"
+    "message": "\u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u06d5 \u0645\u06d5\u0633\u0649\u0644\u0649\u06af\u06d5 \u064a\u0648\u0644\u06c7\u0642\u062a\u06c7\u0645"
   },
   "popupReportFeedbackHeadline": {
-    "message": "قايتۇرما ئىنكاس قالدۇرۇڭ"
+    "message": "\u0642\u0627\u064a\u062a\u06c7\u0631\u0645\u0627 \u0626\u0649\u0646\u0643\u0627\u0633 \u0642\u0627\u0644\u062f\u06c7\u0631\u06c7\u06ad"
   },
   "popupReportIssueCaseOne": {
-    "message": "تور بېكەت ئېلخەت نىقابىنى قوللىمايدۇ"
+    "message": "\u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u0642\u0648\u0644\u0644\u0649\u0645\u0627\u064a\u062f\u06c7"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Relay قوشۇلمىسى تور بېكەتتە كۆرۈنۈش مەسىلىسى پەيدا قىلدى",
+    "message": "Relay \u0642\u0648\u0634\u06c7\u0644\u0645\u0649\u0633\u0649 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u06d5 \u0643\u06c6\u0631\u06c8\u0646\u06c8\u0634 \u0645\u06d5\u0633\u0649\u0644\u0649\u0633\u0649 \u067e\u06d5\u064a\u062f\u0627 \u0642\u0649\u0644\u062f\u0649",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "كۈتكىنىمدەك بۇ تور بېكەتنىڭ ئېلخېتىنى تاپشۇرۇۋالمىدىم"
+    "message": "\u0643\u06c8\u062a\u0643\u0649\u0646\u0649\u0645\u062f\u06d5\u0643 \u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u0646\u0649\u06ad \u0626\u06d0\u0644\u062e\u06d0\u062a\u0649\u0646\u0649 \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u0645\u0649\u062f\u0649\u0645"
   },
   "popupReportIssueCaseFour": {
-    "message": "تور بېكەت تېلېفون نىقابىنى قوللىمايدۇ"
+    "message": "\u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u0642\u0648\u0644\u0644\u0649\u0645\u0627\u064a\u062f\u06c7"
   },
   "popupReportIssueCaseFive": {
-    "message": "كۈتكىنىمدەك بۇ تور بېكەتنىڭ تېكىستى ياكى چاقىرىشىنى تاپشۇرۇۋالمىدىم"
+    "message": "\u0643\u06c8\u062a\u0643\u0649\u0646\u0649\u0645\u062f\u06d5\u0643 \u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u0646\u0649\u06ad \u062a\u06d0\u0643\u0649\u0633\u062a\u0649 \u064a\u0627\u0643\u0649 \u0686\u0627\u0642\u0649\u0631\u0649\u0634\u0649\u0646\u0649 \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u0645\u0649\u062f\u0649\u0645"
   },
   "popupReportIssueCaseOther": {
-    "message": "باشقا"
+    "message": "\u0628\u0627\u0634\u0642\u0627"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "تەپسىلاتىنى تەمىنلەڭ"
+    "message": "\u062a\u06d5\u067e\u0633\u0649\u0644\u0627\u062a\u0649\u0646\u0649 \u062a\u06d5\u0645\u0649\u0646\u0644\u06d5\u06ad"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "دوكلات يوللاندى!"
+    "message": "\u062f\u0648\u0643\u0644\u0627\u062a \u064a\u0648\u0644\u0644\u0627\u0646\u062f\u0649!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "Firefox Relay نى ياخشىلاشقا ياردەم قىلغىنىڭىزغا رەھمەت!",
+    "message": "Firefox Relay \u0646\u0649 \u064a\u0627\u062e\u0634\u0649\u0644\u0627\u0634\u0642\u0627 \u064a\u0627\u0631\u062f\u06d5\u0645 \u0642\u0649\u0644\u063a\u0649\u0646\u0649\u06ad\u0649\u0632\u063a\u0627 \u0631\u06d5\u06be\u0645\u06d5\u062a!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "داۋاملاشتۇر"
+    "message": "\u062f\u0627\u06cb\u0627\u0645\u0644\u0627\u0634\u062a\u06c7\u0631"
   },
   "popupSignUpPanelWelcome": {
-    "message": "خۇش كەپسىز"
+    "message": "\u062e\u06c7\u0634 \u0643\u06d5\u067e\u0633\u0649\u0632"
   },
   "popupSignUpPanelIntro": {
-    "message": "Firefox ھېساباتىڭىز بىلەن Relay غا كىرىپ ئىشلىتىشنى باشلاڭ.",
+    "message": "Firefox \u06be\u06d0\u0633\u0627\u0628\u0627\u062a\u0649\u06ad\u0649\u0632 \u0628\u0649\u0644\u06d5\u0646 Relay \u063a\u0627 \u0643\u0649\u0631\u0649\u067e \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0634\u0646\u0649 \u0628\u0627\u0634\u0644\u0627\u06ad.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "ھېساباتىڭىز بىلەن Relay غا كىرىپ ئىشلىتىشنى باشلاڭ.",
+    "message": "\u06be\u06d0\u0633\u0627\u0628\u0627\u062a\u0649\u06ad\u0649\u0632 \u0628\u0649\u0644\u06d5\u0646 Relay \u063a\u0627 \u0643\u0649\u0631\u0649\u067e \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0634\u0646\u0649 \u0628\u0627\u0634\u0644\u0627\u06ad.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "داۋاملاشتۇر"
+    "message": "\u062f\u0627\u06cb\u0627\u0645\u0644\u0627\u0634\u062a\u06c7\u0631"
   },
   "popupSignUpPanelSignIn": {
-    "message": "تىزىمغا كىرىڭ"
+    "message": "\u062a\u0649\u0632\u0649\u0645\u063a\u0627 \u0643\u0649\u0631\u0649\u06ad"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "قالغان نىقاپ: $REMAINING$",
+    "message": "\u0642\u0627\u0644\u063a\u0627\u0646 \u0646\u0649\u0642\u0627\u067e: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "قالغان ھەقسىز ئېلخەت نىقابى:  $REMAINING$",
+    "message": "\u0642\u0627\u0644\u063a\u0627\u0646 \u06be\u06d5\u0642\u0633\u0649\u0632 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "يېقىندا ئىشلەتكەن ئېلخەت نىقابى",
+    "message": "\u064a\u06d0\u0642\u0649\u0646\u062f\u0627 \u0626\u0649\u0634\u0644\u06d5\u062a\u0643\u06d5\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "چەكسىز نىقابقا ئېرىشىڭ"
+    "message": "\u0686\u06d5\u0643\u0633\u0649\u0632 \u0646\u0649\u0642\u0627\u0628\u0642\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad"
   },
   "popupOnboardingShowPrevious": {
-    "message": "ئالدىنقى تاختىنى كۆرسەت"
+    "message": "\u0626\u0627\u0644\u062f\u0649\u0646\u0642\u0649 \u062a\u0627\u062e\u062a\u0649\u0646\u0649 \u0643\u06c6\u0631\u0633\u06d5\u062a"
   },
   "popupOnboardingShowNext": {
-    "message": "كېيىنكى تاختىغا يۆتكەل"
+    "message": "\u0643\u06d0\u064a\u0649\u0646\u0643\u0649 \u062a\u0627\u062e\u062a\u0649\u063a\u0627 \u064a\u06c6\u062a\u0643\u06d5\u0644"
   },
   "ManageAllAliases_mask": {
-    "message": "بارلىق نىقابنى باشقۇرۇش"
+    "message": "\u0628\u0627\u0631\u0644\u0649\u0642 \u0646\u0649\u0642\u0627\u0628\u0646\u0649 \u0628\u0627\u0634\u0642\u06c7\u0631\u06c7\u0634"
   },
   "labelManage": {
-    "message": "باشقۇرۇش"
+    "message": "\u0628\u0627\u0634\u0642\u06c7\u0631\u06c7\u0634"
   },
   "labelSearch": {
-    "message": "ئىزدە"
+    "message": "\u0626\u0649\u0632\u062f\u06d5"
   },
   "labelMaskCreated": {
-    "message": "نىقاب قۇرۇلدى",
+    "message": "\u0646\u0649\u0642\u0627\u0628 \u0642\u06c7\u0631\u06c7\u0644\u062f\u0649",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "بۇ تور بېكەتتىن",
+    "message": "\u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u0649\u0646",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "بارلىق ئېلخەت نىقابى",
+    "message": "\u0628\u0627\u0631\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "بەش پەنج!"
+    "message": "\u0628\u06d5\u0634 \u067e\u06d5\u0646\u062c!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "سىز Firefox Relay ئۇستىسى!",
+    "message": "\u0633\u0649\u0632 Firefox Relay \u0626\u06c7\u0633\u062a\u0649\u0633\u0649!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "بىردىنبىر Relay ئېلخەت دائىرىسىگە ئېرىشىڭ",
+    "message": "\u0628\u0649\u0631\u062f\u0649\u0646\u0628\u0649\u0631 Relay \u0626\u06d0\u0644\u062e\u06d5\u062a \u062f\u0627\u0626\u0649\u0631\u0649\u0633\u0649\u06af\u06d5 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "ئىشلىتىلگەن ئېلخەت نىقابلىرى"
+    "message": "\u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0644\u06af\u06d5\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0631\u0649"
   },
   "popupTotalMasksUsed": {
-    "message": "جەمئىي ئىشلەتكەن ئېلخەت نىقابى"
+    "message": "\u062c\u06d5\u0645\u0626\u0649\u064a \u0626\u0649\u0634\u0644\u06d5\u062a\u0643\u06d5\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "بۇ تور بېكەتتە نىقاب ئىشلەتكەن"
+    "message": "\u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u06d5 \u0646\u0649\u0642\u0627\u0628 \u0626\u0649\u0634\u0644\u06d5\u062a\u0643\u06d5\u0646"
   },
   "popupEmailsBlocked": {
-    "message": "ئېلخەت توسۇلدى"
+    "message": "\u0626\u06d0\u0644\u062e\u06d5\u062a \u062a\u0648\u0633\u06c7\u0644\u062f\u0649"
   },
   "popupEmailsForwarded": {
-    "message": "ئېلخەت ئۇلاپ يوللاندى"
+    "message": "\u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0646\u062f\u0649"
   },
   "popupEmailTrackersRemoved": {
-    "message": "ئېلخەت ئىزلىغۇچ چىقىرىۋېتىلدى"
+    "message": "\u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0649\u0632\u0644\u0649\u063a\u06c7\u0686 \u0686\u0649\u0642\u0649\u0631\u0649\u06cb\u06d0\u062a\u0649\u0644\u062f\u0649"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Relay Premium گە يېڭىلاپ تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ!",
+    "message": "Relay Premium \u06af\u06d5 \u064a\u06d0\u06ad\u0649\u0644\u0627\u067e \u062a\u06d0\u062e\u0649\u0645\u06c7 \u0643\u06c6\u067e \u0642\u0648\u063a\u062f\u0627\u0634\u0642\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "دۇنيا مىقياسىدىكى قوغداش قورالى"
+    "message": "\u062f\u06c7\u0646\u064a\u0627 \u0645\u0649\u0642\u064a\u0627\u0633\u0649\u062f\u0649\u0643\u0649 \u0642\u0648\u063a\u062f\u0627\u0634 \u0642\u0648\u0631\u0627\u0644\u0649"
   },
   "popupEducationalComponent1Body": {
-    "message": "قەيەردە بولۇشىڭىزدىن قەتئىينەزەر، ئېلخىتىڭىزنى قوغدىشىڭىزغا Relay ياردەم بېرەلەيدۇ.",
+    "message": "\u0642\u06d5\u064a\u06d5\u0631\u062f\u06d5 \u0628\u0648\u0644\u06c7\u0634\u0649\u06ad\u0649\u0632\u062f\u0649\u0646 \u0642\u06d5\u062a\u0626\u0649\u064a\u0646\u06d5\u0632\u06d5\u0631\u060c \u0626\u06d0\u0644\u062e\u0649\u062a\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0649\u0634\u0649\u06ad\u0649\u0632\u063a\u0627 Relay \u064a\u0627\u0631\u062f\u06d5\u0645 \u0628\u06d0\u0631\u06d5\u0644\u06d5\u064a\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "قوشۇمچە ھۆججەتنىڭ چوڭلۇقى ئارتتى"
+    "message": "\u0642\u0648\u0634\u06c7\u0645\u0686\u06d5 \u06be\u06c6\u062c\u062c\u06d5\u062a\u0646\u0649\u06ad \u0686\u0648\u06ad\u0644\u06c7\u0642\u0649 \u0626\u0627\u0631\u062a\u062a\u0649"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "ھازىر Firefox Relay ئەڭ چوڭ بولغاندا 25MB يۈكلەنمىنى ئۆز ئىچىگە ئالغان ئېلخەتنى ئۇلاپ يوللىيالايدۇ.",
+    "message": "\u06be\u0627\u0632\u0649\u0631 Firefox Relay \u0626\u06d5\u06ad \u0686\u0648\u06ad \u0628\u0648\u0644\u063a\u0627\u0646\u062f\u0627 25MB \u064a\u06c8\u0643\u0644\u06d5\u0646\u0645\u0649\u0646\u0649 \u0626\u06c6\u0632 \u0626\u0649\u0686\u0649\u06af\u06d5 \u0626\u0627\u0644\u063a\u0627\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0646\u0649 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0649\u064a\u0627\u0644\u0627\u064a\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "ئېتبار باھا پات يېقىندا ئاخىرلىشىدۇ!"
+    "message": "\u0626\u06d0\u062a\u0628\u0627\u0631 \u0628\u0627\u06be\u0627 \u067e\u0627\u062a \u064a\u06d0\u0642\u0649\u0646\u062f\u0627 \u0626\u0627\u062e\u0649\u0631\u0644\u0649\u0634\u0649\u062f\u06c7!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "9-ئاينىڭ 27-كۈنىدىن بۇرۇن Relay Premium نى زاكاز قىلسىڭىز، ئېتىبار باھادىن بەھرىمان بولالايسىز.",
+    "message": "9-\u0626\u0627\u064a\u0646\u0649\u06ad 27-\u0643\u06c8\u0646\u0649\u062f\u0649\u0646 \u0628\u06c7\u0631\u06c7\u0646 Relay Premium \u0646\u0649 \u0632\u0627\u0643\u0627\u0632 \u0642\u0649\u0644\u0633\u0649\u06ad\u0649\u0632\u060c \u0626\u06d0\u062a\u0649\u0628\u0627\u0631 \u0628\u0627\u06be\u0627\u062f\u0649\u0646 \u0628\u06d5\u06be\u0631\u0649\u0645\u0627\u0646 \u0628\u0648\u0644\u0627\u0644\u0627\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "ھازىر يېڭىلا"
+    "message": "\u06be\u0627\u0632\u0649\u0631 \u064a\u06d0\u06ad\u0649\u0644\u0627"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "كۈن",
+    "message": "\u0643\u06c8\u0646",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "سائەت",
+    "message": "\u0633\u0627\u0626\u06d5\u062a",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
-    "message": "مىنۇت",
+    "message": "\u0645\u0649\u0646\u06c7\u062a",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupEndOfIntroPricingCountdownSeconds": {
-    "message": "سېكۇنت",
+    "message": "\u0633\u06d0\u0643\u06c7\u0646\u062a",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "ھالقىلىق ئېلخەتنى ئۇلاپ يوللاش"
+    "message": "\u06be\u0627\u0644\u0642\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0646\u0649 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0634"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "بازارچىلىق ئېلخەتنى توسسۇن"
+    "message": "\u0628\u0627\u0632\u0627\u0631\u0686\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0646\u0649 \u062a\u0648\u0633\u0633\u06c7\u0646"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "نىقابلىق ئېلخەت ساندۇقىنىڭ «بازارچىلىق ئېلخەتنى توسۇش» ئىقتىدارىنى قوزغىتىپ، ئېلخەت ساندۇقىڭىزغا بازارچىلىق ئېلخەتلىرىنى ئۇلاپ يوللاشنى توختىتىدۇ."
+    "message": "\u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u0646\u0649\u06ad \u00ab\u0628\u0627\u0632\u0627\u0631\u0686\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0646\u0649 \u062a\u0648\u0633\u06c7\u0634\u00bb \u0626\u0649\u0642\u062a\u0649\u062f\u0627\u0631\u0649\u0646\u0649 \u0642\u0648\u0632\u063a\u0649\u062a\u0649\u067e\u060c \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u063a\u0627 \u0628\u0627\u0632\u0627\u0631\u0686\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0644\u0649\u0631\u0649\u0646\u0649 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0634\u0646\u0649 \u062a\u0648\u062e\u062a\u0649\u062a\u0649\u062f\u06c7."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "تەپسىلاتى"
+    "message": "\u062a\u06d5\u067e\u0633\u0649\u0644\u0627\u062a\u0649"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Relay Premium ئارقىلىق بازارچىلىق ئېلخەتلىرىنىڭ خەت ساندۇقىڭىزغا كىرىشىنى توسىيالايسىز، شۇنىڭ بىلەن بىر ۋاقىتتا تالون ياكى يوللانما ئۇچۇرى قاتارلىق ئېلخەتلەرنى نورمال تاپشۇرۇۋالالايسىز.",
+    "message": "Relay Premium \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u0628\u0627\u0632\u0627\u0631\u0686\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0644\u0649\u0631\u0649\u0646\u0649\u06ad \u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u063a\u0627 \u0643\u0649\u0631\u0649\u0634\u0649\u0646\u0649 \u062a\u0648\u0633\u0649\u064a\u0627\u0644\u0627\u064a\u0633\u0649\u0632\u060c \u0634\u06c7\u0646\u0649\u06ad \u0628\u0649\u0644\u06d5\u0646 \u0628\u0649\u0631 \u06cb\u0627\u0642\u0649\u062a\u062a\u0627 \u062a\u0627\u0644\u0648\u0646 \u064a\u0627\u0643\u0649 \u064a\u0648\u0644\u0644\u0627\u0646\u0645\u0627 \u0626\u06c7\u0686\u06c7\u0631\u0649 \u0642\u0627\u062a\u0627\u0631\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0644\u06d5\u0631\u0646\u0649 \u0646\u0648\u0631\u0645\u0627\u0644 \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u0627\u0644\u0627\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "$SAVINGS$ ئىتېبار بىلەن Mozilla VPN ئېرىشىڭ.",
+    "message": "$SAVINGS$ \u0626\u0649\u062a\u06d0\u0628\u0627\u0631 \u0628\u0649\u0644\u06d5\u0646 Mozilla VPN \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "$SAVINGS$ ئېتىبار بىلەن Mozilla VPN ئېرىشىڭ.",
+    "message": "$SAVINGS$ \u0626\u06d0\u062a\u0649\u0628\u0627\u0631 \u0628\u0649\u0644\u06d5\u0646 Mozilla VPN \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "Relay Premium + Mozilla VPN نىڭ 1 يىللىق پىلانى $MONTHLY_PRICE$/ئاي.",
+    "message": "Relay Premium + Mozilla VPN \u0646\u0649\u06ad 1 \u064a\u0649\u0644\u0644\u0649\u0642 \u067e\u0649\u0644\u0627\u0646\u0649 $MONTHLY_PRICE$/\u0626\u0627\u064a.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "بىر يىللىق Relay Premium تېلېفون نىقابى ۋە Mozilla VPN نى ئايلىقى $MONTHLY_PRICE$دىن زاكاس قىلىڭ.",
+    "message": "\u0628\u0649\u0631 \u064a\u0649\u0644\u0644\u0649\u0642 Relay Premium \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0649\u0642\u0627\u0628\u0649 \u06cb\u06d5 Mozilla VPN \u0646\u0649 \u0626\u0627\u064a\u0644\u0649\u0642\u0649 $MONTHLY_PRICE$\u062f\u0649\u0646 \u0632\u0627\u0643\u0627\u0633 \u0642\u0649\u0644\u0649\u06ad.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox پارول باشقۇرغۇچ + Relay",
+    "message": "Firefox \u067e\u0627\u0631\u0648\u0644 \u0628\u0627\u0634\u0642\u06c7\u0631\u063a\u06c7\u0686 + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "ھازىر سىز Firefox پارول باشقۇرغۇچىڭىزدا Relay نى بىۋاسىتە ئىشلىتەلەيسىز.",
+    "message": "\u06be\u0627\u0632\u0649\u0631 \u0633\u0649\u0632 Firefox \u067e\u0627\u0631\u0648\u0644 \u0628\u0627\u0634\u0642\u06c7\u0631\u063a\u06c7\u0686\u0649\u06ad\u0649\u0632\u062f\u0627 Relay \u0646\u0649 \u0628\u0649\u06cb\u0627\u0633\u0649\u062a\u06d5 \u0626\u0649\u0634\u0644\u0649\u062a\u06d5\u0644\u06d5\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "تونۇشتۇرۇش: Relay + VPN مۇشتەرىلىك پىلانى",
+    "message": "\u062a\u0648\u0646\u06c7\u0634\u062a\u06c7\u0631\u06c7\u0634: Relay + VPN \u0645\u06c7\u0634\u062a\u06d5\u0631\u0649\u0644\u0649\u0643 \u067e\u0649\u0644\u0627\u0646\u0649",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "مۇشتەرىلىكىڭىزنى يۈكسەلتىش ئارقىلىق، ئايلىقى $MONTHLY_PRICE$ بىلەنلا Relay Premium + Mozilla VPN گە مۇشتەرى بولۇپ، $SAVINGS$ تېجەپ قالالايسىز!",
+    "message": "\u0645\u06c7\u0634\u062a\u06d5\u0631\u0649\u0644\u0649\u0643\u0649\u06ad\u0649\u0632\u0646\u0649 \u064a\u06c8\u0643\u0633\u06d5\u0644\u062a\u0649\u0634 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642\u060c \u0626\u0627\u064a\u0644\u0649\u0642\u0649 $MONTHLY_PRICE$ \u0628\u0649\u0644\u06d5\u0646\u0644\u0627 Relay Premium + Mozilla VPN \u06af\u06d5 \u0645\u06c7\u0634\u062a\u06d5\u0631\u0649 \u0628\u0648\u0644\u06c7\u067e\u060c $SAVINGS$ \u062a\u06d0\u062c\u06d5\u067e \u0642\u0627\u0644\u0627\u0644\u0627\u064a\u0633\u0649\u0632!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoCTA": {
-    "message": "VPN + Relay غا ئېرىشىش",
+    "message": "VPN + Relay \u063a\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u0634",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "تېلېفون نومۇرى نىقابىنى تونۇشتۇرۇش"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649 \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u062a\u0648\u0646\u06c7\u0634\u062a\u06c7\u0631\u06c7\u0634"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "تېلېفون نومۇرىنى نىقابلاش ئارقىلىق، سىز ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر ۋە تېلېفون قوبۇل قىلالايسىز."
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u0646\u0649 \u0646\u0649\u0642\u0627\u0628\u0644\u0627\u0634 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642\u060c \u0633\u0649\u0632 \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u0626\u0627\u0634\u0643\u0627\u0631\u0649\u0644\u0649\u0645\u0627\u064a \u062a\u06c7\u0631\u06c7\u067e \u0642\u0649\u0633\u0642\u0627 \u0626\u06c7\u0686\u06c7\u0631 \u06cb\u06d5 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0642\u0648\u0628\u06c7\u0644 \u0642\u0649\u0644\u0627\u0644\u0627\u064a\u0633\u0649\u0632."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر ۋە تېلېفون قوبۇل قىلىڭ."
+    "message": "\u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u0626\u0627\u0634\u0643\u0627\u0631\u0649\u0644\u0649\u0645\u0627\u064a \u062a\u06c7\u0631\u06c7\u067e \u0642\u0649\u0633\u0642\u0627 \u0626\u06c7\u0686\u06c7\u0631 \u06cb\u06d5 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0642\u0648\u0628\u06c7\u0644 \u0642\u0649\u0644\u0649\u06ad."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "ھازىر يېڭىلا"
+    "message": "\u06be\u0627\u0632\u0649\u0631 \u064a\u06d0\u06ad\u0649\u0644\u0627"
   },
   "popupPromoNewLabel": {
-    "message": "يېڭى!"
+    "message": "\u064a\u06d0\u06ad\u0649!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "نىقابلىق ئېلخەت بىلەن قايتا كىرىڭ"
+    "message": "\u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0628\u0649\u0644\u06d5\u0646 \u0642\u0627\u064a\u062a\u0627 \u0643\u0649\u0631\u0649\u06ad"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "يېڭىدىن ئىختىيارى نىقاب قۇر"
+    "message": "\u064a\u06d0\u06ad\u0649\u062f\u0649\u0646 \u0626\u0649\u062e\u062a\u0649\u064a\u0627\u0631\u0649 \u0646\u0649\u0642\u0627\u0628 \u0642\u06c7\u0631"
   },
   "popupCreateCustomMaskBody": {
-    "message": "سىزنىڭ قىلىدىغىنىڭىز پەقەت ئۆزىڭىزنىڭ خاس تارماق ئاتىنى ئىشلىتىدىغان ئۆزگىچە نىقاب قۇرۇپ ھەمبەھىرلەش — نىقاب ئاپتوماتىك ھاسىل بولىدۇ. كېيىنكى قېتىم توردا مال سېتىۋالغىنىڭىزدا، مىسالەن: «shop@customsubdomain.mozmail.com» نى سىناپ بېقىڭ."
+    "message": "\u0633\u0649\u0632\u0646\u0649\u06ad \u0642\u0649\u0644\u0649\u062f\u0649\u063a\u0649\u0646\u0649\u06ad\u0649\u0632 \u067e\u06d5\u0642\u06d5\u062a \u0626\u06c6\u0632\u0649\u06ad\u0649\u0632\u0646\u0649\u06ad \u062e\u0627\u0633 \u062a\u0627\u0631\u0645\u0627\u0642 \u0626\u0627\u062a\u0649\u0646\u0649 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u062f\u0649\u063a\u0627\u0646 \u0626\u06c6\u0632\u06af\u0649\u0686\u06d5 \u0646\u0649\u0642\u0627\u0628 \u0642\u06c7\u0631\u06c7\u067e \u06be\u06d5\u0645\u0628\u06d5\u06be\u0649\u0631\u0644\u06d5\u0634 \u2014 \u0646\u0649\u0642\u0627\u0628 \u0626\u0627\u067e\u062a\u0648\u0645\u0627\u062a\u0649\u0643 \u06be\u0627\u0633\u0649\u0644 \u0628\u0648\u0644\u0649\u062f\u06c7. \u0643\u06d0\u064a\u0649\u0646\u0643\u0649 \u0642\u06d0\u062a\u0649\u0645 \u062a\u0648\u0631\u062f\u0627 \u0645\u0627\u0644 \u0633\u06d0\u062a\u0649\u06cb\u0627\u0644\u063a\u0649\u0646\u0649\u06ad\u0649\u0632\u062f\u0627\u060c \u0645\u0649\u0633\u0627\u0644\u06d5\u0646: \u00abshop@customsubdomain.mozmail.com\u00bb \u0646\u0649 \u0633\u0649\u0646\u0627\u067e \u0628\u06d0\u0642\u0649\u06ad."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "نىقابلىق ئېلخەت ئالدى قوشۇلغۇچىسى كىرگۈزۈلىدۇ"
+    "message": "\u0646\u0649\u0642\u0627\u0628\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0627\u0644\u062f\u0649 \u0642\u0648\u0634\u06c7\u0644\u063a\u06c7\u0686\u0649\u0633\u0649 \u0643\u0649\u0631\u06af\u06c8\u0632\u06c8\u0644\u0649\u062f\u06c7"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "مەسىلەن «قەھۋە»"
+    "message": "\u0645\u06d5\u0633\u0649\u0644\u06d5\u0646 \u00ab\u0642\u06d5\u06be\u06cb\u06d5\u00bb"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "بازارچىلىق ئېلخەتنى توسسۇن"
+    "message": "\u0628\u0627\u0632\u0627\u0631\u0686\u0649\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0646\u0649 \u062a\u0648\u0633\u0633\u06c7\u0646"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "نىقاب ھاسىللاش"
+    "message": "\u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644\u0644\u0627\u0634"
   },
   "popupCreateCustomFormError": {
-    "message": "نىقابنى قۇرالمىدى. قايتا سىناڭ."
+    "message": "\u0646\u0649\u0642\u0627\u0628\u0646\u0649 \u0642\u06c7\u0631\u0627\u0644\u0645\u0649\u062f\u0649. \u0642\u0627\u064a\u062a\u0627 \u0633\u0649\u0646\u0627\u06ad."
   },
   "pageInputIconSignUpText": {
-    "message": "تىزىملىتىپ كىرىش ياكى ھېسابات قۇرۇش ئۈچۈن Firefox Relay تور بېتىنى زىيارەت قىلىڭ.",
+    "message": "\u062a\u0649\u0632\u0649\u0645\u0644\u0649\u062a\u0649\u067e \u0643\u0649\u0631\u0649\u0634 \u064a\u0627\u0643\u0649 \u06be\u06d0\u0633\u0627\u0628\u0627\u062a \u0642\u06c7\u0631\u06c7\u0634 \u0626\u06c8\u0686\u06c8\u0646 Firefox Relay \u062a\u0648\u0631 \u0628\u06d0\u062a\u0649\u0646\u0649 \u0632\u0649\u064a\u0627\u0631\u06d5\u062a \u0642\u0649\u0644\u0649\u06ad.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "Firefox Relay غا يۆتكەل",
+    "message": "Firefox Relay \u063a\u0627 \u064a\u06c6\u062a\u0643\u06d5\u0644",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "يېڭى نىقاب ھاسىللاش"
+    "message": "\u064a\u06d0\u06ad\u0649 \u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644\u0644\u0627\u0634"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "يېڭى ئىختىيارىي نىقاب ھاسىللاش"
+    "message": "\u064a\u06d0\u06ad\u0649 \u0626\u0649\u062e\u062a\u0649\u064a\u0627\u0631\u0649\u064a \u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644\u0644\u0627\u0634"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "ئىختىيارىي نىقاب ھاسىللاش"
+    "message": "\u0626\u0649\u062e\u062a\u0649\u064a\u0627\u0631\u0649\u064a \u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644\u0644\u0627\u0634"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "ئىختىيارىي نىقاب ھاسىللاش"
+    "message": "\u0626\u0649\u062e\u062a\u0649\u064a\u0627\u0631\u0649\u064a \u0646\u0649\u0642\u0627\u0628 \u06be\u0627\u0633\u0649\u0644\u0644\u0627\u0634"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "نۆۋەتتىكى ئېلخەت نىقابىڭىزدىن بىرنى تاللاڭ",
+    "message": "\u0646\u06c6\u06cb\u06d5\u062a\u062a\u0649\u0643\u0649 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649\u06ad\u0649\u0632\u062f\u0649\u0646 \u0628\u0649\u0631\u0646\u0649 \u062a\u0627\u0644\u0644\u0627\u06ad",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "قوشۇمچە ئېلخەت نىقابى",
+    "message": "\u0642\u0648\u0634\u06c7\u0645\u0686\u06d5 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "ئىلگىرى بۇ تور بېكەتتە ئىشلىتىلگەن",
+    "message": "\u0626\u0649\u0644\u06af\u0649\u0631\u0649 \u0628\u06c7 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u062a\u06d5 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0644\u06af\u06d5\u0646",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "چەكسىز نىقابقا ئېرىشىڭ"
+    "message": "\u0686\u06d5\u0643\u0633\u0649\u0632 \u0646\u0649\u0642\u0627\u0628\u0642\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Premium كۈتۈش تىزىمىغا قوشۇلۇڭ",
+    "message": "Premium \u0643\u06c8\u062a\u06c8\u0634 \u062a\u0649\u0632\u0649\u0645\u0649\u063a\u0627 \u0642\u0648\u0634\u06c7\u0644\u06c7\u06ad",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "بۇ بېكەتتىكى مەۋجۇت نىقابنى ئىشلىتىدۇ…"
+    "message": "\u0628\u06c7 \u0628\u06d0\u0643\u06d5\u062a\u062a\u0649\u0643\u0649 \u0645\u06d5\u06cb\u062c\u06c7\u062a \u0646\u0649\u0642\u0627\u0628\u0646\u0649 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u062f\u06c7\u2026"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "يېقىنقى نىقاب"
+    "message": "\u064a\u06d0\u0642\u0649\u0646\u0642\u0649 \u0646\u0649\u0642\u0627\u0628"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "تېلېفون نومۇرى نىقابى ئىشلەت"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649 \u0646\u0649\u0642\u0627\u0628\u0649 \u0626\u0649\u0634\u0644\u06d5\u062a"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "سىز قۇرالايدىغان نىقاب نومۇر چېكىگە يەتتىڭىز",
+    "message": "\u0633\u0649\u0632 \u0642\u06c7\u0631\u0627\u0644\u0627\u064a\u062f\u0649\u063a\u0627\u0646 \u0646\u0649\u0642\u0627\u0628 \u0646\u0648\u0645\u06c7\u0631 \u0686\u06d0\u0643\u0649\u06af\u06d5 \u064a\u06d5\u062a\u062a\u0649\u06ad\u0649\u0632",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "ھەقسىز ئېلخەت نىقابىنى ئىشلىتىپ بولدىڭىز.",
+    "message": "\u06be\u06d5\u0642\u0633\u0649\u0632 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u067e \u0628\u0648\u0644\u062f\u0649\u06ad\u0649\u0632.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "قوللىمايدىغان ھەرپ: $CHARACTERS$",
+    "message": "\u0642\u0648\u0644\u0644\u0649\u0645\u0627\u064a\u062f\u0649\u063a\u0627\u0646 \u06be\u06d5\u0631\u067e: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "ھېسابات ئىسمى قوش",
+    "message": "\u06be\u06d0\u0633\u0627\u0628\u0627\u062a \u0626\u0649\u0633\u0645\u0649 \u0642\u0648\u0634",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "تاقا"
+    "message": "\u062a\u0627\u0642\u0627"
   },
   "returnToPreviousPanel": {
-    "message": "ئالدىنقى تاختىغا قايت"
+    "message": "\u0626\u0627\u0644\u062f\u0649\u0646\u0642\u0649 \u062a\u0627\u062e\u062a\u0649\u063a\u0627 \u0642\u0627\u064a\u062a"
   },
   "popupDataCollectionHeadline": {
-    "message": "يېڭى ئىقتىدارنى قوزغات"
+    "message": "\u064a\u06d0\u06ad\u0649 \u0626\u0649\u0642\u062a\u0649\u062f\u0627\u0631\u0646\u0649 \u0642\u0648\u0632\u063a\u0627\u062a"
   },
   "popupDataCollectionBody_mask": {
-    "message": "سىز Relay نىڭ تېخىمۇ كۆپ سانلىق مەلۇمات توپلىشىغا يول قويۇپ، سىزنىڭ ھەر قايسى تور بېكەتلەردە قۇرغان ۋە ئىشلەتكەن نىقاپ بەلگىسىنى ئۈسكۈنىلىرىڭىزدە قەدەمداشلىشىغا يول قويسىڭىز بولىدۇ.",
+    "message": "\u0633\u0649\u0632 Relay \u0646\u0649\u06ad \u062a\u06d0\u062e\u0649\u0645\u06c7 \u0643\u06c6\u067e \u0633\u0627\u0646\u0644\u0649\u0642 \u0645\u06d5\u0644\u06c7\u0645\u0627\u062a \u062a\u0648\u067e\u0644\u0649\u0634\u0649\u063a\u0627 \u064a\u0648\u0644 \u0642\u0648\u064a\u06c7\u067e\u060c \u0633\u0649\u0632\u0646\u0649\u06ad \u06be\u06d5\u0631 \u0642\u0627\u064a\u0633\u0649 \u062a\u0648\u0631 \u0628\u06d0\u0643\u06d5\u062a\u0644\u06d5\u0631\u062f\u06d5 \u0642\u06c7\u0631\u063a\u0627\u0646 \u06cb\u06d5 \u0626\u0649\u0634\u0644\u06d5\u062a\u0643\u06d5\u0646 \u0646\u0649\u0642\u0627\u067e \u0628\u06d5\u0644\u06af\u0649\u0633\u0649\u0646\u0649 \u0626\u06c8\u0633\u0643\u06c8\u0646\u0649\u0644\u0649\u0631\u0649\u06ad\u0649\u0632\u062f\u06d5 \u0642\u06d5\u062f\u06d5\u0645\u062f\u0627\u0634\u0644\u0649\u0634\u0649\u063a\u0627 \u064a\u0648\u0644 \u0642\u0648\u064a\u0633\u0649\u06ad\u0649\u0632 \u0628\u0648\u0644\u0649\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "تەپسىلاتى"
+    "message": "\u062a\u06d5\u067e\u0633\u0649\u0644\u0627\u062a\u0649"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "رەت قىل"
+    "message": "\u0631\u06d5\u062a \u0642\u0649\u0644"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "يول قوي"
+    "message": "\u064a\u0648\u0644 \u0642\u0648\u064a"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "شەخسىيەت ئۇقتۇرۇشى يېڭىلاندى"
+    "message": "\u0634\u06d5\u062e\u0633\u0649\u064a\u06d5\u062a \u0626\u06c7\u0642\u062a\u06c7\u0631\u06c7\u0634\u0649 \u064a\u06d0\u06ad\u0649\u0644\u0627\u0646\u062f\u0649"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Firefox Relay نىڭ ئىشەنچلىكلىكىنى يۇقىرى كۆتۈرۈش ۋە ئېلخەت ئۇلاپ يوللاش مەغلۇبىيىتىدىن ئىمكانقەدەر ساقلىنىش ئۈچۈن، تاپشۇرۇۋالغان ئېلخەتلەرنى ئۇلاپ يوللاش مۇۋەپپەقىيەتلىك بولغۇچە مۇلازىمېتىردا ۋاقىتلىق ساقلايمىز. ئەمما ساقلاش ۋاقتى ئۈچ كۈندىن ئېشىپ كەتمەيدۇ.",
+    "message": "Firefox Relay \u0646\u0649\u06ad \u0626\u0649\u0634\u06d5\u0646\u0686\u0644\u0649\u0643\u0644\u0649\u0643\u0649\u0646\u0649 \u064a\u06c7\u0642\u0649\u0631\u0649 \u0643\u06c6\u062a\u06c8\u0631\u06c8\u0634 \u06cb\u06d5 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0634 \u0645\u06d5\u063a\u0644\u06c7\u0628\u0649\u064a\u0649\u062a\u0649\u062f\u0649\u0646 \u0626\u0649\u0645\u0643\u0627\u0646\u0642\u06d5\u062f\u06d5\u0631 \u0633\u0627\u0642\u0644\u0649\u0646\u0649\u0634 \u0626\u06c8\u0686\u06c8\u0646\u060c \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u063a\u0627\u0646 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0644\u06d5\u0631\u0646\u0649 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u0634 \u0645\u06c7\u06cb\u06d5\u067e\u067e\u06d5\u0642\u0649\u064a\u06d5\u062a\u0644\u0649\u0643 \u0628\u0648\u0644\u063a\u06c7\u0686\u06d5 \u0645\u06c7\u0644\u0627\u0632\u0649\u0645\u06d0\u062a\u0649\u0631\u062f\u0627 \u06cb\u0627\u0642\u0649\u062a\u0644\u0649\u0642 \u0633\u0627\u0642\u0644\u0627\u064a\u0645\u0649\u0632. \u0626\u06d5\u0645\u0645\u0627 \u0633\u0627\u0642\u0644\u0627\u0634 \u06cb\u0627\u0642\u062a\u0649 \u0626\u06c8\u0686 \u0643\u06c8\u0646\u062f\u0649\u0646 \u0626\u06d0\u0634\u0649\u067e \u0643\u06d5\u062a\u0645\u06d5\u064a\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "شەخسىيەت ئۇقتۇرۇشىنى كۆرسەت"
+    "message": "\u0634\u06d5\u062e\u0633\u0649\u064a\u06d5\u062a \u0626\u06c7\u0642\u062a\u06c7\u0631\u06c7\u0634\u0649\u0646\u0649 \u0643\u06c6\u0631\u0633\u06d5\u062a"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "بولدىلا"
+    "message": "\u0628\u0648\u0644\u062f\u0649\u0644\u0627"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ نىقاب بار.",
+    "message": "$REMAINING$/$MAXIMUM$ \u0646\u0649\u0642\u0627\u0628 \u0628\u0627\u0631.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "ھەقسىز $MAXIMUM$ نىقابنىڭ ھەممىسىنى ئىشلىتىپ بولدىڭىز.",
+    "message": "\u06be\u06d5\u0642\u0633\u0649\u0632 $MAXIMUM$ \u0646\u0649\u0642\u0627\u0628\u0646\u0649\u06ad \u06be\u06d5\u0645\u0645\u0649\u0633\u0649\u0646\u0649 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u067e \u0628\u0648\u0644\u062f\u0649\u06ad\u0649\u0632.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -524,157 +523,157 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "ھەقىقىي ئېلخەت ئادرېسىڭىزنى قوغدايدۇ"
+    "message": "\u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0627\u062f\u0631\u06d0\u0633\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0627\u064a\u062f\u06c7"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Relay نىقابى ئارقىلىق كىملىك شەخسىيىتىڭىزنى قوغداڭ، قوبۇللاش ساندۇقىڭىزدا سىز ئېھتىياجلىق ئېلخەتلەرگىلا ئېرىشىڭ.",
+    "message": "Relay \u0646\u0649\u0642\u0627\u0628\u0649 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u0643\u0649\u0645\u0644\u0649\u0643 \u0634\u06d5\u062e\u0633\u0649\u064a\u0649\u062a\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0627\u06ad\u060c \u0642\u0648\u0628\u06c7\u0644\u0644\u0627\u0634 \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u062f\u0627 \u0633\u0649\u0632 \u0626\u06d0\u06be\u062a\u0649\u064a\u0627\u062c\u0644\u0649\u0642 \u0626\u06d0\u0644\u062e\u06d5\u062a\u0644\u06d5\u0631\u06af\u0649\u0644\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "تېخىمۇ كۆپ قوغداشقا ئېرىشىڭ"
+    "message": "\u062a\u06d0\u062e\u0649\u0645\u06c7 \u0643\u06c6\u067e \u0642\u0648\u063a\u062f\u0627\u0634\u0642\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "Relay نى قوزغات",
+    "message": "Relay \u0646\u0649 \u0642\u0648\u0632\u063a\u0627\u062a",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "چېكىلسە كۆچۈرىدۇ"
+    "message": "\u0686\u06d0\u0643\u0649\u0644\u0633\u06d5 \u0643\u06c6\u0686\u06c8\u0631\u0649\u062f\u06c7"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "كۆچۈرۈلدى!"
+    "message": "\u0643\u06c6\u0686\u06c8\u0631\u06c8\u0644\u062f\u0649!"
   },
   "popupSurveyLink": {
-    "message": "Relay نى ياخشىلاشقا ياردەملىشىڭ",
+    "message": "Relay \u0646\u0649 \u064a\u0627\u062e\u0634\u0649\u0644\u0627\u0634\u0642\u0627 \u064a\u0627\u0631\u062f\u06d5\u0645\u0644\u0649\u0634\u0649\u06ad",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "سىزنىڭ Firefox Relay ئىشلىتىشتىكى مەمنۇنلۇق تەسىراتىڭىز قانداق؟",
+    "message": "\u0633\u0649\u0632\u0646\u0649\u06ad Firefox Relay \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0634\u062a\u0649\u0643\u0649 \u0645\u06d5\u0645\u0646\u06c7\u0646\u0644\u06c7\u0642 \u062a\u06d5\u0633\u0649\u0631\u0627\u062a\u0649\u06ad\u0649\u0632 \u0642\u0627\u0646\u062f\u0627\u0642\u061f",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "بەك نارازى"
+    "message": "\u0628\u06d5\u0643 \u0646\u0627\u0631\u0627\u0632\u0649"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "نارازى"
+    "message": "\u0646\u0627\u0631\u0627\u0632\u0649"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "بىتەرەپ"
+    "message": "\u0628\u0649\u062a\u06d5\u0631\u06d5\u067e"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "رازى"
+    "message": "\u0631\u0627\u0632\u0649"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "بەك رازى"
+    "message": "\u0628\u06d5\u0643 \u0631\u0627\u0632\u0649"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "قايتۇرما ئىنكاسىڭىزغا رەھمەت!"
+    "message": "\u0642\u0627\u064a\u062a\u06c7\u0631\u0645\u0627 \u0626\u0649\u0646\u0643\u0627\u0633\u0649\u06ad\u0649\u0632\u063a\u0627 \u0631\u06d5\u06be\u0645\u06d5\u062a!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "مۇلازىمەت سۈپىتىمىزنى تېخىمۇ ئۆستۈرۈشىمىز ئۈچۈن قىممەتلىك تەكلىپ-پىكرىڭىزنى ئاڭلىغۇمىز بار. ئىككى مىنۇتلۇق ئىنكاس سۆرۈشتۈرۈشىمىزگە قاتنىشىپ، بىزگە ياردەم بېرىشنى خالامسىز؟"
+    "message": "\u0645\u06c7\u0644\u0627\u0632\u0649\u0645\u06d5\u062a \u0633\u06c8\u067e\u0649\u062a\u0649\u0645\u0649\u0632\u0646\u0649 \u062a\u06d0\u062e\u0649\u0645\u06c7 \u0626\u06c6\u0633\u062a\u06c8\u0631\u06c8\u0634\u0649\u0645\u0649\u0632 \u0626\u06c8\u0686\u06c8\u0646 \u0642\u0649\u0645\u0645\u06d5\u062a\u0644\u0649\u0643 \u062a\u06d5\u0643\u0644\u0649\u067e-\u067e\u0649\u0643\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u0626\u0627\u06ad\u0644\u0649\u063a\u06c7\u0645\u0649\u0632 \u0628\u0627\u0631. \u0626\u0649\u0643\u0643\u0649 \u0645\u0649\u0646\u06c7\u062a\u0644\u06c7\u0642 \u0626\u0649\u0646\u0643\u0627\u0633 \u0633\u06c6\u0631\u06c8\u0634\u062a\u06c8\u0631\u06c8\u0634\u0649\u0645\u0649\u0632\u06af\u06d5 \u0642\u0627\u062a\u0646\u0649\u0634\u0649\u067e\u060c \u0628\u0649\u0632\u06af\u06d5 \u064a\u0627\u0631\u062f\u06d5\u0645 \u0628\u06d0\u0631\u0649\u0634\u0646\u0649 \u062e\u0627\u0644\u0627\u0645\u0633\u0649\u0632\u061f"
   },
   "popupCsatSurveyDismiss": {
-    "message": "بولدىلا"
+    "message": "\u0628\u0648\u0644\u062f\u0649\u0644\u0627"
   },
   "popupCsatSurveyLink": {
-    "message": "تەكشۈرۈشكە قاتنىشىڭ"
+    "message": "\u062a\u06d5\u0643\u0634\u06c8\u0631\u06c8\u0634\u0643\u06d5 \u0642\u0627\u062a\u0646\u0649\u0634\u0649\u06ad"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "ھازىر چەكسىز نىقاب بار"
+    "message": "\u06be\u0627\u0632\u0649\u0631 \u0686\u06d5\u0643\u0633\u0649\u0632 \u0646\u0649\u0642\u0627\u0628 \u0628\u0627\u0631"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium مۇلازىمىتىنى ھازىر دۆلىتىڭىزدىمۇ ئىشلىتىشكە بولىدۇ. بۇ مۇلازىمەتتىن پايدىلىنىپ، چەكلىمىسىز ئېلخەت نىقابى ئارقىلىق ئۆزىڭىزنىڭ ئېلخەت ساندۇقىڭىزنى قوغدىيالايسىز.",
+    "message": "Firefox Relay Premium \u0645\u06c7\u0644\u0627\u0632\u0649\u0645\u0649\u062a\u0649\u0646\u0649 \u06be\u0627\u0632\u0649\u0631 \u062f\u06c6\u0644\u0649\u062a\u0649\u06ad\u0649\u0632\u062f\u0649\u0645\u06c7 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u0634\u0643\u06d5 \u0628\u0648\u0644\u0649\u062f\u06c7. \u0628\u06c7 \u0645\u06c7\u0644\u0627\u0632\u0649\u0645\u06d5\u062a\u062a\u0649\u0646 \u067e\u0627\u064a\u062f\u0649\u0644\u0649\u0646\u0649\u067e\u060c \u0686\u06d5\u0643\u0644\u0649\u0645\u0649\u0633\u0649\u0632 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0646\u0649\u0642\u0627\u0628\u0649 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u0626\u06c6\u0632\u0649\u06ad\u0649\u0632\u0646\u0649\u06ad \u0626\u06d0\u0644\u062e\u06d5\u062a \u0633\u0627\u0646\u062f\u06c7\u0642\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0649\u064a\u0627\u0644\u0627\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "Relay Premium غا ئېرىشىڭ",
+    "message": "Relay Premium \u063a\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Relay Premium غا %20 ئېتىبار باھادا ئېرىشىڭ",
+    "message": "Relay Premium \u063a\u0627 %20 \u0626\u06d0\u062a\u0649\u0628\u0627\u0631 \u0628\u0627\u06be\u0627\u062f\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "بۇ بايرام مەزگىلىدە 1 يىللىق Relay Premium نى سېتىۋالسىڭىز %20 ئېتىبارغا ئېرىشىسىز. ھېسابات قىلغاندا ئېتىبار كودىغا «HOLIDAY20» نى كىرگۈزۈڭ. ئېتىبار 2023-يىلى 12-ئاينىڭ 31-كۈنىگىچە.",
+    "message": "\u0628\u06c7 \u0628\u0627\u064a\u0631\u0627\u0645 \u0645\u06d5\u0632\u06af\u0649\u0644\u0649\u062f\u06d5 1 \u064a\u0649\u0644\u0644\u0649\u0642 Relay Premium \u0646\u0649 \u0633\u06d0\u062a\u0649\u06cb\u0627\u0644\u0633\u0649\u06ad\u0649\u0632 %20 \u0626\u06d0\u062a\u0649\u0628\u0627\u0631\u063a\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u0633\u0649\u0632. \u06be\u06d0\u0633\u0627\u0628\u0627\u062a \u0642\u0649\u0644\u063a\u0627\u0646\u062f\u0627 \u0626\u06d0\u062a\u0649\u0628\u0627\u0631 \u0643\u0648\u062f\u0649\u063a\u0627 \u00abHOLIDAY20\u00bb \u0646\u0649 \u0643\u0649\u0631\u06af\u06c8\u0632\u06c8\u06ad. \u0626\u06d0\u062a\u0649\u0628\u0627\u0631 2023-\u064a\u0649\u0644\u0649 12-\u0626\u0627\u064a\u0646\u0649\u06ad 31-\u0643\u06c8\u0646\u0649\u06af\u0649\u0686\u06d5.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Relay Premium غا 1 يىللىق مۇشتەرى بولۇش",
+    "message": "Relay Premium \u063a\u0627 1 \u064a\u0649\u0644\u0644\u0649\u0642 \u0645\u06c7\u0634\u062a\u06d5\u0631\u0649 \u0628\u0648\u0644\u06c7\u0634",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay نۆۋەتتە كەلگەن بارلىق تېلېفون چاقىرىش ۋە تېكىست ئۇچۇرنى ھەقىقىي تېلېفون نومۇرىڭىزغا ئۇلاپ يوللايدۇ.",
+    "message": "Relay \u0646\u06c6\u06cb\u06d5\u062a\u062a\u06d5 \u0643\u06d5\u0644\u06af\u06d5\u0646 \u0628\u0627\u0631\u0644\u0649\u0642 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0686\u0627\u0642\u0649\u0631\u0649\u0634 \u06cb\u06d5 \u062a\u06d0\u0643\u0649\u0633\u062a \u0626\u06c7\u0686\u06c7\u0631\u0646\u0649 \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u063a\u0627 \u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u064a\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay بارلىق تېلېفو چاقىرىشى ۋە تېكىست ئۇچۇرىنى توسۇۋاتىدۇ - تېلېفون نومۇرى نىقابىڭىزدىن ھېچنېمە تاپشۇرۇۋالمايسىز.",
+    "message": "Relay \u0628\u0627\u0631\u0644\u0649\u0642 \u062a\u06d0\u0644\u06d0\u0641\u0648 \u0686\u0627\u0642\u0649\u0631\u0649\u0634\u0649 \u06cb\u06d5 \u062a\u06d0\u0643\u0649\u0633\u062a \u0626\u06c7\u0686\u06c7\u0631\u0649\u0646\u0649 \u062a\u0648\u0633\u06c7\u06cb\u0627\u062a\u0649\u062f\u06c7 - \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649 \u0646\u0649\u0642\u0627\u0628\u0649\u06ad\u0649\u0632\u062f\u0649\u0646 \u06be\u06d0\u0686\u0646\u06d0\u0645\u06d5 \u062a\u0627\u067e\u0634\u06c7\u0631\u06c7\u06cb\u0627\u0644\u0645\u0627\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "ئۇلاپ يوللا:",
+    "message": "\u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "تىزىملاتقان چېسلا:",
+    "message": "\u062a\u0649\u0632\u0649\u0645\u0644\u0627\u062a\u0642\u0627\u0646 \u0686\u06d0\u0633\u0644\u0627:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "ئۇلاپ يوللاۋاتىدۇ"
+    "message": "\u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0627\u06cb\u0627\u062a\u0649\u062f\u06c7"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "توسۇۋاتىدۇ"
+    "message": "\u062a\u0648\u0633\u06c7\u06cb\u0627\u062a\u0649\u062f\u06c7"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "تېلېفون نىقابىنى قوزغات"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u0642\u0648\u0632\u063a\u0627\u062a"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Relay Premium مۇشتەرى بولۇش سۈپىتىڭىز بىلەن، ھەقىقىي نومۇرىڭىزنى ئاشكارىلىماي تۇرۇپ قىسقا ئۇچۇر يوللاپ ۋە تېلېفون ئۇرالايسىز. تېلېفون نومۇرى نىقابى سۈپىتىدە ئىشلىتىدىغان نومۇرنى تاللاڭ. بۇنىڭغا پەقەت 5 مىنۇت ۋاقىت كېتىدۇ.",
+    "message": "Relay Premium \u0645\u06c7\u0634\u062a\u06d5\u0631\u0649 \u0628\u0648\u0644\u06c7\u0634 \u0633\u06c8\u067e\u0649\u062a\u0649\u06ad\u0649\u0632 \u0628\u0649\u0644\u06d5\u0646\u060c \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u0626\u0627\u0634\u0643\u0627\u0631\u0649\u0644\u0649\u0645\u0627\u064a \u062a\u06c7\u0631\u06c7\u067e \u0642\u0649\u0633\u0642\u0627 \u0626\u06c7\u0686\u06c7\u0631 \u064a\u0648\u0644\u0644\u0627\u067e \u06cb\u06d5 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0626\u06c7\u0631\u0627\u0644\u0627\u064a\u0633\u0649\u0632. \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649 \u0646\u0649\u0642\u0627\u0628\u0649 \u0633\u06c8\u067e\u0649\u062a\u0649\u062f\u06d5 \u0626\u0649\u0634\u0644\u0649\u062a\u0649\u062f\u0649\u063a\u0627\u0646 \u0646\u0648\u0645\u06c7\u0631\u0646\u0649 \u062a\u0627\u0644\u0644\u0627\u06ad. \u0628\u06c7\u0646\u0649\u06ad\u063a\u0627 \u067e\u06d5\u0642\u06d5\u062a 5 \u0645\u0649\u0646\u06c7\u062a \u06cb\u0627\u0642\u0649\u062a \u0643\u06d0\u062a\u0649\u062f\u06c7.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "تېلېفون نىقابىنى قوزغات"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0649\u0642\u0627\u0628\u0649\u0646\u0649 \u0642\u0648\u0632\u063a\u0627\u062a"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "تېلېفون نومۇرىڭىزنىمۇ نىقابلاڭ"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649\u0645\u06c7 \u0646\u0649\u0642\u0627\u0628\u0644\u0627\u06ad"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Relay Premium بىلەن تېلېفون نومۇرىنى نىقابلاش ئارقىلىق ھەقىقىي تېلېفون نومۇرىڭىزنى قوغدىيالايسىز، شۇنىڭ بىلەن بىر ۋاقىتتا قىسقا ئۇچۇر ۋە تېلېفونلارنى نورمال قوبۇل قىلالايسىز ۋە جاۋاب قايتۇرالايسىز.",
+    "message": "Relay Premium \u0628\u0649\u0644\u06d5\u0646 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u0646\u0649 \u0646\u0649\u0642\u0627\u0628\u0644\u0627\u0634 \u0626\u0627\u0631\u0642\u0649\u0644\u0649\u0642 \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u0642\u0648\u063a\u062f\u0649\u064a\u0627\u0644\u0627\u064a\u0633\u0649\u0632\u060c \u0634\u06c7\u0646\u0649\u06ad \u0628\u0649\u0644\u06d5\u0646 \u0628\u0649\u0631 \u06cb\u0627\u0642\u0649\u062a\u062a\u0627 \u0642\u0649\u0633\u0642\u0627 \u0626\u06c7\u0686\u06c7\u0631 \u06cb\u06d5 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646\u0644\u0627\u0631\u0646\u0649 \u0646\u0648\u0631\u0645\u0627\u0644 \u0642\u0648\u0628\u06c7\u0644 \u0642\u0649\u0644\u0627\u0644\u0627\u064a\u0633\u0649\u0632 \u06cb\u06d5 \u062c\u0627\u06cb\u0627\u0628 \u0642\u0627\u064a\u062a\u06c7\u0631\u0627\u0644\u0627\u064a\u0633\u0649\u0632.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "تېلېفون نىقابىغا ئېرىشىش"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0649\u0642\u0627\u0628\u0649\u063a\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u0634"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "دۆلىتىڭىزدە تېخى ئىشلەتكىلى بولمايدۇ"
+    "message": "\u062f\u06c6\u0644\u0649\u062a\u0649\u06ad\u0649\u0632\u062f\u06d5 \u062a\u06d0\u062e\u0649 \u0626\u0649\u0634\u0644\u06d5\u062a\u0643\u0649\u0644\u0649 \u0628\u0648\u0644\u0645\u0627\u064a\u062f\u06c7"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "Relay Premium دا ئېلخەت ئادرېسىڭىزنى يوشۇرغانغا ئوخشاش تېلېفون نومۇرىنى نىقابلاپ ھەقىقىي تېلېفون نومۇرىڭىزنى يوشۇرالايسىز. Relay تور بېكىتىدە تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىڭ ھەمدە يېڭىلانمىلارغا مۇشتەرى بولۇڭ.",
+    "message": "Relay Premium \u062f\u0627 \u0626\u06d0\u0644\u062e\u06d5\u062a \u0626\u0627\u062f\u0631\u06d0\u0633\u0649\u06ad\u0649\u0632\u0646\u0649 \u064a\u0648\u0634\u06c7\u0631\u063a\u0627\u0646\u063a\u0627 \u0626\u0648\u062e\u0634\u0627\u0634 \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u0646\u0649 \u0646\u0649\u0642\u0627\u0628\u0644\u0627\u067e \u06be\u06d5\u0642\u0649\u0642\u0649\u064a \u062a\u06d0\u0644\u06d0\u0641\u0648\u0646 \u0646\u0648\u0645\u06c7\u0631\u0649\u06ad\u0649\u0632\u0646\u0649 \u064a\u0648\u0634\u06c7\u0631\u0627\u0644\u0627\u064a\u0633\u0649\u0632. Relay \u062a\u0648\u0631 \u0628\u06d0\u0643\u0649\u062a\u0649\u062f\u06d5 \u062a\u06d0\u062e\u0649\u0645\u06c7 \u0643\u06c6\u067e \u0626\u06c7\u0686\u06c7\u0631\u063a\u0627 \u0626\u06d0\u0631\u0649\u0634\u0649\u06ad \u06be\u06d5\u0645\u062f\u06d5 \u064a\u06d0\u06ad\u0649\u0644\u0627\u0646\u0645\u0649\u0644\u0627\u0631\u063a\u0627 \u0645\u06c7\u0634\u062a\u06d5\u0631\u0649 \u0628\u0648\u0644\u06c7\u06ad.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "كۈتۈش تىزىمىغا قوشۇلۇڭ"
+    "message": "\u0643\u06c8\u062a\u06c8\u0634 \u062a\u0649\u0632\u0649\u0645\u0649\u063a\u0627 \u0642\u0648\u0634\u06c7\u0644\u06c7\u06ad"
   },
   "phonesTabText": {
-    "message": "تېلېفون"
+    "message": "\u062a\u06d0\u0644\u06d0\u0641\u0648\u0646"
   },
   "emailsTabText": {
-    "message": "ئېلخەت"
+    "message": "\u0626\u06d0\u0644\u062e\u06d5\u062a"
   },
   "goBackText": {
-    "message": "قايت"
+    "message": "\u0642\u0627\u064a\u062a"
   },
   "seeStatsText": {
-    "message": "ئىستاتىستىكا كۆرسەت"
+    "message": "\u0626\u0649\u0633\u062a\u0627\u062a\u0649\u0633\u062a\u0649\u0643\u0627 \u0643\u06c6\u0631\u0633\u06d5\u062a"
   },
   "phoneRemainingMinutes": {
-    "message": "قالغان مىنۇت"
+    "message": "\u0642\u0627\u0644\u063a\u0627\u0646 \u0645\u0649\u0646\u06c7\u062a"
   },
   "phoneRemainingTexts": {
-    "message": "قالغان تېكىست"
+    "message": "\u0642\u0627\u0644\u063a\u0627\u0646 \u062a\u06d0\u0643\u0649\u0633\u062a"
   },
   "phoneForwardedCallsTexts": {
-    "message": "ئۇلاپ يوللىغان چاقىرىش ۋە تېكىست"
+    "message": "\u0626\u06c7\u0644\u0627\u067e \u064a\u0648\u0644\u0644\u0649\u063a\u0627\u0646 \u0686\u0627\u0642\u0649\u0631\u0649\u0634 \u06cb\u06d5 \u062a\u06d0\u0643\u0649\u0633\u062a"
   },
   "phoneBlockedCallsTexts": {
-    "message": "توسۇلغان چاقىرىش ۋە تېكىست"
+    "message": "\u062a\u0648\u0633\u06c7\u0644\u063a\u0627\u0646 \u0686\u0627\u0642\u0649\u0631\u0649\u0634 \u06cb\u06d5 \u062a\u06d0\u0643\u0649\u0633\u062a"
   }
 }

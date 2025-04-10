@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay gör det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
+    "message": "Firefox Relay g\u00f6r det enkelt att skapa e-postalias som vidarebefordrar e-post till din riktiga inkorg.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay hjälper dig att skydda din riktiga e-postadress — den som är närmast kopplad till din onlineidentitet. Den låter dig skapa unika, slumpmässiga alias som du kan använda för att registrera dig för konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du upptäcker att ett konto skickar oönskad e-post eller spam, kan du blockera aliaset och det kommer att sluta skicka e-post till din inkorg. När du inte längre vill ha ett konto kan du ta bort aliaset.",
+    "message": "Firefox Relay hj\u00e4lper dig att skydda din riktiga e-postadress \u2014 den som \u00e4r n\u00e4rmast kopplad till din onlineidentitet. Den l\u00e5ter dig skapa unika, slumpm\u00e4ssiga alias som du kan anv\u00e4nda f\u00f6r att registrera dig f\u00f6r konton, appar eller nyhetsbrev och vidarebefordra meddelanden till din riktiga e-postadress. Om du uppt\u00e4cker att ett konto skickar o\u00f6nskad e-post eller spam, kan du blockera aliaset och det kommer att sluta skicka e-post till din inkorg. N\u00e4r du inte l\u00e4ngre vill ha ett konto kan du ta bort aliaset.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,19 +12,19 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Du har installerat Firefox Relay-tillägget. För att komma igång, logga in på Relay med ditt Firefox-konto.",
+    "message": "Du har installerat Firefox Relay-till\u00e4gget. F\u00f6r att komma ig\u00e5ng, logga in p\u00e5 Relay med ditt Firefox-konto.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Du har installerat Firefox Relay-tillägget. För att komma igång, logga in på Relay med ditt konto.",
+    "message": "Du har installerat Firefox Relay-till\u00e4gget. F\u00f6r att komma ig\u00e5ng, logga in p\u00e5 Relay med ditt konto.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Tillåt Mozilla samla in information om hur du använder det här tillägget.",
+    "message": "Till\u00e5t Mozilla samla in information om hur du anv\u00e4nder det h\u00e4r till\u00e4gget.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Tillåt datainsamling",
+    "message": "Till\u00e5t datainsamling",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
@@ -32,14 +32,14 @@
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Att samla in interaktionsdata när du gör saker som att klicka på Relay-ikonen i verktygsfältet eller skapa ett nytt alias hjälper oss med vad som fungerar bra och var vi kan förbättra. Du kan alltid stänga av detta i panelen Inställningar.",
+    "message": "Att samla in interaktionsdata n\u00e4r du g\u00f6r saker som att klicka p\u00e5 Relay-ikonen i verktygsf\u00e4ltet eller skapa ett nytt alias hj\u00e4lper oss med vad som fungerar bra och var vi kan f\u00f6rb\u00e4ttra. Du kan alltid st\u00e4nga av detta i panelen Inst\u00e4llningar.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
     "message": "Registrera dig / Logga in"
   },
   "popupSettingsTitle": {
-    "message": "Inställningar"
+    "message": "Inst\u00e4llningar"
   },
   "popupStatsTitle": {
     "message": "Statistik",
@@ -50,28 +50,28 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Vad är nytt i Relay",
+    "message": "Vad \u00e4r nytt i Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Återgå till huvudpanelen"
+    "message": "\u00c5terg\u00e5 till huvudpanelen"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "Visa Relay-ikonen i inmatningsfälten på webbplatser",
+    "message": "Visa Relay-ikonen i inmatningsf\u00e4lten p\u00e5 webbplatser",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Tillåt Mozilla samla in interaktionsdata",
+    "message": "Till\u00e5t Mozilla samla in interaktionsdata",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "Ge återkoppling"
+    "message": "Ge \u00e5terkoppling"
   },
   "popupSettingsPrivacy": {
     "message": "Integritet"
   },
   "popupSettingsTermsOfService": {
-    "message": "Användarvillkor"
+    "message": "Anv\u00e4ndarvillkor"
   },
   "popupSettingsReportIssue": {
     "message": "Rapportera problem"
@@ -80,90 +80,90 @@
     "message": "Skicka in rapport"
   },
   "popupReportIssuesHeadline": {
-    "message": "Jag har problem med den här webbplatsen"
+    "message": "Jag har problem med den h\u00e4r webbplatsen"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Lämna feedback"
+    "message": "L\u00e4mna feedback"
   },
   "popupReportIssueCaseOne": {
     "message": "E-postalias accepterades inte av webbplatsen"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Tillägget Relay orsakade ett visuellt problem med webbplatsen",
+    "message": "Till\u00e4gget Relay orsakade ett visuellt problem med webbplatsen",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "Jag har inte fått ett e-postmeddelande från denna webbplats som jag förväntade mig"
+    "message": "Jag har inte f\u00e5tt ett e-postmeddelande fr\u00e5n denna webbplats som jag f\u00f6rv\u00e4ntade mig"
   },
   "popupReportIssueCaseFour": {
     "message": "Telefonalias accepterades inte av denna webbplats"
   },
   "popupReportIssueCaseFive": {
-    "message": "Jag har inte fått ett sms eller telefonsamtal från den här webbplatsen som jag förväntade mig"
+    "message": "Jag har inte f\u00e5tt ett sms eller telefonsamtal fr\u00e5n den h\u00e4r webbplatsen som jag f\u00f6rv\u00e4ntade mig"
   },
   "popupReportIssueCaseOther": {
     "message": "Annat"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "Vänligen ange detaljer"
+    "message": "V\u00e4nligen ange detaljer"
   },
   "popupReportIssueSuccessHeadline": {
     "message": "Rapport skickad!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "Tack för att du hjälper oss att förbättra Firefox Relay!",
+    "message": "Tack f\u00f6r att du hj\u00e4lper oss att f\u00f6rb\u00e4ttra Firefox Relay!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "Fortsätt"
+    "message": "Forts\u00e4tt"
   },
   "popupSignUpPanelWelcome": {
-    "message": "Välkommen"
+    "message": "V\u00e4lkommen"
   },
   "popupSignUpPanelIntro": {
-    "message": "Kom igång genom att logga in på Relay med ditt Firefox-konto.",
+    "message": "Kom ig\u00e5ng genom att logga in p\u00e5 Relay med ditt Firefox-konto.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Kom igång genom att logga in på Relay med ditt konto.",
+    "message": "Kom ig\u00e5ng genom att logga in p\u00e5 Relay med ditt konto.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "Fortsätt"
+    "message": "Forts\u00e4tt"
   },
   "popupSignUpPanelSignIn": {
     "message": "Logga in"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Återstående alias: $REMAINING$",
+    "message": "\u00c5terst\u00e5ende alias: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Återstående gratis e-postalias:  $REMAINING$",
+    "message": "\u00c5terst\u00e5ende gratis e-postalias:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Nyligen använda e-postalias",
+    "message": "Nyligen anv\u00e4nda e-postalias",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Få obegränsat med alias"
+    "message": "F\u00e5 obegr\u00e4nsat med alias"
   },
   "popupOnboardingShowPrevious": {
-    "message": "Visa föregående panel"
+    "message": "Visa f\u00f6reg\u00e5ende panel"
   },
   "popupOnboardingShowNext": {
-    "message": "Gå till nästa panel"
+    "message": "G\u00e5 till n\u00e4sta panel"
   },
   "ManageAllAliases_mask": {
     "message": "Hantera alla alias"
@@ -172,14 +172,14 @@
     "message": "Hantera"
   },
   "labelSearch": {
-    "message": "Sök"
+    "message": "S\u00f6k"
   },
   "labelMaskCreated": {
     "message": "Alias skapad",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "Från den här webbplatsen",
+    "message": "Fr\u00e5n den h\u00e4r webbplatsen",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
@@ -187,24 +187,24 @@
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "Hög femma!"
+    "message": "H\u00f6g femma!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "Du är en Firefox Relay power-användare!",
+    "message": "Du \u00e4r en Firefox Relay power-anv\u00e4ndare!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Skaffa en unik e-postdomän för Relay",
+    "message": "Skaffa en unik e-postdom\u00e4n f\u00f6r Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "E-postalias som används"
+    "message": "E-postalias som anv\u00e4nds"
   },
   "popupTotalMasksUsed": {
-    "message": "Totalt använda e-postalias"
+    "message": "Totalt anv\u00e4nda e-postalias"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Alias som används på denna webbplats"
+    "message": "Alias som anv\u00e4nds p\u00e5 denna webbplats"
   },
   "popupEmailsBlocked": {
     "message": "E-postmeddelanden blockerade"
@@ -213,31 +213,31 @@
     "message": "E-postmeddelanden vidarebefordrade"
   },
   "popupEmailTrackersRemoved": {
-    "message": "Borttagna e-postspårare"
+    "message": "Borttagna e-postsp\u00e5rare"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Uppgradera till Relay Premium för mer skydd!",
+    "message": "Uppgradera till Relay Premium f\u00f6r mer skydd!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Ett världsomspännande skyddsverktyg"
+    "message": "Ett v\u00e4rldsomsp\u00e4nnande skyddsverktyg"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay kan hjälpa dig att skydda din e-post oavsett var du befinner dig.",
+    "message": "Relay kan hj\u00e4lpa dig att skydda din e-post oavsett var du befinner dig.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Ökning av bilagans storlek"
+    "message": "\u00d6kning av bilagans storlek"
   },
   "popupAttachmentSizeIncreaseBody": {
     "message": "Firefox Relay kan nu vidarebefordra e-postmeddelanden upp till 25 MB, inklusive bilagor.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "Vårt intropriserbjudande upphör snart!"
+    "message": "V\u00e5rt intropriserbjudande upph\u00f6r snart!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Uppgradera till Relay Premium före den 27 september och njut av ett obegränsat antal alias till vårt månatliga introduktionspris.",
+    "message": "Uppgradera till Relay Premium f\u00f6re den 27 september och njut av ett obegr\u00e4nsat antal alias till v\u00e5rt m\u00e5natliga introduktionspris.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
@@ -266,61 +266,61 @@
     "message": "Blockera e-postreklam"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Aktivera Blockera e-postreklam för ett alias för att hindra marknadsföringse-post från att nå din inkorg."
+    "message": "Aktivera Blockera e-postreklam f\u00f6r ett alias f\u00f6r att hindra marknadsf\u00f6ringse-post fr\u00e5n att n\u00e5 din inkorg."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Läs mer"
+    "message": "L\u00e4s mer"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Med Relay Premium kan du blockera reklammeddelanden från att nå din inkorg samtidigt som du kan ta emot e-postmeddelanden som kvitton eller leveransinformation.",
+    "message": "Med Relay Premium kan du blockera reklammeddelanden fr\u00e5n att n\u00e5 din inkorg samtidigt som du kan ta emot e-postmeddelanden som kvitton eller leveransinformation.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "Lägg till Mozilla VPN för $SAVINGS$ rabatt.",
+    "message": "L\u00e4gg till Mozilla VPN f\u00f6r $SAVINGS$ rabatt.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Lägg till Mozilla VPN för $SAVINGS$ rabatt.",
+    "message": "L\u00e4gg till Mozilla VPN f\u00f6r $SAVINGS$ rabatt.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "1-års plan inklusive Relay Premium + Mozilla VPN för $MONTHLY_PRICE$/månad.",
+    "message": "1-\u00e5rs plan inklusive Relay Premium + Mozilla VPN f\u00f6r $MONTHLY_PRICE$/m\u00e5nad.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Få ett års Relay Premium telefonalias plus Mozilla VPN för $MONTHLY_PRICE$/månad.",
+    "message": "F\u00e5 ett \u00e5rs Relay Premium telefonalias plus Mozilla VPN f\u00f6r $MONTHLY_PRICE$/m\u00e5nad.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox lösenordshanterare + Relay",
+    "message": "Firefox l\u00f6senordshanterare + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Nu kan du använda Relay direkt i din Firefox lösenordshanterare.",
+    "message": "Nu kan du anv\u00e4nda Relay direkt i din Firefox l\u00f6senordshanterare.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
@@ -328,14 +328,14 @@
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Uppgradera ditt abonnemang för att få både Relay Premium + Mozilla VPN för $MONTHLY_PRICE$/månad. Spara $SAVINGS$!",
+    "message": "Uppgradera ditt abonnemang f\u00f6r att f\u00e5 b\u00e5de Relay Premium + Mozilla VPN f\u00f6r $MONTHLY_PRICE$/m\u00e5nad. Spara $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
@@ -349,10 +349,10 @@
     "message": "Vi introducerar maskering av telefonnummer"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Med telefonnummeralias kan du nu skapa ett telefonnummeralias som hjälper dig att få sms och samtal utan att avslöja ditt verkliga nummer."
+    "message": "Med telefonnummeralias kan du nu skapa ett telefonnummeralias som hj\u00e4lper dig att f\u00e5 sms och samtal utan att avsl\u00f6ja ditt verkliga nummer."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Få sms och samtal utan att avslöja ditt verkliga nummer."
+    "message": "F\u00e5 sms och samtal utan att avsl\u00f6ja ditt verkliga nummer."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Uppgradera nu"
@@ -367,19 +367,18 @@
     "message": "Skapa ett nytt anpassat e-postalias"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Allt du behöver göra är att skapa och dela ett unikt alias som använder din anpassade underdomän — alias genereras automatiskt. Testa \"shop@customsubdomain.mozmail.com\" nästa gång du handlar online, till exempel."
+    "message": "Allt du beh\u00f6ver g\u00f6ra \u00e4r att skapa och dela ett unikt alias som anv\u00e4nder din anpassade underdom\u00e4n \u2014 alias genereras automatiskt. Testa \"shop@customsubdomain.mozmail.com\" n\u00e4sta g\u00e5ng du handlar online, till exempel."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Ange prefix för e-postalias"
+    "message": "Ange prefix f\u00f6r e-postalias"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
     "message": "t.ex. \"kaffe\""
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -392,30 +391,30 @@
     "message": "Generera alias"
   },
   "popupCreateCustomFormError": {
-    "message": "Alias kunde inte skapas. Var god försök igen."
+    "message": "Alias kunde inte skapas. Var god f\u00f6rs\u00f6k igen."
   },
   "pageInputIconSignUpText": {
-    "message": "Besök Firefox Relay-webbplatsen för att logga in eller skapa ett konto.",
+    "message": "Bes\u00f6k Firefox Relay-webbplatsen f\u00f6r att logga in eller skapa ett konto.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "Gå till Firefox Relay",
+    "message": "G\u00e5 till Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Skapa nytt alias"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Skapa ett nytt slumpmässigt alias"
+    "message": "Skapa ett nytt slumpm\u00e4ssigt alias"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "Skapa slumpmässigt alias"
+    "message": "Skapa slumpm\u00e4ssigt alias"
   },
   "pageInputIconGenerateCustomMask": {
     "message": "Skapa anpassat alias"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Välj från dina nuvarande e-postalias",
+    "message": "V\u00e4lj fr\u00e5n dina nuvarande e-postalias",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
@@ -423,24 +422,24 @@
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "Tidigare använd på denna webbplats",
+    "message": "Tidigare anv\u00e4nd p\u00e5 denna webbplats",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Få obegränsat med alias"
+    "message": "F\u00e5 obegr\u00e4nsat med alias"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Ställ dig i väntelistan för Premium",
+    "message": "St\u00e4ll dig i v\u00e4ntelistan f\u00f6r Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Använd befintliga alias från denna webbplats…"
+    "message": "Anv\u00e4nd befintliga alias fr\u00e5n denna webbplats\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Senaste alias"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Använd telefonnummeralias"
+    "message": "Anv\u00e4nd telefonnummeralias"
   },
   "pageInputIconMaxAliasesError_mask": {
     "message": "Du har redan skapat det maximala antalet alias",
@@ -451,46 +450,46 @@
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "Tecken som inte är tillåtna: $CHARACTERS$",
+    "message": "Tecken som inte \u00e4r till\u00e5tna: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "Lägg till kontonamn",
+    "message": "L\u00e4gg till kontonamn",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "Stäng"
+    "message": "St\u00e4ng"
   },
   "returnToPreviousPanel": {
-    "message": "Återgå till föregående panel"
+    "message": "\u00c5terg\u00e5 till f\u00f6reg\u00e5ende panel"
   },
   "popupDataCollectionHeadline": {
     "message": "Aktivera nya funktioner"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Du kan tillåta Relay att samla in valfri data som gör att vi kan synkronisera dina aliasetiketter mellan dina enheter med webbplatserna där de skapas och används.",
+    "message": "Du kan till\u00e5ta Relay att samla in valfri data som g\u00f6r att vi kan synkronisera dina aliasetiketter mellan dina enheter med webbplatserna d\u00e4r de skapas och anv\u00e4nds.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Läs mer"
+    "message": "L\u00e4s mer"
   },
   "popupDataCollectionButtonDecline": {
     "message": "Neka"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "Tillåt"
+    "message": "Till\u00e5t"
   },
   "popupPrivacyNoticeUpdateHeadline": {
     "message": "Uppdatering av sekretesspolicy"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "För att förbättra tillförlitligheten hos Firefox Relay i händelse av att ett e-postmeddelande inte kan levereras, kommer vi tillfälligt att behålla e-postmeddelandet på våra servrar tills det har levererats. Vi kommer aldrig att hålla på det i mer än tre dagar.",
+    "message": "F\u00f6r att f\u00f6rb\u00e4ttra tillf\u00f6rlitligheten hos Firefox Relay i h\u00e4ndelse av att ett e-postmeddelande inte kan levereras, kommer vi tillf\u00e4lligt att beh\u00e5lla e-postmeddelandet p\u00e5 v\u00e5ra servrar tills det har levererats. Vi kommer aldrig att h\u00e5lla p\u00e5 det i mer \u00e4n tre dagar.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
@@ -500,7 +499,7 @@
     "message": "Ignorera"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ alias tillgängliga.",
+    "message": "$REMAINING$/$MAXIMUM$ alias tillg\u00e4ngliga.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -514,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Du har använt alla $MAXIMUM$ av dina gratisalias.",
+    "message": "Du har anv\u00e4nt alla $MAXIMUM$ av dina gratisalias.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -527,62 +526,62 @@
     "message": "Skydda din riktiga e-postadress"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Använd Relay-alias för att hålla din identitet privat och få bara de e-postmeddelanden du vill ha i din inkorg.",
+    "message": "Anv\u00e4nd Relay-alias f\u00f6r att h\u00e5lla din identitet privat och f\u00e5 bara de e-postmeddelanden du vill ha i din inkorg.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Få mer skydd"
+    "message": "F\u00e5 mer skydd"
   },
   "popupNavButtonLaunchRelay": {
     "message": "Starta Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Klicka för att kopiera"
+    "message": "Klicka f\u00f6r att kopiera"
   },
   "popupCopyMaskButtonCopied": {
     "message": "Kopierad!"
   },
   "popupSurveyLink": {
-    "message": "Hjälp oss att förbättra Relay",
+    "message": "Hj\u00e4lp oss att f\u00f6rb\u00e4ttra Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Hur nöjd är du med din upplevelse av Firefox Relay?",
+    "message": "Hur n\u00f6jd \u00e4r du med din upplevelse av Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Väldigt missnöjd"
+    "message": "V\u00e4ldigt missn\u00f6jd"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "Missnöjd"
+    "message": "Missn\u00f6jd"
   },
   "popupCsatSurveySatisfactionNeutral": {
     "message": "Neutral"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "Nöjd"
+    "message": "N\u00f6jd"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Väldigt nöjd"
+    "message": "V\u00e4ldigt n\u00f6jd"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "Tack för din feedback!"
+    "message": "Tack f\u00f6r din feedback!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Vi vill veta mer om hur vi kan bli bättre. Skulle du vara villig att svara på en enkät på två minuter?"
+    "message": "Vi vill veta mer om hur vi kan bli b\u00e4ttre. Skulle du vara villig att svara p\u00e5 en enk\u00e4t p\u00e5 tv\u00e5 minuter?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Ignorera"
   },
   "popupCsatSurveyLink": {
-    "message": "Gör undersökningen"
+    "message": "G\u00f6r unders\u00f6kningen"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "Obegränsat med alias nu tillgängligt"
+    "message": "Obegr\u00e4nsat med alias nu tillg\u00e4ngligt"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium är nu tillgängligt i ditt land. Skydda din inkorg med obegränsade e-postalias och få en unik Relay-e-postdomän för att göra det enkelt och säkert att skapa alias på språng.",
+    "message": "Firefox Relay Premium \u00e4r nu tillg\u00e4ngligt i ditt land. Skydda din inkorg med obegr\u00e4nsade e-postalias och f\u00e5 en unik Relay-e-postdom\u00e4n f\u00f6r att g\u00f6ra det enkelt och s\u00e4kert att skapa alias p\u00e5 spr\u00e5ng.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
@@ -590,23 +589,23 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Få 20% rabatt på Relay Premium",
+    "message": "F\u00e5 20% rabatt p\u00e5 Relay Premium",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Denna semesterperiod får du 20% rabatt på priset för 1 års Relay Premium. Ange bara kampanjkoden \"HOLIDAY20\" i kassan. Erbjudandet upphör 31 december 2023.",
+    "message": "Denna semesterperiod f\u00e5r du 20% rabatt p\u00e5 priset f\u00f6r 1 \u00e5rs Relay Premium. Ange bara kampanjkoden \"HOLIDAY20\" i kassan. Erbjudandet upph\u00f6r 31 december 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Få 1 års Relay Premium",
+    "message": "F\u00e5 1 \u00e5rs Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay vidarebefordrar för närvarande alla telefonsamtal och textmeddelanden till ditt riktiga telefonnummer.",
+    "message": "Relay vidarebefordrar f\u00f6r n\u00e4rvarande alla telefonsamtal och textmeddelanden till ditt riktiga telefonnummer.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay blockerar alla telefonsamtal och textmeddelanden — du får inget från ditt telefonnummeralias.",
+    "message": "Relay blockerar alla telefonsamtal och textmeddelanden \u2014 du f\u00e5r inget fr\u00e5n ditt telefonnummeralias.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -627,31 +626,31 @@
     "message": "Aktivera ditt telefonalias"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Som Relay Premium-abonnent kan du få sms och telefonsamtal utan att avslöja ditt riktiga nummer. Börja med att välja ett nummer att använda som telefonnummeralias. Det tar bara 5 minuter.",
+    "message": "Som Relay Premium-abonnent kan du f\u00e5 sms och telefonsamtal utan att avsl\u00f6ja ditt riktiga nummer. B\u00f6rja med att v\u00e4lja ett nummer att anv\u00e4nda som telefonnummeralias. Det tar bara 5 minuter.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
     "message": "Aktivera telefonalias"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Maskera ditt telefonnummer också"
+    "message": "Maskera ditt telefonnummer ocks\u00e5"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Med Relay Premium telefonnummermaskering kan du skydda ditt riktiga telefonnummer och fortfarande ta emot och svara på sms och samtal.",
+    "message": "Med Relay Premium telefonnummermaskering kan du skydda ditt riktiga telefonnummer och fortfarande ta emot och svara p\u00e5 sms och samtal.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Få telefonmaskering"
+    "message": "F\u00e5 telefonmaskering"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "Inte tillgängligt i ditt land ännu"
+    "message": "Inte tillg\u00e4ngligt i ditt land \u00e4nnu"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "Med Relay Premium-telefonnummermaskering kommer du att kunna dölja ditt riktiga telefonnummer precis som din e-postadress. Läs mer på Relays webbplats och registrera dig för uppdateringar.",
+    "message": "Med Relay Premium-telefonnummermaskering kommer du att kunna d\u00f6lja ditt riktiga telefonnummer precis som din e-postadress. L\u00e4s mer p\u00e5 Relays webbplats och registrera dig f\u00f6r uppdateringar.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "Ställ dig i väntelistan"
+    "message": "St\u00e4ll dig i v\u00e4ntelistan"
   },
   "phonesTabText": {
     "message": "Telefon"
@@ -660,16 +659,16 @@
     "message": "E-post"
   },
   "goBackText": {
-    "message": "Gå tillbaka"
+    "message": "G\u00e5 tillbaka"
   },
   "seeStatsText": {
     "message": "Se statistik"
   },
   "phoneRemainingMinutes": {
-    "message": "Återstående minuter"
+    "message": "\u00c5terst\u00e5ende minuter"
   },
   "phoneRemainingTexts": {
-    "message": "Återstående meddelanden"
+    "message": "\u00c5terst\u00e5ende meddelanden"
   },
   "phoneForwardedCallsTexts": {
     "message": "Samtal och sms vidarekopplade"

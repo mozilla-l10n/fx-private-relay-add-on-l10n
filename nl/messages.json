@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay helpt u uw echte e-mailadres te beschermen – het adres dat het nauwst verband houdt met uw online-identiteit. U kunt er unieke, willekeurige maskers mee aanmaken, die u kunt gebruiken om u in te schrijven bij accounts, apps of nieuwsbrieven, en stuurt berichten door naar uw echte adres. Als u ontdekt dat een account u ongewenste berichten of spam stuurt, kunt u het masker blokkeren en verstuurt dit geen berichten meer naar uw Postvak IN. Als u een account niet meer wilt gebruiken, kunt u het masker verwijderen.",
+    "message": "Firefox Relay helpt u uw echte e-mailadres te beschermen \u2013 het adres dat het nauwst verband houdt met uw online-identiteit. U kunt er unieke, willekeurige maskers mee aanmaken, die u kunt gebruiken om u in te schrijven bij accounts, apps of nieuwsbrieven, en stuurt berichten door naar uw echte adres. Als u ontdekt dat een account u ongewenste berichten of spam stuurt, kunt u het masker blokkeren en verstuurt dit geen berichten meer naar uw Postvak IN. Als u een account niet meer wilt gebruiken, kunt u het masker verwijderen.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,11 +12,11 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "U hebt de Firefox Relay-add-on met succes geïnstalleerd. Meld u aan bij Relay met uw Firefox-account om aan de slag te gaan.",
+    "message": "U hebt de Firefox Relay-add-on met succes ge\u00efnstalleerd. Meld u aan bij Relay met uw Firefox-account om aan de slag te gaan.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "U hebt de Firefox Relay-add-on met succes geïnstalleerd. Meld u aan bij Relay met uw account om aan de slag te gaan.",
+    "message": "U hebt de Firefox Relay-add-on met succes ge\u00efnstalleerd. Meld u aan bij Relay met uw account om aan de slag te gaan.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
@@ -138,7 +138,7 @@
     "message": "Resterende maskers: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -147,7 +147,7 @@
     "message": "Resterende gratis maskers: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
-      "remaining": {
+      "REMAINING": {
         "content": "$1"
       }
     }
@@ -237,7 +237,7 @@
     "message": "Onze introductieprijsaanbieding loopt binnenkort af!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Abonneer u vóór 27 september op Relay Premium en geniet van onbeperkt maskeren tegen onze introductieprijs voor een maandabonnement.",
+    "message": "Abonneer u v\u00f3\u00f3r 27 september op Relay Premium en geniet van onbeperkt maskeren tegen onze introductieprijs voor een maandabonnement.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
@@ -279,7 +279,7 @@
     "message": "Voeg Mozilla VPN toe met $SAVINGS$ korting.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "50%"
       }
@@ -289,7 +289,7 @@
     "message": "Voeg Mozilla VPN toe voor $SAVINGS$ korting.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
-      "savings": {
+      "SAVINGS": {
         "content": "$1",
         "example": "40%"
       }
@@ -299,7 +299,7 @@
     "message": "Jaarabonnement met Relay Premium + Mozilla VPN voor $MONTHLY_PRICE$/maand.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       }
@@ -309,7 +309,7 @@
     "message": "Ontvang een jaar lang Relay Premium-telefoonmaskering plus Mozilla VPN voor $MONTHLY_PRICE$/maand.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$6.99"
       }
@@ -331,11 +331,11 @@
     "message": "Upgrade uw abonnement om zowel Relay Premium als Mozilla VPN te ontvangen voor $MONTHLY_PRICE$/maand. Bespaar $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
-      "monthly_price": {
+      "MONTHLY_PRICE": {
         "content": "$1",
         "example": "$4.99"
       },
-      "savings": {
+      "SAVINGS": {
         "content": "$2",
         "example": "50%"
       }
@@ -349,10 +349,10 @@
     "message": "Nieuw: telefoonnummermaskering"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Met telefoonnummermaskering kunt u nu een telefoonnummermasker aanmaken dat u helpt sms’jes en oproepen te ontvangen zonder uw echte nummer prijs te geven."
+    "message": "Met telefoonnummermaskering kunt u nu een telefoonnummermasker aanmaken dat u helpt sms\u2019jes en oproepen te ontvangen zonder uw echte nummer prijs te geven."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Ontvang sms’jes en oproepen zonder uw echte nummer te onthullen."
+    "message": "Ontvang sms\u2019jes en oproepen zonder uw echte nummer te onthullen."
   },
   "popupPhoneMaskingPromoCTA": {
     "message": "Nu upgraden"
@@ -367,19 +367,18 @@
     "message": "Een nieuwe aangepast masker aanmaken"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Het enige dat u hoeft te doen, is een uniek masker bedenken en delen dat uw aangepaste domein gebruikt – het masker wordt automatisch aangemaakt. Probeer bijvoorbeeld de volgende keer dat u online winkelt “winkel@aangepastsubdomein.mozmail.com”."
+    "message": "Het enige dat u hoeft te doen, is een uniek masker bedenken en delen dat uw aangepaste domein gebruikt \u2013 het masker wordt automatisch aangemaakt. Probeer bijvoorbeeld de volgende keer dat u online winkelt \u201cwinkel@aangepastsubdomein.mozmail.com\u201d."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Voer maskervoorvoegsel in"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "b.v. ‘koffie’"
+    "message": "b.v. \u2018koffie\u2019"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
-    "description": "",
     "placeholders": {
-      "subdomain": {
+      "SUBDOMAIN": {
         "content": "$1",
         "example": "example"
       }
@@ -434,7 +433,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Een bestaand masker van deze website gebruiken…"
+    "message": "Een bestaand masker van deze website gebruiken\u2026"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Recente maskers"
@@ -454,7 +453,7 @@
     "message": "Teken(s) niet toegestaan: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
-      "characters": {
+      "CHARACTERS": {
         "content": "$1",
         "example": "; )"
       }
@@ -527,7 +526,7 @@
     "message": "Bescherm uw echte e-mailadres"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Gebruik Relay-maskers om uw identiteit privé te houden en ontvang alleen de e-mailberichten die u wilt in uw Postvak IN.",
+    "message": "Gebruik Relay-maskers om uw identiteit priv\u00e9 te houden en ontvang alleen de e-mailberichten die u wilt in uw Postvak IN.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
@@ -538,7 +537,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Klik om te kopiëren"
+    "message": "Klik om te kopi\u00ebren"
   },
   "popupCopyMaskButtonCopied": {
     "message": "Gekopieerd!"
@@ -570,13 +569,13 @@
     "message": "Bedankt voor uw feedback!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "We willen graag meer weten over hoe we het beter kunnen doen. Bent u bereid om een enquête van twee minuten in te vullen?"
+    "message": "We willen graag meer weten over hoe we het beter kunnen doen. Bent u bereid om een enqu\u00eate van twee minuten in te vullen?"
   },
   "popupCsatSurveyDismiss": {
     "message": "Sluiten"
   },
   "popupCsatSurveyLink": {
-    "message": "De enquête invullen"
+    "message": "De enqu\u00eate invullen"
   },
   "popupEuCountryExpansionHeadline": {
     "message": "Onbeperkte maskers nu beschikbaar"
@@ -594,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Ontvang deze feestdagen 20% korting op de prijs van 1 jaar Relay Premium. Voer gewoon de promotiecode ‘HOLIDAY20’ in bij het afrekenen. Aanbieding eindigt op 31 december 2023.",
+    "message": "Ontvang deze feestdagen 20% korting op de prijs van 1 jaar Relay Premium. Voer gewoon de promotiecode \u2018HOLIDAY20\u2019 in bij het afrekenen. Aanbieding eindigt op 31 december 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
@@ -606,7 +605,7 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay blokkeert alle oproepen en sms-berichten – u ontvangt niets van uw telefoonnummermasker.",
+    "message": "Relay blokkeert alle oproepen en sms-berichten \u2013 u ontvangt niets van uw telefoonnummermasker.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
@@ -637,7 +636,7 @@
     "message": "Maskeer ook uw telefoonnummer"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Met Relay Premium-telefoonnummermaskering kunt u uw echte telefoonnummer beschermen en nog steeds sms’jes en oproepen ontvangen en beantwoorden.",
+    "message": "Met Relay Premium-telefoonnummermaskering kunt u uw echte telefoonnummer beschermen en nog steeds sms\u2019jes en oproepen ontvangen en beantwoorden.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
@@ -669,12 +668,12 @@
     "message": "Resterende minuten"
   },
   "phoneRemainingTexts": {
-    "message": "Resterende sms’jes"
+    "message": "Resterende sms\u2019jes"
   },
   "phoneForwardedCallsTexts": {
-    "message": "Oproepen en sms’jes doorgestuurd"
+    "message": "Oproepen en sms\u2019jes doorgestuurd"
   },
   "phoneBlockedCallsTexts": {
-    "message": "Oproepen en sms’jes geblokkeerd"
+    "message": "Oproepen en sms\u2019jes geblokkeerd"
   }
 }
