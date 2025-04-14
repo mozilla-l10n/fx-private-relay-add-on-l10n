@@ -144,7 +144,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "\u5269\u4f59\u514d\u8d39\u9a6c\u7532\u6570\u91cf\uff1a$REMAINING$",
+    "message": "\u5269\u4f59\u514d\u8d39\u9a6c\u7532\u6570\u91cf\uff1a$REMAINING$ \u4e2a",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "REMAINING": {
