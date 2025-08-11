@@ -207,10 +207,10 @@
     "message": "此网站使用过的马甲"
   },
   "popupEmailsBlocked": {
-    "message": "已拦截的邮件数"
+    "message": "已拦截的邮件"
   },
   "popupEmailsForwarded": {
-    "message": "封邮件已转发"
+    "message": "已转发的邮件"
   },
   "popupEmailTrackersRemoved": {
     "message": "邮件跟踪器移除数量"
