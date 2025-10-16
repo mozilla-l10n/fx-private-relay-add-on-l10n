@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043b\u0435\u0433\u043a\u043e \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442 \u043f\u043e\u0447\u0442\u0443 \u043d\u0430 \u0432\u0430\u0448 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u044f\u0449\u0438\u043a.",
+    "message": "Firefox Relay позволяет легко создавать псевдонимы электронной почты, которые перенаправляют почту на ваш настоящий почтовый ящик.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0432\u0430\u0448 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b \u2014 \u0430\u0434\u0440\u0435\u0441, \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0442\u0435\u0441\u043d\u043e \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u0441 \u0432\u0430\u0448\u0435\u0439 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c\u044e \u0432 \u0441\u0435\u0442\u0438. \u041e\u043d \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0443\u0447\u0451\u0442\u043d\u044b\u0445 \u0437\u0430\u043f\u0438\u0441\u0435\u0439, \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0438\u043b\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0440\u0430\u0441\u0441\u044b\u043b\u043e\u043a, \u0438 \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0430\u0448 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0430\u0434\u0440\u0435\u0441. \u0415\u0441\u043b\u0438 \u0432\u044b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0442\u0435, \u0447\u0442\u043e \u0443\u0447\u0451\u0442\u043d\u0430\u044f \u0437\u0430\u043f\u0438\u0441\u044c \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u043d\u0435\u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443\u044e \u043f\u043e\u0447\u0442\u0443 \u0438\u043b\u0438 \u0441\u043f\u0430\u043c, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c, \u0438 \u043e\u043d \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043d\u0435\u0442 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443\u044e \u043f\u043e\u0447\u0442\u0443 \u0432 \u0432\u0430\u0448 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u044f\u0449\u0438\u043a. \u041a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u0443\u0447\u0451\u0442\u043d\u0430\u044f \u0437\u0430\u043f\u0438\u0441\u044c \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043d\u0435\u0442 \u0431\u044b\u0442\u044c \u0432\u0430\u043c \u043d\u0443\u0436\u043d\u0430, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0443\u0434\u0430\u043b\u0438\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c.",
+    "message": "Firefox Relay поможет вам защитить ваш настоящий адрес электронной почты — адрес, наиболее тесно связанный с вашей личностью в сети. Он позволяет создавать уникальные случайные псевдонимы, которые вы можете использовать для регистрации учётных записей, приложений или информационных рассылок, и перенаправлять сообщения на ваш настоящий адрес. Если вы обнаружите, что учётная запись отправляет нежелательную электронную почту или спам, вы можете заблокировать псевдоним, и он перестанет отправлять электронную почту в ваш почтовый ящик. Как только учётная запись перестанет быть вам нужна, вы можете удалить псевдоним.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,130 +12,130 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "\u0412\u044b \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 Firefox Relay. \u0427\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c, \u0432\u043e\u0439\u0434\u0438\u0442\u0435 \u0432 Relay \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0410\u043a\u043a\u0430\u0443\u043d\u0442\u0430 Firefox.",
+    "message": "Вы успешно установили дополнение Firefox Relay. Чтобы начать, войдите в Relay с помощью своего Аккаунта Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "\u0412\u044b \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 Firefox Relay. \u0427\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c, \u0432\u043e\u0439\u0434\u0438\u0442\u0435 \u0432 Relay \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430.",
+    "message": "Вы успешно установили дополнение Firefox Relay. Чтобы начать, войдите в Relay с помощью своего аккаунта.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c Mozilla \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0442\u043e\u043c, \u043a\u0430\u043a \u0432\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0435 \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435.",
+    "message": "Разрешить Mozilla собирать информацию о том, как вы используете это расширение.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c \u0441\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445",
+    "message": "Разрешить сбор данных",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "\u041e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0441\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445",
+    "message": "Отключить сбор данных",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "\u0421\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445 \u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u0442\u0430\u043a\u0438\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \u043a\u0430\u043a \u043d\u0430\u0436\u0430\u0442\u0438\u0435 \u0437\u043d\u0430\u0447\u043a\u0430 Relay \u043d\u0430 \u043f\u0430\u043d\u0435\u043b\u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430, \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043d\u0430\u043c \u043f\u043e\u043d\u044f\u0442\u044c, \u0447\u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u043e, \u0430 \u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c. \u0412\u044b \u0432\u0441\u0435\u0433\u0434\u0430 \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u044d\u0442\u043e \u043d\u0430 \u043f\u0430\u043d\u0435\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a.",
+    "message": "Сбор данных о взаимодействии, когда вы выполняете такие действия, как нажатие значка Relay на панели инструментов или создание нового псевдонима, помогает нам понять, что работает хорошо, а что можно улучшить. Вы всегда можете отключить это на панели настроек.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f / \u0412\u043e\u0439\u0442\u0438"
+    "message": "Зарегистрироваться / Войти"
   },
   "popupSettingsTitle": {
-    "message": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438"
+    "message": "Настройки"
   },
   "popupStatsTitle": {
-    "message": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430",
+    "message": "Статистика",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "message": "Новости",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "\u0427\u0442\u043e \u043d\u043e\u0432\u043e\u0433\u043e \u0432 Relay",
+    "message": "Что нового в Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c"
+    "message": "Вернуться на главную панель"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0437\u043d\u0430\u0447\u043e\u043a Relay \u0432 \u043f\u043e\u043b\u044f\u0445 \u0432\u0432\u043e\u0434\u0430 \u043d\u0430 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430\u0445",
+    "message": "Показывать значок Relay в полях ввода на веб-сайтах",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c Mozilla \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0438",
+    "message": "Разрешить Mozilla собирать данные о взаимодействии",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "\u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432"
+    "message": "Оставить отзыв"
   },
   "popupSettingsPrivacy": {
-    "message": "\u041f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c"
+    "message": "Приватность"
   },
   "popupSettingsTermsOfService": {
-    "message": "\u0423\u0441\u043b\u043e\u0432\u0438\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f"
+    "message": "Условия использования"
   },
   "popupSettingsReportIssue": {
-    "message": "\u0421\u043e\u043e\u0431\u0449\u0438\u0442\u044c \u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0435"
+    "message": "Сообщить о проблеме"
   },
   "popupSettingsSubmitReport": {
-    "message": "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435"
+    "message": "Отправить сообщение"
   },
   "popupReportIssuesHeadline": {
-    "message": "\u0423 \u043c\u0435\u043d\u044f \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u044d\u0442\u0438\u043c \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u043c"
+    "message": "У меня возникли проблемы с этим веб-сайтом"
   },
   "popupReportFeedbackHeadline": {
-    "message": "\u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432"
+    "message": "Оставить отзыв"
   },
   "popupReportIssueCaseOne": {
-    "message": "\u0412\u0435\u0431-\u0441\u0430\u0439\u0442 \u043d\u0435 \u043f\u0440\u0438\u043d\u044f\u043b \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b"
+    "message": "Веб-сайт не принял псевдоним электронной почты"
   },
   "popupReportIssueCaseTwo": {
-    "message": "\u0414\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 Relay \u0432\u044b\u0437\u0432\u0430\u043b\u043e \u0432\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0441 \u044d\u0442\u0438\u043c \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u043c",
+    "message": "Дополнение Relay вызвало визуальную проблему с этим веб-сайтом",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "\u042f \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e \u043e\u0442 \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430"
+    "message": "Я не получил ожидаемое письмо от этого веб-сайта"
   },
   "popupReportIssueCaseFour": {
-    "message": "\u042d\u0442\u043e\u0442 \u0441\u0430\u0439\u0442 \u043d\u0435 \u043f\u0440\u0438\u043d\u044f\u043b \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Этот сайт не принял псевдоним телефона"
   },
   "popupReportIssueCaseFive": {
-    "message": "\u042f \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0437\u0432\u043e\u043d\u043e\u043a \u0441 \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430"
+    "message": "Я не получил ожидаемое сообщение или звонок с этого веб-сайта"
   },
   "popupReportIssueCaseOther": {
-    "message": "\u0414\u0440\u0443\u0433\u043e\u0435"
+    "message": "Другое"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043e\u043f\u0438\u0448\u0438\u0442\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438"
+    "message": "Пожалуйста, опишите подробности"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e!"
+    "message": "Сообщение отправлено!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0447\u0442\u043e \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442\u0435 \u043d\u0430\u043c \u0443\u043b\u0443\u0447\u0448\u0430\u0442\u044c Firefox Relay!",
+    "message": "Спасибо, что помогаете нам улучшать Firefox Relay!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c"
+    "message": "Продолжить"
   },
   "popupSignUpPanelWelcome": {
-    "message": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c"
+    "message": "Добро пожаловать"
   },
   "popupSignUpPanelIntro": {
-    "message": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u0441 \u0432\u0445\u043e\u0434\u0430 \u0432 Relay \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c \u0410\u043a\u043a\u0430\u0443\u043d\u0442\u043e\u043c Firefox.",
+    "message": "Начните с входа в Relay под своим Аккаунтом Firefox.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u0441 \u0432\u0445\u043e\u0434\u0430 \u0432 Relay \u043f\u043e\u0434 \u0441\u0432\u043e\u0438\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u043e\u043c.",
+    "message": "Начните с входа в Relay под своим аккаунтом.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c"
+    "message": "Продолжить"
   },
   "popupSignUpPanelSignIn": {
-    "message": "\u0412\u043e\u0439\u0442\u0438"
+    "message": "Войти"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432: $REMAINING$",
+    "message": "Осталось псевдонимов: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -144,7 +144,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432:  $REMAINING$",
+    "message": "Осталось бесплатных псевдонимов:  $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -153,130 +153,130 @@
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "\u041d\u0435\u0434\u0430\u0432\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b",
+    "message": "Недавно использованные псевдонимы электронной почты",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432"
+    "message": "Получите неограниченное число псевдонимов"
   },
   "popupOnboardingShowPrevious": {
-    "message": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c"
+    "message": "Показать предыдущую панель"
   },
   "popupOnboardingShowNext": {
-    "message": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c"
+    "message": "Перейти на следующую панель"
   },
   "ManageAllAliases_mask": {
-    "message": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u043c\u0438 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430\u043c\u0438"
+    "message": "Управление всеми псевдонимами"
   },
   "labelManage": {
-    "message": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435"
+    "message": "Управление"
   },
   "labelSearch": {
-    "message": "\u041f\u043e\u0438\u0441\u043a"
+    "message": "Поиск"
   },
   "labelMaskCreated": {
-    "message": "\u041f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0441\u043e\u0437\u0434\u0430\u043d",
+    "message": "Псевдоним создан",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "\u0421 \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "С этого веб-сайта",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "\u0412\u0441\u0435 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b",
+    "message": "Все почтовые псевдонимы",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "\u0414\u0430\u0439 \u043f\u044f\u0442\u044c!"
+    "message": "Дай пять!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "\u0412\u044b \u2014 \u043e\u043f\u044b\u0442\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c Firefox Relay!",
+    "message": "Вы — опытный пользователь Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u0434\u043e\u043c\u0435\u043d Relay",
+    "message": "Получите уникальный почтовый домен Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "\u041f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043e"
+    "message": "Псевдонимов электронной почты использовано"
   },
   "popupTotalMasksUsed": {
-    "message": "\u041e\u0431\u0449\u0435\u0435 \u0447\u0438\u0441\u043b\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u044d\u043b. \u043f\u043e\u0447\u0442\u044b"
+    "message": "Общее число использованных псевдонимов эл. почты"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "\u041f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0435 \u043d\u0430 \u044d\u0442\u043e\u043c \u0441\u0430\u0439\u0442\u0435"
+    "message": "Псевдонимы, используемые на этом сайте"
   },
   "popupEmailsBlocked": {
-    "message": "\u041f\u0438\u0441\u0435\u043c \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043e"
+    "message": "Писем заблокировано"
   },
   "popupEmailsForwarded": {
-    "message": "\u041f\u0438\u0441\u0435\u043c \u043f\u0435\u0440\u0435\u0441\u043b\u0430\u043d\u043e"
+    "message": "Писем переслано"
   },
   "popupEmailTrackersRemoved": {
-    "message": "\u0422\u0440\u0435\u043a\u0435\u0440\u044b \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b \u0443\u0434\u0430\u043b\u0435\u043d\u044b"
+    "message": "Трекеры электронной почты удалены"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "\u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442\u0435 \u043d\u0430 Relay Premium \u0434\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0437\u0430\u0449\u0438\u0442\u044b!",
+    "message": "Переходите на Relay Premium для большей защиты!",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u044b\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0437\u0430\u0449\u0438\u0442\u044b"
+    "message": "Всемирный инструмент защиты"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443\u044e \u043f\u043e\u0447\u0442\u0443, \u0433\u0434\u0435 \u0431\u044b \u0432\u044b \u043d\u0438 \u0431\u044b\u043b\u0438.",
+    "message": "Relay может помочь вам защитить электронную почту, где бы вы ни были.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u0440\u0430\u0437\u043c\u0435\u0440 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u0439"
+    "message": "Увеличен размер вложений"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay \u0442\u0435\u043f\u0435\u0440\u044c \u043c\u043e\u0436\u0435\u0442 \u043f\u0435\u0440\u0435\u0441\u044b\u043b\u0430\u0442\u044c \u043f\u0438\u0441\u044c\u043c\u0430 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u0434\u043e 25\u041c\u0411, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u044f.",
+    "message": "Firefox Relay теперь может пересылать письма размером до 25МБ, включая вложения.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "\u041d\u0430\u0448\u0435 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0435 \u0446\u0435\u043d\u043e\u0432\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441\u043a\u043e\u0440\u043e \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f!"
+    "message": "Наше начальное ценовое предложение скоро заканчивается!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 Relay Premium \u0434\u043e 27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f \u0438 \u043d\u0430\u0441\u043b\u0430\u0436\u0434\u0430\u0439\u0442\u0435\u0441\u044c \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u044b\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u043f\u043e \u043d\u0430\u0448\u0435\u0439 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0435\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u0439 \u0446\u0435\u043d\u0435.",
+    "message": "Получите Relay Premium до 27 сентября и наслаждайтесь неограниченным количеством псевдонимов по нашей начальной ежемесячной цене.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u0435\u0441\u044c \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441"
+    "message": "Обновитесь прямо сейчас"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "\u0414\u043d\u0435\u0439",
+    "message": "Дней",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "\u0427\u0430\u0441\u043e\u0432",
+    "message": "Часов",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
-    "message": "\u041c\u0438\u043d.",
+    "message": "Мин.",
     "description": "This label displayed on top of a large number representing the number of MINUTES of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupEndOfIntroPricingCountdownSeconds": {
-    "message": "\u0421\u0435\u043a.",
+    "message": "Сек.",
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "\u041f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u044f \u0432\u0430\u0436\u043d\u044b\u0445 \u043f\u0438\u0441\u0435\u043c"
+    "message": "Переадресация важных писем"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0445 \u043f\u0438\u0441\u0435\u043c"
+    "message": "Блокировка рекламных писем"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0445 \u043f\u0438\u0441\u0435\u043c \u0434\u043b\u044f \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430, \u0447\u0442\u043e\u0431\u044b \u0442\u0430\u043a\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043f\u0438\u0441\u044c\u043c\u0430 \u043d\u0435 \u043f\u043e\u043f\u0430\u0434\u0430\u043b\u0438 \u0432 \u0432\u0430\u0448 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u044f\u0449\u0438\u043a."
+    "message": "Включите блокировку рекламных писем для псевдонима, чтобы такие электронные письма не попадали в ваш почтовый ящик."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "\u0423\u0437\u043d\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435"
+    "message": "Узнать больше"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "\u0421 Relay Premium \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0435 \u043f\u0438\u0441\u044c\u043c\u0430, \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0443\u0447\u0430\u044f \u0442\u0430\u043a\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043f\u0438\u0441\u044c\u043c\u0430, \u043a\u0430\u043a \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0438\u0438 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0435.",
+    "message": "С Relay Premium вы можете блокировать рекламные письма, при этом получая такие электронные письма, как квитанции и информацию о доставке.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "\u0414\u043e\u0431\u0430\u0432\u044c\u0442\u0435 Mozilla VPN \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439 $SAVINGS$.",
+    "message": "Добавьте Mozilla VPN со скидкой $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -286,7 +286,7 @@
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "\u0414\u043e\u0431\u0430\u0432\u044c\u0442\u0435 Mozilla VPN \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439 $SAVINGS$.",
+    "message": "Добавьте Mozilla VPN со скидкой $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -296,7 +296,7 @@
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "\u041f\u043b\u0430\u043d \u043d\u0430 1 \u0433\u043e\u0434, \u0432\u043a\u043b\u044e\u0447\u0430\u044f Relay Premium + Mozilla VPN, \u0437\u0430 $MONTHLY_PRICE$ \u0432 \u043c\u0435\u0441\u044f\u0446.",
+    "message": "План на 1 год, включая Relay Premium + Mozilla VPN, за $MONTHLY_PRICE$ в месяц.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -306,7 +306,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0433\u043e\u0434\u043e\u0432\u0443\u044e \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0443 \u043d\u0430 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u043e\u0432 Relay Premium \u043f\u043b\u044e\u0441 Mozilla VPN \u0437\u0430 $MONTHLY_PRICE$ \u0432 \u043c\u0435\u0441\u044f\u0446.",
+    "message": "Получите годовую подписку на маскировку телефонных номеров Relay Premium плюс Mozilla VPN за $MONTHLY_PRICE$ в месяц.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -316,19 +316,19 @@
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u0430\u0440\u043e\u043b\u0435\u0439 Firefox + Relay",
+    "message": "Менеджер паролей Firefox + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "\u0422\u0435\u043f\u0435\u0440\u044c \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c Relay \u043f\u0440\u044f\u043c\u043e \u0432 \u0432\u0430\u0448\u0435\u043c \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0435 \u043f\u0430\u0440\u043e\u043b\u0435\u0439 Firefox.",
+    "message": "Теперь вы можете использовать Relay прямо в вашем менеджере паролей Firefox.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c: \u043f\u043b\u0430\u043d \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 Relay + VPN",
+    "message": "Представляем: план подписки Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u0435 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0443, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043a\u0430\u043a Relay Premium, \u0442\u0430\u043a \u0438 Mozilla VPN \u0437\u0430 $MONTHLY_PRICE$ \u0432 \u043c\u0435\u0441\u044f\u0446. \u0421\u044d\u043a\u043e\u043d\u043e\u043c\u044c\u0442\u0435 $SAVINGS$!",
+    "message": "Обновите подписку, чтобы получить как Relay Premium, так и Mozilla VPN за $MONTHLY_PRICE$ в месяц. Сэкономьте $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -342,38 +342,38 @@
     }
   },
   "popupBundlePromoCTA": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c VPN + Relay",
+    "message": "Получить VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u043e\u0432"
+    "message": "Представляем маскировку телефонных номеров"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "\u0421 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u043e\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0445 \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u0442\u0435\u043f\u0435\u0440\u044c \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0438 \u0437\u0432\u043e\u043d\u043a\u0438, \u043d\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u044f \u0432\u0430\u0448 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043d\u043e\u043c\u0435\u0440."
+    "message": "С маскировкой телефонных номеров теперь вы можете создать псевдоним номера телефона, который поможет вам получать текстовые сообщения и звонки, не раскрывая ваш настоящий номер."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0430\u0439\u0442\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0438 \u0437\u0432\u043e\u043d\u043a\u0438, \u043d\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u044f \u0441\u0432\u043e\u0439 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043d\u043e\u043c\u0435\u0440."
+    "message": "Получайте тексты и звонки, не раскрывая свой настоящий номер."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u0435\u0441\u044c \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441"
+    "message": "Обновитесь прямо сейчас"
   },
   "popupPromoNewLabel": {
-    "message": "\u041d\u043e\u0432\u0438\u043d\u043a\u0430!"
+    "message": "Новинка!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "\u0412\u043e\u0439\u0434\u0438\u0442\u0435 \u0441\u043d\u043e\u0432\u0430, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b"
+    "message": "Войдите снова, используя почтовые псевдонимы"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создайте новый собственный псевдоним"
   },
   "popupCreateCustomMaskBody": {
-    "message": "\u0412\u0441\u0451, \u0447\u0442\u043e \u0432\u0430\u043c \u043d\u0443\u0436\u043d\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c, \u2014 \u044d\u0442\u043e \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0441 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043f\u043e\u0434\u0434\u043e\u043c\u0435\u043d\u043e\u043c \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0438\u043c.  \u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0438\u0437\u043e\u0439\u0434\u0451\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u00abshop@customsubdomain.mozmail.com\u00bb \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0431\u0443\u0434\u0435\u0442\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0432 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435."
+    "message": "Всё, что вам нужно сделать, — это придумать уникальный псевдоним с собственным поддоменом и воспользоваться им.  Создание произойдёт автоматически. Попробуйте, например, «shop@customsubdomain.mozmail.com» в следующий раз, когда будете делать покупки в Интернете."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0440\u0435\u0444\u0438\u043a\u0441 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b"
+    "message": "Введите префикс псевдонима электронной почты"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u00abcoffee\u00bb"
+    "message": "например, «coffee»"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
@@ -385,72 +385,72 @@
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0435 \u043f\u0438\u0441\u044c\u043c\u0430"
+    "message": "Блокировать рекламные письма"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создать псевдоним"
   },
   "popupCreateCustomFormError": {
-    "message": "\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0435\u0449\u0451 \u0440\u0430\u0437."
+    "message": "Не удалось создать псевдоним. Пожалуйста, попробуйте ещё раз."
   },
   "pageInputIconSignUpText": {
-    "message": "\u041f\u043e\u0441\u0435\u0442\u0438\u0442\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442 Firefox Relay, \u0447\u0442\u043e\u0431\u044b \u0432\u043e\u0439\u0442\u0438 \u0438\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u0447\u0451\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c.",
+    "message": "Посетите веб-сайт Firefox Relay, чтобы войти или создать учётную запись.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 Firefox Relay",
+    "message": "Перейти в Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создать новый псевдоним"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создать новый случайный псевдоним"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создать случайный псевдоним"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c"
+    "message": "Создать собственный псевдоним"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0438\u0437 \u0432\u0430\u0448\u0438\u0445 \u0442\u0435\u043a\u0443\u0449\u0438\u0445 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432",
+    "message": "Выберите из ваших текущих почтовых псевдонимов",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b",
+    "message": "Дополнительные почтовые псевдонимы",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "\u0420\u0430\u043d\u0435\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u044d\u0442\u043e\u043c \u0441\u0430\u0439\u0442\u0435",
+    "message": "Ранее использованные на этом сайте",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432"
+    "message": "Получите неограниченное число псевдонимов"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a \u0441\u043f\u0438\u0441\u043a\u0443 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f Premium",
+    "message": "Присоединиться к списку ожидания Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0441 \u044d\u0442\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430\u2026"
+    "message": "Использовать существующий псевдоним с этого сайта…"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "\u041d\u0435\u0434\u0430\u0432\u043d\u0438\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b"
+    "message": "Недавние псевдонимы"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u043d\u043e\u043c\u0435\u0440\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Использовать псевдоним номера телефона"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "\u0412\u044b \u0443\u0436\u0435 \u0441\u043e\u0437\u0434\u0430\u043b\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432",
+    "message": "Вы уже создали максимальное число псевдонимов",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "\u0423 \u0432\u0430\u0441 \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432.",
+    "message": "У вас больше нет бесплатных почтовых псевдонимов.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "\u041d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b: $CHARACTERS$",
+    "message": "Недопустимые символы: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "CHARACTERS": {
@@ -460,46 +460,46 @@
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0438\u043c\u044f \u0443\u0447\u0451\u0442\u043d\u043e\u0439 \u0437\u0430\u043f\u0438\u0441\u0438",
+    "message": "Добавить имя учётной записи",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "\u0417\u0430\u043a\u0440\u044b\u0442\u044c"
+    "message": "Закрыть"
   },
   "returnToPreviousPanel": {
-    "message": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c"
+    "message": "Вернуться на предыдущую панель"
   },
   "popupDataCollectionHeadline": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438"
+    "message": "Включить новые функции"
   },
   "popupDataCollectionBody_mask": {
-    "message": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c Relay \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0435 \u043d\u0430\u043c \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043c\u0435\u0442\u043a\u0438 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u043d\u0430 \u0432\u0430\u0448\u0438\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u0445 \u0441 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430\u043c\u0438, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u043d\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f.",
+    "message": "Вы можете разрешить Relay собирать дополнительные данные, позволяющие нам синхронизировать метки псевдонимов на ваших устройствах с веб-сайтами, на которых они созданы и используются.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435"
+    "message": "Подробнее"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "\u041e\u0442\u043a\u043b\u043e\u043d\u0438\u0442\u044c"
+    "message": "Отклонить"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c"
+    "message": "Разрешить"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f \u043e \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438"
+    "message": "Обновление уведомления о конфиденциальности"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0441\u0442\u044c Firefox Relay \u0432 \u0441\u043b\u0443\u0447\u0430\u0435, \u0435\u0441\u043b\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e, \u043c\u044b \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0431\u0443\u0434\u0435\u043c \u0445\u0440\u0430\u043d\u0438\u0442\u044c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e \u043d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u0430\u0445, \u043f\u043e\u043a\u0430 \u043e\u043d\u043e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e. \u041c\u044b \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u0443\u0434\u0435\u043c \u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0435\u0433\u043e \u0434\u043e\u043b\u044c\u0448\u0435 \u0442\u0440\u0435\u0445 \u0434\u043d\u0435\u0439.",
+    "message": "Чтобы повысить надёжность Firefox Relay в случае, если электронное письмо не может быть доставлено, мы временно будем хранить электронное письмо на наших серверах, пока оно не будет доставлено. Мы никогда не будем держать его дольше трёх дней.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435 \u043e \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438"
+    "message": "Просмотреть уведомление о конфиденциальности"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "\u0423\u0431\u0440\u0430\u0442\u044c"
+    "message": "Убрать"
   },
   "popupFreeMasksAvailable": {
-    "message": "\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e $REMAINING$ \u0438\u0437 $MAXIMUM$ \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432.",
+    "message": "Доступно $REMAINING$ из $MAXIMUM$ псевдонимов.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -513,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "\u0412\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 \u0432\u0441\u0435 $MAXIMUM$ \u0432\u0430\u0448\u0438\u0445 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432.",
+    "message": "Вы использовали все $MAXIMUM$ ваших бесплатных псевдонимов.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -523,157 +523,157 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "\u0417\u0430\u0449\u0438\u0442\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b"
+    "message": "Защитите свой настоящий адрес электронной почты"
   },
   "popupNoMasksCreatedBody": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b Relay, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0432\u0430\u0448\u0435\u0439 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438, \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0432 \u0441\u0432\u043e\u0439 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u044f\u0449\u0438\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u0442\u0435 \u043f\u0438\u0441\u044c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0432\u0438\u0434\u0435\u0442\u044c.",
+    "message": "Используйте псевдонимы Relay, чтобы сохранить конфиденциальность вашей личности, и получать в свой почтовый ящик только те письма, которые вы хотите видеть.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0430\u0449\u0438\u0442\u044b"
+    "message": "Получить больше защиты"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "\u0417\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c Relay",
+    "message": "Запустить Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "\u041d\u0430\u0436\u043c\u0438\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0441\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+    "message": "Нажмите, чтобы скопировать"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e!"
+    "message": "Скопировано!"
   },
   "popupSurveyLink": {
-    "message": "\u041f\u043e\u043c\u043e\u0433\u0438\u0442\u0435 \u043d\u0430\u043c \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c Relay",
+    "message": "Помогите нам улучшить Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "\u041d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u044b \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c Firefox Relay?",
+    "message": "Насколько вы довольны использованием Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "\u041e\u0447\u0435\u043d\u044c \u043d\u0435\u0434\u043e\u0432\u043e\u043b\u0435\u043d"
+    "message": "Очень недоволен"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "\u041d\u0435\u0434\u043e\u0432\u043e\u043b\u0435\u043d"
+    "message": "Недоволен"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0435\u043d"
+    "message": "Нейтрален"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "\u0414\u043e\u0432\u043e\u043b\u0435\u043d"
+    "message": "Доволен"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "\u041e\u0447\u0435\u043d\u044c \u0434\u043e\u0432\u043e\u043b\u0435\u043d"
+    "message": "Очень доволен"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448 \u043e\u0442\u0437\u044b\u0432!"
+    "message": "Спасибо за ваш отзыв!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "\u041c\u044b \u0445\u043e\u0442\u0435\u043b\u0438 \u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435, \u043a\u0430\u043a \u043c\u044b \u043c\u043e\u0436\u0435\u043c \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043b\u0443\u0447\u0448\u0435. \u041d\u0435 \u043c\u043e\u0433\u043b\u0438 \u0431\u044b \u0432\u044b \u043f\u0440\u043e\u0439\u0442\u0438 \u0434\u0432\u0443\u0445\u043c\u0438\u043d\u0443\u0442\u043d\u044b\u0439 \u043e\u043f\u0440\u043e\u0441?"
+    "message": "Мы хотели бы узнать больше, как мы можем работать лучше. Не могли бы вы пройти двухминутный опрос?"
   },
   "popupCsatSurveyDismiss": {
-    "message": "\u041f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c"
+    "message": "Пропустить"
   },
   "popupCsatSurveyLink": {
-    "message": "\u041f\u0440\u043e\u0439\u0442\u0438 \u043e\u043f\u0440\u043e\u0441"
+    "message": "Пройти опрос"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "\u0422\u0435\u043f\u0435\u0440\u044c \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432"
+    "message": "Теперь доступно неограниченное количество псевдонимов"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium \u0442\u0435\u043f\u0435\u0440\u044c \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435. \u0417\u0430\u0449\u0438\u0442\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0439 \u044f\u0449\u0438\u043a \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u043c\u0435\u043d \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b Relay, \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u043e\u0432 \u043d\u0430 \u0445\u043e\u0434\u0443 \u043f\u0440\u043e\u0441\u0442\u044b\u043c \u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u043c.",
+    "message": "Firefox Relay Premium теперь доступен в вашей стране. Защитите свой почтовый ящик с помощью неограниченного количества псевдонимов электронной почты и получите уникальный домен электронной почты Relay, чтобы сделать создание псевдонимов на ходу простым и безопасным.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c Relay Premium",
+    "message": "Получить Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0441\u043a\u0438\u0434\u043a\u0443 20% \u043d\u0430 Relay Premium",
+    "message": "Получите скидку 20% на Relay Premium",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "\u0412 \u044d\u0442\u043e\u0442 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u0447\u043d\u044b\u0439 \u0441\u0435\u0437\u043e\u043d \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0441\u043a\u0438\u0434\u043a\u0443 20% \u043d\u0430 1 \u0433\u043e\u0434 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 Relay Premium. \u041f\u0440\u043e\u0441\u0442\u043e \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434 \u00abHOLIDAY20\u00bb \u043f\u0440\u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0438 \u0437\u0430\u043a\u0430\u0437\u0430. \u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f 31 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2023 \u0433.",
+    "message": "В этот праздничный сезон получите скидку 20% на 1 год подписки Relay Premium. Просто введите промокод «HOLIDAY20» при оформлении заказа. Предложение заканчивается 31 декабря 2023 г.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 1 \u0433\u043e\u0434 Relay Premium",
+    "message": "Получите 1 год Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Relay \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0432\u0441\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438 \u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0430\u0448 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430.",
+    "message": "Relay в настоящее время перенаправляет все телефонные звонки и текстовые сообщения на ваш настоящий номер телефона.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Relay \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0432\u0441\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438 \u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u2014 \u0432\u044b \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0441\u043e \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430.",
+    "message": "Relay блокирует все телефонные звонки и текстовые сообщения — вы ничего не получите со своего псевдонима номера телефона.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "\u041f\u0435\u0440\u0435\u0441\u043b\u0430\u0442\u044c \u043d\u0430:",
+    "message": "Переслать на:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d:",
+    "message": "Зарегистрирован:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "\u041f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u0430\u0446\u0438\u044f"
+    "message": "Переадресация"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430"
+    "message": "Блокировка"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "\u0410\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Активируйте псевдоним телефона"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "\u041a\u0430\u043a \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a Relay Premium, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438, \u043d\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u044f \u0441\u0432\u043e\u0439 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u043d\u043e\u043c\u0435\u0440. \u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u0441 \u0432\u044b\u0431\u043e\u0440\u0430 \u043d\u043e\u043c\u0435\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u0430 \u043d\u043e\u043c\u0435\u0440\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430. \u042d\u0442\u043e \u0437\u0430\u0439\u043c\u0451\u0442 \u0432\u0441\u0435\u0433\u043e 5 \u043c\u0438\u043d\u0443\u0442.",
+    "message": "Как подписчик Relay Premium, вы можете получать текстовые сообщения и телефонные звонки, не раскрывая свой настоящий номер. Начните с выбора номера, который будет использоваться в качестве псевдонима номера телефона. Это займёт всего 5 минут.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Включить псевдоним телефона"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "\u0421\u043a\u0440\u043e\u0439\u0442\u0435 \u0438 \u0441\u0432\u043e\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Скройте и свой номер телефона"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "\u0421 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0433\u043e \u043d\u043e\u043c\u0435\u0440\u0430 Relay Premium \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0441\u0432\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u0438 \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0438 \u0437\u0432\u043e\u043d\u043a\u0438 \u0438 \u043e\u0442\u0432\u0435\u0447\u0430\u0442\u044c \u043d\u0430 \u043d\u0438\u0445.",
+    "message": "С маскированием телефонного номера Relay Premium вы можете защитить свой реальный номер телефона и по-прежнему получать текстовые сообщения и звонки и отвечать на них.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430"
+    "message": "Получить псевдоним телефона"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "\u041f\u043e\u043a\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435"
+    "message": "Пока недоступно в вашей стране"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "\u0421 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u043e\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0433\u043e \u043d\u043e\u043c\u0435\u0440\u0430 Relay Premium \u0432\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043a\u0440\u044b\u0442\u044c \u0441\u0432\u043e\u0439 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430, \u0442\u0430\u043a \u0436\u0435 \u043a\u0430\u043a \u0438 \u0441\u0432\u043e\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b. \u0423\u0437\u043d\u0430\u0439\u0442\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0441\u0430\u0439\u0442\u0435 Relay \u0438 \u043f\u043e\u0434\u043f\u0438\u0448\u0438\u0442\u0435\u0441\u044c \u043d\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f.",
+    "message": "С маскировкой телефонного номера Relay Premium вы сможете скрыть свой реальный номер телефона, так же как и свой адрес электронной почты. Узнайте больше о сайте Relay и подпишитесь на обновления.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u0441\u043f\u0438\u0441\u043a\u0443 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f"
+    "message": "Присоединяйтесь к списку ожидания"
   },
   "phonesTabText": {
-    "message": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d"
+    "message": "Телефон"
   },
   "emailsTabText": {
-    "message": "\u042d\u043b. \u043f\u043e\u0447\u0442\u0430"
+    "message": "Эл. почта"
   },
   "goBackText": {
-    "message": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430\u0437\u0430\u0434"
+    "message": "Вернуться назад"
   },
   "seeStatsText": {
-    "message": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443"
+    "message": "Посмотреть статистику"
   },
   "phoneRemainingMinutes": {
-    "message": "\u041e\u0441\u0442\u0430\u0432\u0448\u0438\u0435\u0441\u044f \u043c\u0438\u043d\u0443\u0442\u044b"
+    "message": "Оставшиеся минуты"
   },
   "phoneRemainingTexts": {
-    "message": "\u041e\u0441\u0442\u0430\u0432\u0448\u0438\u0435\u0441\u044f \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f"
+    "message": "Оставшиеся сообщения"
   },
   "phoneForwardedCallsTexts": {
-    "message": "\u0412\u044b\u0437\u043e\u0432\u044b \u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u0430\u0434\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u044b"
+    "message": "Вызовы и текстовые сообщения переадресованы"
   },
   "phoneBlockedCallsTexts": {
-    "message": "\u0412\u044b\u0437\u043e\u0432\u044b \u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b"
+    "message": "Вызовы и текстовые сообщения заблокированы"
   }
 }
