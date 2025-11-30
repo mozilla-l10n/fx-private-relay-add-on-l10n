@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "Firefox Relay usnad\u0148uje vytv\u00e1\u0159en\u00ed e-mailov\u00fdch masek, kter\u00e9 p\u0159epos\u00edlaj\u00ed e-maily do va\u0161\u00ed skute\u010dn\u00e9 schr\u00e1nky.",
+    "message": "Firefox Relay usnadňuje vytváření e-mailových masek, které přeposílají e-maily do vaší skutečné schránky.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay v\u00e1m pom\u016f\u017ee ochr\u00e1nit va\u0161i skute\u010dnou e-mailovou adresu, kter\u00e1 je sv\u00e1z\u00e1na s va\u0161\u00ed online identitou. Umo\u017e\u0148uje v\u00e1m vygenerovat unik\u00e1tn\u00ed a n\u00e1hodn\u00e9 masky, kter\u00e9 m\u016f\u017eete pou\u017e\u00edvat pro registraci \u00fa\u010dt\u016f, v aplikac\u00edch, nebo pro zas\u00edl\u00e1n\u00ed zpravodaj\u016f a jejich p\u0159epos\u00edl\u00e1n\u00ed do va\u0161\u00ed skute\u010dn\u00e9 e-mailov\u00e9 schr\u00e1nky. Pokud zjist\u00edte, \u017ee v\u00e1m chod\u00ed nevy\u017e\u00e1dan\u00e9 zpr\u00e1vy, m\u016f\u017eete masku zablokovat a zpr\u00e1vy na ni pos\u00edlan\u00e9 v\u00e1m do schr\u00e1nky p\u0159estanou chodit. A kdy\u017e dan\u00fd \u00fa\u010det nebudete pot\u0159ebovat, m\u016f\u017eete masku smazat \u00fapln\u011b.",
+    "message": "Firefox Relay vám pomůže ochránit vaši skutečnou e-mailovou adresu, která je svázána s vaší online identitou. Umožňuje vám vygenerovat unikátní a náhodné masky, které můžete používat pro registraci účtů, v aplikacích, nebo pro zasílání zpravodajů a jejich přeposílání do vaší skutečné e-mailové schránky. Pokud zjistíte, že vám chodí nevyžádané zprávy, můžete masku zablokovat a zprávy na ni posílané vám do schránky přestanou chodit. A když daný účet nebudete potřebovat, můžete masku smazat úplně.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,34 +12,34 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "\u00dasp\u011b\u0161n\u011b jste nainstalovali dopln\u011bk Firefox Relay. Chcete-li za\u010d\u00edt, p\u0159ihlaste se do slu\u017eby Relay pomoc\u00ed sv\u00e9ho \u00fa\u010dtu Firefoxu.",
+    "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "\u00dasp\u011b\u0161n\u011b jste nainstalovali dopln\u011bk Firefox Relay. Chcete-li za\u010d\u00edt, p\u0159ihlaste se do slu\u017eby Relay pomoc\u00ed sv\u00e9ho \u00fa\u010dtu.",
+    "message": "Úspěšně jste nainstalovali doplněk Firefox Relay. Chcete-li začít, přihlaste se do služby Relay pomocí svého účtu.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Povolit Mozille sb\u00edrat data, jak toto roz\u0161\u00ed\u0159en\u00ed pou\u017e\u00edv\u00e1te.",
+    "message": "Povolit Mozille sbírat data, jak toto rozšíření používáte.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Povolit sb\u011br dat",
+    "message": "Povolit sběr dat",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "Zak\u00e1zat sb\u011br dat",
+    "message": "Zakázat sběr dat",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Shroma\u017e\u010fov\u00e1n\u00ed \u00fadaj\u016f o interakc\u00edch, nap\u0159\u00edklad kdy\u017e klepnete my\u0161\u00ed na ikonu slu\u017eby Relay nebo kdy\u017e vytvo\u0159\u00edte novou masku, n\u00e1m pom\u00e1h\u00e1 zjistit, co funguje dob\u0159e a co m\u016f\u017eeme vylep\u0161it. Tento sb\u011br m\u016f\u017eete kdykoli v nastaven\u00ed vypnout.",
+    "message": "Shromažďování údajů o interakcích, například když klepnete myší na ikonu služby Relay nebo když vytvoříte novou masku, nám pomáhá zjistit, co funguje dobře a co můžeme vylepšit. Tento sběr můžete kdykoli v nastavení vypnout.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "P\u0159ihl\u00e1\u0161en\u00ed / Registrace"
+    "message": "Přihlášení / Registrace"
   },
   "popupSettingsTitle": {
-    "message": "Nastaven\u00ed"
+    "message": "Nastavení"
   },
   "popupStatsTitle": {
     "message": "Statistiky",
@@ -50,92 +50,92 @@
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Co je ve slu\u017eb\u011b Relay nov\u00e9ho",
+    "message": "Co je ve službě Relay nového",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Zp\u011bt na hlavn\u00ed panel"
+    "message": "Zpět na hlavní panel"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "Zobrazovat ikonu slu\u017eby Relay ve vstupn\u00edch pol\u00edch na webov\u00fdch str\u00e1nk\u00e1ch",
+    "message": "Zobrazovat ikonu služby Relay ve vstupních polích na webových stránkách",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Povolit Mozille sb\u00edrat \u00fadaje o interakc\u00edch",
+    "message": "Povolit Mozille sbírat údaje o interakcích",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "Zp\u011btn\u00e1 vazba"
+    "message": "Zpětná vazba"
   },
   "popupSettingsPrivacy": {
-    "message": "Soukrom\u00ed"
+    "message": "Soukromí"
   },
   "popupSettingsTermsOfService": {
-    "message": "Podm\u00ednky poskytov\u00e1n\u00ed slu\u017eby"
+    "message": "Podmínky poskytování služby"
   },
   "popupSettingsReportIssue": {
-    "message": "Nahl\u00e1sit chybu"
+    "message": "Nahlásit chybu"
   },
   "popupSettingsSubmitReport": {
-    "message": "Odeslat hl\u00e1\u0161en\u00ed"
+    "message": "Odeslat hlášení"
   },
   "popupReportIssuesHeadline": {
-    "message": "M\u00e1m probl\u00e9my s touto webovou str\u00e1nkou"
+    "message": "Mám problémy s touto webovou stránkou"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Zanech\u00e1n\u00ed zp\u011btn\u00e9 vazby"
+    "message": "Zanechání zpětné vazby"
   },
   "popupReportIssueCaseOne": {
-    "message": "Str\u00e1nka e-mailovou masku odm\u00edt\u00e1 p\u0159ijmout"
+    "message": "Stránka e-mailovou masku odmítá přijmout"
   },
   "popupReportIssueCaseTwo": {
-    "message": "Dopln\u011bk Relay zp\u016fsobil na str\u00e1nce probl\u00e9my se zobrazen\u00edm",
+    "message": "Doplněk Relay způsobil na stránce problémy se zobrazením",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "O\u010dek\u00e1van\u00e1 e-mailov\u00e1 zpr\u00e1va z tohoto serveru nebyla doru\u010dena"
+    "message": "Očekávaná e-mailová zpráva z tohoto serveru nebyla doručena"
   },
   "popupReportIssueCaseFour": {
-    "message": "Maska telefonu nebyla touto webovou str\u00e1nkou akceptov\u00e1na"
+    "message": "Maska telefonu nebyla touto webovou stránkou akceptována"
   },
   "popupReportIssueCaseFive": {
-    "message": "Z t\u00e9to webov\u00e9 str\u00e1nky jsem neobdr\u017eel(a) \u017e\u00e1dnou zpr\u00e1vu ani hovor, kter\u00fd jsem o\u010dek\u00e1val(a)"
+    "message": "Z této webové stránky jsem neobdržel(a) žádnou zprávu ani hovor, který jsem očekával(a)"
   },
   "popupReportIssueCaseOther": {
-    "message": "Jin\u00e1"
+    "message": "Jiná"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "Vypl\u0148te pros\u00edm dal\u0161\u00ed podrobnosti"
+    "message": "Vyplňte prosím další podrobnosti"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "Hl\u00e1\u0161en\u00ed odesl\u00e1no"
+    "message": "Hlášení odesláno"
   },
   "popupReportIssueSuccessBody": {
-    "message": "D\u011bkujeme, \u017ee n\u00e1m pom\u00e1h\u00e1te Firefox Relay vylep\u0161ovat.",
+    "message": "Děkujeme, že nám pomáháte Firefox Relay vylepšovat.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "Pokra\u010dovat"
+    "message": "Pokračovat"
   },
   "popupSignUpPanelWelcome": {
-    "message": "V\u00edtejte"
+    "message": "Vítejte"
   },
   "popupSignUpPanelIntro": {
-    "message": "P\u0159ihlaste se do slu\u017eby Relay pomoc\u00ed sv\u00e9ho \u00fa\u010dtu Firefoxu.",
+    "message": "Přihlaste se do služby Relay pomocí svého účtu Firefoxu.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Za\u010dn\u011bte p\u0159ihl\u00e1\u0161en\u00edm do slu\u017eby Relay pomoc\u00ed sv\u00e9ho \u00fa\u010dtu.",
+    "message": "Začněte přihlášením do služby Relay pomocí svého účtu.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "Pokra\u010dovat"
+    "message": "Pokračovat"
   },
   "popupSignUpPanelSignIn": {
-    "message": "P\u0159ihl\u00e1sit se"
+    "message": "Přihlásit se"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "Zb\u00fdv\u00e1 dostupn\u00fdch masek: $REMAINING$",
+    "message": "Zbývá dostupných masek: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -144,7 +144,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "Zb\u00fdv\u00e1 dostupn\u00fdch bezplatn\u00fdch masek: $REMAINING$",
+    "message": "Zbývá dostupných bezplatných masek: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -153,20 +153,20 @@
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Naposledy pou\u017eit\u00e9 e-mailov\u00e9 masky",
+    "message": "Naposledy použité e-mailové masky",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Z\u00edskat neomezen\u00fd po\u010det masek"
+    "message": "Získat neomezený počet masek"
   },
   "popupOnboardingShowPrevious": {
-    "message": "Zobrazit p\u0159edchoz\u00ed panel"
+    "message": "Zobrazit předchozí panel"
   },
   "popupOnboardingShowNext": {
-    "message": "P\u0159ej\u00edt na dal\u0161\u00ed panel"
+    "message": "Přejít na další panel"
   },
   "ManageAllAliases_mask": {
-    "message": "Spravovat v\u0161echny masky"
+    "message": "Spravovat všechny masky"
   },
   "labelManage": {
     "message": "Spravovat"
@@ -175,7 +175,7 @@
     "message": "Vyhledat"
   },
   "labelMaskCreated": {
-    "message": "Maska byla vytvo\u0159ena",
+    "message": "Maska byla vytvořena",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
@@ -183,68 +183,68 @@
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "V\u0161echny e-mailov\u00e9 masky",
+    "message": "Všechny e-mailové masky",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
-    "message": "Pl\u00e1cni to!"
+    "message": "Plácni to!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "Jste zdatn\u00fd u\u017eivatel slu\u017eby Firefox Relay!",
+    "message": "Jste zdatný uživatel služby Firefox Relay!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
-    "message": "Z\u00edskat jedine\u010dnou e-mailovou dom\u00e9nu Relay",
+    "message": "Získat jedinečnou e-mailovou doménu Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Pou\u017e\u00edvan\u00e9 e-mailov\u00e9 masky"
+    "message": "Používané e-mailové masky"
   },
   "popupTotalMasksUsed": {
-    "message": "Celkov\u00fd po\u010det pou\u017e\u00edvan\u00fdch e-mailov\u00fdch masek"
+    "message": "Celkový počet používaných e-mailových masek"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Masky pou\u017e\u00edvan\u00e9 na tomto webu"
+    "message": "Masky používané na tomto webu"
   },
   "popupEmailsBlocked": {
-    "message": "Zablokovan\u00e9 e-maily"
+    "message": "Zablokované e-maily"
   },
   "popupEmailsForwarded": {
-    "message": "P\u0159eposlan\u00e9 e-maily"
+    "message": "Přeposlané e-maily"
   },
   "popupEmailTrackersRemoved": {
-    "message": "Odstran\u011bn\u00e9 sledovac\u00ed prvky z e-mail\u016f"
+    "message": "Odstraněné sledovací prvky z e-mailů"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Relay Premium v\u00e1m poskytne je\u0161t\u011b v\u011bt\u0161\u00ed ochranu.",
+    "message": "Relay Premium vám poskytne ještě větší ochranu.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Celosv\u011btov\u00fd ochrann\u00fd n\u00e1stroj"
+    "message": "Celosvětový ochranný nástroj"
   },
   "popupEducationalComponent1Body": {
-    "message": "Relay v\u00e1m pom\u016f\u017ee ochr\u00e1nit v\u00e1\u0161 e-mail bez ohledu na to, kde se nach\u00e1z\u00edte.",
+    "message": "Relay vám pomůže ochránit váš e-mail bez ohledu na to, kde se nacházíte.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Nav\u00fd\u0161en\u00ed velikosti p\u0159\u00edloh"
+    "message": "Navýšení velikosti příloh"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "Firefox Relay te\u010f um\u00ed p\u0159epos\u00edlat e-maily a\u017e do velikosti 25 MB, v\u010detn\u011b p\u0159\u00edloh.",
+    "message": "Firefox Relay teď umí přeposílat e-maily až do velikosti 25 MB, včetně příloh.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "Na\u0161e zav\u00e1d\u011bc\u00ed cenov\u00e1 nab\u00eddka brzy kon\u010d\u00ed!"
+    "message": "Naše zaváděcí cenová nabídka brzy končí!"
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Po\u0159i\u010fte si Relay Premium do 27. z\u00e1\u0159\u00ed a u\u017e\u00edvejte si neomezen\u00e9 maskov\u00e1n\u00ed za na\u0161i zav\u00e1d\u011bc\u00ed m\u011bs\u00ed\u010dn\u00ed cenu.",
+    "message": "Pořiďte si Relay Premium do 27. září a užívejte si neomezené maskování za naši zaváděcí měsíční cenu.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "Aktualizujte"
+    "message": "Upgradujte"
   },
   "popupEndOfIntroPricingCountdownDays": {
-    "message": "Dn\u016f",
+    "message": "Dnů",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
@@ -260,23 +260,23 @@
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "P\u0159epos\u00edl\u00e1n\u00ed d\u016fle\u017eit\u00fdch e-mail\u016f"
+    "message": "Přeposílání důležitých e-mailů"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "Blokov\u00e1n\u00ed reklamn\u00edch e-mail\u016f"
+    "message": "Blokování reklamních e-mailů"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Zapnut\u00edm blokov\u00e1n\u00ed reklamn\u00edch e-mail\u016f zaslan\u00fdch na va\u0161\u00ed masku zabr\u00e1n\u00edte jejich doru\u010dov\u00e1n\u00ed do va\u0161\u00ed e-mailov\u00e9 schr\u00e1nky."
+    "message": "Zapnutím blokování reklamních e-mailů zaslaných na vaší masku zabráníte jejich doručování do vaší e-mailové schránky."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Zjistit v\u00edce"
+    "message": "Zjistit více"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "Se slu\u017ebou Relay Premium m\u016f\u017eete zabr\u00e1nit doru\u010dov\u00e1n\u00ed reklamn\u00edch e-mail\u016f do va\u0161\u00ed e-mailov\u00e9 schr\u00e1nky, zat\u00edmco dal\u0161\u00ed e-maily jako \u00fadaje o platb\u00e1ch nebo doru\u010dov\u00e1n\u00ed z\u00e1silek st\u00e1le dostanete.",
+    "message": "Se službou Relay Premium můžete zabránit doručování reklamních e-mailů do vaší e-mailové schránky, zatímco další e-maily jako údaje o platbách nebo doručování zásilek stále dostanete.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "P\u0159idejte si Mozilla VPN se slevou $SAVINGS$.",
+    "message": "Přidejte si Mozilla VPN se slevou $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -286,7 +286,7 @@
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "P\u0159idejte si Mozilla VPN se slevou $SAVINGS$.",
+    "message": "Přidejte si Mozilla VPN se slevou $SAVINGS$.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -296,7 +296,7 @@
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "Ro\u010dn\u00ed pl\u00e1n zahrnuj\u00edc\u00ed Relay Premium + Mozilla VPN za $MONTHLY_PRICE$ m\u011bs\u00ed\u010dn\u011b.",
+    "message": "Roční plán zahrnující Relay Premium + Mozilla VPN za $MONTHLY_PRICE$ měsíčně.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -306,7 +306,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Z\u00edskejte maskov\u00e1n\u00ed telefonu od Relay Premium a Mozilla VPN na jeden rok za $MONTHLY_PRICE$ m\u011bs\u00ed\u010dn\u011b.",
+    "message": "Získejte maskování telefonu od Relay Premium a Mozilla VPN na jeden rok za $MONTHLY_PRICE$ měsíčně.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -316,19 +316,19 @@
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Spr\u00e1vce hesel ve Firefoxu + Relay",
+    "message": "Správce hesel ve Firefoxu + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Relay te\u010f m\u016f\u017eete ve Firefoxu pou\u017e\u00edvat p\u0159\u00edmo ve spr\u00e1vci p\u0159ihla\u0161ovac\u00edch \u00fadaj\u016f.",
+    "message": "Relay teď můžete ve Firefoxu používat přímo ve správci přihlašovacích údajů.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "P\u0159edstavujeme: spole\u010dn\u00e9 p\u0159edplatn\u00e9 Relay + VPN",
+    "message": "Představujeme: společné předplatné Relay + VPN",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Upgradujte sv\u00e9 p\u0159edplatn\u00e9 a z\u00edskejte Relay Premium spole\u010dn\u011b se slu\u017ebou Mozilla VPN za $MONTHLY_PRICE$ m\u011bs\u00ed\u010dn\u011b. U\u0161et\u0159\u00edte $SAVINGS$!",
+    "message": "Upgradujte své předplatné a získejte Relay Premium společně se službou Mozilla VPN za $MONTHLY_PRICE$ měsíčně. Ušetříte $SAVINGS$!",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -342,38 +342,38 @@
     }
   },
   "popupBundlePromoCTA": {
-    "message": "Z\u00edskejte VPN + Relay",
+    "message": "Získejte VPN + Relay",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "P\u0159edstavujeme maskov\u00e1n\u00ed telefonn\u00edch \u010d\u00edsel"
+    "message": "Představujeme maskování telefonních čísel"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "Maskov\u00e1n\u00ed telefonn\u00edho \u010d\u00edsla v\u00e1m umo\u017en\u00ed p\u0159ij\u00edmat textov\u00e9 zpr\u00e1vy i hovory bez toho, abyste prozradili sv\u00e9 skute\u010dn\u00e9 telefonn\u00ed \u010d\u00edslo."
+    "message": "Maskování telefonního čísla vám umožní přijímat textové zprávy i hovory bez toho, abyste prozradili své skutečné telefonní číslo."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "P\u0159ij\u00edmejte zpr\u00e1vy i hovory bez prozrazen\u00ed sv\u00e9ho vlastn\u00edho \u010d\u00edsla."
+    "message": "Přijímejte zprávy i hovory bez prozrazení svého vlastního čísla."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "Aktualizujte"
+    "message": "Upgradujte"
   },
   "popupPromoNewLabel": {
     "message": "Novinka!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "P\u0159ihlaste se zp\u00e1tky pomoc\u00ed sv\u00fdch e-mailov\u00fdch masek"
+    "message": "Přihlaste se zpátky pomocí svých e-mailových masek"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "Vytvo\u0159en\u00ed nov\u00e9 vlastn\u00ed masky"
+    "message": "Vytvoření nové vlastní masky"
   },
   "popupCreateCustomMaskBody": {
-    "message": "V\u0161e, co mus\u00edte ud\u011blat, je vymyslet a sd\u00edlet jedine\u010dnou masku, kter\u00e1 pou\u017e\u00edv\u00e1 va\u0161i vlastn\u00ed subdom\u00e9nu \u2013 maska se vygeneruje automaticky. A\u017e budete p\u0159\u00ed\u0161t\u011b nakupovat p\u0159es internet, zkuste pou\u017e\u00edt nap\u0159\u00edklad \u201enakupy@vlastni-subdomena.mozmail.com\u201c."
+    "message": "Vše, co musíte udělat, je vymyslet a sdílet jedinečnou masku, která používá vaši vlastní subdoménu – maska se vygeneruje automaticky. Až budete příště nakupovat přes internet, zkuste použít například „nakupy@vlastni-subdomena.mozmail.com“."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "Zadejte p\u0159edponu e-mailov\u00e9 masky"
+    "message": "Zadejte předponu e-mailové masky"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "nap\u0159. \u201ekafe\u201c"
+    "message": "např. „kafe“"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
@@ -385,72 +385,72 @@
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "Blokov\u00e1n\u00ed reklamn\u00edch e-mail\u016f"
+    "message": "Blokování reklamních e-mailů"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "Vytvo\u0159it masku"
+    "message": "Vytvořit masku"
   },
   "popupCreateCustomFormError": {
-    "message": "Masku se nepoda\u0159ilo vytvo\u0159it. Zkuste to pros\u00edm znovu."
+    "message": "Masku se nepodařilo vytvořit. Zkuste to prosím znovu."
   },
   "pageInputIconSignUpText": {
-    "message": "Nav\u0161tivte web slu\u017eby Firefox Relay a p\u0159ihlaste se nebo si vytvo\u0159te \u00fa\u010det.",
+    "message": "Navštivte web služby Firefox Relay a přihlaste se nebo si vytvořte účet.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "P\u0159ej\u00edt na Firefox Relay",
+    "message": "Přejít na Firefox Relay",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
     "message": "Vygenerovat novou masku"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "Vygenerovat novou n\u00e1hodnou masku"
+    "message": "Vygenerovat novou náhodnou masku"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "Vygenerovat n\u00e1hodnou masku"
+    "message": "Vygenerovat náhodnou masku"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "Vytvo\u0159it vlastn\u00ed masku"
+    "message": "Vytvořit vlastní masku"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "Vyberte svou existuj\u00edc\u00ed e-mailovou masku",
+    "message": "Vyberte svou existující e-mailovou masku",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Dal\u0161\u00ed e-mailov\u00e9 masky",
+    "message": "Další e-mailové masky",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "D\u0159\u00edve pou\u017eit\u00e9 na tomto webu",
+    "message": "Dříve použité na tomto webu",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Z\u00edskat neomezen\u00fd po\u010det masek"
+    "message": "Získat neomezený počet masek"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "P\u0159idejte se na \u010dekac\u00ed listinu pro p\u0159edplatn\u00e9 Premium",
+    "message": "Přidejte se na čekací listinu pro předplatné Premium",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Pou\u017e\u00edt existuj\u00edc\u00ed masku z tohoto webu\u2026"
+    "message": "Použít existující masku z tohoto webu…"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Naposledy pou\u017eit\u00e9 masky"
+    "message": "Naposledy použité masky"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "P\u0159idat masku telefonn\u00edho \u010d\u00edsla"
+    "message": "Přidat masku telefonního čísla"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "U\u017e jste vytvo\u0159ili maxim\u00e1ln\u00ed po\u010det masek",
+    "message": "Už jste vytvořili maximální počet masek",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "U\u017e nem\u00e1te \u017e\u00e1dn\u00e9 bezplatn\u00e9 e-mailov\u00e9 masky.",
+    "message": "Už nemáte žádné bezplatné e-mailové masky.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
-    "message": "Nepovolen\u00e9 znaky: $CHARACTERS$",
+    "message": "Nepovolené znaky: $CHARACTERS$",
     "description": "Error message that appears when the user tries to use special characters when labelling an mask.",
     "placeholders": {
       "CHARACTERS": {
@@ -460,46 +460,46 @@
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "P\u0159idat n\u00e1zev \u00fa\u010dtu",
+    "message": "Přidat název účtu",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "Zav\u0159\u00edt"
+    "message": "Zavřít"
   },
   "returnToPreviousPanel": {
-    "message": "Zp\u011bt na p\u0159edchoz\u00ed panel"
+    "message": "Zpět na předchozí panel"
   },
   "popupDataCollectionHeadline": {
-    "message": "Nov\u00e9 funkce"
+    "message": "Nové funkce"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Slu\u017eb\u011b Relay m\u016f\u017eete povolit shroma\u017e\u010fov\u00e1n\u00ed voliteln\u00fdch \u00fadaj\u016f, kter\u00e9 n\u00e1m umo\u017en\u00ed synchronizovat popisky va\u0161ich masek nap\u0159\u00ed\u010d va\u0161imi za\u0159\u00edzen\u00edmi, v\u010detn\u011b web\u016f, na kter\u00fdch jste masky vytvo\u0159ili a pou\u017eili.",
+    "message": "Službě Relay můžete povolit shromažďování volitelných údajů, které nám umožní synchronizovat popisky vašich masek napříč vašimi zařízeními, včetně webů, na kterých jste masky vytvořili a použili.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Zjistit v\u00edce"
+    "message": "Zjistit více"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "Odm\u00edtnout"
+    "message": "Odmítnout"
   },
   "popupDataCollectionButtonAllow": {
     "message": "Povolit"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Aktualizace z\u00e1sad ochrany osobn\u00edch \u00fadaj\u016f"
+    "message": "Aktualizace zásad ochrany osobních údajů"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "Pro zv\u00fd\u0161en\u00ed spolehlivosti slu\u017eby Firefox Relay v p\u0159\u00edpad\u011b, \u017ee e-mail nebude mo\u017en\u00e9 doru\u010dit, ho do\u010dasn\u011b uchov\u00e1me na na\u0161ich serverech, dokud nebude doru\u010den. Nikdy ho v\u0161ak nebudeme uchov\u00e1vat d\u00e9le ne\u017e t\u0159i dny.",
+    "message": "Pro zvýšení spolehlivosti služby Firefox Relay v případě, že e-mail nebude možné doručit, ho dočasně uchováme na našich serverech, dokud nebude doručen. Nikdy ho však nebudeme uchovávat déle než tři dny.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Zobrazit z\u00e1sady ochrany osobn\u00edch \u00fadaj\u016f"
+    "message": "Zobrazit zásady ochrany osobních údajů"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "Zav\u0159\u00edt"
+    "message": "Zavřít"
   },
   "popupFreeMasksAvailable": {
-    "message": "K dispozici m\u00e1te $REMAINING$ z max. po\u010dtu $MAXIMUM$ masek.",
+    "message": "K dispozici máte $REMAINING$ z max. počtu $MAXIMUM$ masek.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -513,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Pou\u017eili jste u\u017e v\u0161ech $MAXIMUM$ sv\u00fdch bezplatn\u00fdch masek.",
+    "message": "Použili jste už všech $MAXIMUM$ svých bezplatných masek.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -523,134 +523,134 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "Chra\u0148te svou skute\u010dnou e-mailovou adresu"
+    "message": "Chraňte svou skutečnou e-mailovou adresu"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Pou\u017e\u00edvejte masky slu\u017eby Relay a udr\u017eujte tak svou identitu v tajnosti a do sv\u00e9 e-mailov\u00e9 schr\u00e1nky dost\u00e1vejte jen ty e-maily, kter\u00e9 chcete.",
+    "message": "Používejte masky služby Relay a udržujte tak svou identitu v tajnosti a do své e-mailové schránky dostávejte jen ty e-maily, které chcete.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Z\u00edskejte v\u011bt\u0161\u00ed ochranu"
+    "message": "Získejte větší ochranu"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "Spustit slu\u017ebu Relay",
+    "message": "Spustit službu Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Klepnut\u00edm zkop\u00edrujete do schr\u00e1nky"
+    "message": "Klepnutím zkopírujete do schránky"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "Zkop\u00edrov\u00e1no!"
+    "message": "Zkopírováno!"
   },
   "popupSurveyLink": {
-    "message": "Pomozte n\u00e1m zlep\u0161it Relay",
+    "message": "Pomozte nám zlepšit Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Jak jste spokojen(a) se slu\u017ebou Firefox Relay?",
+    "message": "Jak jste spokojen(a) se službou Firefox Relay?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Velmi nespokojen\u00fd"
+    "message": "Velmi nespokojený"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "Nespokojen\u00fd"
+    "message": "Nespokojený"
   },
   "popupCsatSurveySatisfactionNeutral": {
-    "message": "Neutr\u00e1ln\u00ed"
+    "message": "Neutrální"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "Spokojen\u00fd"
+    "message": "Spokojený"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Velmi spokojen\u00fd"
+    "message": "Velmi spokojený"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "D\u011bkujeme za zp\u011btnou vazbu!"
+    "message": "Děkujeme za zpětnou vazbu!"
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "R\u00e1di bychom se dozv\u011bd\u011bli v\u00edce o tom, jak se m\u016f\u017eeme zlep\u0161it. Byli byste ochotni z\u00fa\u010dastnit se dvouminutov\u00e9ho pr\u016fzkumu?"
+    "message": "Rádi bychom se dozvěděli více o tom, jak se můžeme zlepšit. Byli byste ochotni zúčastnit se dvouminutového průzkumu?"
   },
   "popupCsatSurveyDismiss": {
-    "message": "Zav\u0159\u00edt"
+    "message": "Zavřít"
   },
   "popupCsatSurveyLink": {
-    "message": "Z\u00fa\u010dastnit se pr\u016fzkumu"
+    "message": "Zúčastnit se průzkumu"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "Nyn\u00ed je dostupn\u00fd neomezen\u00fd po\u010det masek"
+    "message": "Nyní je dostupný neomezený počet masek"
   },
   "popupEuCountryExpansionBody": {
-    "message": "Firefox Relay Premium je nyn\u00ed k dispozici ve va\u0161\u00ed zemi. Chra\u0148te svou doru\u010denou po\u0161tu neomezen\u00fdm po\u010dtem e-mailov\u00fdch masek a z\u00edskejte jedine\u010dnou e-mailovou dom\u00e9nu Relay, d\u00edky kter\u00e9 bude vytv\u00e1\u0159en\u00ed masek na cest\u00e1ch snadn\u00e9 a bezpe\u010dn\u00e9.",
+    "message": "Firefox Relay Premium je nyní k dispozici ve vaší zemi. Chraňte svou doručenou poštu neomezeným počtem e-mailových masek a získejte jedinečnou e-mailovou doménu Relay, díky které bude vytváření masek na cestách snadné a bezpečné.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
-    "message": "Z\u00edskat Relay Premium",
+    "message": "Získat Relay Premium",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Z\u00edskejte slevu 20 % na Relay Premium",
+    "message": "Získejte slevu 20 % na Relay Premium",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "O leto\u0161n\u00edch pr\u00e1zdnin\u00e1ch z\u00edsk\u00e1te slevu 20 % na 1 rok slu\u017eby Relay Premium. Sta\u010d\u00ed p\u0159i placen\u00ed zadat propaga\u010dn\u00ed k\u00f3d \u201cHOLIDAY20\u201d. Nab\u00eddka kon\u010d\u00ed 31. prosince 2023.",
+    "message": "O letošních prázdninách získáte slevu 20 % na 1 rok služby Relay Premium. Stačí při placení zadat propagační kód “HOLIDAY20”. Nabídka končí 31. prosince 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Z\u00edskejte Relay Premium na 1 rok",
+    "message": "Získejte Relay Premium na 1 rok",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "Slu\u017eba Relay nyn\u00ed p\u0159esm\u011brov\u00e1v\u00e1 v\u0161echny hovory a textov\u00e9 zpr\u00e1vy na va\u0161e skute\u010dn\u00e9 telefonn\u00ed \u010d\u00edslo.",
+    "message": "Služba Relay nyní přesměrovává všechny hovory a textové zprávy na vaše skutečné telefonní číslo.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "Slu\u017eba Relay blokuje v\u0161echny hovory a textov\u00e9 zpr\u00e1vy \u2014 z masky va\u0161eho telefonn\u00edho \u010d\u00edsla nebude nic p\u0159ij\u00edm\u00e1no.",
+    "message": "Služba Relay blokuje všechny hovory a textové zprávy — z masky vašeho telefonního čísla nebude nic přijímáno.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "P\u0159esm\u011brovat na:",
+    "message": "Přesměrovat na:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Registrov\u00e1na:",
+    "message": "Registrována:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "P\u0159esm\u011brov\u00e1na"
+    "message": "Přesměrována"
   },
   "popupPhoneMasksBlockingButton": {
     "message": "Blokuje se"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Aktivujte si masku telefonn\u00edho \u010d\u00edsla"
+    "message": "Aktivujte si masku telefonního čísla"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Jako p\u0159edplatitel slu\u017eby Relay Premium m\u016f\u017eete p\u0159ij\u00edmat textov\u00e9 zpr\u00e1vy a telefonn\u00ed hovory bez prozrazen\u00ed sv\u00e9ho skute\u010dn\u00e9ho telefonn\u00edho \u010d\u00edsla. Za\u010dn\u011bte v\u00fdb\u011brem \u010d\u00edsla, kter\u00e9 chcete pou\u017e\u00edt jako masku telefonn\u00edho \u010d\u00edsla. Zabere to jen 5 minut.",
+    "message": "Jako předplatitel služby Relay Premium můžete přijímat textové zprávy a telefonní hovory bez prozrazení svého skutečného telefonního čísla. Začněte výběrem čísla, které chcete použít jako masku telefonního čísla. Zabere to jen 5 minut.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Aktivovat masku telefonn\u00edho \u010d\u00edsla"
+    "message": "Aktivovat masku telefonního čísla"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Zamaskujte si sv\u00e9 telefonn\u00ed \u010d\u00edslo"
+    "message": "Zamaskujte si své telefonní číslo"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "Pomoc\u00ed maskov\u00e1n\u00ed telefonn\u00edho \u010d\u00edsla ve slu\u017eb\u011b Relay Premium m\u016f\u017eete chr\u00e1nit sv\u00e9 skute\u010dn\u00e9 telefonn\u00ed \u010d\u00edslo a st\u00e1le p\u0159ij\u00edmat a odpov\u00eddat na zpr\u00e1vy SMS a hovory.",
+    "message": "Pomocí maskování telefonního čísla ve službě Relay Premium můžete chránit své skutečné telefonní číslo a stále přijímat a odpovídat na zprávy SMS a hovory.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Z\u00edskejte maskov\u00e1n\u00ed telefonn\u00edho \u010d\u00edsla"
+    "message": "Získejte maskování telefonního čísla"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "Ve va\u0161\u00ed zemi zat\u00edm nen\u00ed k dispozici"
+    "message": "Ve vaší zemi zatím není k dispozici"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "D\u00edky maskov\u00e1n\u00ed telefonn\u00edho \u010d\u00edsla ve slu\u017eb\u011b Relay Premium budete moci skr\u00fdvat sv\u00e9 skute\u010dn\u00e9 telefonn\u00ed \u010d\u00edslo stejn\u011b jako svou e-mailovou adresu. Zjist\u011bte v\u00edce na webu slu\u017eby Relay a p\u0159ihlaste se k odb\u011bru aktualizac\u00ed.",
+    "message": "Díky maskování telefonního čísla ve službě Relay Premium budete moci skrývat své skutečné telefonní číslo stejně jako svou e-mailovou adresu. Zjistěte více na webu služby Relay a přihlaste se k odběru aktualizací.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "P\u0159idat se na \u010dekac\u00ed listinu"
+    "message": "Přidat se na čekací listinu"
   },
   "phonesTabText": {
     "message": "Telefon"
@@ -659,21 +659,21 @@
     "message": "E-mail"
   },
   "goBackText": {
-    "message": "Zp\u00e1tky"
+    "message": "Zpátky"
   },
   "seeStatsText": {
     "message": "Zobrazit statistiky"
   },
   "phoneRemainingMinutes": {
-    "message": "Zb\u00fdvaj\u00edc\u00ed minuty"
+    "message": "Zbývající minuty"
   },
   "phoneRemainingTexts": {
-    "message": "Zb\u00fdvaj\u00edc\u00ed texty"
+    "message": "Zbývající texty"
   },
   "phoneForwardedCallsTexts": {
-    "message": "P\u0159esm\u011brovan\u00e9 hovory a zpr\u00e1vy"
+    "message": "Přesměrované hovory a zprávy"
   },
   "phoneBlockedCallsTexts": {
-    "message": "Hovory a zpr\u00e1vy jsou blokov\u00e1ny"
+    "message": "Hovory a zprávy jsou blokovány"
   }
 }
