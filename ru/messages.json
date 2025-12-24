@@ -12,7 +12,7 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Вы успешно установили дополнение Firefox Relay. Чтобы начать, войдите в Relay с помощью своего Аккаунта Firefox.",
+    "message": "Вы успешно установили дополнение Firefox Relay. Чтобы начать, войдите в Relay с помощью своего аккаунта Firefox.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
