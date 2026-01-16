@@ -4,7 +4,7 @@
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "Firefox Relay te adjuta a proteger tu ver adresse de e-mail \u2013 le adresse que es le plus intimemente ligate a tu identitate in linea. Illo te permitte de generar mascas unic e aleatori que tu pote usar pro inscriber te a contos, applicationes, o bulletines de novas, e reexpedi le messages a tu ver adresse. Si tu trova que un conto invia e-mail indesirate o spam, tu pote blocar le masca e illo stoppara le invio de e-mail a tu cassa de entrata. Un vice que tu non vole plus un conto, tu pote deler le masca.",
+    "message": "Firefox Relay te adjuta a proteger tu ver adresse de e-mail – le adresse que es le plus intimemente ligate a tu identitate in linea. Illo te permitte de generar mascas unic e aleatori que tu pote usar pro inscriber te a contos, applicationes, o bulletines de novas, e reexpedi le messages a tu ver adresse. Si tu trova que un conto invia e-mail indesirate o spam, tu pote blocar le masca e illo stoppara le invio de e-mail a tu cassa de entrata. Un vice que tu non vole plus un conto, tu pote deler le masca.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -71,7 +71,7 @@
     "message": "Confidentialitate"
   },
   "popupSettingsTermsOfService": {
-    "message": "Terminos de servicio"
+    "message": "Conditiones de uso del servicio"
   },
   "popupSettingsReportIssue": {
     "message": "Reportar problema"
@@ -367,13 +367,13 @@
     "message": "Crear un nove masca personalisate"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Toto lo que tu debe facer es crear e compartir un unic masca que usa tu subdominio personal, le masca sera generate automaticamente. Per exemplo proba \u201cshop@customsubdomain.mozmail.com\u201d le proxime vice que tu compra online."
+    "message": "Toto lo que tu debe facer es crear e compartir un unic masca que usa tu subdominio personal, le masca sera generate automaticamente. Per exemplo proba “shop@customsubdomain.mozmail.com” le proxime vice que tu compra online."
   },
   "popupCreateCustomFormMaskInputLabel": {
     "message": "Insere un prefixo de masca email"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "e.g. \u201ccaffe\u201d"
+    "message": "e.g. “caffe”"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
@@ -433,7 +433,7 @@
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Usar un masca existente ab iste sito\u2026"
+    "message": "Usar un masca existente ab iste sito…"
   },
   "pageInputIconRecentAliases_mask": {
     "message": "Mascas recente"
@@ -593,7 +593,7 @@
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Iste saison de vacantia, sparnia le 20% sur le precio de 1 anno de Relay Premium. Justo insere le codice de promotion \u201cHOLIDAY20\u201d al momento del pagamento. Le offerta expira le 31 decembre 2023.",
+    "message": "Iste saison de vacantia, sparnia le 20% sur le precio de 1 anno de Relay Premium. Justo insere le codice de promotion “HOLIDAY20” al momento del pagamento. Le offerta expira le 31 decembre 2023.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
