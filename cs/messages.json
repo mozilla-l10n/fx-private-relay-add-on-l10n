@@ -388,7 +388,7 @@
     "message": "Blokování reklamních e-mailů"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "Vytvořit masku"
+    "message": "Vygenerovat masku"
   },
   "popupCreateCustomFormError": {
     "message": "Masku se nepodařilo vytvořit. Zkuste to prosím znovu."
