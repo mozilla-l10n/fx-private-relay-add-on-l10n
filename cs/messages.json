@@ -623,14 +623,14 @@
     "message": "Blokuje se"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Aktivujte si masku telefonního čísla"
+    "message": "Aktivujte si telefonní masku"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
     "message": "Jako předplatitel služby Relay Premium můžete přijímat textové zprávy a telefonní hovory bez prozrazení svého skutečného telefonního čísla. Začněte výběrem čísla, které chcete použít jako masku telefonního čísla. Zabere to jen 5 minut.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Aktivovat masku telefonního čísla"
+    "message": "Aktivovat telefonní masku"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
     "message": "Zamaskujte si své telefonní číslo"
@@ -640,7 +640,7 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
-    "message": "Získejte maskování telefonního čísla"
+    "message": "Získejte maskování telefonu"
   },
   "popUpPhoneMasksNotAvailableTitle": {
     "message": "Ve vaší zemi zatím není k dispozici"
