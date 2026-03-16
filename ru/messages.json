@@ -121,7 +121,7 @@
     "message": "Добро пожаловать"
   },
   "popupSignUpPanelIntro": {
-    "message": "Начните с входа в Relay под своим Аккаунтом Firefox.",
+    "message": "Начните с входа в Relay под своим аккаунтом Firefox.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
