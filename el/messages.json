@@ -613,7 +613,7 @@
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Καταχώρηση:",
+    "message": "Καταχώριση:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
