@@ -1,10 +1,10 @@
 {
   "extensionDescription_mask": {
-    "message": "A Firefox Relay megk\u00f6nny\u00edti az e-mail-maszkok l\u00e9trehoz\u00e1s\u00e1t, amelyek a val\u00f3di postal\u00e1d\u00e1j\u00e1ba tov\u00e1bb\u00edtj\u00e1k a leveleket.",
+    "message": "A Firefox Relay megkönnyíti az e-mail-maszkok létrehozását, amelyek a valódi postaládájába továbbítják a leveleket.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "extensionDescriptionStore_mask": {
-    "message": "A Firefox Relay seg\u00edt megv\u00e9deni val\u00f3di e-mail c\u00edm\u00e9t \u2013 amely a legszorosabban k\u00f6t\u0151dik online szem\u00e9lyazonoss\u00e1g\u00e1hoz. Lehet\u0151v\u00e9 teszi az egyedi, v\u00e9letlenszer\u0171 maszkok l\u00e9trehoz\u00e1s\u00e1t, melyek seg\u00edts\u00e9g\u00e9vel fi\u00f3kokat, alkalmaz\u00e1sokat vagy h\u00edrleveleket regisztr\u00e1lhat, \u00e9s az \u00fczeneteket a val\u00f3s c\u00edm\u00e9re tov\u00e1bb\u00edtja. Ha \u00fagy tal\u00e1lja, hogy egy fi\u00f3k nem k\u00edv\u00e1nt e-maileket vagy lev\u00e9lszemetet k\u00fcld, akkor letilthatja a maszkot, \u00e9s az t\u00f6bb\u00e9 nem k\u00fcld e-maileket a be\u00e9rkez\u0151 levelek mapp\u00e1j\u00e1ba. Ha m\u00e1r nem szeretne egy fi\u00f3kot, akkor t\u00f6r\u00f6lheti a maszkot.",
+    "message": "A Firefox Relay segít megvédeni valódi e-mail címét – amely a legszorosabban kötődik online személyazonosságához. Lehetővé teszi az egyedi, véletlenszerű maszkok létrehozását, melyek segítségével fiókokat, alkalmazásokat vagy hírleveleket regisztrálhat, és az üzeneteket a valós címére továbbítja. Ha úgy találja, hogy egy fiók nem kívánt e-maileket vagy levélszemetet küld, akkor letilthatja a maszkot, és az többé nem küld e-maileket a beérkező levelek mappájába. Ha már nem szeretne egy fiókot, akkor törölheti a maszkot.",
     "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "labelRelayPremium": {
@@ -12,130 +12,130 @@
     "description": "Alt text for the premium Relay logo. DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "firstRunP": {
-    "message": "Sikeresen telep\u00edtette a Firefox Relay kieg\u00e9sz\u00edt\u0151t. A kezd\u00e9shez jelentkezzen be a Relay szolg\u00e1ltat\u00e1sba Firefox-fi\u00f3kj\u00e1val.",
+    "message": "Sikeresen telepítette a Firefox Relay kiegészítőt. A kezdéshez jelentkezzen be a Relay szolgáltatásba Firefox-fiókjával.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunP2": {
-    "message": "Sikeresen telep\u00edtette a Firefox Relay kieg\u00e9sz\u00edt\u0151t. A kezd\u00e9shez jelentkezzen be a Relay szolg\u00e1ltat\u00e1sba a fi\u00f3kj\u00e1val.",
+    "message": "Sikeresen telepítette a Firefox Relay kiegészítőt. A kezdéshez jelentkezzen be a Relay szolgáltatásba a fiókjával.",
     "description": "First sentence on the first run page after installing the add-on. DO NOT TRANSLATE \"Firefox Relay\", \"Relay\", or \"Firefox\"."
   },
   "firstRunCollectDataLabel": {
-    "message": "Enged\u00e9lyez\u00e9s a Mozill\u00e1nak, hogy inform\u00e1ci\u00f3kat gy\u0171jts\u00f6n arr\u00f3l, hogyan haszn\u00e1lja a kieg\u00e9sz\u00edt\u0151t.",
+    "message": "Engedélyezés a Mozillának, hogy információkat gyűjtsön arról, hogyan használja a kiegészítőt.",
     "description": "On the first run page after installing the add-on, we show a toggle and ask the user if the add-on can send interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "allowDataCollection": {
-    "message": "Adatgy\u0171jt\u00e9s enged\u00e9lyez\u00e9se",
+    "message": "Adatgyűjtés engedélyezése",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
   },
   "disableDataCollection": {
-    "message": "Adatgy\u0171jt\u00e9s letilt\u00e1sa",
+    "message": "Adatgyűjtés letiltása",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
   "firstRunPrefP_mask": {
-    "message": "Az interakci\u00f3s adatok gy\u0171jt\u00e9se, amikor a Relay ikonra kattint az eszk\u00f6zt\u00e1ron vagy egy \u00faj maszkot hoz l\u00e9tre, seg\u00edtenek megtudnunk, hogy mi m\u0171k\u00f6dik j\u00f3l, \u00e9s hol fejleszthet\u00fcnk. Ezt b\u00e1rmikor kikapcsolhatja a Be\u00e1ll\u00edt\u00e1sok panelen.",
+    "message": "Az interakciós adatok gyűjtése, amikor a Relay ikonra kattint az eszköztáron vagy egy új maszkot hoz létre, segítenek megtudnunk, hogy mi működik jól, és hol fejleszthetünk. Ezt bármikor kikapcsolhatja a Beállítások panelen.",
     "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
   },
   "firstRunSignInButton": {
-    "message": "Bel\u00e9p\u00e9s/regisztr\u00e1ci\u00f3"
+    "message": "Belépés/regisztráció"
   },
   "popupSettingsTitle": {
-    "message": "Be\u00e1ll\u00edt\u00e1sok"
+    "message": "Beállítások"
   },
   "popupStatsTitle": {
     "message": "Statisztika",
     "description": "A shortened version of the word Statistics.  This panel displays the users total number of blocked and forwarded emails and other Relay usage numbers"
   },
   "popupNewsLink": {
-    "message": "H\u00edrek",
+    "message": "Hírek",
     "description": "The title of the navigation link for the News panel"
   },
   "popupNewsTitle": {
-    "message": "Mik a Relay \u00fajdons\u00e1gai?",
+    "message": "Mik a Relay újdonságai?",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsReturn": {
-    "message": "Vissza a f\u0151 panelre"
+    "message": "Vissza a fő panelre"
   },
   "popupSettingsShowIconInInputFields": {
-    "message": "A Relay ikon megjelen\u00edt\u00e9se a weboldalak beviteli mez\u0151iben",
+    "message": "A Relay ikon megjelenítése a weboldalak beviteli mezőiben",
     "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
-    "message": "Enged\u00e9lyez\u00e9s, hogy a Mozilla interakci\u00f3s adatokat gy\u0171jts\u00f6n",
+    "message": "Engedélyezés, hogy a Mozilla interakciós adatokat gyűjtsön",
     "description": "The label on the toggle that ENABLES sending interaction data to Mozilla. DO NOT TRANSLATE \"Mozilla\"."
   },
   "popupSettingsLeaveFeedback": {
-    "message": "Visszajelz\u00e9s k\u00fcld\u00e9se"
+    "message": "Visszajelzés küldése"
   },
   "popupSettingsPrivacy": {
-    "message": "Adatv\u00e9delem"
+    "message": "Adatvédelem"
   },
   "popupSettingsTermsOfService": {
-    "message": "Szolg\u00e1ltat\u00e1s felt\u00e9telei"
+    "message": "Szolgáltatás feltételei"
   },
   "popupSettingsReportIssue": {
-    "message": "Probl\u00e9ma jelent\u00e9se"
+    "message": "Probléma jelentése"
   },
   "popupSettingsSubmitReport": {
-    "message": "Jelent\u00e9s bek\u00fcld\u00e9se"
+    "message": "Jelentés beküldése"
   },
   "popupReportIssuesHeadline": {
-    "message": "Probl\u00e9m\u00e1im vannak ezzel a webhellyel"
+    "message": "Problémáim vannak ezzel a webhellyel"
   },
   "popupReportFeedbackHeadline": {
-    "message": "Visszajelz\u00e9s k\u00fcld\u00e9se"
+    "message": "Visszajelzés küldése"
   },
   "popupReportIssueCaseOne": {
     "message": "A webhely nem fogadta el az e-mail-maszkot"
   },
   "popupReportIssueCaseTwo": {
-    "message": "A Relay b\u0151v\u00edtm\u00e9ny vizu\u00e1lis probl\u00e9m\u00e1t okozott a webhelyen",
+    "message": "A Relay bővítmény vizuális problémát okozott a webhelyen",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupReportIssueCaseThree": {
-    "message": "Nem kaptam meg egy v\u00e1rt e-mailt ett\u0151l a webhelyt\u0151l"
+    "message": "Nem kaptam meg egy várt e-mailt ettől a webhelytől"
   },
   "popupReportIssueCaseFour": {
     "message": "A webhely nem fogadta el a telefonmaszkot"
   },
   "popupReportIssueCaseFive": {
-    "message": "Nem kaptam meg egy v\u00e1rt SMS-t vagy h\u00edv\u00e1st ett\u0151l a webhelyt\u0151l"
+    "message": "Nem kaptam meg egy várt SMS-t vagy hívást ettől a webhelytől"
   },
   "popupReportIssueCaseOther": {
-    "message": "Egy\u00e9b"
+    "message": "Egyéb"
   },
   "popupReportIssueCaseOtherDetails": {
-    "message": "Adjon r\u00e9szletesebb inform\u00e1ci\u00f3t"
+    "message": "Adjon részletesebb információt"
   },
   "popupReportIssueSuccessHeadline": {
-    "message": "Jelent\u00e9s elk\u00fcldve!"
+    "message": "Jelentés elküldve!"
   },
   "popupReportIssueSuccessBody": {
-    "message": "K\u00f6sz\u00f6nj\u00fck, hogy seg\u00edt nek\u00fcnk a Firefox Relay t\u00f6k\u00e9letes\u00edt\u00e9s\u00e9ben!",
+    "message": "Köszönjük, hogy segít nekünk a Firefox Relay tökéletesítésében!",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
-    "message": "Folytat\u00e1s"
+    "message": "Folytatás"
   },
   "popupSignUpPanelWelcome": {
-    "message": "\u00dcdv\u00f6z\u00f6lj\u00fck"
+    "message": "Üdvözöljük"
   },
   "popupSignUpPanelIntro": {
-    "message": "Kezdje azzal, hogy Firefox-fi\u00f3kj\u00e1val bejelentkezik a Relay szolg\u00e1ltat\u00e1sba.",
+    "message": "Kezdje azzal, hogy Firefox-fiókjával bejelentkezik a Relay szolgáltatásba.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
   },
   "popupSignUpPanelIntro2": {
-    "message": "Kezdje azzal, hogy fi\u00f3kj\u00e1val bejelentkezik a Relay szolg\u00e1ltat\u00e1sba.",
+    "message": "Kezdje azzal, hogy fiókjával bejelentkezik a Relay szolgáltatásba.",
     "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
   },
   "popupSignUpPanelContinue": {
-    "message": "Folytat\u00e1s"
+    "message": "Folytatás"
   },
   "popupSignUpPanelSignIn": {
-    "message": "Bejelentkez\u00e9s"
+    "message": "Bejelentkezés"
   },
   "popupRemainingAliases_2_mask": {
-    "message": "H\u00e1tral\u00e9v\u0151 maszkok: $REMAINING$",
+    "message": "Hátralévő maszkok: $REMAINING$",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -144,7 +144,7 @@
     }
   },
   "popupRemainingFreeMasks": {
-    "message": "H\u00e1tral\u00e9v\u0151 ingyenes maszkok: $REMAINING$",
+    "message": "Hátralévő ingyenes maszkok: $REMAINING$",
     "description": "Tells the user how many more free masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -153,44 +153,44 @@
     }
   },
   "popupRecentlyUsedMasks": {
-    "message": "Nemr\u00e9g haszn\u00e1lt e-mail-maszkok",
+    "message": "Nemrég használt e-mail-maszkok",
     "description": "Label for list of most recently used masks."
   },
   "popupGetUnlimitedAliases_mask": {
-    "message": "Szerezzen korl\u00e1tlan sz\u00e1m\u00fa maszkot"
+    "message": "Szerezzen korlátlan számú maszkot"
   },
   "popupOnboardingShowPrevious": {
-    "message": "El\u0151z\u0151 panel megjelen\u00edt\u00e9se"
+    "message": "Előző panel megjelenítése"
   },
   "popupOnboardingShowNext": {
-    "message": "Ugr\u00e1s a k\u00f6vetkez\u0151 panelre"
+    "message": "Ugrás a következő panelre"
   },
   "ManageAllAliases_mask": {
-    "message": "\u00d6sszes maszk kezel\u00e9se"
+    "message": "Összes maszk kezelése"
   },
   "labelManage": {
-    "message": "Kezel\u00e9s"
+    "message": "Kezelés"
   },
   "labelSearch": {
-    "message": "Keres\u00e9s"
+    "message": "Keresés"
   },
   "labelMaskCreated": {
-    "message": "Maszk l\u00e9trehozva",
+    "message": "Maszk létrehozva",
     "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
   },
   "labelFromThisWebsite": {
-    "message": "Err\u0151l a weboldalr\u00f3l",
+    "message": "Erről a weboldalról",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
   "labelAllEmailMasks": {
-    "message": "\u00d6sszes e-mail-maszk",
+    "message": "Összes e-mail-maszk",
     "description": "In the pop-up panel, the use can view all masks they've created."
   },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Pacsi!"
   },
   "popupOnboardingMaxAliasesPanelBody": {
-    "message": "\u00d6n egy komoly Firefox Relay felhaszn\u00e1l\u00f3!",
+    "message": "Ön egy komoly Firefox Relay felhasználó!",
     "description": "In the pop-up panel, when a free user has hit their mask limit, we tell them they're a power-user. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupGetDomainButton": {
@@ -198,57 +198,57 @@
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAliasesUsed_mask": {
-    "message": "Haszn\u00e1lt e-mail-maszkok"
+    "message": "Használt e-mail-maszkok"
   },
   "popupTotalMasksUsed": {
-    "message": "\u00d6sszes haszn\u00e1lt e-mail-maszk"
+    "message": "Összes használt e-mail-maszk"
   },
   "popupMasksUsedInThisWebsite": {
-    "message": "Ezen a weboldalon haszn\u00e1lt maszkok"
+    "message": "Ezen a weboldalon használt maszkok"
   },
   "popupEmailsBlocked": {
     "message": "Blokkolt e-mailek"
   },
   "popupEmailsForwarded": {
-    "message": "Tov\u00e1bb\u00edtott e-mailek"
+    "message": "Továbbított e-mailek"
   },
   "popupEmailTrackersRemoved": {
-    "message": "E-mail-k\u00f6vet\u0151k elt\u00e1vol\u00edtva"
+    "message": "E-mail-követők eltávolítva"
   },
   "popupUpgradeToPremiumBanner": {
-    "message": "Friss\u00edtsen Relay Premiumra a m\u00e9g nagyobb v\u00e9delem \u00e9rdek\u00e9ben.",
+    "message": "Frissítsen Relay Premiumra a még nagyobb védelem érdekében.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEducationalComponent1Headline": {
-    "message": "Vil\u00e1gm\u00e9ret\u0171 v\u00e9delmi eszk\u00f6z"
+    "message": "Világméretű védelmi eszköz"
   },
   "popupEducationalComponent1Body": {
-    "message": "A Relay seg\u00edthet megv\u00e9deni az e-mail-c\u00edm\u00e9t, b\u00e1rhol is legyen.",
+    "message": "A Relay segíthet megvédeni az e-mail-címét, bárhol is legyen.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
-    "message": "Mell\u00e9kletek m\u00e9ret\u00e9nek n\u00f6vel\u00e9se"
+    "message": "Mellékletek méretének növelése"
   },
   "popupAttachmentSizeIncreaseBody": {
-    "message": "A Firefox Relay mostant\u00f3l ak\u00e1r 25 MB-os e-maileket is k\u00e9pes tov\u00e1bb\u00edtani, mell\u00e9kletekkel egy\u00fctt.",
+    "message": "A Firefox Relay mostantól akár 25 MB-os e-maileket is képes továbbítani, mellékletekkel együtt.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupEndOfIntroPricingHeadline": {
-    "message": "Bevezet\u0151 \u00e1raj\u00e1nlatunk hamarosan lej\u00e1r."
+    "message": "Bevezető árajánlatunk hamarosan lejár."
   },
   "popupEndOfIntroPricingBody": {
-    "message": "Szerezze be a Relay Premiumpt szeptember 27. el\u0151tt, \u00e9s \u00e9lvezze a korl\u00e1tlan maszkol\u00e1st a bevezet\u0151 havi \u00e1runkon.",
+    "message": "Szerezze be a Relay Premiumpt szeptember 27. előtt, és élvezze a korlátlan maszkolást a bevezető havi árunkon.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupEndOfIntroPricingCTA": {
-    "message": "Friss\u00edt\u00e9s most"
+    "message": "Frissítés most"
   },
   "popupEndOfIntroPricingCountdownDays": {
     "message": "nap",
     "description": "This label displayed on top of a large number representing the number of DAYS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownHours": {
-    "message": "\u00f3ra",
+    "message": "óra",
     "description": "This label displayed on top of a large number representing the number of HOURS of the remaining time that the introductory pricing offer is still valid. Please abbreviate if the word exceeds 5 characters."
   },
   "popupEndOfIntroPricingCountdownMinutes": {
@@ -260,23 +260,23 @@
     "description": "This label displayed on top of a large number representing the number of SECONDS of the remaining time that the introductory pricing offer is still valid. There's not much room for this, hence the abbreviation."
   },
   "popupCriticalEmailForwardingHeadline": {
-    "message": "Kritikus e-mailek tov\u00e1bb\u00edt\u00e1sa"
+    "message": "Kritikus e-mailek továbbítása"
   },
   "popupPromoBlockingButtonTitle": {
-    "message": "Prom\u00f3ci\u00f3s e-mailek blokkol\u00e1sa"
+    "message": "Promóciós e-mailek blokkolása"
   },
   "popupPromoBlockingButtonCopy": {
-    "message": "Enged\u00e9lyezze a Prom\u00f3ci\u00f3s e-mailek letilt\u00e1s\u00e1t egy maszkon, hogy megakad\u00e1lyozza, hogy a marketinges e-mailek eljussanak a postal\u00e1d\u00e1j\u00e1ba."
+    "message": "Engedélyezze a Promóciós e-mailek letiltását egy maszkon, hogy megakadályozza, hogy a marketinges e-mailek eljussanak a postaládájába."
   },
   "popupPromoBlockingButtonLearnMore": {
-    "message": "Tov\u00e1bbi tudnival\u00f3k"
+    "message": "További tudnivalók"
   },
   "popupBlockPromotionalEmailsBodyNonPremium": {
-    "message": "A Relay Premium seg\u00edts\u00e9g\u00e9vel letilthatja a prom\u00f3ci\u00f3s e-maileket, hogy ne jussanak el a postal\u00e1d\u00e1j\u00e1ba, mik\u00f6zben tov\u00e1bbra is lehet\u0151v\u00e9 teszi a nyugt\u00e1kat vagy sz\u00e1ll\u00edt\u00e1si inform\u00e1ci\u00f3kat tartalmaz\u00f3 e-mailek fogad\u00e1s\u00e1t.",
+    "message": "A Relay Premium segítségével letilthatja a promóciós e-maileket, hogy ne jussanak el a postaládájába, miközben továbbra is lehetővé teszi a nyugtákat vagy szállítási információkat tartalmazó e-mailek fogadását.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupBundlePromoHeadline_2": {
-    "message": "Mozilla VPN hozz\u00e1ad\u00e1sa $SAVINGS$ kedvezm\u00e9nnyel.",
+    "message": "Mozilla VPN hozzáadása $SAVINGS$ kedvezménnyel.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -286,7 +286,7 @@
     }
   },
   "popupBundlePromoHeadline_3": {
-    "message": "Mozilla VPN hozz\u00e1ad\u00e1sa $SAVINGS$ kedvezm\u00e9nnyel.",
+    "message": "Mozilla VPN hozzáadása $SAVINGS$ kedvezménnyel.",
     "description": "DO NOT TRANSLATE \"Mozilla VPN\". This string includes a savings variable, e.g. 50%",
     "placeholders": {
       "SAVINGS": {
@@ -296,7 +296,7 @@
     }
   },
   "popupBundlePromoBody_2": {
-    "message": "1 \u00e9ves el\u0151fizet\u00e9s, bele\u00e9rtve a Relay Premiumot \u00e9s a Mozilla VPN-t $MONTHLY_PRICE$/h\u00f3 \u00e1ron.",
+    "message": "1 éves előfizetés, beleértve a Relay Premiumot és a Mozilla VPN-t $MONTHLY_PRICE$/hó áron.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -306,7 +306,7 @@
     }
   },
   "popupBundlePromoBody_3": {
-    "message": "Kapjon egy \u00e9vnyi Relay Premium telefonmaszkol\u00e1st \u00e9s Mozilla VPN-t $MONTHLY_PRICE$/h\u00f3 \u00e1ron.",
+    "message": "Kapjon egy évnyi Relay Premium telefonmaszkolást és Mozilla VPN-t $MONTHLY_PRICE$/hó áron.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -316,19 +316,19 @@
     }
   },
   "popupPasswordManagerRelayHeadline": {
-    "message": "Firefox jelsz\u00f3kezel\u0151 + Relay",
+    "message": "Firefox jelszókezelő + Relay",
     "description": "DO NOT TRANSLATE \"Firefox\" and \"Relay\"."
   },
   "popupPasswordManagerRelayBody": {
-    "message": "Most m\u00e1r k\u00f6zvetlen\u00fcl a Firefox jelsz\u00f3kezel\u0151j\u00e9ben is haszn\u00e1lhatja a Relayt.",
+    "message": "Most már közvetlenül a Firefox jelszókezelőjében is használhatja a Relayt.",
     "description": "DO NOT TRANSLATE \"Relay\" and \"Firefox\"."
   },
   "popupBundlePromoHeadlineFreePlan": {
-    "message": "Bemutatjuk: Relay + VPN el\u0151fizet\u00e9si csomag",
+    "message": "Bemutatjuk: Relay + VPN előfizetési csomag",
     "description": "DO NOT TRANSLATE \"Relay\" and \"VPN\"."
   },
   "popupBundlePromoBodyFreePlan": {
-    "message": "Friss\u00edtse el\u0151fizet\u00e9s\u00e9t, hogy megkapja a Relay Premiumot \u00e9s a Mozilla VPN-t $MONTHLY_PRICE$/h\u00f3 \u00e1ron. Takar\u00edtson meg $SAVINGS$-t.",
+    "message": "Frissítse előfizetését, hogy megkapja a Relay Premiumot és a Mozilla VPN-t $MONTHLY_PRICE$/hó áron. Takarítson meg $SAVINGS$-t.",
     "description": "DO NOT TRANSLATE \"Relay Premium\" and \"Mozilla VPN\". This string includes a monthly price variable, e.g. $4.99. It also includes a savings variable, e.g. 50%",
     "placeholders": {
       "MONTHLY_PRICE": {
@@ -342,38 +342,38 @@
     }
   },
   "popupBundlePromoCTA": {
-    "message": "VPN + Relay beszerz\u00e9se",
+    "message": "VPN + Relay beszerzése",
     "description": "DO NOT TRANSLATE \"VPN\" and \"Relay\""
   },
   "popupPhoneMaskingPromoHeadline": {
-    "message": "Bemutatkozik a telefonsz\u00e1m-maszkol\u00e1s"
+    "message": "Bemutatkozik a telefonszám-maszkolás"
   },
   "popupPhoneMaskingPromoBody": {
-    "message": "A telefonsz\u00e1m-maszkol\u00e1s seg\u00edts\u00e9g\u00e9vel most l\u00e9trehozhat egy telefonsz\u00e1mmaszkot, amely seg\u00edt abban, hogy an\u00e9lk\u00fcl fogadjon SMS-eket \u00e9s h\u00edv\u00e1sokat, hogy felfedn\u00e9 val\u00f3di sz\u00e1m\u00e1t."
+    "message": "A telefonszám-maszkolás segítségével most létrehozhat egy telefonszámmaszkot, amely segít abban, hogy anélkül fogadjon SMS-eket és hívásokat, hogy felfedné valódi számát."
   },
   "popupPhoneMaskingPromoBodyPremium": {
-    "message": "Kapjon SMS-eket \u00e9s h\u00edv\u00e1sokat an\u00e9lk\u00fcl, hogy felfedn\u00e9 val\u00f3di sz\u00e1m\u00e1t."
+    "message": "Kapjon SMS-eket és hívásokat anélkül, hogy felfedné valódi számát."
   },
   "popupPhoneMaskingPromoCTA": {
-    "message": "Friss\u00edt\u00e9s most"
+    "message": "Frissítés most"
   },
   "popupPromoNewLabel": {
-    "message": "\u00daj!"
+    "message": "Új!"
   },
   "popupSignBackInHeadline_mask": {
-    "message": "Jelentkezzen be \u00fajra az e-mail-maszkjaival"
+    "message": "Jelentkezzen be újra az e-mail-maszkjaival"
   },
   "popupCreateCustomMaskTitle": {
-    "message": "\u00daj egy\u00e9ni maszk l\u00e9trehoz\u00e1sa"
+    "message": "Új egyéni maszk létrehozása"
   },
   "popupCreateCustomMaskBody": {
-    "message": "Mind\u00f6ssze annyit kell tennie, hogy l\u00e9trehoz \u00e9s megoszt egy egyedi maszkot, amely az \u00d6n egy\u00e9ni aldomainj\u00e9t haszn\u00e1lja \u2013 a maszk automatikusan l\u00e9trej\u00f6n. Pr\u00f3b\u00e1lja ki p\u00e9ld\u00e1ul a \u201evasarlas@egyenialdomain.mozmail.com\u201d c\u00edmet legk\u00f6zelebb, amikor online v\u00e1s\u00e1rol."
+    "message": "Mindössze annyit kell tennie, hogy létrehoz és megoszt egy egyedi maszkot, amely az Ön egyéni aldomainjét használja – a maszk automatikusan létrejön. Próbálja ki például a „vasarlas@egyenialdomain.mozmail.com” címet legközelebb, amikor online vásárol."
   },
   "popupCreateCustomFormMaskInputLabel": {
-    "message": "\u00cdrja be az e-mail-maszk el\u0151tagj\u00e1t"
+    "message": "Írja be az e-mail-maszk előtagját"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "p\u00e9ld\u00e1ul \u201ekave\u201d"
+    "message": "például „kave”"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
@@ -385,68 +385,68 @@
     }
   },
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
-    "message": "Prom\u00f3ci\u00f3s e-mailek blokkol\u00e1sa"
+    "message": "Promóciós e-mailek blokkolása"
   },
   "popupCreateCustomFormMaskBlockSubmitButton": {
-    "message": "Maszk el\u0151\u00e1ll\u00edt\u00e1sa"
+    "message": "Maszk előállítása"
   },
   "popupCreateCustomFormError": {
-    "message": "A maszk l\u00e9trehoz\u00e1sa nem siker\u00fclt. Pr\u00f3b\u00e1lja \u00fajra."
+    "message": "A maszk létrehozása nem sikerült. Próbálja újra."
   },
   "pageInputIconSignUpText": {
-    "message": "L\u00e1togassa meg a Firefox Relay webhelyet a bejelentkez\u00e9shez vagy egy fi\u00f3k l\u00e9trehoz\u00e1s\u00e1hoz.",
+    "message": "Látogassa meg a Firefox Relay webhelyet a bejelentkezéshez vagy egy fiók létrehozásához.",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconSignUpButton": {
-    "message": "Ugr\u00e1s a Firefox Relayhez",
+    "message": "Ugrás a Firefox Relayhez",
     "description": "In the website content icon pop-up, before a user has signed in, we tell them to sign in. DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "pageInputIconGenerateNewAlias_mask": {
-    "message": "\u00daj maszk el\u0151\u00e1ll\u00edt\u00e1sa"
+    "message": "Új maszk előállítása"
   },
   "pageInputIconGenerateNewRandomMask": {
-    "message": "\u00daj v\u00e9letlenszer\u0171 maszk el\u0151\u00e1ll\u00edt\u00e1sa"
+    "message": "Új véletlenszerű maszk előállítása"
   },
   "pageInputIconGenerateRandomMask": {
-    "message": "V\u00e9letlenszer\u0171 maszk el\u0151\u00e1ll\u00edt\u00e1sa"
+    "message": "Véletlenszerű maszk előállítása"
   },
   "pageInputIconGenerateCustomMask": {
-    "message": "Egy\u00e9ni maszk el\u0151\u00e1ll\u00edt\u00e1sa"
+    "message": "Egyéni maszk előállítása"
   },
   "pageInputIconSelectFromYourCurrentEmailMasks": {
-    "message": "V\u00e1lasszon a jelenlegi e-mail-maszkjai k\u00f6z\u00fcl",
+    "message": "Válasszon a jelenlegi e-mail-maszkjai közül",
     "description": "In the website content icon pop-up, users can re-use masks they've already created. This label is displayed when this is the only list visible."
   },
   "pageInputIconAdditionalEmailMasks": {
-    "message": "Tov\u00e1bbi e-mail-maszkok",
+    "message": "További e-mail-maszkok",
     "description": "In the website content icon pop-up, users can re-use masks they've already created."
   },
   "pageInputIconPreviouslyUsedMask": {
-    "message": "Kor\u00e1bban ezen a weboldalon haszn\u00e1lt",
+    "message": "Korábban ezen a weboldalon használt",
     "description": "In the website content icon pop-up, users can select specific masks they've created on the current website."
   },
   "pageInputIconGetUnlimitedAliases_mask": {
-    "message": "Szerezzen korl\u00e1tlan sz\u00e1m\u00fa maszkot"
+    "message": "Szerezzen korlátlan számú maszkot"
   },
   "pageInputIconJoinPremiumWaitlist": {
-    "message": "Csatlakozzon a Premium v\u00e1r\u00f3list\u00e1hoz",
+    "message": "Csatlakozzon a Premium várólistához",
     "description": "For some free users (based on geographic region), Firefox Relay premium is not avialable yet. We instead prompt users to join our waitlist to be notified when it is available."
   },
   "pageInputIconUseExistingAliasFromTheSite_mask": {
-    "message": "Megl\u00e9v\u0151 maszk haszn\u00e1lata err\u0151l a webhelyr\u0151l\u2026"
+    "message": "Meglévő maszk használata erről a webhelyről…"
   },
   "pageInputIconRecentAliases_mask": {
-    "message": "Leg\u00fajabb maszkok"
+    "message": "Legújabb maszkok"
   },
   "pageInputIconInsertPhoneMask": {
-    "message": "Telefonsz\u00e1mmaszk haszn\u00e1lata"
+    "message": "Telefonszámmaszk használata"
   },
   "pageInputIconMaxAliasesError_mask": {
-    "message": "M\u00e1r l\u00e9trehozta a maxim\u00e1lis sz\u00e1m\u00fa maszkot",
+    "message": "Már létrehozta a maximális számú maszkot",
     "description": "Tells the user they have already created the max number of masks."
   },
   "pageNoMasksRemaining": {
-    "message": "Nincs t\u00f6bb ingyenes e-mail-maszkja.",
+    "message": "Nincs több ingyenes e-mail-maszkja.",
     "description": "Error message that appears when a free tier user uses all of their masks."
   },
   "profilePageInvalidAliasCharactersError": {
@@ -460,46 +460,46 @@
     }
   },
   "profilePageDefaulAliasLabelText": {
-    "message": "Fi\u00f3kn\u00e9v hozz\u00e1ad\u00e1sa",
+    "message": "Fióknév hozzáadása",
     "description": "On the user's profile page, this text appears for a mask when it doesn't have a label."
   },
   "close": {
-    "message": "Bez\u00e1r\u00e1s"
+    "message": "Bezárás"
   },
   "returnToPreviousPanel": {
-    "message": "Vissza az el\u0151z\u0151 panelhez"
+    "message": "Vissza az előző panelhez"
   },
   "popupDataCollectionHeadline": {
-    "message": "\u00daj funkci\u00f3k enged\u00e9lyez\u00e9se"
+    "message": "Új funkciók engedélyezése"
   },
   "popupDataCollectionBody_mask": {
-    "message": "Enged\u00e9lyezheti a Relay sz\u00e1m\u00e1ra, hogy nem k\u00f6telez\u0151 adatokat gy\u0171jts\u00f6n, ami lehet\u0151v\u00e9 teszik sz\u00e1munkra, hogy szinkroniz\u00e1ljuk a webhelyekhez l\u00e9trehozott \u00e9s haszn\u00e1lt maszkc\u00edmk\u00e9it az eszk\u00f6zei k\u00f6z\u00f6tt.",
+    "message": "Engedélyezheti a Relay számára, hogy nem kötelező adatokat gyűjtsön, ami lehetővé teszik számunkra, hogy szinkronizáljuk a webhelyekhez létrehozott és használt maszkcímkéit az eszközei között.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupDataCollectionButtonLearnMore": {
-    "message": "Tov\u00e1bbi tudnival\u00f3k"
+    "message": "További tudnivalók"
   },
   "popupDataCollectionButtonDecline": {
-    "message": "Elutas\u00edt\u00e1s"
+    "message": "Elutasítás"
   },
   "popupDataCollectionButtonAllow": {
-    "message": "Enged\u00e9lyez\u00e9s"
+    "message": "Engedélyezés"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Adatv\u00e9delmi nyilatkozat friss\u00edt\u00e9se"
+    "message": "Adatvédelmi nyilatkozat frissítése"
   },
   "popupPrivacyNoticeUpdateBody": {
-    "message": "A Firefox Relay megb\u00edzhat\u00f3s\u00e1g\u00e1nak jav\u00edt\u00e1sa \u00e9rdek\u00e9ben, arra az esetre, ha egy e-mailt nem siker\u00fcl k\u00e9zbes\u00edteni, az e-mailt ideiglenesen a kiszolg\u00e1l\u00f3inkon t\u00e1roljuk, am\u00edg az k\u00e9zbes\u00edt\u00e9sre nem ker\u00fcl. Soha nem tartjuk meg h\u00e1rom napn\u00e1l tov\u00e1bb.",
+    "message": "A Firefox Relay megbízhatóságának javítása érdekében, arra az esetre, ha egy e-mailt nem sikerül kézbesíteni, az e-mailt ideiglenesen a kiszolgálóinkon tároljuk, amíg az kézbesítésre nem kerül. Soha nem tartjuk meg három napnál tovább.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Adatv\u00e9delmi nyilatkozat megtekint\u00e9se"
+    "message": "Adatvédelmi nyilatkozat megtekintése"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
-    "message": "Elt\u00fcntet\u00e9s"
+    "message": "Eltüntetés"
   },
   "popupFreeMasksAvailable": {
-    "message": "$REMAINING$/$MAXIMUM$ maszk \u00e1ll rendelkez\u00e9sre.",
+    "message": "$REMAINING$/$MAXIMUM$ maszk áll rendelkezésre.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
       "REMAINING": {
@@ -513,7 +513,7 @@
     }
   },
   "popupFreeMasksLimitReached": {
-    "message": "Felhaszn\u00e1lta mind az $MAXIMUM$ ingyenes maszkot.",
+    "message": "Felhasználta mind az $MAXIMUM$ ingyenes maszkot.",
     "description": "Tells the user they've created the maxmimum free masks",
     "placeholders": {
       "MAXIMUM": {
@@ -523,65 +523,65 @@
     }
   },
   "popupNoMasksCreatedHeadline": {
-    "message": "V\u00e9dje meg a val\u00f3di e-mail-c\u00edm\u00e9t"
+    "message": "Védje meg a valódi e-mail-címét"
   },
   "popupNoMasksCreatedBody": {
-    "message": "Haszn\u00e1ljon Relay maszkokat, hogy meg\u0151rizze szem\u00e9lyazonoss\u00e1g\u00e1t, \u00e9s csak a k\u00edv\u00e1nt e-maileket kapja meg a postal\u00e1d\u00e1j\u00e1ban.",
+    "message": "Használjon Relay maszkokat, hogy megőrizze személyazonosságát, és csak a kívánt e-maileket kapja meg a postaládájában.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupUpgradeBtnGetMoreProtection": {
-    "message": "Szerezzen nagyobb v\u00e9delmet"
+    "message": "Szerezzen nagyobb védelmet"
   },
   "popupNavButtonLaunchRelay": {
-    "message": "A Relay ind\u00edt\u00e1sa",
+    "message": "A Relay indítása",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCopyMaskButtonAlt": {
-    "message": "Kattintson a m\u00e1sol\u00e1shoz"
+    "message": "Kattintson a másoláshoz"
   },
   "popupCopyMaskButtonCopied": {
-    "message": "M\u00e1solva!"
+    "message": "Másolva!"
   },
   "popupSurveyLink": {
-    "message": "Seg\u00edtsen a Relay t\u00f6k\u00e9letes\u00edt\u00e9s\u00e9ben",
+    "message": "Segítsen a Relay tökéletesítésében",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupCsatSurveyText": {
-    "message": "Mennyire el\u00e9gedett a Firefox Relay-jel kapcsolatos tapasztalataival?",
+    "message": "Mennyire elégedett a Firefox Relay-jel kapcsolatos tapasztalataival?",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupCsatSurveySatisfactionVeryDissatisfied": {
-    "message": "Nagyon el\u00e9gedetlen"
+    "message": "Nagyon elégedetlen"
   },
   "popupCsatSurveySatisfactionDissatisfied": {
-    "message": "El\u00e9gedetlen"
+    "message": "Elégedetlen"
   },
   "popupCsatSurveySatisfactionNeutral": {
     "message": "Semleges"
   },
   "popupCsatSurveySatisfactionSatisfied": {
-    "message": "El\u00e9gedett"
+    "message": "Elégedett"
   },
   "popupCsatSurveySatisfactionVerySatisfied": {
-    "message": "Nagyon el\u00e9gedett"
+    "message": "Nagyon elégedett"
   },
   "popupCsatSurveyChoiceMadeTitle": {
-    "message": "K\u00f6sz\u00f6nj\u00fck visszajelz\u00e9s\u00e9t."
+    "message": "Köszönjük visszajelzését."
   },
   "popupCsatSurveyChoiceMadeBody": {
-    "message": "Szeretn\u00e9nk t\u00f6bbet megtudni arr\u00f3l, hogyan lehet\u00fcnk jobbak. Hajland\u00f3 lenne kit\u00f6lteni egy k\u00e9tperces felm\u00e9r\u00e9st?"
+    "message": "Szeretnénk többet megtudni arról, hogyan lehetünk jobbak. Hajlandó lenne kitölteni egy kétperces felmérést?"
   },
   "popupCsatSurveyDismiss": {
-    "message": "Elt\u00fcntet\u00e9s"
+    "message": "Eltüntetés"
   },
   "popupCsatSurveyLink": {
-    "message": "K\u00e9rd\u0151\u00edv kit\u00f6lt\u00e9se"
+    "message": "Kérdőív kitöltése"
   },
   "popupEuCountryExpansionHeadline": {
-    "message": "Most m\u00e1r korl\u00e1tlan sz\u00e1m\u00fa maszk \u00e9rhet\u0151 el"
+    "message": "Most már korlátlan számú maszk érhető el"
   },
   "popupEuCountryExpansionBody": {
-    "message": "A Firefox Relay Premium mostant\u00f3l el\u00e9rhet\u0151 az orsz\u00e1g\u00e1ban. V\u00e9dje meg a postal\u00e1d\u00e1j\u00e1t a korl\u00e1tlan sz\u00e1m\u00fa e-mail-maszkokkal, \u00e9s kapjon egy egyedi Relay e-mail-domaint, hogy a maszkok menet k\u00f6zbeni l\u00e9trehoz\u00e1sa egyszer\u0171 \u00e9s biztons\u00e1gos legyen.",
+    "message": "A Firefox Relay Premium mostantól elérhető az országában. Védje meg a postaládáját a korlátlan számú e-mail-maszkokkal, és kapjon egy egyedi Relay e-mail-domaint, hogy a maszkok menet közbeni létrehozása egyszerű és biztonságos legyen.",
     "description": "DO NOT TRANSLATE \"Firefox Relay Premium\"."
   },
   "popupEuCountryExpansionPromoCTA": {
@@ -589,68 +589,68 @@
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Headline": {
-    "message": "Kapjon 20% kedvezm\u00e9nyt a Relay Premium \u00e1r\u00e1b\u00f3l",
+    "message": "Kapjon 20% kedvezményt a Relay Premium árából",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023Body": {
-    "message": "Ebben az \u00fcnnepi id\u0151szakban 20% kedvezm\u00e9nyt kaphat az 1 \u00e9vnyi Relay Premium \u00e1r\u00e1b\u00f3l. Csak \u00edrja be a \u201eHOLIDAY20\u201d prom\u00f3ci\u00f3s k\u00f3dot v\u00e1s\u00e1rl\u00e1skor. Az aj\u00e1nlat 2023. december 31-ig \u00e9rv\u00e9nyes.",
+    "message": "Ebben az ünnepi időszakban 20% kedvezményt kaphat az 1 évnyi Relay Premium árából. Csak írja be a „HOLIDAY20” promóciós kódot vásárláskor. Az ajánlat 2023. december 31-ig érvényes.",
     "description": "Do not modify 20%. This is a holiday discount rate. DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupHolidayPromo2023CTA": {
-    "message": "Kapjon 1 \u00e9vnyi Relay Premiumot",
+    "message": "Kapjon 1 évnyi Relay Premiumot",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksMetaForwardingDescription": {
-    "message": "A Relay jelenleg az \u00f6sszes telefonh\u00edv\u00e1st \u00e9s SMS-t a val\u00f3di telefonsz\u00e1m\u00e1ra tov\u00e1bb\u00edtja.",
+    "message": "A Relay jelenleg az összes telefonhívást és SMS-t a valódi telefonszámára továbbítja.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaBlockingDescription": {
-    "message": "A Relay minden telefonh\u00edv\u00e1st \u00e9s SMS-t blokkol \u2013 semmit sem fogad a telefonsz\u00e1mmaszkt\u00f3l.",
+    "message": "A Relay minden telefonhívást és SMS-t blokkol – semmit sem fogad a telefonszámmaszktól.",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupPhoneMasksMetaForwardTo": {
-    "message": "Tov\u00e1bb\u00edt\u00e1s:",
+    "message": "Továbbítás:",
     "description": "The number that messages from the phone mask are being forwarded to."
   },
   "popupPhoneMasksMetaRegistered": {
-    "message": "Regisztr\u00e1lva:",
+    "message": "Regisztrálva:",
     "description": "Tells the user the date their phone mask was created."
   },
   "popupPhoneMasksForwardingButton": {
-    "message": "Tov\u00e1bb\u00edt\u00e1s"
+    "message": "Továbbítás"
   },
   "popupPhoneMasksBlockingButton": {
-    "message": "Blokkol\u00e1s"
+    "message": "Blokkolás"
   },
   "popupPhoneMasksActivateYourPhoneMaskTitle": {
-    "message": "Aktiv\u00e1lja a telefonmaszkj\u00e1t"
+    "message": "Aktiválja a telefonmaszkját"
   },
   "popupPhoneMasksActivateYourPhoneMaskBody": {
-    "message": "Relay Pr\u00e9mium el\u0151fizet\u0151k\u00e9nt an\u00e9lk\u00fcl kaphat sz\u00f6veges \u00fczeneteket \u00e9s telefonh\u00edv\u00e1sokat, hogy felfedn\u00e9 val\u00f3di sz\u00e1m\u00e1t. Kezdje azzal, hogy v\u00e1laszt egy sz\u00e1mot telefonsz\u00e1mmaszkk\u00e9nt. Csak 5 perc\u00e9be ker\u00fcl.",
+    "message": "Relay Prémium előfizetőként anélkül kaphat szöveges üzeneteket és telefonhívásokat, hogy felfedné valódi számát. Kezdje azzal, hogy választ egy számot telefonszámmaszkként. Csak 5 percébe kerül.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksActivateYourPhoneMaskCta": {
-    "message": "Telefonmaszk aktiv\u00e1l\u00e1sa"
+    "message": "Telefonmaszk aktiválása"
   },
   "popupPhoneMasksUpgradeToPhoneMaskTitle": {
-    "message": "Rejtse el a telefonsz\u00e1m\u00e1t is"
+    "message": "Rejtse el a telefonszámát is"
   },
   "popupPhoneMasksUpgradeToPhoneMaskBody": {
-    "message": "A Relay Premium telefonsz\u00e1m-maszkol\u00e1s seg\u00edts\u00e9g\u00e9vel megv\u00e9dheti val\u00f3di telefonsz\u00e1m\u00e1t, \u00e9s tov\u00e1bbra is fogadhatja a h\u00edv\u00e1sokat \u00e9s v\u00e1laszolhat az SMS-ekre.",
+    "message": "A Relay Premium telefonszám-maszkolás segítségével megvédheti valódi telefonszámát, és továbbra is fogadhatja a hívásokat és válaszolhat az SMS-ekre.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popupPhoneMasksUpgradeToPhoneMaskCta": {
     "message": "Szerezzen telefonmaszkot"
   },
   "popUpPhoneMasksNotAvailableTitle": {
-    "message": "M\u00e9g nem \u00e9rhet\u0151 el az orsz\u00e1g\u00e1ban"
+    "message": "Még nem érhető el az országában"
   },
   "popUpPhoneMasksNotAvailableBody": {
-    "message": "A Relay Premium telefonsz\u00e1m-maszkol\u00e1s seg\u00edts\u00e9g\u00e9vel az e-mail-c\u00edm\u00e9hez hasonl\u00f3an elrejtheti a val\u00f3di telefonsz\u00e1m\u00e1t. Tudjon meg t\u00f6bbet a Relay oldal\u00e1n, \u00e9s iratkozzon fel a h\u00edrekre.",
+    "message": "A Relay Premium telefonszám-maszkolás segítségével az e-mail-címéhez hasonlóan elrejtheti a valódi telefonszámát. Tudjon meg többet a Relay oldalán, és iratkozzon fel a hírekre.",
     "description": "DO NOT TRANSLATE \"Relay Premium\"."
   },
   "popUpPhoneMasksNotAvailableCta": {
-    "message": "Csatlakoz\u00e1s a v\u00e1r\u00f3list\u00e1hoz"
+    "message": "Csatlakozás a várólistához"
   },
   "phonesTabText": {
     "message": "Telefon"
@@ -659,21 +659,21 @@
     "message": "E-mail"
   },
   "goBackText": {
-    "message": "Ugr\u00e1s vissza"
+    "message": "Ugrás vissza"
   },
   "seeStatsText": {
-    "message": "Statisztika megtekint\u00e9se"
+    "message": "Statisztika megtekintése"
   },
   "phoneRemainingMinutes": {
-    "message": "H\u00e1tral\u00e9v\u0151 percek"
+    "message": "Hátralévő percek"
   },
   "phoneRemainingTexts": {
-    "message": "H\u00e1tral\u00e9v\u0151 SMS-ek"
+    "message": "Hátralévő SMS-ek"
   },
   "phoneForwardedCallsTexts": {
-    "message": "H\u00edv\u00e1sok \u00e9s SMS-ek tov\u00e1bb\u00edtva"
+    "message": "Hívások és SMS-ek továbbítva"
   },
   "phoneBlockedCallsTexts": {
-    "message": "H\u00edv\u00e1sok \u00e9s SMS-ek blokkolva"
+    "message": "Hívások és SMS-ek blokkolva"
   }
 }
