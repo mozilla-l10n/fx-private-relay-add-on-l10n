@@ -373,7 +373,7 @@
     "message": "Voer maskervoorvoegsel in"
   },
   "popupCreateCustomFormMaskInputPlaceholder": {
-    "message": "b.v. ‘koffie’"
+    "message": "bijv. ‘koffie’"
   },
   "popupCreateCustomFormMaskInputDescription": {
     "message": "@$SUBDOMAIN$.mozmail.com",
