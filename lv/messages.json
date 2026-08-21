@@ -90,6 +90,9 @@
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Liegt reklāmu e-pasta ziņojumus"
   },
+  "popupCreateCustomFormError": {
+    "message": "Aizsegu nevarēja izveidot. Lūgums mēģināt vēlreiz."
+  },
   "popupDataCollectionButtonAllow": {
     "message": "Atļaut"
   }
