@@ -1,4 +1,8 @@
 {
+  "extensionDescription_mask": {
+    "message": "Firefox Relay vienkāršo e-pasta aizsegu, kas pārvirza uz īsto iesūtni, izveidošanu.",
+    "description": "Shortened description of the extension. Must remain under 132 characters. DO NOT TRANSLATE \"Firefox Relay\"."
+  },
   "allowDataCollection": {
     "message": "Atļaut datu ievākšanu",
     "description": "The label on the toggle that ALLOWS sending interaction data to Mozilla."
@@ -13,6 +17,14 @@
   "popupNewsLink": {
     "message": "Jaunumi",
     "description": "The title of the navigation link for the News panel"
+  },
+  "popupNewsTitle": {
+    "message": "Kas jauns Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "popupSettingsShowIconInInputFields": {
+    "message": "Rādīt Relay ikonu tīmekļvietņu ievades laukos",
+    "description": "In the settings panel, we display a toggle so the user can enable or disable the Relay icon in websites. DO NOT TRANSLATE \"Relay\"."
   },
   "popupSettingsCollectData": {
     "message": "Atļaut Mozilla ievākt datus par mijiedarbību",
@@ -39,6 +51,13 @@
   "popupReportFeedbackHeadline": {
     "message": "Atstāt atsauksmi"
   },
+  "popupReportIssueCaseOne": {
+    "message": "Tīmekļvietne nepieņēma e-pasta aizsegu"
+  },
+  "popupReportIssueCaseTwo": {
+    "message": "Relay papildinājums tīmekļvietnē izraisīja redzamu nepilnību",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Ziņojums nosūtīts."
   },
@@ -60,12 +79,38 @@
   "labelSearch": {
     "message": "Meklēt"
   },
+  "labelMaskCreated": {
+    "message": "Aizsegs izveidots",
+    "description": "In the pop-up panel, a text bubble will appear next to a new mask when it is created."
+  },
   "labelFromThisWebsite": {
     "message": "No šīs tīmekļvietnes",
     "description": "In the pop-up panel, the use can view masks only created or used on a certain website."
   },
+  "labelAllEmailMasks": {
+    "message": "Visi e-pasta aizsegi",
+    "description": "In the pop-up panel, the use can view all masks they've created."
+  },
   "popupOnboardingMaxAliasesPanelHeadline": {
     "message": "Dod pieci!"
+  },
+  "popupAliasesUsed_mask": {
+    "message": "Izmantotie e-pasta aizsegi"
+  },
+  "popupTotalMasksUsed": {
+    "message": "Kopoējais izmantoto e-pasta aizsegu skaits"
+  },
+  "popupMasksUsedInThisWebsite": {
+    "message": "Šajā tīmekļvietnē izmantotie aizsegi"
+  },
+  "popupEmailsBlocked": {
+    "message": "Liegtie e-pasta ziņojumi"
+  },
+  "popupEmailsForwarded": {
+    "message": "Pārvirzītie e-pasta ziņojumi"
+  },
+  "popupEmailTrackersRemoved": {
+    "message": "Noņemtie e-pasta izsekotāji"
   },
   "popupEndOfIntroPricingCTA": {
     "message": "Jaunināt tagad"
@@ -90,10 +135,32 @@
   "popupCreateCustomFormMaskBlockPromosChecboxLabel": {
     "message": "Liegt reklāmu e-pasta ziņojumus"
   },
+  "popupCreateCustomFormMaskBlockSubmitButton": {
+    "message": "Izveidot aizsegu"
+  },
   "popupCreateCustomFormError": {
     "message": "Aizsegu nevarēja izveidot. Lūgums mēģināt vēlreiz."
   },
+  "close": {
+    "message": "Aizvērt"
+  },
+  "popupDataCollectionHeadline": {
+    "message": "Iespējot jaunas iespējas"
+  },
   "popupDataCollectionButtonAllow": {
     "message": "Atļaut"
+  },
+  "popupPrivacyNoticeUpdateButtonDismiss": {
+    "message": "Noraidīt"
+  },
+  "popupNavButtonLaunchRelay": {
+    "message": "Palaist Relay",
+    "description": "DO NOT TRANSLATE \"Relay\"."
+  },
+  "phoneForwardedCallsTexts": {
+    "message": "Pārvirzītie zvani un īsziņas"
+  },
+  "phoneBlockedCallsTexts": {
+    "message": "Aizturētie zvani un īsziņas"
   }
 }
