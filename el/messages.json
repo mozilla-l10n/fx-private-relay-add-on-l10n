@@ -486,14 +486,14 @@
     "message": "Αποδοχή"
   },
   "popupPrivacyNoticeUpdateHeadline": {
-    "message": "Ενημέρωση σημείωσης απορρήτου"
+    "message": "Ενημέρωση δήλωσης απορρήτου"
   },
   "popupPrivacyNoticeUpdateBody": {
     "message": "Για τη βελτίωση της αξιοπιστίας του Firefox Relay σε περίπτωση που δεν μπορεί παραδοθεί κάποιο email, θα το διατηρήσουμε προσωρινά στους διακομιστές μας έως ότου παραδοθεί. Δεν θα το κρατήσουμε ποτέ παραπάνω από τρεις ημέρες.",
     "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupPrivacyNoticeUpdateButtonLearnMore": {
-    "message": "Προβολή σημείωσης απορρήτου"
+    "message": "Προβολή δήλωσης απορρήτου"
   },
   "popupPrivacyNoticeUpdateButtonDismiss": {
     "message": "Απόρριψη"
@@ -502,13 +502,13 @@
     "message": "$REMAINING$/$MAXIMUM$ διαθέσιμες μάσκες.",
     "description": "Tells the user how many more masks they can make.",
     "placeholders": {
-      "REMAINING": {
-        "content": "$1",
-        "example": "1"
-      },
       "MAXIMUM": {
         "content": "$2",
         "example": "5"
+      },
+      "REMAINING": {
+        "content": "$1",
+        "example": "1"
       }
     }
   },
