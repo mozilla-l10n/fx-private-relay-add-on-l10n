@@ -126,6 +126,9 @@
   "popupPromoBlockingButtonTitle": {
     "message": "Liegt reklāmu e-pasta ziņojumus"
   },
+  "popupPromoBlockingButtonLearnMore": {
+    "message": "Uzzināt vairāk"
+  },
   "popupPhoneMaskingPromoCTA": {
     "message": "Jaunināt tagad"
   },
@@ -146,6 +149,9 @@
   },
   "popupDataCollectionHeadline": {
     "message": "Iespējot jaunas iespējas"
+  },
+  "popupDataCollectionButtonLearnMore": {
+    "message": "Uzzināt vairāk"
   },
   "popupDataCollectionButtonAllow": {
     "message": "Atļaut"
