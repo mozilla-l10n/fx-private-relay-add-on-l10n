@@ -163,6 +163,9 @@
     "message": "Palaist Relay",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "goBackText": {
+    "message": "Doties atpakaļ"
+  },
   "phoneForwardedCallsTexts": {
     "message": "Pārvirzītie zvani un īsziņas"
   },
