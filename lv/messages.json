@@ -81,8 +81,24 @@
     "message": "Relay papildinājums tīmekļvietnē izraisīja redzamu nepilnību",
     "description": "DO NOT TRANSLATE \"Relay\"."
   },
+  "popupReportIssueCaseThree": {
+    "message": "Es no šīs tīmekļvietnes nesaņēmu sagaidāmo e-vēstuli"
+  },
+  "popupReportIssueCaseFour": {
+    "message": "Šī tīmekļvietne nepieņēma tālruņa aizsegu"
+  },
+  "popupReportIssueCaseFive": {
+    "message": "Es no šīs tīmekļvietnes nesaņēmu sagaidāmo īsziņu vai zvanu"
+  },
+  "popupReportIssueCaseOtherDetails": {
+    "message": "Lūgums sniegt informāciju"
+  },
   "popupReportIssueSuccessHeadline": {
     "message": "Ziņojums nosūtīts."
+  },
+  "popupReportIssueSuccessBody": {
+    "message": "Paldies, ka palīdzi mums uzlabot Firefox Relay!",
+    "description": "DO NOT TRANSLATE \"Firefox Relay\"."
   },
   "popupReportIssueSuccessContinue": {
     "message": "Turpināt"
@@ -90,11 +106,28 @@
   "popupSignUpPanelWelcome": {
     "message": "Laipni lūdzam"
   },
+  "popupSignUpPanelIntro": {
+    "message": "Sāci ar pieteikšanos Relay ar savu Firefox kontu!",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\", OR \"Firefox\"."
+  },
+  "popupSignUpPanelIntro2": {
+    "message": "Sāc ar pieteikšanos Relay ar savu kontu!",
+    "description": "In the pop-up panel, before the user has signed in, we invite to them sign in. DO NOT TRANSLATE \"Relay\"sssss."
+  },
   "popupSignUpPanelContinue": {
     "message": "Turpināt"
   },
   "popupSignUpPanelSignIn": {
     "message": "Pieteikties"
+  },
+  "popupRemainingAliases_2_mask": {
+    "message": "Atlikušais aizsegu daudzums: $REMAINING$",
+    "description": "Tells the user how many more masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1"
+      }
+    }
   },
   "ManageAllAliases_mask": {
     "message": "Pārvaldīt visus aizsegus"
