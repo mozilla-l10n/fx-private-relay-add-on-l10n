@@ -129,6 +129,22 @@
       }
     }
   },
+  "popupRemainingFreeMasks": {
+    "message": "Atlikušais bezmaksas e-pasta aizsegu daudzums:  $REMAINING$",
+    "description": "Tells the user how many more free masks they can make.",
+    "placeholders": {
+      "REMAINING": {
+        "content": "$1"
+      }
+    }
+  },
+  "popupRecentlyUsedMasks": {
+    "message": "Nesen izmantotie e-pasta aizsegi",
+    "description": "Label for list of most recently used masks."
+  },
+  "popupGetUnlimitedAliases_mask": {
+    "message": "Iegūsti neierobežotu aizsegu skaitu"
+  },
   "ManageAllAliases_mask": {
     "message": "Pārvaldīt visus aizsegus"
   },
@@ -178,6 +194,9 @@
   },
   "popupEmailTrackersRemoved": {
     "message": "Noņemtie e-pasta izsekotāji"
+  },
+  "popupAttachmentSizeIncreaseHeadline": {
+    "message": "Pielikuma izmēra palielināšana"
   },
   "popupEndOfIntroPricingCTA": {
     "message": "Jaunināt tagad"
