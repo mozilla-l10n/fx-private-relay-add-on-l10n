@@ -31,6 +31,10 @@
     "message": "Atspējot datu vākšanu",
     "description": "The label on the toggle that DISABLES sending interaction data to Mozilla."
   },
+  "firstRunPrefP_mask": {
+    "message": "Mijiedarbības, piemēram, klikšķināšana uz Relay ikonas rīkjoslā vai jauna aizsega izveidošana, datu ievākšana palīdz mums uzzināt, kas darbojas labi un ko mēs varam uzlabot. To vienmēr var izslēgt iestatījumos.",
+    "description": "On the first run page after installing the add-on, we tell the user how interaction data helps Mozilla. DO NOT TRANSLATE \"Relay\"."
+  },
   "firstRunSignInButton": {
     "message": "Reģistrēties/pieteikties"
   },
@@ -89,6 +93,9 @@
   },
   "popupReportIssueCaseFive": {
     "message": "Es no šīs tīmekļvietnes nesaņēmu sagaidāmo īsziņu vai zvanu"
+  },
+  "popupReportIssueCaseOther": {
+    "message": "Cits"
   },
   "popupReportIssueCaseOtherDetails": {
     "message": "Lūgums sniegt informāciju"
@@ -194,6 +201,17 @@
   },
   "popupEmailTrackersRemoved": {
     "message": "Noņemtie e-pasta izsekotāji"
+  },
+  "popupUpgradeToPremiumBanner": {
+    "message": "Uzlabo uz Relay Premium lielākai aizsardzībai!",
+    "description": "DO NOT TRANSLATE \"Relay Premium\"."
+  },
+  "popupEducationalComponent1Headline": {
+    "message": "Visā pasaulē pieejams aizsardzības rīks"
+  },
+  "popupEducationalComponent1Body": {
+    "message": "Relay var palīdzēt aizsargāt e-pastu neatkarīgi no atrašanās vietas.",
+    "description": "DO NOT TRANSLATE \"Relay\"."
   },
   "popupAttachmentSizeIncreaseHeadline": {
     "message": "Pielikuma izmēra palielināšana"
